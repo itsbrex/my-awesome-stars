@@ -57,6 +57,7 @@
 
 ## AppleScript 
 
+- [Bide-UK/Bides-Rekordbox-AutoCuer](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer) - A tool to automate adding Hot Cue and Memory points in Rekordbox.
 - [dronir/SpotifyControl](https://github.com/dronir/SpotifyControl) - Control Spotify from the command line on macOS
 - [caleb531/play-song](https://github.com/caleb531/play-song) - An Alfred workflow for quickly and easily playing music in the Apple Music app
 - [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool Touch Bar Presets
@@ -108,6 +109,8 @@
 
 ## C# # 
 
+- [palmarci/rbBeatDetect](https://github.com/palmarci/rbBeatDetect) - Send OSC beat signals from rekordbox
+- [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
 - [alelievr/Mixture](https://github.com/alelievr/Mixture) - Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime
 - [luizen/als-tools](https://github.com/luizen/als-tools) - Ableton Live Set tools, or simply als-tools, brings easy-to-use search, listing, counting and many other capabilities over your Ableton Live Set files (*.als)
 - [frankvonwelt/AbletonProjectSearch](https://github.com/frankvonwelt/AbletonProjectSearch) - This is a command line tool to search a huge amount of Ableton live projects for a search Pattern like a sample file name or a VST Plugin without the need of opening every single project in ableton li
@@ -166,6 +169,7 @@
 
 ## CSS 
 
+- [Massu0921/kuvo-obs](https://github.com/Massu0921/kuvo-obs) - rekordbox KUVOのLive Playlist機能を用いてOBSに再生中の曲を表示．Display playing rekordbox track infomation on OBS using KUVO's Live Playlist feature.
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [theianchan/base-frictionless-demo](https://github.com/theianchan/base-frictionless-demo) - Like Segment's frictionless signup concept, but for the Base demo form.
 - [siwalikm/quick-form-css](https://github.com/siwalikm/quick-form-css) - CSS boilerplate to convert raw html form to a beautiful minimalistic web-form. http://bit.ly/QFC-demo
@@ -293,6 +297,7 @@
 
 ## Go 
 
+- [gabek/supbox](https://github.com/gabek/supbox) - Get the currently playing track from Rekordbox v6 as Audio Hijack Shoutcast/Icecast metadata, display in your OBS video broadcast or export as JSON.
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
 - [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
 - [vilmibm/gh-oblique](https://github.com/vilmibm/gh-oblique) - a gh extension that prints out an oblique strategy
@@ -1247,7 +1252,7 @@
 - [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to help use OpenAI text-completion API.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
-- [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A curated list of frontend resources from very basic to advance. Feel free to add new resources!
+- [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 - [koprab/monalisa-font](https://github.com/koprab/monalisa-font) - 
 - [sonigy/YCS](https://github.com/sonigy/YCS) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
@@ -1420,6 +1425,7 @@
 
 ## PHP 
 
+- [iammordaty/key-tools](https://github.com/iammordaty/key-tools) - :musical_note: KeyTools is a library that allows you to convert musical keys between notations. In addition, KeyTools allows you to calculate matching keys for harmonic mixing.
 - [awssat/tailwindo](https://github.com/awssat/tailwindo) - 🔌  Convert Bootstrap CSS code to Tailwind CSS code
 - [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2) - open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
 - [sbzhu/weworkapi_php](https://github.com/sbzhu/weworkapi_php) - official lib of wework api
@@ -1470,6 +1476,9 @@
 
 ## Python 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [owenstanley/rekordbox-cue-points](https://github.com/owenstanley/rekordbox-cue-points) - A python script to automate setting rekordbox cue points
+- [rogeraabbccdd/Rekordbox-NowPlaying](https://github.com/rogeraabbccdd/Rekordbox-NowPlaying) - Get rekordbox now playing master track for OBS and Discord Rich Presence.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Justintime50/github-archive](https://github.com/Justintime50/github-archive) - A powerful tool to concurrently clone, pull, or fork user and org repos and gists to create a GitHub archive.
 - [gnddev/git-blameall](https://github.com/gnddev/git-blameall) - Shows every line that was ever in the file, along with information about when it was added or deleted.
@@ -1936,7 +1945,11 @@
 
 ## TypeScript 
 
-- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework for devs. test library, 🖥️ app, runner +  batteries : all in one.
+- [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for cue points, playlists, crates, tags and a web/mobile frontend
+- [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
+- [kellertobias/kuvo-proxy](https://github.com/kellertobias/kuvo-proxy) - KUVO Simulation for Rekordbox for forwarding Live Track Information to a Rest API or File in Realtime for use in Live-Streams/OBS
+- [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
+- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework for devs. low-code + test library, 🖥️ app, runner +  batteries : all in one.
 - [nimeshnayaju/tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
@@ -2240,6 +2253,8 @@
 
 ## Vue 
 
+- [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
+- [rzuppur/rekordfix](https://github.com/rzuppur/rekordfix) - GUI tool for missing functionality to manage a Rekordbox collection
 - [jpdh9881/ableton-viewer-vue](https://github.com/jpdh9881/ableton-viewer-vue) - View clip arrangement (and project file details in JSON format) of Ableton Project files
 - [montoulieu/ableton-live-downloader](https://github.com/montoulieu/ableton-live-downloader) - 🎹 Downloads the desired 64-bit installer from any version of Ableton Live 11, 10, and 9.
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
