@@ -1498,7 +1498,7 @@
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [Pancham1603/SpotiPyDownloader](https://github.com/Pancham1603/SpotiPyDownloader) - Downloads Spotify playlist and returns zip file as Google Drive link. Supports instant individual downloads too!
-- [giovannicoppola/i-sheet-you-not](https://github.com/giovannicoppola/i-sheet-you-not) - Automagically turn Excel spreadsheets into Alfred 3 Workflows
+- [giovannicoppola/i-sheet-you-not](https://github.com/giovannicoppola/i-sheet-you-not) - Automagically turn Excel spreadsheets into Alfred Workflows
 - [googlecodelabs/analyze_gsimg](https://github.com/googlecodelabs/analyze_gsimg) - Repo for cloud image processing workflow codelab (uses Google Drive, Cloud Storage, Cloud Vision, Sheets)
 - [amitkan1995/Vision](https://github.com/amitkan1995/Vision) - A smart attendance system to monitor attendance and update it to excel sheet. A version 2.0 of Fack-Reck (https://github.com/amitkan1995/Face-Reck) with an improved UI and now support Google Sheet Upd
 - [Shyguy99/Whatsapp-bot](https://github.com/Shyguy99/Whatsapp-bot) - A simple WhatsApp Bot made using open-wa library with some additional features.
