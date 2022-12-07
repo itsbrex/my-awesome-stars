@@ -1253,7 +1253,7 @@
 - [fregante/webext-fun](https://github.com/fregante/webext-fun) - WebExtension packages for every need
 - [BlkPingu/bartender-search](https://github.com/BlkPingu/bartender-search) - 
 - [evertschone/live_clip_search](https://github.com/evertschone/live_clip_search) - A tool that allows you to search for and play clips in Ableton Live by name.
-- [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to help use OpenAI text-completion API.
+- [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API from anywhere
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
@@ -1820,7 +1820,6 @@
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [mdminhazulhaque/foreach](https://github.com/mdminhazulhaque/foreach) - :repeat: Read lines from file/stdin and execute them as CLI argument
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [fire1ce/BrewUp](https://github.com/fire1ce/BrewUp) - BrewUp - macOS Auto Update Homebrew
@@ -1950,6 +1949,7 @@
 
 ## TypeScript 
 
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for cue points, playlists, crates, tags and a web/mobile frontend
 - [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
@@ -2036,6 +2036,7 @@
 - [theKashey/react-remove-scroll-bar](https://github.com/theKashey/react-remove-scroll-bar) - Remove document scroll bar. Nothing more
 - [huv1k/nextjs-auth-prisma](https://github.com/huv1k/nextjs-auth-prisma) - Full-stack boilerplate template.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [TristanWYL/redwood-realworld-example-app](https://github.com/TristanWYL/redwood-realworld-example-app) - redwood for realworld
 - [reck1ess/next-realworld-example-app](https://github.com/reck1ess/next-realworld-example-app) - Exemplary real world application built with Next.js + SWR
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
