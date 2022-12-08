@@ -480,6 +480,7 @@
 
 ## JavaScript 
 
+- [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [LeMansHack/AbletonAPI](https://github.com/LeMansHack/AbletonAPI) - NodeJS API for Ableton Live using Max4Node
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
 - [xavi-/node-copy-paste](https://github.com/xavi-/node-copy-paste) - A command line utility that allows read/write (i.e copy/paste) access to the system clipboard.
@@ -662,6 +663,7 @@
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder based on Next.js 🅧, Tailwind CSS 🍃 & Grapes.js 🍇. Zero-config deployment to Vercel 🚀. Now also supports React!
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [VLabStudio/Tutorials](https://github.com/VLabStudio/Tutorials) - All of the smaller projects I have done in tutorials / project files
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [web3templates/nextly-template](https://github.com/web3templates/nextly-template) - Nextly Landing Page Template built with Next.js & TailwindCSS
 - [sarmadgardezi/Google-Spreadsheet-Formulas](https://github.com/sarmadgardezi/Google-Spreadsheet-Formulas) - How to add formulas to Google Spreadsheet using Google Apps Script - Sarmad Gardezi
@@ -1949,6 +1951,12 @@
 
 ## TypeScript 
 
+- [HaaLeo/publish-vscode-extension](https://github.com/HaaLeo/publish-vscode-extension) - GitHub action to publish your VS Code Extension to the Open VSX Registry or Visual Studio Marketplace.
+- [whomwah/alfred-vscode-workflow](https://github.com/whomwah/alfred-vscode-workflow) - Searches for `.git` repos in a path of your choice and allows you to open them in VSCode.
+- [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
+- [frencojobs/vscode-notion](https://github.com/frencojobs/vscode-notion) - Browse Notion pages right inside Visual Studio Code.
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
+- [itsjoetree/plant-db](https://github.com/itsjoetree/plant-db) - database application to store information about plants
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for cue points, playlists, crates, tags and a web/mobile frontend
@@ -2085,7 +2093,6 @@
 - [legitbeep/nextchakra-starter](https://github.com/legitbeep/nextchakra-starter) - ⚡Next js template filled with linting, typescript, seo, chakra-ui and optional pwa.
 - [svenpetermanec/pwa-frontend](https://github.com/svenpetermanec/pwa-frontend) - A social media service for sharing and messaging, built with React, Redux, TypeScript, Chakra UI and Socket.IO
 - [Lukazovic/nextjs-with-chakra-ui-boilerplate](https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate) - Next.js with Chakra UI boilerplate. PWA ready with storybook and tests configured.
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
 - [agcty/nextjs-advanced-starter](https://github.com/agcty/nextjs-advanced-starter) - Use Tailwind CSS, ESLint, Prettier & absolute imports instantly. Easily extendable zero-config template for pros and beginners.
 - [rocketseat-education/ignite-reactjs-auth-backend](https://github.com/rocketseat-education/ignite-reactjs-auth-backend) - 
@@ -2107,7 +2114,7 @@
 - [amartinm7/next-movies-app](https://github.com/amartinm7/next-movies-app) - nextjs movies app with nextui components
 - [dragonman225/notablog](https://github.com/dragonman225/notablog) - Tell stories of your work with Notion
 - [vickOnRails/next-starter-peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs starter for software engineers and designers to show work they're so proud of
-- [usagizmo/nextjs-template](https://github.com/usagizmo/nextjs-template) - Next.js (TS) x Tailwind CSS x Turbo (pnpm) x Nhost
+- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - Next.js (TS) x Tailwind CSS x Turbo (pnpm) x Nhost
 - [jellydn/next-app-starter](https://github.com/jellydn/next-app-starter) - Another awesome starter for your app base on nextjs + tailwind + react-query + react-hook-form + next-auth +  jotai
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
