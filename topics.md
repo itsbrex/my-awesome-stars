@@ -771,7 +771,7 @@
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
 - [Lukazovic/nextjs-with-chakra-ui-boilerplate](https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate) - Next.js with Chakra UI boilerplate. PWA ready with storybook and tests configured.
-- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - Next.js (TS) x Tailwind CSS x Turbo (pnpm) x Nhost
+- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit (TS) x Tailwind CSS x Nhost x Turborepo (pnpm)
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter packed with useful development features
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -994,7 +994,7 @@
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - Provide the daily.dev feed and engagement layer
 - [huv1k/nextjs-auth-prisma](https://github.com/huv1k/nextjs-auth-prisma) - Full-stack boilerplate template.
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
-- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - Next.js (TS) x Tailwind CSS x Turbo (pnpm) x Nhost
+- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit (TS) x Tailwind CSS x Nhost x Turborepo (pnpm)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
@@ -1014,6 +1014,7 @@
 
 ## hacktoberfest 
 
+- [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
@@ -1190,6 +1191,7 @@
 
 ## javascript 
 
+- [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework for devs. low-code + test library, 🖥️ app, runner +  batteries : all in one.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
@@ -1712,7 +1714,6 @@
 - [mggzmn/next_course_static](https://github.com/mggzmn/next_course_static) - ✨Nextjs ✨Course ✨Pokemon ✨Static Generated App ✨Typescript ✨NextUI✨Axios
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [vickOnRails/next-starter-peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs starter for software engineers and designers to show work they're so proud of
-- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - Next.js (TS) x Tailwind CSS x Turbo (pnpm) x Nhost
 - [okisdev/Notion-Blog-React](https://github.com/okisdev/Notion-Blog-React) - Blog powered by Notion, built with React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
@@ -1917,6 +1918,8 @@
 
 ## others 
 
+- [LAION-AI/dalle2-laion](https://github.com/LAION-AI/dalle2-laion) - Pretrained Dalle2 from laion
+- [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [frencojobs/vscode-notion](https://github.com/frencojobs/vscode-notion) - Browse Notion pages right inside Visual Studio Code.
 - [itsjoetree/plant-db](https://github.com/itsjoetree/plant-db) - database application to store information about plants
 - [LeMansHack/AbletonAPI](https://github.com/LeMansHack/AbletonAPI) - NodeJS API for Ableton Live using Max4Node
@@ -3388,7 +3391,6 @@
 - [ibrahimhozhun/prisma-nextjs](https://github.com/ibrahimhozhun/prisma-nextjs) - Website created with Next.js, NextUI library & Prisma ORM
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [vickOnRails/next-starter-peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs starter for software engineers and designers to show work they're so proud of
-- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - Next.js (TS) x Tailwind CSS x Turbo (pnpm) x Nhost
 - [jellydn/next-app-starter](https://github.com/jellydn/next-app-starter) - Another awesome starter for your app base on nextjs + tailwind + react-query + react-hook-form + next-auth +  jotai
 - [okisdev/Notion-Blog-React](https://github.com/okisdev/Notion-Blog-React) - Blog powered by Notion, built with React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
@@ -3683,7 +3685,7 @@
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [Lukazovic/nextjs-with-chakra-ui-boilerplate](https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate) - Next.js with Chakra UI boilerplate. PWA ready with storybook and tests configured.
-- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - Next.js (TS) x Tailwind CSS x Turbo (pnpm) x Nhost
+- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit (TS) x Tailwind CSS x Nhost x Turborepo (pnpm)
 - [jellydn/next-app-starter](https://github.com/jellydn/next-app-starter) - Another awesome starter for your app base on nextjs + tailwind + react-query + react-hook-form + next-auth +  jotai
 - [storybook-eol/react-cdk](https://github.com/storybook-eol/react-cdk) - under development - React Component Development Kit with Storybook
 
@@ -3781,6 +3783,8 @@
 
 ## typescript 
 
+- [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
+- [skovy/font-awesome-codemod](https://github.com/skovy/font-awesome-codemod) - ⚙️ Font Awesome codemod script
 - [whomwah/alfred-vscode-workflow](https://github.com/whomwah/alfred-vscode-workflow) - Searches for `.git` repos in a path of your choice and allows you to open them in VSCode.
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
@@ -3846,7 +3850,7 @@
 - [sabbir360/react-nextjs-nextui-typescript-skeleton](https://github.com/sabbir360/react-nextjs-nextui-typescript-skeleton) - React js is among the popular framework using for a long time. And NextJS and Typescript making it more proud. Recently Varcel released a new UI framework named ReactUI [WIP]. This repo combined them 
 - [alanmaranto/nextjs-pokeapi-typescript-nextUI](https://github.com/alanmaranto/nextjs-pokeapi-typescript-nextUI) - 
 - [mggzmn/next_course_static](https://github.com/mggzmn/next_course_static) - ✨Nextjs ✨Course ✨Pokemon ✨Static Generated App ✨Typescript ✨NextUI✨Axios
-- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - Next.js (TS) x Tailwind CSS x Turbo (pnpm) x Nhost
+- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit (TS) x Tailwind CSS x Nhost x Turborepo (pnpm)
 - [okisdev/Notion-Blog-React](https://github.com/okisdev/Notion-Blog-React) - Blog powered by Notion, built with React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
 - [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin
