@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - 
 - [gabek/supbox](https://github.com/gabek/supbox) - Get the currently playing track from Rekordbox v6 as Audio Hijack Shoutcast/Icecast metadata, display in your OBS video broadcast or export as JSON.
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
 - [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
@@ -480,6 +481,11 @@
 
 ## JavaScript 
 
+- [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
+- [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
+- [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [LeMansHack/AbletonAPI](https://github.com/LeMansHack/AbletonAPI) - NodeJS API for Ableton Live using Max4Node
@@ -1483,6 +1489,8 @@
 
 ## Python 
 
+- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
+- [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [LAION-AI/dalle2-laion](https://github.com/LAION-AI/dalle2-laion) - Pretrained Dalle2 from laion
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [mido/mido](https://github.com/mido/mido) - MIDI Objects for Python
@@ -1954,6 +1962,11 @@
 
 ## TypeScript 
 
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
+- [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
+- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.2 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [skovy/font-awesome-codemod](https://github.com/skovy/font-awesome-codemod) - ⚙️ Font Awesome codemod script
 - [HaaLeo/publish-vscode-extension](https://github.com/HaaLeo/publish-vscode-extension) - GitHub action to publish your VS Code Extension to the Open VSX Registry or Visual Studio Marketplace.
@@ -1989,7 +2002,7 @@
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [google/link-diver](https://github.com/google/link-diver) - A feature-rich chrome extension that extracts all of the links on a page. Filter links by a regex, highlight them on the original page, and more!
 - [chriswinch/ableton-to-json](https://github.com/chriswinch/ableton-to-json) - Convert Ableton ALS file to json and back again
-- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - A framework to create the look of your emails. 🚀✉️
+- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax 📜
 - [sillsdev/docu-notion](https://github.com/sillsdev/docu-notion) - Download Notion pages as markdown and image files, preserving hierarchy and enabling workflow properties. Works with Docusaurus.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
