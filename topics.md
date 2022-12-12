@@ -1926,6 +1926,10 @@
 
 ## others 
 
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+- [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
+- [jordwalke/paradoc](https://github.com/jordwalke/paradoc) - One Click Docs
+- [Christopher-Hayes/browser-complete](https://github.com/Christopher-Hayes/browser-complete) - GPT-3 Firefox and Chrome browser extension. Ctrl+Shift+L keybinding to auto-complete.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
