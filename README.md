@@ -1988,7 +1988,7 @@
 - [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
 - [kellertobias/kuvo-proxy](https://github.com/kellertobias/kuvo-proxy) - KUVO Simulation for Rekordbox for forwarding Live Track Information to a Rest API or File in Realtime for use in Live-Streams/OBS
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
-- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework for devs. low-code + test library, 🖥️ app, runner +  batteries : all in one.
+- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework --- w low-code + test library, 🖥️ app, runner +  batteries : all-in-one
 - [nimeshnayaju/tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
@@ -2169,7 +2169,7 @@
 - [williamluke4/Nitro](https://github.com/williamluke4/Nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
-- [eggheadio/egghead-next](https://github.com/eggheadio/egghead-next) - The frontend for egghead.io.
+- [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
