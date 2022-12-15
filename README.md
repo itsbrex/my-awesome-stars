@@ -95,7 +95,7 @@
 - [PhoenicisOrg/winecx](https://github.com/PhoenicisOrg/winecx) - Codeweavers modified wine version. This repository is just a mirror of https://media.codeweavers.com/pub/crossover/source/
 - [trifox/Spack-O-Mat-FFGL-Plugins](https://github.com/trifox/Spack-O-Mat-FFGL-Plugins) - Spack-O-Mat FFGL Plugin Collection for Resolume 6.0
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
-- [master131/BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
+- [master131/BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify. This project has been superceded by SpotX: https://github.com/SpotX-CLI/SpotX-Win
 - [Deep-Symmetry/carabiner](https://github.com/Deep-Symmetry/carabiner) - A loose connector for interacting with Ableton Link
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [lov/QLVJ](https://github.com/lov/QLVJ) - Quicklook plugin for generating thumbnails via Quicktime
@@ -481,6 +481,7 @@
 
 ## JavaScript 
 
+- [itsbrex/Copy-ChatGPT-Session-Token](https://github.com/itsbrex/Copy-ChatGPT-Session-Token) - Chrome extension to easily copy your ChatGPT Session Token to the clipboard with one click.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [jordwalke/paradoc](https://github.com/jordwalke/paradoc) - One Click Docs
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -1441,6 +1442,7 @@
 
 ## PHP 
 
+- [alexwhin/huntr.in](https://github.com/alexwhin/huntr.in) - Product hunt reviews widget. Enables product hunt makers to embed a dynamic reviews widget into their application/website https://www.producthunt.com/posts/product-hunt-reviews-widget
 - [iammordaty/key-tools](https://github.com/iammordaty/key-tools) - :musical_note: KeyTools is a library that allows you to convert musical keys between notations. In addition, KeyTools allows you to calculate matching keys for harmonic mixing.
 - [awssat/tailwindo](https://github.com/awssat/tailwindo) - 🔌  Convert Bootstrap CSS code to Tailwind CSS code
 - [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2) - open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
@@ -1967,6 +1969,7 @@
 
 ## TypeScript 
 
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [Christopher-Hayes/browser-complete](https://github.com/Christopher-Hayes/browser-complete) - GPT-3 Firefox and Chrome browser extension. Ctrl+Shift+L keybinding to auto-complete.
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
@@ -1995,7 +1998,7 @@
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
-- [chris-trapstar/nextui-dashboard](https://github.com/chris-trapstar/nextui-dashboard) - Dashboard sample using NextUI and NextJS
+- [sergioquinterodev/nextui-dashboard](https://github.com/sergioquinterodev/nextui-dashboard) - Dashboard sample using NextUI and NextJS
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [whomwah/alfred-github-workflow](https://github.com/whomwah/alfred-github-workflow) - An Alfred 5 workflow for working with Github. Uses Deno, written in TypeScript
 - [mem-labs/mem-node](https://github.com/mem-labs/mem-node) - Official Node.js client for the Mem API
