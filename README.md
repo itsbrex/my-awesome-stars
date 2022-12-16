@@ -1846,7 +1846,7 @@
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [openmediaco/lalalai](https://github.com/openmediaco/lalalai) - 
 - [thiskevinwang/dotfiles](https://github.com/thiskevinwang/dotfiles) - Sync all Dotfiles, Brew Binaries, Mac Apps, VSCode extensions with 1 command.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [lukdiekm/alfred-shortcuts](https://github.com/lukdiekm/alfred-shortcuts) - 
@@ -1969,6 +1969,7 @@
 
 ## TypeScript 
 
+- [domnantas/raycast-chatgpt](https://github.com/domnantas/raycast-chatgpt) - 
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [Christopher-Hayes/browser-complete](https://github.com/Christopher-Hayes/browser-complete) - GPT-3 Firefox and Chrome browser extension. Ctrl+Shift+L keybinding to auto-complete.
