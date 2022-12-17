@@ -481,7 +481,8 @@
 
 ## JavaScript 
 
-- [itsbrex/Copy-ChatGPT-Session-Token](https://github.com/itsbrex/Copy-ChatGPT-Session-Token) - Chrome extension to easily copy your ChatGPT Session Token to the clipboard with one click.
+- [j471n/next-hulu](https://github.com/j471n/next-hulu) - It is the clone of Hulu. It uses the REST API to fetch the data it just looks the same as Hulu the data contained in this application might be different from the original one.
+- [itsbrex/ChatGPT-Cookies-Plus](https://github.com/itsbrex/ChatGPT-Cookies-Plus) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [jordwalke/paradoc](https://github.com/jordwalke/paradoc) - One Click Docs
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -1388,7 +1389,7 @@
 - [rydama/mailchimp-templates](https://github.com/rydama/mailchimp-templates) - 
 - [thyb/contentify](https://github.com/thyb/contentify) - The easiest way to manage your online content
 - [megous/megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
-- [laconalabs/LaconaApp](https://github.com/laconalabs/LaconaApp) - [no longer used]
+- [brandonhorst/LaconaApp](https://github.com/brandonhorst/LaconaApp) - [no longer used]
 - [bclubb/iTunesScripts](https://github.com/bclubb/iTunesScripts) - applescripts that I use to maintain my itunes playlists
 - [zerolocker/DirectorifyItunesPlaylist](https://github.com/zerolocker/DirectorifyItunesPlaylist) - It makes it easier to manage your music in iTunes----it generates iTunes playlists according to the name of the directory where your music is located.  It's written in java.
 - [planetjekyll/awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
@@ -1969,6 +1970,7 @@
 
 ## TypeScript 
 
+- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT
 - [domnantas/raycast-chatgpt](https://github.com/domnantas/raycast-chatgpt) - 
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
