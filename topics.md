@@ -411,6 +411,7 @@
 
 ## bot 
 
+- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [Shyguy99/Whatsapp-bot](https://github.com/Shyguy99/Whatsapp-bot) - A simple WhatsApp Bot made using open-wa library with some additional features.
@@ -450,7 +451,7 @@
 
 ## chrome-extension 
 
-- [itsbrex/Copy-ChatGPT-Session-Token](https://github.com/itsbrex/Copy-ChatGPT-Session-Token) - Chrome extension to easily copy your ChatGPT Session Token to the clipboard with one click.
+- [itsbrex/ChatGPT-Cookies-Plus](https://github.com/itsbrex/ChatGPT-Cookies-Plus) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
 - [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
@@ -699,6 +700,7 @@
 
 ## discord 
 
+- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT
 - [rogeraabbccdd/Rekordbox-NowPlaying](https://github.com/rogeraabbccdd/Rekordbox-NowPlaying) - Get rekordbox now playing master track for OBS and Discord Rich Presence.
 - [jareer12/Discord-Bot-Dashboard](https://github.com/jareer12/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
@@ -1658,6 +1660,7 @@
 
 ## nextjs 
 
+- [j471n/next-hulu](https://github.com/j471n/next-hulu) - It is the clone of Hulu. It uses the REST API to fetch the data it just looks the same as Hulu the data contained in this application might be different from the original one.
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.2 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
@@ -2871,7 +2874,7 @@
 - [ericdaugherty/itunesexport-go](https://github.com/ericdaugherty/itunesexport-go) - A Console iTunes Library exporter written in Go (golang)
 - [mheap/iTunes-Library-Parser](https://github.com/mheap/iTunes-Library-Parser) - Class to parse iTunes Library XML Files
 - [thecadams/iTunesMaintenance](https://github.com/thecadams/iTunesMaintenance) - iTunes maintenance utility. Versions available for Windows (iTunes COM) and Mac (MacRuby/ScriptingBridge).
-- [laconalabs/LaconaApp](https://github.com/laconalabs/LaconaApp) - [no longer used]
+- [brandonhorst/LaconaApp](https://github.com/brandonhorst/LaconaApp) - [no longer used]
 - [BonzaiThePenguin/Loading](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS
 - [kornelski/itunesfixer](https://github.com/kornelski/itunesfixer) - Automatically exported from code.google.com/p/itunesfixer
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
@@ -3524,6 +3527,7 @@
 
 ## reactjs 
 
+- [j471n/next-hulu](https://github.com/j471n/next-hulu) - It is the clone of Hulu. It uses the REST API to fetch the data it just looks the same as Hulu the data contained in this application might be different from the original one.
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework --- w low-code + test library, 🖥️ app, runner +  batteries : all-in-one
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [alyssaxuu/producthunt-preview](https://github.com/alyssaxuu/producthunt-preview) - ProductHunt product previewer 💅
@@ -3575,6 +3579,7 @@
 
 ## rest-api 
 
+- [j471n/next-hulu](https://github.com/j471n/next-hulu) - It is the clone of Hulu. It uses the REST API to fetch the data it just looks the same as Hulu the data contained in this application might be different from the original one.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
