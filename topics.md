@@ -43,6 +43,7 @@
 - [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
 - [css](#css)
+- [dart](#dart)
 - [data](#data)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -197,6 +198,8 @@
 
 ## ai 
 
+- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation
+- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API from anywhere
 - [shorwood/gptsh](https://github.com/shorwood/gptsh) - GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
@@ -276,6 +279,7 @@
 
 ## automation 
 
+- [transitive-bullshit/puppeteer-email](https://github.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [iammordaty/key-tools](https://github.com/iammordaty/key-tools) - :musical_note: KeyTools is a library that allows you to convert musical keys between notations. In addition, KeyTools allows you to calculate matching keys for harmonic mixing.
 - [msaaddev/create-foss-files](https://github.com/msaaddev/create-foss-files) - ⌛️ Get all the files you need for an open-source project using `npx create-foss-files`
@@ -377,6 +381,7 @@
 
 ## bash 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [mdminhazulhaque/foreach](https://github.com/mdminhazulhaque/foreach) - :repeat: Read lines from file/stdin and execute them as CLI argument
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -461,6 +466,7 @@
 
 ## chrome-extension 
 
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
@@ -504,6 +510,8 @@
 
 ## cli 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [AltriusRS/Shumai](https://github.com/AltriusRS/Shumai) - A delicious new outlook on command line argument handling.
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
@@ -653,6 +661,10 @@
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
+## dart 
+
+- [vishalxl/nostr_console](https://github.com/vishalxl/nostr_console) - Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
+
 ## data 
 
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 A modern replacement for Airflow.
@@ -742,6 +754,7 @@
 
 ## documentation 
 
+- [William-McGonagle/bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [sillsdev/docu-notion](https://github.com/sillsdev/docu-notion) - Download Notion pages as markdown and image files, preserving hierarchy and enabling workflow properties. Works with Docusaurus.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -791,6 +804,7 @@
 
 ## eslint 
 
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.2 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
@@ -1188,6 +1202,7 @@
 
 ## http 
 
+- [ariesclark/oily.js](https://github.com/ariesclark/oily.js) - A blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience!
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 
 ## image-processing 
@@ -1227,6 +1242,7 @@
 
 ## javascript 
 
+- [William-McGonagle/bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework --- w low-code + test library, 🖥️ app, runner +  batteries : all-in-one
@@ -1625,6 +1641,8 @@
 
 ## music 
 
+- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation
+- [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for cue points, playlists, crates, tags and a web/mobile frontend
 - [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen) - The git repository of the advanced drum machine
@@ -1685,6 +1703,8 @@
 
 ## nextjs 
 
+- [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Chrome developer tool for time travel debugging and performance monitoring in React applications.
+- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation
 - [jkytoela/next-startd](https://github.com/jkytoela/next-startd) - ⚡ Free Next.js landing page template for SaaS products, online services and more.
 - [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
 - [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
@@ -1965,6 +1985,22 @@
 
 ## others 
 
+- [opstrace/next-product-docs](https://github.com/opstrace/next-product-docs) - Next.js component to fetch and render /docs from a different repository
+- [crapthings/awesome-mockup-tools](https://github.com/crapthings/awesome-mockup-tools) - something useful for your ui prototyping
+- [Jarred-Sumner/bun-livereload](https://github.com/Jarred-Sumner/bun-livereload) - Wrap a function with bun-livereload to automatically reload any imports inside the function the next time it is called
+- [jacob-ebey/remix-bun-testing](https://github.com/jacob-ebey/remix-bun-testing) - 
+- [Glatek/bun-appetit](https://github.com/Glatek/bun-appetit) - Universal web applications with Bun.
+- [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
+- [Jarred-Sumner/bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Attempting to get bun to run on AWS Lambda
+- [fregante/chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) - CLI tool to upload Chrome Extensions to the Chrome Web Store
+- [dynaboard/dynaboard--getting-started](https://github.com/dynaboard/dynaboard--getting-started) - Source for the getting started template in all new users' personal workspaces.
+- [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
+- [dynaboard/template](https://github.com/dynaboard/template) - 🚀 A starting point for creating your own custom Dynaboard template
+- [oven-sh/zig](https://github.com/oven-sh/zig) - The version of Zig used by Bun. Not a fork! Just a slightly older version.
+- [sivanarayanav/ChordsGenerator](https://github.com/sivanarayanav/ChordsGenerator) - Generates Musical Chord & Its inversions
+- [BeatRossmy/PunishableAI](https://github.com/BeatRossmy/PunishableAI) - 
+- [BeatRossmy/CreativeCoding](https://github.com/BeatRossmy/CreativeCoding) - 
+- [BeatRossmy/MidiBrainModule](https://github.com/BeatRossmy/MidiBrainModule) - 
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [crapthings/hardhat-parcel-dapp-starter](https://github.com/crapthings/hardhat-parcel-dapp-starter) - 
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
@@ -3394,6 +3430,7 @@
 
 ## react 
 
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [crapthings/hardhat-dapp-starter](https://github.com/crapthings/hardhat-dapp-starter) - a dapp starter kit with modern workflow.
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [wx-chevalier/m-fe-boilerplates](https://github.com/wx-chevalier/m-fe-boilerplates) - Lucid & Futuristic Production Boilerplates For Frontend(Web) Apps, React/RN/Vue, with TypeScript(Optional), Webpack 4/Parcel, MobX/Redux :dizzy: 多技术栈前端项目模板
@@ -3571,6 +3608,7 @@
 
 ## reactjs 
 
+- [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Chrome developer tool for time travel debugging and performance monitoring in React applications.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
 - [j471n/next-hulu](https://github.com/j471n/next-hulu) - It is the clone of Hulu. It uses the REST API to fetch the data it just looks the same as Hulu the data contained in this application might be different from the original one.
@@ -3653,6 +3691,7 @@
 
 ## rust 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -3709,6 +3748,7 @@
 
 ## shell 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -3768,6 +3808,7 @@
 
 ## storybook 
 
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [optimista/futo](https://github.com/optimista/futo) - Collection of boilerplate generator scripts which generate a social platform web app that integrates Vercel, Next.js, Material-UI, Storybook (Chromatic), Google Firebase, firebase-admin with Cypress i
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ⚡️ Chakra UI,  ⚛️  React Query & 🐜  Formiz — From the 🐻  BearStudio Team
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
@@ -3836,6 +3877,8 @@
 
 ## terminal 
 
+- [vishalxl/nostr_console](https://github.com/vishalxl/nostr_console) - Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -3872,6 +3915,8 @@
 
 ## typescript 
 
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
+- [William-McGonagle/bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
@@ -4087,6 +4132,7 @@
 
 ## webpack 
 
+- [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [wx-chevalier/m-fe-boilerplates](https://github.com/wx-chevalier/m-fe-boilerplates) - Lucid & Futuristic Production Boilerplates For Frontend(Web) Apps, React/RN/Vue, with TypeScript(Optional), Webpack 4/Parcel, MobX/Redux :dizzy: 多技术栈前端项目模板
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [yamadashy/google-sheets-tabs-on-top](https://github.com/yamadashy/google-sheets-tabs-on-top) - Chrome extension. Move Google Sheets tabs on top.
@@ -4099,6 +4145,7 @@
 
 ## website 
 
+- [William-McGonagle/bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [alyssaxuu/producthunt-preview](https://github.com/alyssaxuu/producthunt-preview) - ProductHunt product previewer 💅
 - [hanford/next-offline](https://github.com/hanford/next-offline) - make your Next.js application work offline using service workers via Google's workbox
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
