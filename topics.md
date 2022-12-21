@@ -198,6 +198,7 @@
 
 ## ai 
 
+- [riffusion/riffusion-inference](https://github.com/riffusion/riffusion-inference) - Stable diffusion for real-time music generation
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
@@ -611,6 +612,7 @@
 
 ## css 
 
+- [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
@@ -1641,6 +1643,7 @@
 
 ## music 
 
+- [riffusion/riffusion-inference](https://github.com/riffusion/riffusion-inference) - Stable diffusion for real-time music generation
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
@@ -1985,6 +1988,8 @@
 
 ## others 
 
+- [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
+- [stanford-crfm/pubmedgpt](https://github.com/stanford-crfm/pubmedgpt) - 
 - [opstrace/next-product-docs](https://github.com/opstrace/next-product-docs) - Next.js component to fetch and render /docs from a different repository
 - [crapthings/awesome-mockup-tools](https://github.com/crapthings/awesome-mockup-tools) - something useful for your ui prototyping
 - [Jarred-Sumner/bun-livereload](https://github.com/Jarred-Sumner/bun-livereload) - Wrap a function with bun-livereload to automatically reload any imports inside the function the next time it is called
@@ -3430,6 +3435,7 @@
 
 ## react 
 
+- [msaaddev/new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - 💥 One stop shop for eliminating the grunt work of setting up a Tailwind Web App across multiple frameworks. Just type in `npx new-tailwind-app` in your terminal and set up everything instantly.
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [crapthings/hardhat-dapp-starter](https://github.com/crapthings/hardhat-dapp-starter) - a dapp starter kit with modern workflow.
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
