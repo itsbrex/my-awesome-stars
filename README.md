@@ -76,6 +76,7 @@
 
 ## Astro 
 
+- [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 
 ## Batchfile 
@@ -302,6 +303,7 @@
 
 ## Go 
 
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - 
 - [gabek/supbox](https://github.com/gabek/supbox) - Get the currently playing track from Rekordbox v6 as Audio Hijack Shoutcast/Icecast metadata, display in your OBS video broadcast or export as JSON.
@@ -488,6 +490,8 @@
 
 ## JavaScript 
 
+- [all-contributors/app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
+- [rossmoody/ts-extension-starter](https://github.com/rossmoody/ts-extension-starter) - A bare bones starter repo for building Chrome v3 manifest extensions using Typescript, React, and Rollup.
 - [msaaddev/new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - 💥 One stop shop for eliminating the grunt work of setting up a Tailwind Web App across multiple frameworks. Just type in `npx new-tailwind-app` in your terminal and set up everything instantly.
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [opstrace/next-product-docs](https://github.com/opstrace/next-product-docs) - Next.js component to fetch and render /docs from a different repository
@@ -1869,6 +1873,8 @@
 
 ## Shell 
 
+- [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
+- [Xeoncross/macappshell](https://github.com/Xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
 - [tjluoma/di](https://github.com/tjluoma/di) - [D]ownload and [I]nstall Mac apps
 - [mshick/flac-to-alac](https://github.com/mshick/flac-to-alac) - A simple bash script to losslessly convert a folder of FLAC files to ALAC files.
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
@@ -1959,6 +1965,7 @@
 
 ## Swift 
 
+- [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
 - [andrewcb/plink](https://github.com/andrewcb/plink) - An AudioUnit-based music programming environment for macOS
@@ -2015,6 +2022,8 @@
 
 ## TypeScript 
 
+- [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
+- [abhijithvijayan/wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webextension Manifest Generator that you specify `manifest.json` properties to appear only in specific browsers and environment
 - [saasify-sh/puppeteer-serverless](https://github.com/saasify-sh/puppeteer-serverless) - Puppeteer for both serverless functions and development.
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Chrome developer tool for time travel debugging and performance monitoring in React applications.
@@ -2040,7 +2049,7 @@
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [Christopher-Hayes/browser-complete](https://github.com/Christopher-Hayes/browser-complete) - GPT-3 Firefox and Chrome browser extension. Ctrl+Shift+L keybinding to auto-complete.
-- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.2 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
@@ -2132,7 +2141,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu) - :rainbow: An animated and accessible command menu
-- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ⚡️ Chakra UI,  ⚛️  React Query & 🐜  Formiz — From the 🐻  BearStudio Team
+- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - Provide the daily.dev feed and engagement layer
 - [bkper/clasp-types](https://github.com/bkper/clasp-types) - A d.ts generator for clasp projects
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
