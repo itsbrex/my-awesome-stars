@@ -388,6 +388,7 @@
 
 ## babel 
 
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [argyleink/shortstack](https://github.com/argyleink/shortstack) - 🥞 minimal Rollup + PostCSS modern syntax starter template
@@ -1562,6 +1563,7 @@
 
 ## macos 
 
+- [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ Keyboard-driven commands to navigate your apps faster
 - [godly-devotion/mochi-diffusion](https://github.com/godly-devotion/mochi-diffusion) - Run Stable Diffusion on Apple Silicon Macs natively
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [iffy/electron-updater-example](https://github.com/iffy/electron-updater-example) - A complete example showing how to use `electron-updater`
@@ -1764,6 +1766,7 @@
 
 ## nextjs 
 
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Chrome developer tool for time travel debugging and performance monitoring in React applications.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
@@ -2053,6 +2056,8 @@
 
 ## others 
 
+- [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
+- [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
 - [google/google-api-javascript-client](https://github.com/google/google-api-javascript-client) - Google APIs Client Library for browser JavaScript, aka gapi.
 - [yudax42/askai](https://github.com/yudax42/askai) - Command Line Interface for OpenAi ChatGPT
 - [Mybridge/reactjs-open-source](https://github.com/Mybridge/reactjs-open-source) - Monthly Series - React.js Top 10 Open Source Projects
@@ -3514,6 +3519,7 @@
 
 ## react 
 
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
@@ -3740,6 +3746,7 @@
 
 ## redux 
 
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [wx-chevalier/m-fe-boilerplates](https://github.com/wx-chevalier/m-fe-boilerplates) - Lucid & Futuristic Production Boilerplates For Frontend(Web) Apps, React/RN/Vue, with TypeScript(Optional), Webpack 4/Parcel, MobX/Redux :dizzy: 多技术栈前端项目模板
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code the v2 Flexpool.io Website
 - [cornflourblue/react-18-redux-jwt-authentication-example](https://github.com/cornflourblue/react-18-redux-jwt-authentication-example) - React 18 + Redux - JWT Authentication Example & Tutorial
@@ -3801,6 +3808,7 @@
 
 ## sass 
 
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [vadimghedreutan/whatsapp-ChatBot-app](https://github.com/vadimghedreutan/whatsapp-ChatBot-app) - NextJS, Sass, Firebase, Firebase-auth
 - [colbyfayock/next-sass-starter](https://github.com/colbyfayock/next-sass-starter) - Use Sass to start your Next.js app with CSS superpowers!
@@ -3903,6 +3911,7 @@
 
 ## storybook 
 
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [optimista/futo](https://github.com/optimista/futo) - Collection of boilerplate generator scripts which generate a social platform web app that integrates Vercel, Next.js, Material-UI, Storybook (Chromatic), Google Firebase, firebase-admin with Cypress i
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
@@ -4011,6 +4020,7 @@
 
 ## typescript 
 
+- [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [DanielTerletzkiy/chat-gtp-assistant](https://github.com/DanielTerletzkiy/chat-gtp-assistant) - nodejs script that enables continuous conversation with voice recognition and tts speaker responses
 - [frederickk/chatgpt-figma-plugin](https://github.com/frederickk/chatgpt-figma-plugin) - Experimental Chat GPT plugin for Figma
 - [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - Experimental:  Artifact (generation|automation|x) tool and a general purpose (low|no|x) (code|x) (generator|automator|xmator) 🐪.
