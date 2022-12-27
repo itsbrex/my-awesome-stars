@@ -1566,7 +1566,7 @@
 ## macos 
 
 - [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ Keyboard-driven commands to navigate your apps faster
-- [godly-devotion/mochi-diffusion](https://github.com/godly-devotion/mochi-diffusion) - Run Stable Diffusion on Apple Silicon Macs natively
+- [godly-devotion/mochi-diffusion](https://github.com/godly-devotion/mochi-diffusion) - Run Stable Diffusion with Core ML on Apple Silicon Macs natively
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [iffy/electron-updater-example](https://github.com/iffy/electron-updater-example) - A complete example showing how to use `electron-updater`
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
@@ -2058,6 +2058,7 @@
 
 ## others 
 
+- [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - Simple site to group all your links. A free linktree alternative. Register your username before someone does.
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
@@ -3537,6 +3538,7 @@
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework --- w low-code + test library, 🖥️ app, runner +  batteries : all-in-one
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
@@ -3710,6 +3712,7 @@
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
 - [j471n/next-hulu](https://github.com/j471n/next-hulu) - It is the clone of Hulu. It uses the REST API to fetch the data it just looks the same as Hulu the data contained in this application might be different from the original one.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework --- w low-code + test library, 🖥️ app, runner +  batteries : all-in-one
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [alyssaxuu/producthunt-preview](https://github.com/alyssaxuu/producthunt-preview) - ProductHunt product previewer 💅
