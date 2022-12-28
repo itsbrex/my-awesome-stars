@@ -491,7 +491,7 @@
 
 ## JavaScript 
 
-- [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - Simple site to group all your links. A free linktree alternative. Register your username before someone does.
+- [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - Simple site to group all your links. A free linktree alternative. Register your username before someone else does.
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
 - [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - A Out of the Box 🎁 Browser Extension Template with support for React, Typescript, Preact
@@ -1985,7 +1985,7 @@
 
 ## Swift 
 
-- [godly-devotion/mochi-diffusion](https://github.com/godly-devotion/mochi-diffusion) - Run Stable Diffusion with Core ML on Apple Silicon Macs natively
+- [godly-devotion/mochi-diffusion](https://github.com/godly-devotion/mochi-diffusion) - Run Stable Diffusion on Apple Silicon Macs natively
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
@@ -2043,6 +2043,8 @@
 
 ## TypeScript 
 
+- [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
+- [omar-dulaimi/prisma-zod-generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema
 - [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ Keyboard-driven commands to navigate your apps faster
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [DanielTerletzkiy/chat-gtp-assistant](https://github.com/DanielTerletzkiy/chat-gtp-assistant) - nodejs script that enables continuous conversation with voice recognition and tts speaker responses
@@ -2098,7 +2100,7 @@
 - [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
 - [kellertobias/kuvo-proxy](https://github.com/kellertobias/kuvo-proxy) - KUVO Simulation for Rekordbox for forwarding Live Track Information to a Rest API or File in Realtime for use in Live-Streams/OBS
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
-- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework --- w low-code + test library, 🖥️ app, runner +  batteries : all-in-one
+- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework — low-code + test library, 🖥️ app, runner +  batteries : all-in-one
 - [nimeshnayaju/tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
@@ -2319,7 +2321,7 @@
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [ricokahler/next-data-hooks](https://github.com/ricokahler/next-data-hooks) - Use `getStaticProps`/`getServerSideProps` as react-hooks
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
-- [sozonome/nextarter-tailwind](https://github.com/sozonome/nextarter-tailwind) - battery packed template / boilerplate to initialize PWA ready Next.js app with TailwindCSS - DaisyUI & Typescript setup ✨
+- [sozonome/nextarter-tailwind-daisy](https://github.com/sozonome/nextarter-tailwind-daisy) - battery packed template / boilerplate to initialize PWA ready Next.js app with TailwindCSS - DaisyUI & Typescript setup ✨
 - [colinramsay/remix-supabase](https://github.com/colinramsay/remix-supabase) - A starter for Remix + Supabase + Tailwind with the auth UI ready to go
 - [jckw/remix-ts-tailwind-radix-stitches-starter](https://github.com/jckw/remix-ts-tailwind-radix-stitches-starter) - A simple starter using Remix, TypeScript, Radix UI, Stitches, and (soon) Tailwind.
 - [QuentinWidlocher/remix-template](https://github.com/QuentinWidlocher/remix-template) - 🔋Batteries included Remix template with Tailwind, Prisma and powerful form utils
