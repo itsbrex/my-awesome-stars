@@ -329,7 +329,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [cyrta/awesome-speech-enhancement](https://github.com/cyrta/awesome-speech-enhancement) - A curated list of awesome Speech Enhancement papers, libraries, datasets, and other resources.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
@@ -366,7 +366,7 @@
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data science templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [cyrta/awesome-speech-enhancement](https://github.com/cyrta/awesome-speech-enhancement) - A curated list of awesome Speech Enhancement papers, libraries, datasets, and other resources.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -494,7 +494,7 @@
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
-- [itsbrex/Copy-ChatGPT-Cookies-Plus](https://github.com/itsbrex/Copy-ChatGPT-Cookies-Plus) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
+- [itsbrex/GPT-Cookies](https://github.com/itsbrex/GPT-Cookies) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
 - [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
@@ -657,7 +657,7 @@
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [ciar4n/Izmir](https://github.com/ciar4n/Izmir) - Izmir - An image hover mini CSS library
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [titangene/quick-source-viewer-dark-theme](https://github.com/titangene/quick-source-viewer-dark-theme) - Dark theme for "Quick source viewer" (Chrome extension)
 - [extratone/bilge](https://github.com/extratone/bilge) - Documentation for The Psalms - my blog about software’s intersection with culture. Not just for the website - for the entire process (correspondence, notetaking, drafting, *revising*, editorializing, 
@@ -923,7 +923,7 @@
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [Kareemfahmy97/GroupChat-react](https://github.com/Kareemfahmy97/GroupChat-react) - Full Stack Realtime Chat Messaging Application with authintication, direct messages, group chats creation, emojis & reactions, giphs, edit and delete messages, reply and specialized commands as forwar
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
 - [smakosh/unnamed-css-framework](https://github.com/smakosh/unnamed-css-framework) - A simple colorful CSS framework
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
@@ -2059,6 +2059,8 @@
 
 ## others 
 
+- [sci-barite/lancer](https://github.com/sci-barite/lancer) - This is the web app/service that works together with my Sylph Chrome Extension, acting as intermediary between it and my Google Sheets at work.
+- [jc9108/dark-mode-pdf](https://github.com/jc9108/dark-mode-pdf) - converts PDFs to dark mode
 - [omar-dulaimi/prisma-zod-generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema
 - [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - Simple site to group all your links. A free linktree alternative. Register your username before someone else does.
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
@@ -3499,6 +3501,7 @@
 
 ## pytorch 
 
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
