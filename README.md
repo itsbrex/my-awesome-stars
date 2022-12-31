@@ -174,6 +174,7 @@
 
 ## CSS 
 
+- [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [google/google-api-javascript-client](https://github.com/google/google-api-javascript-client) - Google APIs Client Library for browser JavaScript, aka gapi.
 - [Massu0921/kuvo-obs](https://github.com/Massu0921/kuvo-obs) - rekordbox KUVOのLive Playlist機能を用いてOBSに再生中の曲を表示．Display playing rekordbox track infomation on OBS using KUVO's Live Playlist feature.
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
@@ -363,6 +364,8 @@
 
 ## HTML 
 
+- [Microwawe/mamba-ui](https://github.com/Microwawe/mamba-ui) - Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
+- [cadars/john-doe](https://github.com/cadars/john-doe) - A simple way to make HTML websites
 - [ageitgey/node-unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document
 - [saroz/domain-for-sale](https://github.com/saroz/domain-for-sale) - Domain For Sale Landing Page Free Template
 - [siddharthkp/tinyreact.email](https://github.com/siddharthkp/tinyreact.email) - Top 3 React articles of the week in your inbox
@@ -1223,6 +1226,7 @@
 
 ## Objective-C 
 
+- [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
 - [bottlepay/flutter_crispchat](https://github.com/bottlepay/flutter_crispchat) - Crisp chat SDK for Flutter
 - [m1entus/SpotifyImporter](https://github.com/m1entus/SpotifyImporter) - Spotify library importer into Apple Music
 - [contentsync/SketchContentSync](https://github.com/contentsync/SketchContentSync) - Sync sketch files with google docs.
@@ -1864,6 +1868,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
@@ -1982,6 +1987,7 @@
 
 ## Svelte 
 
+- [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [jc9108/dark-mode-pdf](https://github.com/jc9108/dark-mode-pdf) - converts PDFs to dark mode
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
@@ -2054,6 +2060,9 @@
 
 ## TypeScript 
 
+- [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
+- [Sxela/live](https://github.com/Sxela/live) - PyTorch Live is an easy to use library of tools for creating on-device ML demos on Android and iOS. With Live, you can build a working mobile app ML demo in minutes.
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [papyrs/stylo](https://github.com/papyrs/stylo) - Another kind of rich text editor
 - [sci-barite/lancer](https://github.com/sci-barite/lancer) - This is the web app/service that works together with my Sylph Chrome Extension, acting as intermediary between it and my Google Sheets at work.
