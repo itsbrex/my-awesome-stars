@@ -1541,7 +1541,7 @@
 - [harisahmed/WEB-CRAWLING-PROJECT-1](https://github.com/harisahmed/WEB-CRAWLING-PROJECT-1) - Write a script that will crawl this page:https://pro.beatport.com/genre/deep-house/12 Store the data for track artist and track name.  Then query the Spotify API https://developer.spotify.com/ and ret
 - [olefredrik/FoundationPress](https://github.com/olefredrik/FoundationPress) - FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
 - [floschliep/YOURLS-iTunes-Affiliate](https://github.com/floschliep/YOURLS-iTunes-Affiliate) - Add your iTunes Affiliate-Token to all iTunes URLs before redirection
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
 - [a-dg/codebox-snippets](https://github.com/a-dg/codebox-snippets) - PHP, Taco, WordPress, jQuery, MySQL, and CSS snippets in a CodeBox library
 - [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search
@@ -1597,7 +1597,7 @@
 - [mayankdaruka/Omelia](https://github.com/mayankdaruka/Omelia) - Chrome extension built using JavaScript and HTML/CSS that modifies a Google spreadsheet using voice commands recorded by user. Built NLP model from scratch and created Flask RESTful API utilizing Goog
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [canonical-web-and-design/csv-to-google-spreadsheet](https://github.com/canonical-web-and-design/csv-to-google-spreadsheet) - GitHub Action to import a CSV file into a Google Spreadsheet
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 A modern replacement for Airflow.
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow.
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [Pancham1603/SpotiPyDownloader](https://github.com/Pancham1603/SpotiPyDownloader) - Downloads Spotify playlist and returns zip file as Google Drive link. Supports instant individual downloads too!
@@ -2065,6 +2065,7 @@
 
 ## TypeScript 
 
+- [seed-of-apricot/issue-list-readme](https://github.com/seed-of-apricot/issue-list-readme) - Display issues on the landing page 👀
 - [Arrendy/gpt3-vscode-extension](https://github.com/Arrendy/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [ZeitnerGmbH/auto-git](https://github.com/ZeitnerGmbH/auto-git) - Auto-Git is an extention to push project files to git in a predefined interval without taking any action by the developer.
@@ -2131,7 +2132,7 @@
 - [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
 - [kellertobias/kuvo-proxy](https://github.com/kellertobias/kuvo-proxy) - KUVO Simulation for Rekordbox for forwarding Live Track Information to a Rest API or File in Realtime for use in Live-Streams/OBS
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
-- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Incredibly fast testing framework — low-code + test library, 🖥️ app, runner +  batteries : all-in-one
+- [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [nimeshnayaju/tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
