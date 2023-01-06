@@ -78,6 +78,7 @@
 
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -495,7 +496,7 @@
 ## JavaScript 
 
 - [jbilcke/web4](https://github.com/jbilcke/web4) - Latent web browser
-- [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - Simple site to group all your links. A free linktree alternative. Register your username before someone else does.
+- [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
 - [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - A Out of the Box 🎁 Browser Extension Template with support for React, Typescript, Preact
@@ -2007,7 +2008,7 @@
 ## Swift 
 
 - [mhamilt/Audio-Unit-V3-Templates](https://github.com/mhamilt/Audio-Unit-V3-Templates) - A collection of templates for creating Audio Unit V3 in Xcode
-- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Apple Silicon Macs natively
+- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
@@ -2108,7 +2109,7 @@
 - [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
 - [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
-- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT
+- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [domnantas/raycast-chatgpt](https://github.com/domnantas/raycast-chatgpt) - 
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
@@ -2178,7 +2179,6 @@
 - [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code the v2 Flexpool.io Website
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
 - [ikorihn/google-form-invitation](https://github.com/ikorihn/google-form-invitation) - Google Form からカレンダーイベントにゲスト招待を行うGAS
