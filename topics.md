@@ -447,7 +447,7 @@
 
 ## bot 
 
-- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT
+- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [Shyguy99/Whatsapp-bot](https://github.com/Shyguy99/Whatsapp-bot) - A simple WhatsApp Bot made using open-wa library with some additional features.
@@ -766,7 +766,7 @@
 
 ## discord 
 
-- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT
+- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [rogeraabbccdd/Rekordbox-NowPlaying](https://github.com/rogeraabbccdd/Rekordbox-NowPlaying) - Get rekordbox now playing master track for OBS and Discord Rich Presence.
 - [jareer12/Discord-Bot-Dashboard](https://github.com/jareer12/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
@@ -1590,7 +1590,7 @@
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ Keyboard-driven commands to navigate your apps faster
-- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Apple Silicon Macs natively
+- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [iffy/electron-updater-example](https://github.com/iffy/electron-updater-example) - A complete example showing how to use `electron-updater`
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
@@ -1963,6 +1963,7 @@
 - [DanielTerletzkiy/chat-gtp-assistant](https://github.com/DanielTerletzkiy/chat-gtp-assistant) - nodejs script that enables continuous conversation with voice recognition and tts speaker responses
 - [ArekSredzki/electron-release-server](https://github.com/ArekSredzki/electron-release-server) - A fully featured, self-hosted release server for electron applications, compatible with auto-updater.
 - [abhijithvijayan/wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webextension Manifest Generator that you specify `manifest.json` properties to appear only in specific browsers and environment
+- [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
 - [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
@@ -2104,7 +2105,7 @@
 - [sci-barite/lancer](https://github.com/sci-barite/lancer) - This is the web app/service that works together with my Sylph Chrome Extension, acting as intermediary between it and my Google Sheets at work.
 - [jc9108/dark-mode-pdf](https://github.com/jc9108/dark-mode-pdf) - converts PDFs to dark mode
 - [omar-dulaimi/prisma-zod-generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema
-- [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - Simple site to group all your links. A free linktree alternative. Register your username before someone else does.
+- [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
@@ -4003,7 +4004,7 @@
 ## swift 
 
 - [mhamilt/Audio-Unit-V3-Templates](https://github.com/mhamilt/Audio-Unit-V3-Templates) - A collection of templates for creating Audio Unit V3 in Xcode
-- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Apple Silicon Macs natively
+- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
@@ -4028,7 +4029,7 @@
 
 ## swiftui 
 
-- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Apple Silicon Macs natively
+- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
 - [tjcages/snippet](https://github.com/tjcages/snippet) - a macOS quick link finder
