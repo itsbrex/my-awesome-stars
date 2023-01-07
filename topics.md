@@ -85,6 +85,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
+- [homebridge](#homebridge)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -202,6 +203,7 @@
 
 ## ai 
 
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [jbilcke/web4](https://github.com/jbilcke/web4) - Latent web browser
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [riffusion/riffusion](https://github.com/riffusion/riffusion) - Stable diffusion for real-time music generation
@@ -729,6 +731,7 @@
 
 ## deep-learning 
 
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [Qingcsai/awesome-3D-Deep-Learning](https://github.com/Qingcsai/awesome-3D-Deep-Learning) - Collection of 3D deep-learning/machine learning materials
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -1226,6 +1229,10 @@
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+
+## homebridge 
+
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 
 ## html 
 
@@ -2086,6 +2093,7 @@
 
 ## others 
 
+- [constructorfleet/homebridge-ultimate-govee](https://github.com/constructorfleet/homebridge-ultimate-govee) - Homebridge plugin to control Govee products in HomeKit exactly as they were meant to be.
 - [Arrendy/gpt3-vscode-extension](https://github.com/Arrendy/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [askcloudarchitech/mediumautopost](https://github.com/askcloudarchitech/mediumautopost) - 
@@ -2132,7 +2140,7 @@
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [Jarred-Sumner/bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Attempting to get bun to run on AWS Lambda
 - [fregante/chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) - CLI tool to upload Chrome Extensions to the Chrome Web Store
-- [dynaboard/dynaboard--getting-started](https://github.com/dynaboard/dynaboard--getting-started) - Source for the getting started template in all new users' personal workspaces.
+- [dynaboard/dynaboard--getting-started](https://github.com/dynaboard/dynaboard--getting-started) - Learn about Dynaboard in Dynaboard!
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [dynaboard/template](https://github.com/dynaboard/template) - 🚀 A starting point for creating your own custom Dynaboard template
 - [oven-sh/zig](https://github.com/oven-sh/zig) - The version of Zig used by Bun. Not a fork! Just a slightly older version.
