@@ -1319,7 +1319,7 @@
 - [maxogden/async-team](https://github.com/maxogden/async-team) - Documentation about how to run an async team (e.g. a remote team in different places)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [crapthings/awesome-mockup-tools](https://github.com/crapthings/awesome-mockup-tools) - something useful for your ui prototyping
-- [dynaboard/dynaboard--getting-started](https://github.com/dynaboard/dynaboard--getting-started) - Source for the getting started template in all new users' personal workspaces.
+- [dynaboard/dynaboard--getting-started](https://github.com/dynaboard/dynaboard--getting-started) - Learn about Dynaboard in Dynaboard!
 - [dynaboard/template](https://github.com/dynaboard/template) - 🚀 A starting point for creating your own custom Dynaboard template
 - [BeatRossmy/CreativeCoding](https://github.com/BeatRossmy/CreativeCoding) - 
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
@@ -1559,6 +1559,7 @@
 
 ## Python 
 
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [SeanChenxy/Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) - 
@@ -2066,6 +2067,8 @@
 
 ## TypeScript 
 
+- [constructorfleet/homebridge-ultimate-govee](https://github.com/constructorfleet/homebridge-ultimate-govee) - Homebridge plugin to control Govee products in HomeKit exactly as they were meant to be.
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [seed-of-apricot/issue-list-readme](https://github.com/seed-of-apricot/issue-list-readme) - Display issues on the landing page 👀
 - [Arrendy/gpt3-vscode-extension](https://github.com/Arrendy/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
