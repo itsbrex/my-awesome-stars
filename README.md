@@ -187,7 +187,6 @@
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 - [Tej-Sharma/next-tailwind-chakra-template](https://github.com/Tej-Sharma/next-tailwind-chakra-template) - A template to quickly be set up with NextJS (react framework), TailwindCSS, and Chakra UI with eslint and prettier
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
-- [ajcwebdev/redwood-next-frontend](https://github.com/ajcwebdev/redwood-next-frontend) - 
 - [ejirocodes/Nextjs_Authentication](https://github.com/ejirocodes/Nextjs_Authentication) - 🔏 This repository is for my article How to use NextAuth.js for client-side authentication in Next.js
 - [mubaidr/Speed-up-Browsing](https://github.com/mubaidr/Speed-up-Browsing) - Chrome/Chromium/Opera 15+ extension to enhance cache usage.
 - [jmcmullen/sydney-parties](https://github.com/jmcmullen/sydney-parties) - Find underground music event's in Sydney. Built with Remix, React, TypeScript, Tailwind and DaisyUI.
@@ -495,6 +494,8 @@
 
 ## JavaScript 
 
+- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [jbilcke/web4](https://github.com/jbilcke/web4) - Latent web browser
 - [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
@@ -1559,6 +1560,7 @@
 
 ## Python 
 
+- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
