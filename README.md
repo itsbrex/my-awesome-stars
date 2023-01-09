@@ -494,9 +494,9 @@
 
 ## JavaScript 
 
+- [narayann7/mini-projects](https://github.com/narayann7/mini-projects) - 
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
-- [jbilcke/web4](https://github.com/jbilcke/web4) - Latent web browser
 - [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
@@ -1635,7 +1635,6 @@
 - [offlinemark/dawtool](https://github.com/offlinemark/dawtool) - Reverse-engineered parsers for Ableton Live & FL Studio project files.
 - [skleinei/alfred-confluence](https://github.com/skleinei/alfred-confluence) - Alfred workflow to search for Confluence content and open it.
 - [shariq/notion-on-firebase](https://github.com/shariq/notion-on-firebase) - serve notion.so pages on firebase hosting, enabling search engine indexing and custom routes
-- [spencerwooo/notion-page-sort](https://github.com/spencerwooo/notion-page-sort) - Sort through Notion's sub-page by title (or part of its title).
 - [epilande/alfred-markdown](https://github.com/epilande/alfred-markdown) - 🖊 Markdown text expander
 - [arthurhammer/alfred-workflows](https://github.com/arthurhammer/alfred-workflows) - 🎩 Collection of Alfred workflows
 - [macedotavares/Glass-Dome](https://github.com/macedotavares/Glass-Dome) - An Alfred workflow to fight link rot in Markdown notes.
@@ -2075,6 +2074,7 @@
 - [Arrendy/gpt3-vscode-extension](https://github.com/Arrendy/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [ZeitnerGmbH/auto-git](https://github.com/ZeitnerGmbH/auto-git) - Auto-Git is an extention to push project files to git in a predefined interval without taking any action by the developer.
+- [jbilcke/web4](https://github.com/jbilcke/web4) - Latent web browser
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
 - [Sxela/live](https://github.com/Sxela/live) - PyTorch Live is an easy to use library of tools for creating on-device ML demos on Android and iOS. With Live, you can build a working mobile app ML demo in minutes.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
