@@ -2096,6 +2096,7 @@
 
 ## others 
 
+- [narayann7/mini-projects](https://github.com/narayann7/mini-projects) - 
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [constructorfleet/homebridge-ultimate-govee](https://github.com/constructorfleet/homebridge-ultimate-govee) - Homebridge plugin to control Govee products in HomeKit exactly as they were meant to be.
 - [Arrendy/gpt3-vscode-extension](https://github.com/Arrendy/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code
@@ -3513,7 +3514,6 @@
 - [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever) - 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data science templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
 - [echo724/notion2medium](https://github.com/echo724/notion2medium) - Simple command that publishes Notion Page to Medium.
-- [spencerwooo/notion-page-sort](https://github.com/spencerwooo/notion-page-sort) - Sort through Notion's sub-page by title (or part of its title).
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [paperboi/PickPocket](https://github.com/paperboi/PickPocket) - A python script to transfer all your Pocket links to a database in Notion.
 - [DamiPayne/AI-Music-Composer](https://github.com/DamiPayne/AI-Music-Composer) - A project that trains a LSTM recurrent neural network over a data-set of MIDI files.
