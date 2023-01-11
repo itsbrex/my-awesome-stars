@@ -365,6 +365,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Microwawe/mamba-ui](https://github.com/Microwawe/mamba-ui) - Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 - [cadars/john-doe](https://github.com/cadars/john-doe) - A simple way to make HTML websites
 - [ageitgey/node-unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document
@@ -475,7 +476,7 @@
 
 ## Java 
 
-- [datmt/NO-FUCKING-CACHE-BROWSER](https://github.com/datmt/NO-FUCKING-CACHE-BROWSER) - We developers hate cache. Cache must die. Try these browsers instead
+- [datmt/NO-CACHE-BROWSER](https://github.com/datmt/NO-CACHE-BROWSER) - We developers hate cache. Cache must die. Try these browsers instead
 - [thuannv/HeartsFlying](https://github.com/thuannv/HeartsFlying) - Hearts fly from bottom to top like Bigo Live when play stream.
 - [Deep-Symmetry/beat-link](https://github.com/Deep-Symmetry/beat-link) - Java library for synchronizing and communicating with Pioneer DJ Link equipment
 - [Deep-Symmetry/wayang](https://github.com/Deep-Symmetry/wayang) - A Java library for displaying images on the Ableton Push 2
@@ -494,7 +495,7 @@
 
 ## JavaScript 
 
-- [narayann7/mini-projects](https://github.com/narayann7/mini-projects) - 
+- [narayann7/mini-projects](https://github.com/narayann7/mini-projects) - mini projects, learnt new concepts with small projects
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
@@ -1024,7 +1025,6 @@
 - [storybook-eol/react-cdk](https://github.com/storybook-eol/react-cdk) - under development - React Component Development Kit with Storybook
 - [jamiebuilds/babel-react-optimize](https://github.com/jamiebuilds/babel-react-optimize) - :rocket: A Babel preset and plugins for optimizing React code.
 - [akveo/blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [enyo/opentip](https://github.com/enyo/opentip) - Opentip is an open source javascript tooltip based on the protoype framework.
 - [glenjamin/devboard](https://github.com/glenjamin/devboard) - An interactive visual feedback tool for developing user interface code
 - [benchmarkstudios/slackbox](https://github.com/benchmarkstudios/slackbox) - 🎵 Spotify playlist collaboration through Slack.
@@ -1556,10 +1556,12 @@
 
 ## Perl 
 
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [aparks517/convert-websters](https://github.com/aparks517/convert-websters) - Convert Webster's Unabridged Dictionary from Project Gutenberg to OSX dictionary
 
 ## Python 
 
+- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
@@ -1573,7 +1575,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [stanford-crfm/pubmedgpt](https://github.com/stanford-crfm/pubmedgpt) - 
 - [riffusion/riffusion](https://github.com/riffusion/riffusion) - Stable diffusion for real-time music generation
-- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
+- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - An index created by GPT to organize external information and answer queries!
@@ -1595,7 +1597,7 @@
 - [jayshah98/abletonfilefinder](https://github.com/jayshah98/abletonfilefinder) - Find all of your missing files within you Ableton .als project with this python project
 - [andrewcb/alsd](https://github.com/andrewcb/alsd) - Utility for extracting and dumping data from Ableton Live sets
 - [henrybetts/ableton-retime](https://github.com/henrybetts/ableton-retime) - A python script for retiming Ableton Live projects
-- [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot) - my personal Telegram bot made in Python. It has seveal features and it's based on Pyrogram.
+- [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot) - My personal Telegram bot made in Python. It has several features and it's based on Pyrogram.
 - [tddschn/homebrew-alfred](https://github.com/tddschn/homebrew-alfred) - Python scripts for searching and displaying Homebrew package metadata, and executing common brew commands, made for Alfred Workflow.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [mayankdaruka/Omelia](https://github.com/mayankdaruka/Omelia) - Chrome extension built using JavaScript and HTML/CSS that modifies a Google spreadsheet using voice commands recorded by user. Built NLP model from scratch and created Flask RESTful API utilizing Goog
@@ -2068,6 +2070,9 @@
 
 ## TypeScript 
 
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [constructorfleet/homebridge-ultimate-govee](https://github.com/constructorfleet/homebridge-ultimate-govee) - Homebridge plugin to control Govee products in HomeKit exactly as they were meant to be.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [seed-of-apricot/issue-list-readme](https://github.com/seed-of-apricot/issue-list-readme) - Display issues on the landing page 👀
@@ -2414,6 +2419,7 @@
 - [meiblorn/ngx-fullpage](https://github.com/meiblorn/ngx-fullpage) - Angular 2 fullPage.js port library
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
