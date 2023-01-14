@@ -86,6 +86,7 @@
 
 ## C 
 
+- [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
@@ -388,6 +389,7 @@
 - [mhawksey/G-Suite-Add-on-Dialogflow-Boilerplate](https://github.com/mhawksey/G-Suite-Add-on-Dialogflow-Boilerplate) - 
 - [techstreams/TSDataTable](https://github.com/techstreams/TSDataTable) - Simple, Elegant Data Tables for Google Sheets & Sites
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [nimezhu/sheetid](https://github.com/nimezhu/sheetid) - google chrome extension to extract sheet id
 - [theianchan/base-sheets-daily](https://github.com/theianchan/base-sheets-daily) - Chrome extension with Google Sheets backend
 - [pickuperast/google_script_post_get_to_web](https://github.com/pickuperast/google_script_post_get_to_web) - 
@@ -667,7 +669,6 @@
 - [CrystallizeAPI/crystallize-cli](https://github.com/CrystallizeAPI/crystallize-cli) - Scaffold a Crystallize project via the command line
 - [55sketch/gsx2json](https://github.com/55sketch/gsx2json) - Google Spreadsheet to JSON API service.
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [storyblok/nextjs-multilanguage-website](https://github.com/storyblok/nextjs-multilanguage-website) - Nextjs Multilanguage Website
@@ -1308,6 +1309,7 @@
 
 ## Others 
 
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [Sxela/WarpFusion](https://github.com/Sxela/WarpFusion) - WarpFusion
@@ -1324,7 +1326,7 @@
 - [maxogden/async-team](https://github.com/maxogden/async-team) - Documentation about how to run an async team (e.g. a remote team in different places)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [crapthings/awesome-mockup-tools](https://github.com/crapthings/awesome-mockup-tools) - something useful for your ui prototyping
-- [dynaboard/dynaboard--getting-started](https://github.com/dynaboard/dynaboard--getting-started) - Learn about Dynaboard in Dynaboard!
+- [dynaboard/dynaboard--getting-started](https://github.com/dynaboard/dynaboard--getting-started) - Dynaboard template for learning about Dynaboard... in Dynaboard!
 - [dynaboard/template](https://github.com/dynaboard/template) - 🚀 A starting point for creating your own custom Dynaboard template
 - [BeatRossmy/CreativeCoding](https://github.com/BeatRossmy/CreativeCoding) - 
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
@@ -1565,6 +1567,8 @@
 
 ## Python 
 
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [shobrook/stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
 - [Sobhan-SRZA/Discord-Nitro-Genarator-py](https://github.com/Sobhan-SRZA/Discord-Nitro-Genarator-py) - Hello dear friends, This is nitro generator bot for discord.py 🤖
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
@@ -2077,6 +2081,7 @@
 
 ## TypeScript 
 
+- [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Modern boilerplate with Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Commitlint + PostCSS + Tailwind CSS
 - [xom9ikk/dotenv](https://github.com/xom9ikk/dotenv) - GitHub Action to read .env file and add variables to GITHUB_ENV
 - [codeshifu/sync-dotenv](https://github.com/codeshifu/sync-dotenv) - Keep your .env in sync with .env.example
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
