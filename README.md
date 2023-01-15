@@ -1567,6 +1567,7 @@
 
 ## Python 
 
+- [sdelgadoc/download-tweets-ai-text-gen-plus](https://github.com/sdelgadoc/download-tweets-ai-text-gen-plus) - Python script to download public Tweets from a given Twitter account into a format suitable for AI text generation
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [shobrook/stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
 - [Sobhan-SRZA/Discord-Nitro-Genarator-py](https://github.com/Sobhan-SRZA/Discord-Nitro-Genarator-py) - Hello dear friends, This is nitro generator bot for discord.py 🤖
