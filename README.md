@@ -305,6 +305,7 @@
 
 ## Go 
 
+- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - a CLI tool that transforms plain code into cloud native code
 - [askcloudarchitech/mediumautopost](https://github.com/askcloudarchitech/mediumautopost) - 
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -366,6 +367,7 @@
 
 ## HTML 
 
+- [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension) - Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Microwawe/mamba-ui](https://github.com/Microwawe/mamba-ui) - Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 - [cadars/john-doe](https://github.com/cadars/john-doe) - A simple way to make HTML websites
@@ -1568,6 +1570,7 @@
 
 ## Python 
 
+- [lbarman/github-punchline](https://github.com/lbarman/github-punchline) - Write a message in github's activity graph
 - [sdelgadoc/download-tweets-ai-text-gen-plus](https://github.com/sdelgadoc/download-tweets-ai-text-gen-plus) - Python script to download public Tweets from a given Twitter account into a format suitable for AI text generation
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [shobrook/stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
@@ -1888,6 +1891,7 @@
 
 ## Rust 
 
+- [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics
 - [aptos-labs/move](https://github.com/aptos-labs/move) - 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -2317,7 +2321,7 @@
 - [jacob-ebey/remix-pwa](https://github.com/jacob-ebey/remix-pwa) - A template to get a Remix PWA up and running
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin
+- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Forms Builder for WordPress
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
 - [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
