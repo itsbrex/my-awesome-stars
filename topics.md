@@ -205,6 +205,8 @@
 
 ## ai 
 
+- [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [jbilcke/latent-browser](https://github.com/jbilcke/latent-browser) - Latent web browser
@@ -284,6 +286,7 @@
 
 ## artificial-intelligence 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow.
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
@@ -634,6 +637,7 @@
 
 ## computer-vision 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 
 ## covid-19 
@@ -660,6 +664,8 @@
 
 ## css 
 
+- [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
@@ -746,6 +752,7 @@
 
 ## deep-learning 
 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [Qingcsai/awesome-3D-Deep-Learning](https://github.com/Qingcsai/awesome-3D-Deep-Learning) - Collection of 3D deep-learning/machine learning materials
@@ -1110,6 +1117,7 @@
 
 ## graphql 
 
+- [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [graphlatte/graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
@@ -1144,6 +1152,7 @@
 
 ## hacktoberfest 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -1263,6 +1272,8 @@
 
 ## html 
 
+- [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [cadars/john-doe](https://github.com/cadars/john-doe) - A simple way to make HTML websites
 - [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
@@ -1342,6 +1353,8 @@
 
 ## javascript 
 
+- [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [juliangruber/browser-run](https://github.com/juliangruber/browser-run) - Run code inside a browser from the command line
 - [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
@@ -1607,6 +1620,8 @@
 
 ## machine-learning 
 
+- [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [Qingcsai/awesome-3D-Deep-Learning](https://github.com/Qingcsai/awesome-3D-Deep-Learning) - Collection of 3D deep-learning/machine learning materials
@@ -1938,7 +1953,7 @@
 - [xk2800/TODO-app-fullstack-jamstack-nextjs](https://github.com/xk2800/TODO-app-fullstack-jamstack-nextjs) - A simple to-do PWA. Built with Next.js, Next Auth, Tailwind CSS & Airtable. (Made to try out airtable's abilities)
 - [JithinAntony4/nextjs-pwa-boilerplate](https://github.com/JithinAntony4/nextjs-pwa-boilerplate) - 🔥 NextJS Boilerplate with hybrid static & server rendering, TypeScript support, route pre-fetching, PWA support, FCM integration, SendGrid integration, Twilio integration, and Google SignIn
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
-- [oh-my-c0de/oh-my-fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+- [kvokov/oh-my-fullstack](https://github.com/kvokov/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 - [williamluke4/Nitro](https://github.com/williamluke4/Nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
@@ -1988,6 +2003,8 @@
 
 ## nlp 
 
+- [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API from anywhere
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -2013,6 +2030,7 @@
 
 ## nodejs 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [juliangruber/browser-run](https://github.com/juliangruber/browser-run) - Run code inside a browser from the command line
 - [codeshifu/sync-dotenv](https://github.com/codeshifu/sync-dotenv) - Keep your .env in sync with .env.example
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
@@ -2143,6 +2161,15 @@
 
 ## others 
 
+- [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
+- [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
+- [MikeBeas/switchblade](https://github.com/MikeBeas/switchblade) - A self-hosted Apple Shortcuts distribution platform
+- [mattt/OpenAI](https://github.com/mattt/OpenAI) - A Swift client for the OpenAI API.
+- [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
+- [Nithur-M/codexplainer](https://github.com/Nithur-M/codexplainer) - 
+- [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
+- [bram-w/EDICT_public_release](https://github.com/bram-w/EDICT_public_release) - 
+- [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
 - [ektogamat/camera-webgi](https://github.com/ektogamat/camera-webgi) - A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.
 - [Lunarequest/NightPDF](https://github.com/Lunarequest/NightPDF) - Dark Mode PDF Reader built using Electron and PDF.js
 - [shobrook/stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
@@ -2599,7 +2626,7 @@
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [Magisk-Modules-Alt-Repo/drc-remover](https://github.com/Magisk-Modules-Alt-Repo/drc-remover) - A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
-- [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - Alfred workflows I use. Script to automatically export.
+- [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - My Alfred Workflows
 - [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows) - Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
 - [hygraph/nextjs-graphcms-podcast-starter](https://github.com/hygraph/nextjs-graphcms-podcast-starter) - Starter project built with GraphCMS, NextJS, and Twilio SendGrid.
 - [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
@@ -3195,7 +3222,7 @@
 - [shannachau/hypem-spotify-playlist](https://github.com/shannachau/hypem-spotify-playlist) - Script to add Hype Machine's popular playlist to Spotify playlist
 - [pat-richardson/spotify_playlist_builder](https://github.com/pat-richardson/spotify_playlist_builder) - Add list of artists to auto-pull their top tracks and add to playlist
 - [patricktyndall/spotless](https://github.com/patricktyndall/spotless) - Spotify tool for bulk adding tracks to playlists
-- [timekit-io/booking-js](https://github.com/timekit-io/booking-js) - :date: Make a beautiful embeddable booking widget in minutes
+- [timekit-io/booking-js_deprecated](https://github.com/timekit-io/booking-js_deprecated) - :date: Make a beautiful embeddable booking widget in minutes
 - [gingerbeardman/alfred-extension](https://github.com/gingerbeardman/alfred-extension) - Alfred2 extension made by Jaemok
 - [kopischke/alfred-workflows](https://github.com/kopischke/alfred-workflows) - Collected  workflows for Alfred 2.
 - [Themitchell/backup-scripts](https://github.com/Themitchell/backup-scripts) - 
@@ -3646,6 +3673,7 @@
 
 ## react 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Modern boilerplate with Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Commitlint + PostCSS + Tailwind CSS
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
@@ -3755,7 +3783,7 @@
 - [JithinAntony4/nextjs-pwa-boilerplate](https://github.com/JithinAntony4/nextjs-pwa-boilerplate) - 🔥 NextJS Boilerplate with hybrid static & server rendering, TypeScript support, route pre-fetching, PWA support, FCM integration, SendGrid integration, Twilio integration, and Google SignIn
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
-- [oh-my-c0de/oh-my-fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+- [kvokov/oh-my-fullstack](https://github.com/kvokov/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
@@ -3838,6 +3866,7 @@
 
 ## reactjs 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Chrome developer tool for time travel debugging and performance monitoring in React applications.
@@ -3891,7 +3920,7 @@
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 - [Tomburgs/pwa-boilerplate](https://github.com/Tomburgs/pwa-boilerplate) - ✨ PWA Boilerplate is highly scalable and is designed to help you kick-start your next project 🔭.
-- [oh-my-c0de/oh-my-fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+- [kvokov/oh-my-fullstack](https://github.com/kvokov/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 - [scraggo/Random-Music-Generators](https://github.com/scraggo/Random-Music-Generators) - Random chord, melody, and rhythm generators with MIDI output
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
 - [TrueCar/gluestick](https://github.com/TrueCar/gluestick) - GlueStick is a command line interface for quickly developing universal web applications using React and Redux.
@@ -4170,6 +4199,8 @@
 
 ## typescript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Modern boilerplate with Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Commitlint + PostCSS + Tailwind CSS
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
@@ -4258,7 +4289,6 @@
 - [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit (w/ Houdini) x Tailwind CSS x Histoire x Nhost x Turborepo (pnpm)
 - [okisdev/Notion-Blog-React](https://github.com/okisdev/Notion-Blog-React) - Blog powered by Notion, built with React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Forms Builder for WordPress
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
 - [Tomburgs/pwa-boilerplate](https://github.com/Tomburgs/pwa-boilerplate) - ✨ PWA Boilerplate is highly scalable and is designed to help you kick-start your next project 🔭.
@@ -4401,6 +4431,7 @@
 
 ## webpack 
 
+- [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [wx-chevalier/m-fe-boilerplates](https://github.com/wx-chevalier/m-fe-boilerplates) - Lucid & Futuristic Production Boilerplates For Frontend(Web) Apps, React/RN/Vue, with TypeScript(Optional), Webpack 4/Parcel, MobX/Redux :dizzy: 多技术栈前端项目模板
