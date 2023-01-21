@@ -500,6 +500,7 @@
 
 ## JavaScript 
 
+- [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - my portfolio
 - [MikeBeas/switchblade](https://github.com/MikeBeas/switchblade) - A self-hosted Apple Shortcuts distribution platform
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [Nithur-M/codexplainer](https://github.com/Nithur-M/codexplainer) - 
@@ -2485,6 +2486,7 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [mandatoryprogrammer/ChromeGalvanizer](https://github.com/mandatoryprogrammer/ChromeGalvanizer) - Harden your Chrome browser via enterprise policy.
 - [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
 - [jpdh9881/ableton-viewer-vue](https://github.com/jpdh9881/ableton-viewer-vue) - View clip arrangement (and project file details in JSON format) of Ableton Project files
