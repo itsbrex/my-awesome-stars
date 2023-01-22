@@ -514,7 +514,7 @@
 
 - [Glench/ExtPay](https://github.com/Glench/ExtPay) - The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.
 - [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension) - Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩
-- [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - A Out of the Box 🎁 Browser Extension Template with support for React, Typescript, Preact
+- [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - A Out of the Box 🎁 Browser Extension Template with support for React, Preact, Typescript and Manifest V3 and builds on most browsers including Chrome, Firefox, Safari, Edge, Brave.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
 - [rossmoody/ts-extension-starter](https://github.com/rossmoody/ts-extension-starter) - A bare bones starter repo for building Chrome v3 manifest extensions using Typescript, React, and Rollup.
@@ -2167,6 +2167,8 @@
 
 ## others 
 
+- [Nutlope/whatisdevrel](https://github.com/Nutlope/whatisdevrel) - A site that explains what developer relations is
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions.
 - [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - my portfolio
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
