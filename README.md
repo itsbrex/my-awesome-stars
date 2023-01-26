@@ -1061,7 +1061,7 @@
 - [mlakkadshaw/DeadSimpleScreeSharing-OSE](https://github.com/mlakkadshaw/DeadSimpleScreeSharing-OSE) - A simple screen sharing app written in node.js that allows you to share you screen with anyone right from your browser
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
-- [timekit-io/booking-js_deprecated](https://github.com/timekit-io/booking-js_deprecated) - :date: Make a beautiful embeddable booking widget in minutes
+- [timekit-io/booking-js](https://github.com/timekit-io/booking-js) - :date: Make a beautiful embeddable booking widget in minutes
 - [PageModifiedOfficial/Check-My-Links](https://github.com/PageModifiedOfficial/Check-My-Links) - A Google Chrome extension which allows you to check webpages for broken links (Response Code 404 etc)
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -1219,6 +1219,7 @@
 
 ## Max 
 
+- [himwho/ant-midi-server](https://github.com/himwho/ant-midi-server) - Everything you need for an ant colony to play and broadcast MIDI/OSC via a dockerized server for listening to LAN MIDI and broadcasting it to WAN
 - [to-the-sun/amanuensis](https://github.com/to-the-sun/amanuensis) - The Amanuensis is an automated songwriting and recording system aimed at ridding the process of anything left-brained, so one need never leave a creative, spontaneous and improvisational state of mind
 - [SpektroAudio/AP2JS](https://github.com/SpektroAudio/AP2JS) - Max JS script for controlling and programming the Ableton Push 2 hardware controller
 - [robenkleene/parrot](https://github.com/robenkleene/parrot) - Max for Live analyzer to assist in synthesizing sampled sounds.
@@ -1324,6 +1325,7 @@
 
 ## Others 
 
+- [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
 - [bhagyas/app-urls](https://github.com/bhagyas/app-urls) - A long list of App URLs for iOS, macOS and Android
 - [autonomousvision/stylegan-t](https://github.com/autonomousvision/stylegan-t) - [ARXIV'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis
 - [flavioschneider/master-thesis](https://github.com/flavioschneider/master-thesis) - 
@@ -1585,6 +1587,7 @@
 
 ## Python 
 
+- [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
 - [krrishdholakia/betterprompt](https://github.com/krrishdholakia/betterprompt) - Test suite for LLM prompts
@@ -1938,7 +1941,7 @@
 
 ## SCSS 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [Pedro-Murilo/vercel-ui-clone](https://github.com/Pedro-Murilo/vercel-ui-clone) - An clone from Vercel Homepage made with SASS
 - [shuffle-dev/maxmaxmax](https://github.com/shuffle-dev/maxmaxmax) - Add the two best Tailwind CSS features to Bootstrap and Bulma!
 - [ciar4n/Izmir](https://github.com/ciar4n/Izmir) - Izmir - An image hover mini CSS library
