@@ -206,6 +206,7 @@
 
 ## ai 
 
+- [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
@@ -529,7 +530,7 @@
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
 - [itsbrex/ChatGPT-Cookies](https://github.com/itsbrex/ChatGPT-Cookies) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -760,6 +761,7 @@
 
 ## deep-learning 
 
+- [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [archinetai/archisound](https://github.com/archinetai/archisound) - A collection of pre-trained audio models, in PyTorch.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -1858,6 +1860,7 @@
 
 ## neural-network 
 
+- [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [DamiPayne/AI-Music-Composer](https://github.com/DamiPayne/AI-Music-Composer) - A project that trains a LSTM recurrent neural network over a data-set of MIDI files.
 - [ashenoy95/ml](https://github.com/ashenoy95/ml) - Machine Learning, Neural Nets, Deep Learning basics
@@ -2175,6 +2178,8 @@
 
 ## others 
 
+- [himwho/ant-midi-server](https://github.com/himwho/ant-midi-server) - Everything you need for an ant colony to play and broadcast MIDI/OSC via a dockerized server for listening to LAN MIDI and broadcasting it to WAN
+- [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
 - [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
 - [autonomousvision/stylegan-t](https://github.com/autonomousvision/stylegan-t) - [ARXIV'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis
 - [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
@@ -3245,7 +3250,7 @@
 - [shannachau/hypem-spotify-playlist](https://github.com/shannachau/hypem-spotify-playlist) - Script to add Hype Machine's popular playlist to Spotify playlist
 - [pat-richardson/spotify_playlist_builder](https://github.com/pat-richardson/spotify_playlist_builder) - Add list of artists to auto-pull their top tracks and add to playlist
 - [patricktyndall/spotless](https://github.com/patricktyndall/spotless) - Spotify tool for bulk adding tracks to playlists
-- [timekit-io/booking-js_deprecated](https://github.com/timekit-io/booking-js_deprecated) - :date: Make a beautiful embeddable booking widget in minutes
+- [timekit-io/booking-js](https://github.com/timekit-io/booking-js) - :date: Make a beautiful embeddable booking widget in minutes
 - [gingerbeardman/alfred-extension](https://github.com/gingerbeardman/alfred-extension) - Alfred2 extension made by Jaemok
 - [kopischke/alfred-workflows](https://github.com/kopischke/alfred-workflows) - Collected  workflows for Alfred 2.
 - [Themitchell/backup-scripts](https://github.com/Themitchell/backup-scripts) - 
