@@ -275,7 +275,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [alyssaxuu/figma-to-google-slides](https://github.com/alyssaxuu/figma-to-google-slides) - Convert Figma frames into a Google Slides presentation 🍭
 - [sbzhu/weworkapi_php](https://github.com/sbzhu/weworkapi_php) - official lib of wework api
@@ -1191,7 +1191,7 @@
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [ohmyform/api](https://github.com/ohmyform/api) - ✏️ Free open source Application Programming Interface API for OhMyForm ⛺
 - [ohmyform/ui](https://github.com/ohmyform/ui) - ✏️ Free open source Web User Interface for OhMyForm  ⛺
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1394,7 +1394,7 @@
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [mikesprague/clean-start](https://github.com/mikesprague/clean-start) - Open source new tab Chrome extension
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [Blend3rman/DynFormCreator](https://github.com/Blend3rman/DynFormCreator) - A Javascript file, made with Google App Script, to create a dynamic questionnaire.
 - [ackama/google-apps-visitor-registration](https://github.com/ackama/google-apps-visitor-registration) - Google Apps Scripts to power a Google Form & Spreadsheet for visitor registration with Slack integration!
 - [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS) - Whatsapp Clone Built with ReactJS, NextJS, Firebase and Styled Components.
@@ -2066,7 +2066,7 @@
 - [msaaddev/geo-location-cli](https://github.com/msaaddev/geo-location-cli) - 📌 A CLI that gives you location data of any IP address
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
 - [mikesprague/clean-start](https://github.com/mikesprague/clean-start) - Open source new tab Chrome extension
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
@@ -2178,6 +2178,7 @@
 
 ## others 
 
+- [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [himwho/ant-midi-server](https://github.com/himwho/ant-midi-server) - Everything you need for an ant colony to play and broadcast MIDI/OSC via a dockerized server for listening to LAN MIDI and broadcasting it to WAN
 - [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
 - [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
@@ -3538,7 +3539,7 @@
 
 ## postgresql 
 
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - Provide the daily.dev feed and engagement layer
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ShafSpecs/rockspec-stack](https://github.com/ShafSpecs/rockspec-stack) - A fully configurable & customizable Remix PWA stack.
@@ -3752,7 +3753,7 @@
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code the v2 Flexpool.io Website
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [temycodes/nextjs-step-form](https://github.com/temycodes/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
@@ -4285,7 +4286,7 @@
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [temycodes/nextjs-step-form](https://github.com/temycodes/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [Mutesa-Cedric/whatsapp](https://github.com/Mutesa-Cedric/whatsapp) - web ,desktop and mobile versions of whatsapp.
