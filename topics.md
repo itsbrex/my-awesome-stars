@@ -519,7 +519,7 @@
 
 - [Glench/ExtPay](https://github.com/Glench/ExtPay) - The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.
 - [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension) - Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩
-- [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - A Out of the Box 🎁 Browser Extension Template with support for React, Preact, Typescript and Manifest V3 and builds on most browsers including Chrome, Firefox, Safari, Edge, Brave.
+- [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
 - [rossmoody/ts-extension-starter](https://github.com/rossmoody/ts-extension-starter) - A bare bones starter repo for building Chrome v3 manifest extensions using Typescript, React, and Rollup.
@@ -2454,7 +2454,6 @@
 - [labnol/google-forms](https://github.com/labnol/google-forms) - Google Forms and Google Apps Script
 - [enuchi/GATrack](https://github.com/enuchi/GATrack) - A Google Analytics tracking helper class for Google Apps Script
 - [faresd/google-apps-script_travis-ci](https://github.com/faresd/google-apps-script_travis-ci) - Automating Apps Script build, test, deployment and publishing in Chrome Webstore as an add-on using Travis CI
-- [PravasTheDeveloper/whatsapp](https://github.com/PravasTheDeveloper/whatsapp) - What's App Clone by Nextjs and tailwind css
 - [sachins0023/Whatsapp](https://github.com/sachins0023/Whatsapp) - Whatsapp like messenger app using nextJS
 - [SaadBazaz/next-whatsapp-chat-widget](https://github.com/SaadBazaz/next-whatsapp-chat-widget) - 📲 WhatsApp Chat Plugin/Widget for your Nextjs app
 - [coderkhalide/whatsapp-clone-nextjs](https://github.com/coderkhalide/whatsapp-clone-nextjs) - WhatsApp clone Nextjs
