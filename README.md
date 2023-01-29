@@ -652,7 +652,6 @@
 - [cTxplorer/whatsapp-anyone](https://github.com/cTxplorer/whatsapp-anyone) - PWA built with Nextjs
 - [theodorusclarence/nextjs-tailwind-starter](https://github.com/theodorusclarence/nextjs-tailwind-starter) - A starter for Next.js and Tailwindcss, with Seo component.
 - [theodorusclarence/wa-helper](https://github.com/theodorusclarence/wa-helper) - A WhatsApp helper to avoid saving number to your contacts.
-- [PravasTheDeveloper/whatsapp](https://github.com/PravasTheDeveloper/whatsapp) - What's App Clone by Nextjs and tailwind css
 - [Tushar-Indurjeeth/WhatsApp-NextJs-Clone](https://github.com/Tushar-Indurjeeth/WhatsApp-NextJs-Clone) - A WhatsApp clone built using NextJs, React and Styled Components.
 - [MassiiNechiche/whatsapp2.0-nextjs](https://github.com/MassiiNechiche/whatsapp2.0-nextjs) - This is an instant 1-1 chat app just like whatsapp built with NEXT.js React Firebase
 - [coderkhalide/whatsapp-clone-nextjs](https://github.com/coderkhalide/whatsapp-clone-nextjs) - WhatsApp clone Nextjs
@@ -2145,7 +2144,7 @@
 - [omar-dulaimi/prisma-zod-generator](https://github.com/omar-dulaimi/prisma-zod-generator) - Prisma 2+ generator to emit Zod schemas from your Prisma schema
 - [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ Keyboard-driven commands to navigate your apps faster
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
-- [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - A Out of the Box 🎁 Browser Extension Template with support for React, Preact, Typescript and Manifest V3 and builds on most browsers including Chrome, Firefox, Safari, Edge, Brave.
+- [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.
 - [DanielTerletzkiy/chat-gtp-assistant](https://github.com/DanielTerletzkiy/chat-gtp-assistant) - nodejs script that enables continuous conversation with voice recognition and tts speaker responses
 - [frederickk/chatgpt-figma-plugin](https://github.com/frederickk/chatgpt-figma-plugin) - Experimental Chat GPT plugin for Figma
 - [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - Experimental:  Artifact (generation|automation|x) tool and a general purpose (low|no|x) (code|x) (generator|automator|xmator) 🐪.
