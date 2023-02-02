@@ -206,6 +206,7 @@
 
 ## ai 
 
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -275,7 +276,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [alyssaxuu/figma-to-google-slides](https://github.com/alyssaxuu/figma-to-google-slides) - Convert Figma frames into a Google Slides presentation 🍭
 - [sbzhu/weworkapi_php](https://github.com/sbzhu/weworkapi_php) - official lib of wework api
@@ -408,13 +409,13 @@
 
 ## aws 
 
-- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - an Infrastructure from Code CLI tool that transforms plain code into cloud native code
+- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [dxdc/aws-sdk-google-apps](https://github.com/dxdc/aws-sdk-google-apps) - Native Google Apps Script support for Amazon AWS SDK for JavaScript
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 
 ## azure 
 
-- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - an Infrastructure from Code CLI tool that transforms plain code into cloud native code
+- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 
 ## babel 
 
@@ -567,7 +568,7 @@
 
 ## cli 
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [AltriusRS/Shumai](https://github.com/AltriusRS/Shumai) - A delicious new outlook on command line argument handling.
@@ -645,6 +646,7 @@
 
 ## computer-vision 
 
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 
@@ -761,6 +763,7 @@
 
 ## deep-learning 
 
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [archinetai/archisound](https://github.com/archinetai/archisound) - A collection of pre-trained audio models, in PyTorch.
@@ -983,7 +986,7 @@
 - [smakosh/unnamed-css-framework](https://github.com/smakosh/unnamed-css-framework) - A simple colorful CSS framework
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -1074,6 +1077,7 @@
 - [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
 - [kakengloh/tsk](https://github.com/kakengloh/tsk) - Lightweight terminal task app written in Go (Golang)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
 - [pasela/alfred-chrome-history](https://github.com/pasela/alfred-chrome-history) - Alfred workflow for Chrome history
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -1100,6 +1104,7 @@
 - [cage1016/alfred-paletter](https://github.com/cage1016/alfred-paletter) - Extract palette from an image
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [kakengloh/tsk](https://github.com/kakengloh/tsk) - Lightweight terminal task app written in Go (Golang)
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
@@ -1191,7 +1196,7 @@
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [ohmyform/api](https://github.com/ohmyform/api) - ✏️ Free open source Application Programming Interface API for OhMyForm ⛺
 - [ohmyform/ui](https://github.com/ohmyform/ui) - ✏️ Free open source Web User Interface for OhMyForm  ⛺
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1394,7 +1399,7 @@
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [mikesprague/clean-start](https://github.com/mikesprague/clean-start) - Open source new tab Chrome extension
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [Blend3rman/DynFormCreator](https://github.com/Blend3rman/DynFormCreator) - A Javascript file, made with Google App Script, to create a dynamic questionnaire.
 - [ackama/google-apps-visitor-registration](https://github.com/ackama/google-apps-visitor-registration) - Google Apps Scripts to power a Google Form & Spreadsheet for visitor registration with Slack integration!
 - [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS) - Whatsapp Clone Built with ReactJS, NextJS, Firebase and Styled Components.
@@ -1563,7 +1568,7 @@
 
 ## kubernetes 
 
-- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - an Infrastructure from Code CLI tool that transforms plain code into cloud native code
+- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app build with Node, NextJS, MongoDB, Docker and Kubernetes.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -1590,7 +1595,7 @@
 
 ## library 
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax 📜
 - [tanaikech/ImgApp](https://github.com/tanaikech/ImgApp) - This is a library of image tools for Google Apps Script.
@@ -1635,6 +1640,7 @@
 
 ## machine-learning 
 
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1833,6 +1839,7 @@
 - [Shpigford/plylst](https://github.com/Shpigford/plylst) - Smart playlists for Spotify! Stop relying on fancy pants algorithms to organize your library and instead build playlists the way you want.
 - [adrienjoly/album-shelf](https://github.com/adrienjoly/album-shelf) - 💿 Collection of music records I love, maintained with Jekyll on Github Pages
 - [music-dl/music-dl](https://github.com/music-dl/music-dl) - Tool for downloading music
+- [Selbi182/SpotifyDiscoveryBot](https://github.com/Selbi182/SpotifyDiscoveryBot) - A Spring-based bot that automatically crawls for new releases by your followed artists. Never miss a Spotify release again!
 - [Sarsoo/spotframework](https://github.com/Sarsoo/spotframework) - spotify library for scripting. Additional classes for playlist management and listening tracking
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
 - [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
@@ -2019,6 +2026,7 @@
 
 ## nlp 
 
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -2066,7 +2074,7 @@
 - [msaaddev/geo-location-cli](https://github.com/msaaddev/geo-location-cli) - 📌 A CLI that gives you location data of any IP address
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
 - [mikesprague/clean-start](https://github.com/mikesprague/clean-start) - Open source new tab Chrome extension
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
@@ -2178,6 +2186,7 @@
 
 ## others 
 
+- [zahidkhawaja/langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs) - Next.js frontend for LangChain Chat.
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [himwho/ant-midi-server](https://github.com/himwho/ant-midi-server) - Everything you need for an ant colony to play and broadcast MIDI/OSC via a dockerized server for listening to LAN MIDI and broadcasting it to WAN
 - [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
@@ -2250,7 +2259,7 @@
 - [ageitgey/node-unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document
 - [saroz/domain-for-sale](https://github.com/saroz/domain-for-sale) - Domain For Sale Landing Page Free Template
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
-- [stanford-crfm/pubmedgpt](https://github.com/stanford-crfm/pubmedgpt) - 
+- [stanford-crfm/BioMedLM](https://github.com/stanford-crfm/BioMedLM) - 
 - [opstrace/next-product-docs](https://github.com/opstrace/next-product-docs) - Next.js component to fetch and render /docs from a different repository
 - [crapthings/awesome-mockup-tools](https://github.com/crapthings/awesome-mockup-tools) - something useful for your ui prototyping
 - [Jarred-Sumner/bun-livereload](https://github.com/Jarred-Sumner/bun-livereload) - Wrap a function with bun-livereload to automatically reload any imports inside the function the next time it is called
@@ -3538,7 +3547,7 @@
 
 ## postgresql 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - Provide the daily.dev feed and engagement layer
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ShafSpecs/rockspec-stack](https://github.com/ShafSpecs/rockspec-stack) - A fully configurable & customizable Remix PWA stack.
@@ -3747,12 +3756,13 @@
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [PatrickNiyogitare28/super-vite](https://github.com/PatrickNiyogitare28/super-vite) - ⚡ A vite react typescript boilerplate with pre-configured sass, redux-tool-kit, tailwind, eslint, prettier & jest, i18n internalization,  Dockerfile... built in cli coming soon ⚒️
 - [sozonome/nextarter-nextui](https://github.com/sozonome/nextarter-nextui) - template to initialize Next.js project with Next-UI and typescript setup
+- [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
 - [galfrevn/nextjs-social-pwa](https://github.com/galfrevn/nextjs-social-pwa) - (In progess 🚧 ) A full-featured social network application built with Next.js, Typescript and MongoDB. Features include user authentication, posts and comments, friend requests, and a real-time chat s
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code the v2 Flexpool.io Website
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [temycodes/nextjs-step-form](https://github.com/temycodes/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
@@ -3804,7 +3814,7 @@
 - [mzaien/remix-nextui-cf](https://github.com/mzaien/remix-nextui-cf) - Remix and Next-ui starter deployed on cloudflare pages
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Forms Builder for WordPress
+- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Multi Step Forms
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
 - [Tomburgs/pwa-boilerplate](https://github.com/Tomburgs/pwa-boilerplate) - ✨ PWA Boilerplate is highly scalable and is designed to help you kick-start your next project 🔭.
 - [echobind/bisonapp](https://github.com/echobind/bisonapp) - A Full Stack Jamstack in-a-box brought to you by Echobind
@@ -3845,6 +3855,7 @@
 - [osovv/sorting-visualizer](https://github.com/osovv/sorting-visualizer) - App for visualizing different sorting algortihms. Built with React, Typescript, TailwindCSS, daisyUI and Immutable.js.
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
 - [codingcodax/reexjs-cli](https://github.com/codingcodax/reexjs-cli) - An interactive CLI automation tool 🛠️ for creating react.js and next.js projects most fast and efficiently. ⚛️
+- [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -4041,7 +4052,7 @@
 
 ## serverless 
 
-- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - an Infrastructure from Code CLI tool that transforms plain code into cloud native code
+- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [saasify-sh/puppeteer-serverless](https://github.com/saasify-sh/puppeteer-serverless) - Puppeteer for both serverless functions and development.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
@@ -4211,7 +4222,7 @@
 
 ## terraform 
 
-- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - an Infrastructure from Code CLI tool that transforms plain code into cloud native code
+- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 
@@ -4285,7 +4296,7 @@
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [temycodes/nextjs-step-form](https://github.com/temycodes/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [Mutesa-Cedric/whatsapp](https://github.com/Mutesa-Cedric/whatsapp) - web ,desktop and mobile versions of whatsapp.
@@ -4506,7 +4517,6 @@
 
 ## wordpress 
 
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Forms Builder for WordPress
 - [OneSignal/OneSignal-WordPress-Plugin](https://github.com/OneSignal/OneSignal-WordPress-Plugin) - OneSignal is a free push notification service for web and mobile apps. This plugin makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
 - [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration for developing with WordPress
 - [welaika/wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress
