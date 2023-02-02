@@ -31,6 +31,7 @@
 - [Kaitai Struct](#kaitai-struct)
 - [Less](#less)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Max](#max)
 - [NewLisp](#newlisp)
 - [OCaml](#ocaml)
@@ -307,7 +308,7 @@
 ## Go 
 
 - [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
-- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - an Infrastructure from Code CLI tool that transforms plain code into cloud native code
+- [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [askcloudarchitech/mediumautopost](https://github.com/askcloudarchitech/mediumautopost) - 
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -935,7 +936,6 @@
 - [kogg/hovercards](https://github.com/kogg/hovercards) - HoverCards is a chrome extension that lets you see what's behind links from youtube, twitter, reddit, soundcloud, imgur, & instagram — all with out ever leaving the web page you're currently on.
 - [mustpax/sortmybox](https://github.com/mustpax/sortmybox) - Like e-mail filters, for your Dropbox.
 - [jiahaog/ttt](https://github.com/jiahaog/ttt) - A Tic-Tac-Toe game with React and an unbeatable AI
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [el1t/uBlock-Safari](https://github.com/el1t/uBlock-Safari) - uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean.
 - [ageitgey/show-facebook-computer-vision-tags](https://github.com/ageitgey/show-facebook-computer-vision-tags) - A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images
 - [almonk/shrink2](https://github.com/almonk/shrink2) - A professional for your Github issues
@@ -1217,6 +1217,10 @@
 - [syotaro/dotfiles](https://github.com/syotaro/dotfiles) - mydotfiles
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
+
+## Makefile 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Max 
 
@@ -1590,7 +1594,7 @@
 
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
 - [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
 - [krrishdholakia/betterprompt](https://github.com/krrishdholakia/betterprompt) - Test suite for LLM prompts
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
@@ -2253,7 +2257,7 @@
 - [munky69rock/gas-google-form-notifier-to-slack](https://github.com/munky69rock/gas-google-form-notifier-to-slack) - Google Formの通知をGASでSlackに通知する
 - [ohmyform/api](https://github.com/ohmyform/api) - ✏️ Free open source Application Programming Interface API for OhMyForm ⛺
 - [ohmyform/ui](https://github.com/ohmyform/ui) - ✏️ Free open source Web User Interface for OhMyForm  ⛺
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -2358,7 +2362,7 @@
 - [jacob-ebey/remix-pwa](https://github.com/jacob-ebey/remix-pwa) - A template to get a Remix PWA up and running
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Forms Builder for WordPress
+- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Multi Step Forms
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
 - [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
