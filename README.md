@@ -307,6 +307,7 @@
 
 ## Go 
 
+- [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [askcloudarchitech/mediumautopost](https://github.com/askcloudarchitech/mediumautopost) - 
@@ -731,7 +732,6 @@
 - [Terris/redwood-stripe-example](https://github.com/Terris/redwood-stripe-example) - An example Stripe implementation with RedwoodJS
 - [redwoodjs/example-store-stripe](https://github.com/redwoodjs/example-store-stripe) - Redwood Example Store with Stripe Checkout Integration
 - [jamezmca/holy-sheet](https://github.com/jamezmca/holy-sheet) - next.js RESTapi to google sheets
-- [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder based on Next.js 🅧, Tailwind CSS 🍃 & Grapes.js 🍇. Zero-config deployment to Vercel 🚀. Now also supports React!
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [VLabStudio/Tutorials](https://github.com/VLabStudio/Tutorials) - All of the smaller projects I have done in tutorials / project files
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -1921,6 +1921,7 @@
 
 ## Rust 
 
+- [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics
 - [aptos-labs/move](https://github.com/aptos-labs/move) - 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2116,6 +2117,7 @@
 
 ## TypeScript 
 
+- [supabase/examples-archive](https://github.com/supabase/examples-archive) - Supabase Examples Archive
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions.
@@ -2327,6 +2329,7 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [redwoodjs/gitpod-starter](https://github.com/redwoodjs/gitpod-starter) - Create a new Redwood project using Gitpod
 - [nico-limo/next-chakra-sheet-ecommerce](https://github.com/nico-limo/next-chakra-sheet-ecommerce) - A ecommerce created with Next, Typescript and google Sheet
+- [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder based for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [jihyojeon/Missage](https://github.com/jihyojeon/Missage) - An assistant in your hand who improved your work ability and quality of life! Finally, your AI record manager is here. Built with Express, NextJS and MongoDB.
 - [akmalhisyammm/akmalhisyam.my.id](https://github.com/akmalhisyammm/akmalhisyam.my.id) - My personal site developed using Next.js and Chakra UI
 - [legitbeep/nextchakra-starter](https://github.com/legitbeep/nextchakra-starter) - ⚡Next js template filled with linting, typescript, seo, chakra-ui and optional pwa.
@@ -2476,7 +2479,7 @@
 - [solobat/Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal is a push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [meiblorn/ngx-fullpage](https://github.com/meiblorn/ngx-fullpage) - Angular 2 fullPage.js port library
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
