@@ -133,6 +133,7 @@
 - [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [opencv](#opencv)
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
@@ -173,6 +174,7 @@
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
 - [support](#support)
+- [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [telegram](#telegram)
@@ -1349,6 +1351,7 @@
 
 ## image-processing 
 
+- [vilmacio/depixelate](https://github.com/vilmacio/depixelate) - Upscale an image and increase details
 - [cage1016/alfred-paletter](https://github.com/cage1016/alfred-paletter) - Extract palette from an image
 
 ## ios 
@@ -2196,6 +2199,10 @@
 - [oliver-gomes/csswand](https://github.com/oliver-gomes/csswand) - 🎨✨ Hover your wand and use your magic spell to copy beautiful css
 - [Pathgather/please-wait](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads.
 
+## opencv 
+
+- [vilmacio/depixelate](https://github.com/vilmacio/depixelate) - Upscale an image and increase details
+
 ## osint 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -2272,7 +2279,6 @@
 - [electron-userland/electron-installer-windows](https://github.com/electron-userland/electron-installer-windows) - Create a Windows package for your Electron app.
 - [GitbookIO/nuts](https://github.com/GitbookIO/nuts) - :chestnut: Releases/downloads server with auto-updater and GitHub as a backend
 - [andreausu/git-notifier](https://github.com/andreausu/git-notifier) - Get email notifications when someone stars or forks one of your GitHub repos and follows/unfollows you
-- [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [all-contributors/app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [ageitgey/node-unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document
@@ -2690,7 +2696,6 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [teamxenox/storybook-with-next-and-tailwind](https://github.com/teamxenox/storybook-with-next-and-tailwind) - 
 - [Vannsl/vue-contenteditable-form](https://github.com/Vannsl/vue-contenteditable-form) - A Notion-like forn using Vue 3, Vite and TailwindCSS
-- [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
 - [thomasledoux1/notion-blog](https://github.com/thomasledoux1/notion-blog) - 
 - [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads.
 - [getsheety/template-signup-form](https://github.com/getsheety/template-signup-form) - 
@@ -3629,6 +3634,7 @@
 
 ## python 
 
+- [vilmacio/depixelate](https://github.com/vilmacio/depixelate) - Upscale an image and increase details
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
@@ -4170,6 +4176,19 @@
 ## support 
 
 - [helpyio/helpy](https://github.com/helpyio/helpy) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
+
+## svelte 
+
+- [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
+- [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
+- [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
+- [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
+- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit (w/ Houdini) x Tailwind CSS x Histoire x Nhost x Turborepo (pnpm)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta)
+- [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
+- [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
 ## swift 
 
