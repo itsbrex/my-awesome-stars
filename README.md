@@ -1592,6 +1592,7 @@
 
 ## Python 
 
+- [vilmacio/depixelate](https://github.com/vilmacio/depixelate) - Upscale an image and increase details
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
