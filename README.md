@@ -1055,6 +1055,7 @@
 - [christophior/yfitops](https://github.com/christophior/yfitops) - Small app to download Spotify tracks and playlists
 - [Mechazawa/FuckFuckAdblock](https://github.com/Mechazawa/FuckFuckAdblock) - Acts like FuckAdBlock.js but always says that no adblock was detected
 - [TrueCar/gluestick](https://github.com/TrueCar/gluestick) - GlueStick is a command line interface for quickly developing universal web applications using React and Redux.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
 - [devinargenta/spotify-top-songs-react](https://github.com/devinargenta/spotify-top-songs-react) - a spotify "top songs" search app
 - [loverajoel/magicplaylist](https://github.com/loverajoel/magicplaylist) - Get the playlist of your dreams based on a song
 - [MeoMix/StreamusChromeExtension](https://github.com/MeoMix/StreamusChromeExtension) - A YouTube video player as a Google Chrome extension
@@ -1903,7 +1904,6 @@
 - [ttscoff/vitag](https://github.com/ttscoff/vitag) - 
 - [jlund/spotify-export](https://github.com/jlund/spotify-export) - A simple Ruby utility that uses Spotify's Web API to export a playlist as plain text
 - [mateomurphy/beatport](https://github.com/mateomurphy/beatport) - Ruby gem to access the Beatport API
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
 - [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
 - [bassnode/Echotunes](https://github.com/bassnode/Echotunes) - Echonest + iTunes = Sweet Playlists
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -2347,7 +2347,7 @@
 - [asnunes/notion-page-to-html](https://github.com/asnunes/notion-page-to-html) - NodeJS tool to convert public Notion pages to HTML from page ID
 - [Kazuki-tam/gas-slack2notion](https://github.com/Kazuki-tam/gas-slack2notion) - gas-slack2notion is a starter kit to post messages via Google Sheets from Slack to Notion.
 - [cbyrneee/audition](https://github.com/cbyrneee/audition) - Audition is a web application made with Next.JS that recommends artists on Spotify based on your music taste
-- [albingroen/react-cmdk](https://github.com/albingroen/react-cmdk) - 🔍 A fast, accessible, and pretty command palette for React
+- [albingroen/react-cmdk](https://github.com/albingroen/react-cmdk) - A fast, accessible, and pretty command palette for React
 - [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - 🔮 Codeball – AI Code Review that finds bugs and fast-tracks your code
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [azerpas/paname-sneakers-bot](https://github.com/azerpas/paname-sneakers-bot) - Open-sourcing my Sneakers Raffle Cloud Bot, paname.io
