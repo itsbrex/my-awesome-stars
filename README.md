@@ -504,6 +504,7 @@
 
 ## JavaScript 
 
+- [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
 - [zahidkhawaja/langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs) - Next.js frontend for LangChain Chat.
 - [Nutlope/whatisdevrel](https://github.com/Nutlope/whatisdevrel) - A site that explains what developer relations is
 - [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - my portfolio
@@ -698,7 +699,7 @@
 - [nao5151/google-sheets-tab-search](https://github.com/nao5151/google-sheets-tab-search) - chrome extension to make it easy to switch between google sheets tab
 - [dhawaldenny/GoogleSheetBulkUpdateChromeExtension](https://github.com/dhawaldenny/GoogleSheetBulkUpdateChromeExtension) - Google Sheet Bulk Update Chrome Extension
 - [MartynasRaf/Taggy](https://github.com/MartynasRaf/Taggy) - Chrome extension + Google sheets integration
-- [philc/sheetkeys](https://github.com/philc/sheetkeys) - A Chrome extension which adds Vim-style shortcuts to Google Sheets
+- [philc/sheetkeys](https://github.com/philc/sheetkeys) - A browser extension which adds Vim-style shortcuts to Google Sheets
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
@@ -756,7 +757,7 @@
 - [Manoj-Athi/Input-animation-gmail](https://github.com/Manoj-Athi/Input-animation-gmail) - Google style input animation using tailwind css
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
 - [Kareemfahmy97/GroupChat-react](https://github.com/Kareemfahmy97/GroupChat-react) - Full Stack Realtime Chat Messaging Application with authintication, direct messages, group chats creation, emojis & reactions, giphs, edit and delete messages, reply and specialized commands as forwar
-- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
+- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - ⭐️ Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
 - [sawolabs/NEXT-Sample-App](https://github.com/sawolabs/NEXT-Sample-App) - 
 - [jesstelford/extract-to-react](https://github.com/jesstelford/extract-to-react) - Chrome/Chromium extension for easy HTML to React conversion.
 - [gaurangrshah/next-supabase-starter](https://github.com/gaurangrshah/next-supabase-starter) - 
@@ -826,7 +827,7 @@
 - [vercel/reactions](https://github.com/vercel/reactions) - Next.js Incremental Static Regeneration Demo
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 - [racmathafidz/racmathafidz.com](https://github.com/racmathafidz/racmathafidz.com) - My personal website to show my portfolio:wave:
-- [dmc21/playing-with-next](https://github.com/dmc21/playing-with-next) - Serverless App using Nextjs and firebase tools. I'm used firebase auth and firestore for store the data. Also I´m used NextUI library for the UI application and Formik for form validation
+- [dmc21/playing-with-next](https://github.com/dmc21/playing-with-next) - Serverless App using Nextjs and firebase tools. I used firebase auth and firestore for store the data. Also I´m used NextUI library for the UI application and Formik for form validation
 - [anirudha4/next-auth-template](https://github.com/anirudha4/next-auth-template) - A nextjs template with google authentication which uses next-auth for authentication and nextui as the UI component library
 - [laroybafi/my-website](https://github.com/laroybafi/my-website) - This is my personal website resume and portfolio built by NextJS and NextUI
 - [Uvacoder/davdev-gallery-nextui](https://github.com/Uvacoder/davdev-gallery-nextui) - 
@@ -1176,6 +1177,7 @@
 - [rev087/ng-inspector](https://github.com/rev087/ng-inspector) - The AngularJS inspector pane for your browser
 - [jimschubert/NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect) - NewTab Redirect! is an extension for Google Chrome which allows the user to replace the page displayed when creating a new tab.
 - [solygen/userscripts](https://github.com/solygen/userscripts) - ...my personalized web
+- [kylegilman/video-embed-thumbnail-generator](https://github.com/kylegilman/video-embed-thumbnail-generator) - A WordPress plugin that generates thumbnails, HTML5-compliant videos, and embed codes for locally hosted videos. Requires FFMPEG or LIBAV for encoding.
 
 ## Jinja 
 
@@ -1584,7 +1586,6 @@
 - [tylerhall/HomeAway](https://github.com/tylerhall/HomeAway) - A collection of PHP scripts I use for controlling my house via GeoHooks.io
 - [wealthbot-io/wealthbot](https://github.com/wealthbot-io/wealthbot) - Use wealthbot.io to easily setup your own wealth management platform ⛺
 - [cargomedia/osx-setup](https://github.com/cargomedia/osx-setup) - UNMAINTAINED - Setup OS X
-- [kylegilman/video-embed-thumbnail-generator](https://github.com/kylegilman/video-embed-thumbnail-generator) - A WordPress plugin that generates thumbnails, HTML5-compliant videos, and embed codes for locally hosted videos. Requires FFMPEG or LIBAV for encoding.
 
 ## Perl 
 
@@ -1612,7 +1613,7 @@
 - [Sobhan-SRZA/Discord-Nitro-Genarator-py](https://github.com/Sobhan-SRZA/Discord-Nitro-Genarator-py) - Hello dear friends, This is nitro generator bot for discord.py 🤖
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [SeanChenxy/Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) - 
@@ -2128,7 +2129,7 @@
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
 - [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [graphlatte/graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind
 - [ektogamat/camera-webgi](https://github.com/ektogamat/camera-webgi) - A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.
