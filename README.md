@@ -725,7 +725,6 @@
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [charles-clerk-dev/new-wave-stack](https://github.com/charles-clerk-dev/new-wave-stack) - Custom Remix stack using Clerk for authentication and full user management.
 - [devidw/ghrns](https://github.com/devidw/ghrns) - GitHub Repository Naming Suggestion Service: AI powered naming suggestions for your GitHub repositories
-- [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [jordicapellad3s/porfolio](https://github.com/jordicapellad3s/porfolio) - 🏠 Project website to learn Next and Chakra UI components
 - [FelixChenC/chakra-homepage](https://github.com/FelixChenC/chakra-homepage) - My home page using chakra and next.js
 - [clerkinc/clerk-nextjs-starter](https://github.com/clerkinc/clerk-nextjs-starter) - Official starter repo for Clerk and Next.js
@@ -1464,7 +1463,7 @@
 - [tjluoma/lockscreen](https://github.com/tjluoma/lockscreen) - How to lock your Mac with a keyboard shortcut
 - [polarity/polarity-music-tools](https://github.com/polarity/polarity-music-tools) - 🔥 Bitwig presets by polarity for you to use. Every week new stuff for bitwig & popular vsts.
 - [peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity) - Blockchain and Identity
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [rfletcher/Evernote-URI-Handler](https://github.com/rfletcher/Evernote-URI-Handler) - A simple custom URI handler for Evernote.
 - [psyrendust/alfred-workflows](https://github.com/psyrendust/alfred-workflows) - My Alfred Workflows
@@ -2332,6 +2331,7 @@
 - [makeswift/makeswift](https://github.com/makeswift/makeswift) - 
 - [ShafSpecs/rockspec-stack](https://github.com/ShafSpecs/rockspec-stack) - A fully configurable & customizable Remix PWA stack.
 - [ShafSpecs/Remix-FakeShop](https://github.com/ShafSpecs/Remix-FakeShop) - A simple e-commerce PWA built with ♥ with Remix 💿.
+- [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [olafsulich/fullstack-nextjs-ecommerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - Fullstack Next.js E-Commerce made with NextAuth + Prisma, Docker + TypeScript + React Query + Stripe + Tailwind Sentry and much more 🛒
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [redwoodjs/gitpod-starter](https://github.com/redwoodjs/gitpod-starter) - Create a new Redwood project using Gitpod
