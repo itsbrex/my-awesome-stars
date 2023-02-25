@@ -29,6 +29,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kaitai Struct](#kaitai-struct)
+- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -87,6 +88,7 @@
 
 ## C 
 
+- [bwhitman/amy](https://github.com/bwhitman/amy) - AMY - the Additive Music synthesizer librarY
 - [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
@@ -134,6 +136,9 @@
 
 ## C++ 
 
+- [dafaronbi/Honors-Thesis](https://github.com/dafaronbi/Honors-Thesis) - Synthesizer Parameter Approximation by Deep Learning
+- [GavinRay97/vital-synth-sdk](https://github.com/GavinRay97/vital-synth-sdk) - Utilities for working with presets for the Vital synth, and hopefully eventual ML explorations
+- [DBraun/DawDreamer](https://github.com/DBraun/DawDreamer) - Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors
 - [monadgroup/axiom](https://github.com/monadgroup/axiom) - A powerful realtime node-based audio synthesizer.
 - [BeatRossmy/PunishableAI](https://github.com/BeatRossmy/PunishableAI) - 
 - [BeatRossmy/MidiBrainModule](https://github.com/BeatRossmy/MidiBrainModule) - 
@@ -371,6 +376,7 @@
 
 ## HTML 
 
+- [jakespracher/ml-synth-preset-generator](https://github.com/jakespracher/ml-synth-preset-generator) - Machine Learning with Synthesizers
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension) - Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -504,6 +510,7 @@
 
 ## JavaScript 
 
+- [DarceyLloyd/serum-preset-collector](https://github.com/DarceyLloyd/serum-preset-collector) - Serum Preset Collector
 - [zaarheed/transvribe](https://github.com/zaarheed/transvribe) - 
 - [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
 - [zahidkhawaja/langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs) - Next.js frontend for LangChain Chat.
@@ -1204,6 +1211,10 @@
 
 - [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
 
+## Kotlin 
+
+- [fsynthlib/fsynth](https://github.com/fsynthlib/fsynth) - Music synthesizer, written for fun and to learn stuff
+
 ## Less 
 
 - [edipox/n1-ido](https://github.com/edipox/n1-ido) - Ido is a clean, simple, Polymail-inspired theme for Mailspring
@@ -1334,6 +1345,7 @@
 
 ## Others 
 
+- [nikoszs/serum-copy](https://github.com/nikoszs/serum-copy) - 🌌 Install all serum presets in one go ⚡
 - [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
 - [bhagyas/app-urls](https://github.com/bhagyas/app-urls) - A long list of App URLs for iOS, macOS and Android
 - [autonomousvision/stylegan-t](https://github.com/autonomousvision/stylegan-t) - [ARXIV'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis
@@ -1594,6 +1606,10 @@
 
 ## Python 
 
+- [dafaronbi/Automatic-Synthesizer-Programming](https://github.com/dafaronbi/Automatic-Synthesizer-Programming) - 
+- [dafaronbi/Serum-FXP-Python-Reader](https://github.com/dafaronbi/Serum-FXP-Python-Reader) - python scripts to read and write too serum fxp preset files
+- [spiegelib/spiegelib](https://github.com/spiegelib/spiegelib) - Automatic Synthesizer Programming Library
+- [michael-jan/antithesis](https://github.com/michael-jan/antithesis) - Using machine learning to reverse-engineer synth presets from raw audio.
 - [gwinndr/MusicTransformer-Pytorch](https://github.com/gwinndr/MusicTransformer-Pytorch) - MusicTransformer written for MaestroV2 using the Pytorch framework for music generation
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [hukkelas/deep_privacy2](https://github.com/hukkelas/deep_privacy2) - DeepPrivacy2 - A Toolbox for Realistic Image Anonymization
@@ -2123,6 +2139,7 @@
 
 ## TypeScript 
 
+- [HiDeoo/vercel-env-push](https://github.com/HiDeoo/vercel-env-push) - The missing Vercel CLI command to push environment variables from .env files.
 - [supabase/examples-archive](https://github.com/supabase/examples-archive) - Supabase Examples Archive
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
@@ -2362,7 +2379,7 @@
 - [mggzmn/next_course_static](https://github.com/mggzmn/next_course_static) - ✨Nextjs ✨Course ✨Pokemon ✨Static Generated App ✨Typescript ✨NextUI✨Axios
 - [amartinm7/next-movies-app](https://github.com/amartinm7/next-movies-app) - nextjs movies app with nextui components
 - [dragonman225/notablog](https://github.com/dragonman225/notablog) - Tell stories of your work with Notion
-- [vickOnRails/next-starter-peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs starter for software engineers and designers to show work they're so proud of
+- [vickonrails/next-starter-peacock](https://github.com/vickonrails/next-starter-peacock) - 🦚 Beautiful Nextjs starter for software engineers and designers to show work they're so proud of
 - [jellydn/next-app-starter](https://github.com/jellydn/next-app-starter) - Another awesome starter for your app base on nextjs + tailwind + react-query + zod + react-hook-form + next-auth +  jotai
 - [okisdev/Notion-Blog-React](https://github.com/okisdev/Notion-Blog-React) - Blog powered by Notion, built with React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
