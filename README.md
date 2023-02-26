@@ -854,7 +854,6 @@
 - [NoriSte/whatsapp-messages-batch](https://github.com/NoriSte/whatsapp-messages-batch) - An easy way to write WhatsApp messages in advance and batch 'em all
 - [dragonman225/trigger-webhook-from-notion](https://github.com/dragonman225/trigger-webhook-from-notion) - Add a button that can trigger a POST webhook in Notion.so's table.
 - [Matthew-Mallimo/remix-notion-example](https://github.com/Matthew-Mallimo/remix-notion-example) - An example on how to connect a Remix form to a Notion DB
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [mubaidr/pixi.js](https://github.com/mubaidr/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
 - [mubaidr/prerender-spa-plugin](https://github.com/mubaidr/prerender-spa-plugin) - Prerenders static HTML in a single-page application.
@@ -1630,7 +1629,7 @@
 - [Sobhan-SRZA/Nitro-Genarator-Bot](https://github.com/Sobhan-SRZA/Nitro-Genarator-Bot) - This is nitro generator bot for discord and build with discord.py and ❤️
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [SeanChenxy/Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) - 
@@ -1645,7 +1644,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - GPT Index (LlamaIndex) is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
+- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
@@ -2476,6 +2475,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [igornfaustino/nfaustino.com](https://github.com/igornfaustino/nfaustino.com) - my personal website
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [alanhg/alfred-utils](https://github.com/alanhg/alfred-utils) - Alfred Workflow SDK
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
