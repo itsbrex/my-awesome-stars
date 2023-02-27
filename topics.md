@@ -1204,7 +1204,6 @@
 - [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - Experimental:  Artifact (generation|automation|x) tool and a general purpose (low|no|x) (code|x) (generator|automator|xmator) 🐪.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
-- [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -3200,7 +3199,7 @@
 - [steve228uk/QBlocker](https://github.com/steve228uk/QBlocker) - :no_entry_sign: Stop accidentally quitting apps
 - [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks) - An easy way to fine-tune, and adjust parameters for iOS apps in development.
 - [tapsandswipes/InterAppCommunication](https://github.com/tapsandswipes/InterAppCommunication) - x-callback-url made easy
-- [shpakovski/MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
+- [cocoabits/MASShortcut](https://github.com/cocoabits/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
 - [facebookarchive/Shimmer](https://github.com/facebookarchive/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [pfandrade/Laurine](https://github.com/pfandrade/Laurine) - Laurine - Localization code generator written in Swift. Sweet!
 - [Omgitsonlyalex/Crowder-Email-Template](https://github.com/Omgitsonlyalex/Crowder-Email-Template) - Crowder Email Template
