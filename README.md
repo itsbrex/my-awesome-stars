@@ -510,6 +510,7 @@
 
 ## JavaScript 
 
+- [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Easily create and manage your local and Vercel deployment environment .env files and variables.
 - [DarceyLloyd/serum-preset-collector](https://github.com/DarceyLloyd/serum-preset-collector) - Serum Preset Collector
 - [zaarheed/transvribe](https://github.com/zaarheed/transvribe) - 
 - [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
