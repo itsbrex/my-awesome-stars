@@ -591,6 +591,7 @@
 
 ## cli 
 
+- [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Easily create and manage your local and Vercel deployment environment .env files and variables.
 - [HiDeoo/vercel-env-push](https://github.com/HiDeoo/vercel-env-push) - The missing Vercel CLI command to push environment variables from .env files.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
