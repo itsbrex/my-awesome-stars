@@ -2218,6 +2218,7 @@
 
 ## others 
 
+- [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [dafaronbi/Honors-Thesis](https://github.com/dafaronbi/Honors-Thesis) - Synthesizer Parameter Approximation by Deep Learning
 - [dafaronbi/Automatic-Synthesizer-Programming](https://github.com/dafaronbi/Automatic-Synthesizer-Programming) - 
 - [dafaronbi/Serum-FXP-Python-Reader](https://github.com/dafaronbi/Serum-FXP-Python-Reader) - python scripts to read and write too serum fxp preset files
