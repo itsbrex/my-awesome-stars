@@ -376,6 +376,7 @@
 
 ## HTML 
 
+- [foobar404/wave.js](https://github.com/foobar404/wave.js) - Audio visualizer library for javascript. Create dynamic animations that react to an audio file or audio stream.
 - [jakespracher/ml-synth-preset-generator](https://github.com/jakespracher/ml-synth-preset-generator) - Machine Learning with Synthesizers
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension) - Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩
@@ -510,6 +511,9 @@
 
 ## JavaScript 
 
+- [maximecb/noisecraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis.
+- [preziotte/party-mode](https://github.com/preziotte/party-mode) - An experimental music visualizer using d3.js and the web audio api.
+- [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
 - [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Easily create and manage your local and Vercel deployment environment .env files and variables.
 - [DarceyLloyd/serum-preset-collector](https://github.com/DarceyLloyd/serum-preset-collector) - Serum Preset Collector
 - [zaarheed/transvribe](https://github.com/zaarheed/transvribe) - 
@@ -1345,6 +1349,7 @@
 
 ## Others 
 
+- [smyth64/music-production-links](https://github.com/smyth64/music-production-links) - 
 - [nikoszs/serum-copy](https://github.com/nikoszs/serum-copy) - 🌌 Install all serum presets in one go ⚡
 - [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
 - [bhagyas/app-urls](https://github.com/bhagyas/app-urls) - A long list of App URLs for iOS, macOS and Android
@@ -1606,6 +1611,7 @@
 
 ## Python 
 
+- [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [dafaronbi/Automatic-Synthesizer-Programming](https://github.com/dafaronbi/Automatic-Synthesizer-Programming) - 
 - [dafaronbi/Serum-FXP-Python-Reader](https://github.com/dafaronbi/Serum-FXP-Python-Reader) - python scripts to read and write too serum fxp preset files
 - [spiegelib/spiegelib](https://github.com/spiegelib/spiegelib) - Automatic Synthesizer Programming Library
@@ -2140,6 +2146,10 @@
 
 ## TypeScript 
 
+- [Tonejs/Midi](https://github.com/Tonejs/Midi) - Convert MIDI into Tone.js-friendly JSON
+- [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.
+- [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
+- [stevenwaterman/musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World
 - [HiDeoo/vercel-env-push](https://github.com/HiDeoo/vercel-env-push) - The missing Vercel CLI command to push environment variables from .env files.
 - [supabase/examples-archive](https://github.com/supabase/examples-archive) - Supabase Examples Archive
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
@@ -2536,6 +2546,7 @@
 
 ## Vue 
 
+- [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [mandatoryprogrammer/ChromeGalvanizer](https://github.com/mandatoryprogrammer/ChromeGalvanizer) - Harden your Chrome browser via enterprise policy.
 - [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
