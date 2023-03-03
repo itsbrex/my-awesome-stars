@@ -407,6 +407,7 @@
 - [nimezhu/sheetid](https://github.com/nimezhu/sheetid) - google chrome extension to extract sheet id
 - [theianchan/base-sheets-daily](https://github.com/theianchan/base-sheets-daily) - Chrome extension with Google Sheets backend
 - [pickuperast/google_script_post_get_to_web](https://github.com/pickuperast/google_script_post_get_to_web) - 
+- [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder based for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [letswritetw/letswrite-google-excel-db-en](https://github.com/letswritetw/letswrite-google-excel-db-en) - How to use Google Sheets as a database
 - [crisp-im/crisp-snippets](https://github.com/crisp-im/crisp-snippets) - 👾 Snippets to help you build code for your Crisp Chatbox & more.
 - [thedevdrawer/html-to-react](https://github.com/thedevdrawer/html-to-react) - Convert and HTML Website to React
@@ -1611,8 +1612,9 @@
 
 ## Python 
 
+- [rubberduck-ai/repository-index](https://github.com/rubberduck-ai/repository-index) - 
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
-- [dafaronbi/Automatic-Synthesizer-Programming](https://github.com/dafaronbi/Automatic-Synthesizer-Programming) - 
+- [dafaronbi/Multi-Task-Automatic-Synthesizer-Programming](https://github.com/dafaronbi/Multi-Task-Automatic-Synthesizer-Programming) - 
 - [dafaronbi/Serum-FXP-Python-Reader](https://github.com/dafaronbi/Serum-FXP-Python-Reader) - python scripts to read and write too serum fxp preset files
 - [spiegelib/spiegelib](https://github.com/spiegelib/spiegelib) - Automatic Synthesizer Programming Library
 - [michael-jan/antithesis](https://github.com/michael-jan/antithesis) - Using machine learning to reverse-engineer synth presets from raw audio.
@@ -2154,7 +2156,7 @@
 - [supabase/examples-archive](https://github.com/supabase/examples-archive) - Supabase Examples Archive
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
-- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions.
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
 - [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
@@ -2223,7 +2225,7 @@
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.2 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
-- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [skovy/font-awesome-codemod](https://github.com/skovy/font-awesome-codemod) - ⚙️ Font Awesome codemod script
@@ -2319,7 +2321,7 @@
 - [theKashey/react-remove-scroll-bar](https://github.com/theKashey/react-remove-scroll-bar) - Remove document scroll bar. Nothing more
 - [huv1k/nextjs-auth-prisma](https://github.com/huv1k/nextjs-auth-prisma) - Full-stack boilerplate template.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [TristanWYL/redwood-realworld-example-app](https://github.com/TristanWYL/redwood-realworld-example-app) - redwood for realworld
 - [reck1ess/next-realworld-example-app](https://github.com/reck1ess/next-realworld-example-app) - Exemplary real world application built with Next.js + SWR
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
@@ -2364,7 +2366,6 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [redwoodjs/gitpod-starter](https://github.com/redwoodjs/gitpod-starter) - Create a new Redwood project using Gitpod
 - [nico-limo/next-chakra-sheet-ecommerce](https://github.com/nico-limo/next-chakra-sheet-ecommerce) - A ecommerce created with Next, Typescript and google Sheet
-- [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder based for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [jihyojeon/Missage](https://github.com/jihyojeon/Missage) - An assistant in your hand who improved your work ability and quality of life! Finally, your AI record manager is here. Built with Express, NextJS and MongoDB.
 - [akmalhisyammm/akmalhisyam.my.id](https://github.com/akmalhisyammm/akmalhisyam.my.id) - My personal site developed using Next.js and Chakra UI
 - [legitbeep/nextchakra-starter](https://github.com/legitbeep/nextchakra-starter) - ⚡Next js template filled with linting, typescript, seo, chakra-ui and optional pwa.
