@@ -771,7 +771,7 @@
 - [Manoj-Athi/Input-animation-gmail](https://github.com/Manoj-Athi/Input-animation-gmail) - Google style input animation using tailwind css
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
 - [Kareemfahmy97/GroupChat-react](https://github.com/Kareemfahmy97/GroupChat-react) - Full Stack Realtime Chat Messaging Application with authintication, direct messages, group chats creation, emojis & reactions, giphs, edit and delete messages, reply and specialized commands as forwar
-- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - ⭐️ Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
+- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
 - [sawolabs/NEXT-Sample-App](https://github.com/sawolabs/NEXT-Sample-App) - 
 - [jesstelford/extract-to-react](https://github.com/jesstelford/extract-to-react) - Chrome/Chromium extension for easy HTML to React conversion.
 - [gaurangrshah/next-supabase-starter](https://github.com/gaurangrshah/next-supabase-starter) - 
