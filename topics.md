@@ -110,7 +110,9 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [localization](#localization)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -276,6 +278,7 @@
 
 ## api 
 
+- [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -515,6 +518,7 @@
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
+- [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API from anywhere
 
 ## chrome 
 
@@ -1204,6 +1208,8 @@
 
 ## hacktoberfest 
 
+- [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
+- [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1368,6 +1374,7 @@
 
 ## ios 
 
+- [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
@@ -1669,12 +1676,34 @@
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
+## localization 
+
+- [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
+
 ## lua 
 
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
+
+## mac 
+
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+- [SoloUnity/macos-apps-and-enhancements](https://github.com/SoloUnity/macos-apps-and-enhancements) - Awesome apps for macOS
+- [jereze/alfred-salesforce](https://github.com/jereze/alfred-salesforce) - Search in Salesforce from your Mac (Alfred worklow)
+- [cemolcay/MusicTheory](https://github.com/cemolcay/MusicTheory) - Universal music theory library for iOS, iPadOS, macOS, tvOS and watchOS in Swift
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+- [vincelwt/harmony](https://github.com/vincelwt/harmony) - :musical_note: Sleek music player for Spotify, SoundCloud, Google Play Music and your local files
+- [edipox/n1-ido](https://github.com/edipox/n1-ido) - Ido is a clean, simple, Polymail-inspired theme for Mailspring
+- [rahulsend89/Shortcut](https://github.com/rahulsend89/Shortcut) - Mac Shotcut Application
+- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+- [andresgottlieb/soundcast](https://github.com/andresgottlieb/soundcast) - Cast audio from macOS to Chromecast
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
+- [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
+- [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [HackPlan/quark-shell-mac](https://github.com/HackPlan/quark-shell-mac) - Quark Shell for Mac helps web developers to create native-like Mac menubar app using HTML and JavaScript without writing any native code.
 
 ## machine-learning 
 
@@ -1917,6 +1946,7 @@
 
 ## nextjs 
 
+- [btahir/next-shopify-starter](https://github.com/btahir/next-shopify-starter) - Nextjs + Tailwind CSS + Shopify Starter
 - [graphlatte/graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind
 - [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Modern boilerplate with Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Commitlint + PostCSS + Tailwind CSS
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2097,6 +2127,7 @@
 
 ## nodejs 
 
+- [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [juliangruber/browser-run](https://github.com/juliangruber/browser-run) - Run code inside a browser from the command line
@@ -2848,7 +2879,6 @@
 - [mr-pennyworth/alfred-extra-pane](https://github.com/mr-pennyworth/alfred-extra-pane) - Rich previews for Alfred script filters
 - [mr-pennyworth/alfred-fzf](https://github.com/mr-pennyworth/alfred-fzf) - Instant Fuzzy File Search for Alfred
 - [azai91/alfred-venmo-workflow](https://github.com/azai91/alfred-venmo-workflow) - 
-- [jereze/alfred-salesforce](https://github.com/jereze/alfred-salesforce) - Search in Salesforce from your Mac (Alfred worklow)
 - [udivankin/puppeteer-batch-screenshots](https://github.com/udivankin/puppeteer-batch-screenshots) - Make screenshots of your websites in batch
 - [schollz/spotifydownload](https://github.com/schollz/spotifydownload) - A dependency-free Spotify playlist downloader that should just work
 - [nodecraft/2fa-2-slack](https://github.com/nodecraft/2fa-2-slack) - Micro-app to send SMS 2FA codes to a slack Channel. Ideal for teams that want a secure login, without the headaches of a single 2FA gatekeeper.
@@ -3083,7 +3113,6 @@
 - [diklein/Kleinstein](https://github.com/diklein/Kleinstein) - Hide your account list!
 - [oeaeee/n1-stripe](https://github.com/oeaeee/n1-stripe) - A Nylas N1 theme that displays accounts below your messages.
 - [Frique/N1-Berend](https://github.com/Frique/N1-Berend) - A theme for the open source email client Nylas N1
-- [edipox/n1-ido](https://github.com/edipox/n1-ido) - Ido is a clean, simple, Polymail-inspired theme for Mailspring
 - [edipox/elementary-nylas](https://github.com/edipox/elementary-nylas) - Themes for Nylas N1 desktop email client intented to make it more friendly for elementary OS
 - [adambmedia/N1-Predawn](https://github.com/adambmedia/N1-Predawn) - A dark-ui theme for the N1 email client, strongly inspired by Predawn for Atom/Sublime.
 - [maccman/request-profile](https://github.com/maccman/request-profile) - API to access autocomplete data
@@ -3092,7 +3121,6 @@
 - [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
 - [JanX2/ShortcutRecorder](https://github.com/JanX2/ShortcutRecorder) - A user interface control to record key combinations. For Mac OS X, uses Cocoa.
 - [yifanchen/macOS-shortcuts-collection](https://github.com/yifanchen/macOS-shortcuts-collection) - I like shortcuts, I hope you do as well ~~.
-- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [Volorf/Counter](https://github.com/Volorf/Counter) - Counting characters and words in the text layer [Sketch plugin]
 - [JoeMatt/beatportproToTraktor](https://github.com/JoeMatt/beatportproToTraktor) - A utility for converting id3 tags from Beatport Pro into a better format for Traktor's tag importer
 - [Shipow/AlgoliaSearch-Ionic](https://github.com/Shipow/AlgoliaSearch-Ionic) - Algolia Search engine in a ionic app (angular client).
@@ -3562,7 +3590,6 @@
 - [MacGapProject/MacGap1](https://github.com/MacGapProject/MacGap1) - Desktop WebKit wrapper for HTML/CSS/JS applications.
 - [maccman/macgap-rb](https://github.com/maccman/macgap-rb) - Generator for MacGap
 - [HackPlan/power](https://github.com/HackPlan/power) - DEPRECATED
-- [HackPlan/quark-shell-mac](https://github.com/HackPlan/quark-shell-mac) - Quark Shell for Mac helps web developers to create native-like Mac menubar app using HTML and JavaScript without writing any native code.
 - [maxogden/monu](https://github.com/maxogden/monu) - menubar process monitor mac app [ALPHA]
 - [cryptostorm-dev/cstorm_fishycerts.vuln.party](https://github.com/cryptostorm-dev/cstorm_fishycerts.vuln.party) - The Repository Formerly Known As Fishycerts, vuln.party is a place to study & share SSL certificates & other CA-based crypto-buffonery for fun and... more fun. Also for Science!
 - [MengTo/AppStoreSketch](https://github.com/MengTo/AppStoreSketch) - A quick App Store template for Sketch
@@ -3674,6 +3701,7 @@
 
 ## python 
 
+- [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [DBraun/DawDreamer](https://github.com/DBraun/DawDreamer) - Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors
 - [gwinndr/MusicTransformer-Pytorch](https://github.com/gwinndr/MusicTransformer-Pytorch) - MusicTransformer written for MaestroV2 using the Pytorch framework for music generation
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -4244,6 +4272,7 @@
 
 ## swift 
 
+- [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [mhamilt/Audio-Unit-V3-Templates](https://github.com/mhamilt/Audio-Unit-V3-Templates) - A collection of templates for creating Audio Unit V3 in Xcode
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
