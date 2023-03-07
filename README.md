@@ -497,7 +497,7 @@
 - [thuannv/HeartsFlying](https://github.com/thuannv/HeartsFlying) - Hearts fly from bottom to top like Bigo Live when play stream.
 - [Deep-Symmetry/beat-link](https://github.com/Deep-Symmetry/beat-link) - Java library for synchronizing and communicating with Pioneer DJ Link equipment
 - [Deep-Symmetry/wayang](https://github.com/Deep-Symmetry/wayang) - A Java library for displaying images on the Ableton Push 2
-- [Selbi182/SpotifyDiscoveryBot](https://github.com/Selbi182/SpotifyDiscoveryBot) - A Spring-based bot that automatically crawls for new releases by your followed artists. Never miss a Spotify release again!
+- [Selbi182/SpotifyDiscoveryBot](https://github.com/Selbi182/SpotifyDiscoveryBot) - A Java-based bot that automatically crawls for new releases by your followed artists on Spotify. Never miss a release again!
 - [vmunozre/SpotifyDownloader](https://github.com/vmunozre/SpotifyDownloader) - 
 - [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
@@ -1278,6 +1278,7 @@
 
 ## Objective-C 
 
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
 - [bottlepay/flutter_crispchat](https://github.com/bottlepay/flutter_crispchat) - Crisp chat SDK for Flutter
 - [m1entus/SpotifyImporter](https://github.com/m1entus/SpotifyImporter) - Spotify library importer into Apple Music
@@ -1646,7 +1647,7 @@
 - [sdelgadoc/download-tweets-ai-text-gen-plus](https://github.com/sdelgadoc/download-tweets-ai-text-gen-plus) - Python script to download public Tweets from a given Twitter account into a format suitable for AI text generation
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [shobrook/stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
-- [Sobhan-SRZA/Nitro-Genarator-Bot](https://github.com/Sobhan-SRZA/Nitro-Genarator-Bot) - This is nitro generator bot for discord and build with discord.py and ❤️
+- [Sobhan-SRZA/Nitro-Generator-Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) - This is nitro generator bot for discord and build with discord.py and ❤️
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -2161,6 +2162,7 @@
 
 ## TypeScript 
 
+- [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - tsconfig.json paser & paths matcher
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
 - [NodeSecure/npm-registry-sdk](https://github.com/NodeSecure/npm-registry-sdk) - Node.js SDK to fetch data from the npm API.
