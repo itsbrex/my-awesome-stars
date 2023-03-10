@@ -1200,6 +1200,7 @@
 
 ## Jupyter Notebook 
 
+- [Harmonai-org/sample-generator](https://github.com/Harmonai-org/sample-generator) - Tools to train a generative model on arbitrary audio samples
 - [bearpelican/musicautobot](https://github.com/bearpelican/musicautobot) - Using deep learning to generate music in MIDI format.
 - [jskripchuk/Synth1GAN](https://github.com/jskripchuk/Synth1GAN) - A GAN to generate preset banks for famous and free VST plugin Synth1
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -1619,6 +1620,9 @@
 
 ## Python 
 
+- [brannondorsey/midi-rnn](https://github.com/brannondorsey/midi-rnn) - Generate monophonic melodies with machine learning using a basic LSTM RNN
+- [mir-dataset-loaders/mirdata](https://github.com/mir-dataset-loaders/mirdata) - Python library for working with Music Information Retrieval datasets
+- [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21 is a Toolkit for Computational Musicology
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - Convenient MIDI / symbolic music tokenizers for Deep Learning networks 🎶
@@ -1651,7 +1655,7 @@
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [openai/tiktoken](https://github.com/openai/tiktoken) - 
+- [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [SeanChenxy/Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) - 
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
@@ -2162,6 +2166,7 @@
 
 ## TypeScript 
 
+- [zckly/create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - tsconfig.json paser & paths matcher
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
@@ -2424,7 +2429,7 @@
 - [jacob-ebey/remix-pwa](https://github.com/jacob-ebey/remix-pwa) - A template to get a Remix PWA up and running
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Multi Step Forms
+- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone | Typeform WordPress Plugin | Conversational Multi Step Form
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
 - [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
