@@ -88,6 +88,8 @@
 
 ## C 
 
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
+- [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
 - [bwhitman/amy](https://github.com/bwhitman/amy) - AMY - the Additive Music synthesizer librarY
 - [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
@@ -183,6 +185,7 @@
 
 ## CSS 
 
+- [AshirbadGudu/bun-nextjs-app](https://github.com/AshirbadGudu/bun-nextjs-app) - Create a next.js app with bun
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [google/google-api-javascript-client](https://github.com/google/google-api-javascript-client) - Google APIs Client Library for browser JavaScript, aka gapi.
@@ -517,6 +520,9 @@
 
 ## JavaScript 
 
+- [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+- [mr-pennyworth/alfred-fastest-emoji](https://github.com/mr-pennyworth/alfred-fastest-emoji) - Instant search for emojis in Alfred with related keywords
 - [fregante/webext-patterns](https://github.com/fregante/webext-patterns) - Convert the patterns of your WebExtension manifest to regex
 - [dadkakdead/ScrapeMe](https://github.com/dadkakdead/ScrapeMe) - Extract data from any website right in Chrome
 - [shrshk/chatGPT-save-history](https://github.com/shrshk/chatGPT-save-history) - react based chrome extension to save chatGPT history
@@ -578,7 +584,6 @@
 - [jordwalke/paradoc](https://github.com/jordwalke/paradoc) - One Click Docs
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
-- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
@@ -1111,7 +1116,7 @@
 - [rigoneri/syte](https://github.com/rigoneri/syte) - [Archived] A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and muc
 - [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
-- [facebook/flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
+- [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
 - [aurajs/aura](https://github.com/aurajs/aura) - A scalable, event-driven JavaScript architecture for developing component-based applications.
@@ -1287,6 +1292,8 @@
 
 ## Objective-C 
 
+- [lokimeyburg/Stacker](https://github.com/lokimeyburg/Stacker) - Stacker is an iOS view-controller to kickstart development of hybrid native/web iOS apps.
+- [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
 - [bottlepay/flutter_crispchat](https://github.com/bottlepay/flutter_crispchat) - Crisp chat SDK for Flutter
@@ -1631,6 +1638,7 @@
 
 ## Python 
 
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 - [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -2183,6 +2191,7 @@
 
 ## TypeScript 
 
+- [paco0x/vscode-ai-rename](https://github.com/paco0x/vscode-ai-rename) - A Visual Studio Code extension that leverages OpenAI's API to generate naming suggestions and apply new names automatically to symbols in your code.
 - [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
@@ -2210,7 +2219,7 @@
 - [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
 - [stevenwaterman/musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World
-- [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Easily create and manage your local and Vercel deployment environment .env files and variables.
+- [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Auto-generate and maintain your project's .env files
 - [HiDeoo/vercel-env-push](https://github.com/HiDeoo/vercel-env-push) - The missing Vercel CLI command to push environment variables from .env files.
 - [supabase/examples-archive](https://github.com/supabase/examples-archive) - Supabase Examples Archive
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
@@ -2284,6 +2293,7 @@
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.2 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - Your best AI pair programmer - open source only
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
