@@ -1170,7 +1170,7 @@
 - [jaz303/spark](https://github.com/jaz303/spark) - Javascript teaching environment; like Processing with a REPL!
 - [sksmatt/NodeJS-Ableton-Piano](https://github.com/sksmatt/NodeJS-Ableton-Piano) - Controlling Ableton Live via the browser in real time using Node.JS, Express, Socket.IO and MIDI.
 - [carrierdown/m4l-midular](https://github.com/carrierdown/m4l-midular) - Max for Live modular MIDI processing modules, aka Midular
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [din/simplify_web_suite_core](https://github.com/din/simplify_web_suite_core) - Core source code for Simplify browser extensions for web players.
 - [SamyPesse/code2stl](https://github.com/SamyPesse/code2stl) - The Revolution is coming, 3D code like you’ve never seen it before!
 - [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
@@ -1675,7 +1675,7 @@
 - [shobrook/stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
 - [Sobhan-SRZA/Nitro-Generator-Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) - This is nitro generator bot for discord and build with discord.py and ❤️
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
-- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
+- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI's Codex for intelligent README creation.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -1989,6 +1989,7 @@
 
 ## Rust 
 
+- [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [thomasantony/chatgpt-term](https://github.com/thomasantony/chatgpt-term) - A terminal interface to ChatGPT
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
@@ -2032,6 +2033,8 @@
 
 ## Shell 
 
+- [devpolo/gac](https://github.com/devpolo/gac) - One simple command to format and faster your git add and git commit actions.
+- [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Make pseudonymous Git commits over Tor
 - [Flowm/spotify-api-bash](https://github.com/Flowm/spotify-api-bash) - Some scripts to quickly communicate with the spotify web api
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [Xeoncross/macappshell](https://github.com/Xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
@@ -2191,6 +2194,7 @@
 
 ## TypeScript 
 
+- [WebDev-Studios/notion-page-to-html](https://github.com/WebDev-Studios/notion-page-to-html) - NodeJS tool to convert public Notion pages to HTML from page ID
 - [paco0x/vscode-ai-rename](https://github.com/paco0x/vscode-ai-rename) - A Visual Studio Code extension that leverages OpenAI's API to generate naming suggestions and apply new names automatically to symbols in your code.
 - [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
