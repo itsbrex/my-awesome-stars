@@ -234,7 +234,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [jbilcke/latent-browser](https://github.com/jbilcke/latent-browser) - Latent web browser
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation too
+- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [riffusion/riffusion](https://github.com/riffusion/riffusion) - Stable diffusion for real-time music generation
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
@@ -292,6 +292,7 @@
 
 ## api 
 
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
 - [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -314,6 +315,8 @@
 
 ## artificial-intelligence 
 
+- [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
+- [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementations and Models
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [jskripchuk/Synth1GAN](https://github.com/jskripchuk/Synth1GAN) - A GAN to generate preset banks for famous and free VST plugin Synth1
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
@@ -333,7 +336,7 @@
 
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [seed-of-apricot/issue-list-readme](https://github.com/seed-of-apricot/issue-list-readme) - Display issues on the landing page 👀
-- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation too
+- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
 - [transitive-bullshit/puppeteer-email](https://github.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [iammordaty/key-tools](https://github.com/iammordaty/key-tools) - :musical_note: KeyTools is a library that allows you to convert musical keys between notations. In addition, KeyTools allows you to calculate matching keys for harmonic mixing.
@@ -524,12 +527,15 @@
 
 ## chatgpt 
 
+- [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Translate your locale json files with AI assistance.
 - [ybenkirane/DatingGPT](https://github.com/ybenkirane/DatingGPT) - DateGPT Repository: An AI-Powered Guide to Dating Apps
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
+- [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
 - [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
@@ -541,7 +547,7 @@
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [frederickk/chatgpt-figma-plugin](https://github.com/frederickk/chatgpt-figma-plugin) - Experimental Chat GPT plugin for Figma
-- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation too
+- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
 - [yudax42/askai](https://github.com/yudax42/askai) - Command Line Interface for OpenAi ChatGPT
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
@@ -556,6 +562,7 @@
 
 ## chrome 
 
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [juliangruber/browser-run](https://github.com/juliangruber/browser-run) - Run code inside a browser from the command line
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
 - [saasify-sh/puppeteer-serverless](https://github.com/saasify-sh/puppeteer-serverless) - Puppeteer for both serverless functions and development.
@@ -582,6 +589,8 @@
 
 ## chrome-extension 
 
+- [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - One Tab Group | A Chrome extension for reorganizing your open tabs, restoring saved tab sessions, and also restoring tab groups.
 - [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - React and TypeScript Chrome extension example project for developers to create their own extensions.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
@@ -636,12 +645,13 @@
 
 ## cli 
 
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Auto-generate and maintain your project's .env files
 - [HiDeoo/vercel-env-push](https://github.com/HiDeoo/vercel-env-push) - The missing Vercel CLI command to push environment variables from .env files.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation too
+- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [AltriusRS/Shumai](https://github.com/AltriusRS/Shumai) - A delicious new outlook on command line argument handling.
@@ -748,6 +758,7 @@
 
 ## css 
 
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
@@ -874,6 +885,7 @@
 
 ## design 
 
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [Seb-GRAF/tailwind-helper](https://github.com/Seb-GRAF/tailwind-helper) - Tailwindhelper | A Tailwind css multitool for visualizing classes, converting units, and finding colors
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -1105,6 +1117,7 @@
 
 ## git 
 
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [devpolo/gac](https://github.com/devpolo/gac) - One simple command to format and faster your git add and git commit actions.
 - [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Make pseudonymous Git commits over Tor
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
@@ -1127,6 +1140,7 @@
 
 ## github 
 
+- [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [lbarman/github-punchline](https://github.com/lbarman/github-punchline) - Write a message in github's activity graph
 - [xom9ikk/dotenv](https://github.com/xom9ikk/dotenv) - GitHub Action to read .env file and add variables to GITHUB_ENV
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
@@ -1215,6 +1229,7 @@
 
 ## google 
 
+- [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementations and Models
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
@@ -1439,6 +1454,7 @@
 
 ## ios 
 
+- [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [bradhowes/SoundFonts](https://github.com/bradhowes/SoundFonts) - Powerful polyphonic synthesizer for iOS that relies on sound fonts for generating audio - https://bradhowes.github.io/SoundFonts/
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
@@ -1480,6 +1496,8 @@
 
 ## javascript 
 
+- [ricardomatias/playa](https://github.com/ricardomatias/playa) - A framework for musical composition. It allows creating custom music algorithms, musical phrases, percussion rhythms, harmonic sequences and more.
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
@@ -1939,6 +1957,7 @@
 
 ## mongodb 
 
+- [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [jihyojeon/Missage](https://github.com/jihyojeon/Missage) - An assistant in your hand who improved your work ability and quality of life! Finally, your AI record manager is here. Built with Express, NextJS and MongoDB.
@@ -1961,6 +1980,10 @@
 
 ## music 
 
+- [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
+- [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation
+- [ricardomatias/playa](https://github.com/ricardomatias/playa) - A framework for musical composition. It allows creating custom music algorithms, musical phrases, percussion rhythms, harmonic sequences and more.
+- [ricardomatias/ableton-live](https://github.com/ricardomatias/ableton-live) - A library for communicating with Live via WebSockets, works both in NodeJS and in the Browser.
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read audio and music meta data and duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave and AIFF files with python 2 or 3
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
@@ -2037,6 +2060,8 @@
 
 ## nextjs 
 
+- [devkiran/NextAPI](https://github.com/devkiran/NextAPI) - A Next.js RESTful API Starter for building SaaS Apps
+- [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [AshirbadGudu/bun-nextjs-app](https://github.com/AshirbadGudu/bun-nextjs-app) - Create a next.js app with bun
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
 - [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
@@ -2369,6 +2394,12 @@
 
 ## others 
 
+- [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
+- [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
+- [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
+- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [ifyour/code-var](https://github.com/ifyour/code-var) - 🤦‍♂️ No more headaches with variable naming
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [xiaoluoboding/nuxt3-starter](https://github.com/xiaoluoboding/nuxt3-starter) - 💚 A Better Nuxt 3 Starter Template，generate by nuxi.
@@ -2387,7 +2418,6 @@
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
-- [SamPink/gpt-4-python](https://github.com/SamPink/gpt-4-python) - 
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [operandinc/operand-chrome-extension](https://github.com/operandinc/operand-chrome-extension) - Official chrome extension for operand.ai
 - [badoo/Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
@@ -3861,6 +3891,7 @@
 
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [VarunPatelius/Py-iMessenger](https://github.com/VarunPatelius/Py-iMessenger) - Py-iMessenger is a chatbot that works with iMessage to execute commands using text messages.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [mir-dataset-loaders/mirdata](https://github.com/mir-dataset-loaders/mirdata) - Python library for working with Music Information Retrieval datasets
@@ -4131,7 +4162,7 @@
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [sozonome/nextarter-tailwind-daisy](https://github.com/sozonome/nextarter-tailwind-daisy) - battery packed template / boilerplate to initialize PWA ready Next.js app with TailwindCSS - DaisyUI & Typescript setup ✨
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [racmathafidz/racmathafidz.com](https://github.com/racmathafidz/racmathafidz.com) - My personal website to show my portfolio:wave:
@@ -4448,6 +4479,7 @@
 
 ## swift 
 
+- [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [ZekeSnider/Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
 - [bradhowes/SoundFonts](https://github.com/bradhowes/SoundFonts) - Powerful polyphonic synthesizer for iOS that relies on sound fonts for generating audio - https://bradhowes.github.io/SoundFonts/
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
@@ -4480,6 +4512,7 @@
 
 ## swiftui 
 
+- [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
@@ -4545,6 +4578,7 @@
 
 ## typescript 
 
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - React and TypeScript Chrome extension example project for developers to create their own extensions.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
@@ -4564,7 +4598,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [DanielTerletzkiy/chat-gtp-assistant](https://github.com/DanielTerletzkiy/chat-gtp-assistant) - nodejs script that enables continuous conversation with voice recognition and tts speaker responses
 - [frederickk/chatgpt-figma-plugin](https://github.com/frederickk/chatgpt-figma-plugin) - Experimental Chat GPT plugin for Figma
-- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation too
+- [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
 - [rossmoody/ts-extension-starter](https://github.com/rossmoody/ts-extension-starter) - A bare bones starter repo for building Chrome v3 manifest extensions using Typescript, React, and Rollup.
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
@@ -4672,7 +4706,7 @@
 - [codingcodax/reexjs-cli](https://github.com/codingcodax/reexjs-cli) - An interactive CLI automation tool 🛠️ for creating react.js and next.js projects most fast and efficiently. ⚛️
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [sozonome/nextarter-tailwind-daisy](https://github.com/sozonome/nextarter-tailwind-daisy) - battery packed template / boilerplate to initialize PWA ready Next.js app with TailwindCSS - DaisyUI & Typescript setup ✨
 - [QuentinWidlocher/remix-template](https://github.com/QuentinWidlocher/remix-template) - 🔋Batteries included Remix template with Tailwind, Prisma and powerful form utils
 - [pbteja1998/nextjs-starter](https://github.com/pbteja1998/nextjs-starter) - A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier + 
@@ -4789,6 +4823,7 @@
 
 ## webapp 
 
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
