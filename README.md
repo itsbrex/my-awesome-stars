@@ -21,6 +21,7 @@
 - [Go](#go)
 - [Gosu](#gosu)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
@@ -346,7 +347,7 @@
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [mitchellrj/gohue](https://github.com/mitchellrj/gohue) - [Officially featured on the Philips Hue® Developer site] Go library "hue" interfaces Philips Hue devices to control and monitor lights, scenes, schedules, and groups.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [RomainPct/notion-to-google-sheets-task-runner](https://github.com/RomainPct/notion-to-google-sheets-task-runner) - 
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
@@ -382,6 +383,10 @@
 ## Groovy 
 
 - [TheConnMan/Slack-Feedback](https://github.com/TheConnMan/Slack-Feedback) - Chat box for quick app feedback sent to a Slack channel.
+
+## HCL 
+
+- [replay-software/bump](https://github.com/replay-software/bump) - An automated pipeline for releasing apps with Sparkle
 
 ## HTML 
 
@@ -527,6 +532,7 @@
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [WoolDoughnut310/gistify](https://github.com/WoolDoughnut310/gistify) - Chrome extension to display Copy To Gist button on code blocks.
@@ -656,7 +662,7 @@
 - [ongakubu/gas-form-tips](https://github.com/ongakubu/gas-form-tips) - Useful tips for Google Forms made of Google Apps Script.
 - [yshir/gas-gform-gsheet](https://github.com/yshir/gas-gform-gsheet) - create google form by google sheet
 - [yuki-nagano/booking-system-with-GAS](https://github.com/yuki-nagano/booking-system-with-GAS) - A simple booking system using GAS(Google Apps Script) + Google Calendar + Google Forms
-- [levinunnink/html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2022 Script Editor)
+- [levinunnink/html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2023 Script Editor)
 - [image-charts/google-sheets-add-on-dependency-graph](https://github.com/image-charts/google-sheets-add-on-dependency-graph) - Insert a dependency graph in Google Sheets (custom formula)
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [temycodes/nextjs-step-form](https://github.com/temycodes/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
@@ -1384,7 +1390,6 @@
 
 ## Others 
 
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [aamir-sidd/GPT-4](https://github.com/aamir-sidd/GPT-4) - Brief introduction about GPT-4
@@ -2060,6 +2065,7 @@
 
 ## Shell 
 
+- [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://bit.ly/n-install | bash
 - [bigb123/beatport-aiff-converter](https://github.com/bigb123/beatport-aiff-converter) - Script that uses ffmpeg and metaflac to convert big and uncompressed aiff files to loseless files (including cover art).
 - [devpolo/gac](https://github.com/devpolo/gac) - One simple command to format and faster your git add and git commit actions.
 - [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Make pseudonymous Git commits over Tor
@@ -2225,6 +2231,8 @@
 
 ## TypeScript 
 
+- [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
+- [lostintangent/codeswing](https://github.com/lostintangent/codeswing) - VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [ricardomatias/playa](https://github.com/ricardomatias/playa) - A framework for musical composition. It allows creating custom music algorithms, musical phrases, percussion rhythms, harmonic sequences and more.
 - [ricardomatias/ableton-live](https://github.com/ricardomatias/ableton-live) - A library for communicating with Live via WebSockets, works both in NodeJS and in the Browser.
