@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [adamchainz/abledecoder](https://github.com/adamchainz/abledecoder) - decrypts Ableton DRM-protected *.aif files
 - [anysphere/gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
 - [dafaronbi/Honors-Thesis](https://github.com/dafaronbi/Honors-Thesis) - Synthesizer Parameter Approximation by Deep Learning
 - [GavinRay97/vital-synth-sdk](https://github.com/GavinRay97/vital-synth-sdk) - Utilities for working with presets for the Vital synth, and hopefully eventual ML explorations
@@ -1662,6 +1663,7 @@
 
 ## Python 
 
+- [eggplants/extension-manifest-converter](https://github.com/eggplants/extension-manifest-converter) - Chrome Extension Manifest V2 to V3 Converter
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation
@@ -2234,6 +2236,13 @@
 
 ## TypeScript 
 
+- [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
+- [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
+- [munron/mv3-vue-chrome-extension-template](https://github.com/munron/mv3-vue-chrome-extension-template) - Support Manifest V3 , Vue3 , Typescript, Hot Reload, Firebase Authentication
+- [Swizec/article-threader](https://github.com/Swizec/article-threader) - Smöl tool that turns URLs into twitter threads
+- [penrodlol/demo-nextjs-browser-extension](https://github.com/penrodlol/demo-nextjs-browser-extension) - This project is a Next.js application that can be bundled into a browser extension.
+- [fuyutarow/solid-chrome-extension-template](https://github.com/fuyutarow/solid-chrome-extension-template) - Chrome Extension Boilerplate with SolidJS + Vite + TypeScript + Manifest V3 + Hot Relaod
+- [nirazanbasnet/starter-kit-for-building-a-chrome-extension-using-reactjs](https://github.com/nirazanbasnet/starter-kit-for-building-a-chrome-extension-using-reactjs) - Starter Kit for Building a Chrome Extension using ReactJs
 - [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
 - [lostintangent/codeswing](https://github.com/lostintangent/codeswing) - VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
@@ -2252,7 +2261,7 @@
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [paulphys/spotify-next-auth-token-rotation](https://github.com/paulphys/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open-source ChatGPT UI.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [matthewwong525/linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) - Host your second brain for free with Next.JS and Tailwind v3
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [operandinc/operand-chrome-extension](https://github.com/operandinc/operand-chrome-extension) - Official chrome extension for operand.ai
