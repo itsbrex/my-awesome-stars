@@ -215,6 +215,7 @@
 
 ## ai 
 
+- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - An AI-powered debugger
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
@@ -295,6 +296,7 @@
 
 ## api 
 
+- [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
 - [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
@@ -540,7 +542,7 @@
 
 - [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
-- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
@@ -1006,6 +1008,7 @@
 
 ## es6 
 
+- [grimmdude/MidiPlayerJS](https://github.com/grimmdude/MidiPlayerJS) - ♬ MIDI parser & player engine for browser or Node.  As a parser converts MIDI events into JSON.  Works well with single or multitrack MIDI files.
 - [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
 - [codingcodax/reexjs-cli](https://github.com/codingcodax/reexjs-cli) - An interactive CLI automation tool 🛠️ for creating react.js and next.js projects most fast and efficiently. ⚛️
 - [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
@@ -1528,6 +1531,10 @@
 
 ## javascript 
 
+- [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
+- [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
+- [hisschemoller/music-pattern-generator](https://github.com/hisschemoller/music-pattern-generator) - Javascript MIDI Music Pattern Generator
+- [colxi/midi-parser-js](https://github.com/colxi/midi-parser-js) - JSON Human readable MIDI sequences. Read from ArrayBuffers, Base64 encoded strings, or FileInput Element in Browsers.
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [ricardomatias/playa](https://github.com/ricardomatias/playa) - A framework for musical composition. It allows creating custom music algorithms, musical phrases, percussion rhythms, harmonic sequences and more.
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
@@ -1714,6 +1721,7 @@
 
 ## js 
 
+- [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
 - [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
@@ -2016,6 +2024,7 @@
 
 ## music 
 
+- [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
 - [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation
 - [ricardomatias/playa](https://github.com/ricardomatias/playa) - A framework for musical composition. It allows creating custom music algorithms, musical phrases, percussion rhythms, harmonic sequences and more.
@@ -2434,6 +2443,16 @@
 
 ## others 
 
+- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [TheRealRajan/Toast-Notifications](https://github.com/TheRealRajan/Toast-Notifications) - Toast notifications that show up on the bottom right corner of the screen when you click on a button.
+- [GavinJoyce/tailwindcss-question-mark](https://github.com/GavinJoyce/tailwindcss-question-mark) - Adds a helpful ❓ dev time utility class
+- [declare-lab/flan-alpaca](https://github.com/declare-lab/flan-alpaca) - This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5.
+- [StanfordASL/ALPaCA](https://github.com/StanfordASL/ALPaCA) - Code for "Meta-Learning Priors for Efficient Online Bayesian Regression" by James Harrison, Apoorva Sharma, and Marco Pavone
+- [gururise/AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) - Alpaca dataset from Stanford, cleaned and curated
+- [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [volca/markdown-preview](https://github.com/volca/markdown-preview) - Markdown Preview Plus -- Enables Chrome to render markdown files as HTML
+- [Peter-Schorn/SpotifyAPIExampleApp](https://github.com/Peter-Schorn/SpotifyAPIExampleApp) - An Example App that demonstrates the usage of SpotifyAPI.
 - [segmentio/chrome-sidebar](https://github.com/segmentio/chrome-sidebar) - Easiest way to embed an iframe as a chrome extension
 - [cedrickchee/tch-js](https://github.com/cedrickchee/tch-js) - A JavaScript and TypeScript port of PyTorch C++ library (libtorch) - Node.js N-API bindings for libtorch.
 - [cempehlivan/chatgpt-prompt-chrome-extension](https://github.com/cempehlivan/chatgpt-prompt-chrome-extension) - ChatGPT Prompts Chrome Extension
@@ -2550,7 +2569,6 @@
 - [MikeBeas/switchblade](https://github.com/MikeBeas/switchblade) - A self-hosted Apple Shortcuts distribution platform
 - [mattt/OpenAI](https://github.com/mattt/OpenAI) - A Swift client for the OpenAI API.
 - [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
-- [Nithur-M/codexplainer](https://github.com/Nithur-M/codexplainer) - 
 - [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 - [bram-w/EDICT_public_release](https://github.com/bram-w/EDICT_public_release) - 
 - [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
@@ -4071,6 +4089,8 @@
 
 ## react 
 
+- [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
+- [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
 - [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
 - [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - React and TypeScript Chrome extension example project for developers to create their own extensions.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
@@ -4640,6 +4660,7 @@
 
 ## typescript 
 
+- [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
 - [munron/mv3-vue-chrome-extension-template](https://github.com/munron/mv3-vue-chrome-extension-template) - Support Manifest V3 , Vue3 , Typescript, Hot Reload, Firebase Authentication
 - [fuyutarow/solid-chrome-extension-template](https://github.com/fuyutarow/solid-chrome-extension-template) - Chrome Extension Boilerplate with SolidJS + Vite + TypeScript + Manifest V3 + Hot Relaod
