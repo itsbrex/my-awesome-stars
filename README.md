@@ -187,6 +187,7 @@
 
 ## CSS 
 
+- [optimizasean/TailwindAccessibilityConfig](https://github.com/optimizasean/TailwindAccessibilityConfig) - Tailwind colors replaced (in Tailwind style) by the USG standards for accesibility colors defined at: https://designsystem.digital.gov/
 - [TheRealRajan/Toast-Notifications](https://github.com/TheRealRajan/Toast-Notifications) - Toast notifications that show up on the bottom right corner of the screen when you click on a button.
 - [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) - 
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -533,6 +534,8 @@
 
 ## JavaScript 
 
+- [malerba118/react-starter-cli](https://github.com/malerba118/react-starter-cli) - React app with a custom generator cli
+- [aholachek/bundle-wizard](https://github.com/aholachek/bundle-wizard) - Magically easy insight into the JavaScript loaded by a web app
 - [GavinJoyce/tailwindcss-question-mark](https://github.com/GavinJoyce/tailwindcss-question-mark) - Adds a helpful ❓ dev time utility class
 - [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
 - [hisschemoller/music-pattern-generator](https://github.com/hisschemoller/music-pattern-generator) - Javascript MIDI Music Pattern Generator
@@ -549,7 +552,7 @@
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com). And some speculation, of course.
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [WoolDoughnut310/gistify](https://github.com/WoolDoughnut310/gistify) - Chrome extension to display Copy To Gist button on code blocks.
@@ -1681,6 +1684,8 @@
 
 ## Python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
 - [declare-lab/flan-alpaca](https://github.com/declare-lab/flan-alpaca) - This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5.
 - [gururise/AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) - Alpaca dataset from Stanford, cleaned and curated
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
@@ -1797,7 +1802,6 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [gluon/AbletonLive11_MIDIRemoteScripts](https://github.com/gluon/AbletonLive11_MIDIRemoteScripts) - 
 - [liuyigh/homebrew-cask-replace](https://github.com/liuyigh/homebrew-cask-replace) - use homebrew cask to replace installed apps. Python 3.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever) - 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
 - [Jeff53978/LinkGen](https://github.com/Jeff53978/LinkGen) - An Open Source Account Generator Bot!
 - [gshen7/forms-notion](https://github.com/gshen7/forms-notion) - 
@@ -2262,6 +2266,9 @@
 
 ## TypeScript 
 
+- [simpel/little-template-maker](https://github.com/simpel/little-template-maker) - 
+- [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Powered by OpenAI API GPT-4/3.5 and Vercel, support muti text conversations/prompts preset/image generation -- 支持多组文本对话/预设提示/图像生成，由 OpenAI API GPT-4/3.5 和 Vercel 提供支持
+- [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
@@ -2602,6 +2609,7 @@
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [williamluke4/Nitro](https://github.com/williamluke4/Nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
