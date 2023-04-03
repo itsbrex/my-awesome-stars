@@ -50,6 +50,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Stylus](#stylus)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -304,7 +305,7 @@
 
 ## Cython 
 
-- [MeViMo/youbit](https://github.com/MeViMo/youbit) - Host any type of file on YouTube
+- [mevimo/youbit](https://github.com/mevimo/youbit) - Host any type of file on YouTube
 
 ## Dart 
 
@@ -394,6 +395,7 @@
 
 ## HTML 
 
+- [adamschwartz/playground](https://github.com/adamschwartz/playground) - 
 - [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [foobar404/wave.js](https://github.com/foobar404/wave.js) - Audio visualizer library for javascript. Create dynamic animations that react to an audio file or audio stream.
@@ -534,6 +536,7 @@
 
 ## JavaScript 
 
+- [hturan/three-stacks](https://github.com/hturan/three-stacks) - Three-dimensional generative scalar design system component visualisation tool
 - [code-charity/dark-mode](https://github.com/code-charity/dark-mode) - Dark Mode - Chrome extension. Relax your eyes at night and day.
 - [malerba118/react-starter-cli](https://github.com/malerba118/react-starter-cli) - React app with a custom generator cli
 - [aholachek/bundle-wizard](https://github.com/aholachek/bundle-wizard) - Magically easy insight into the JavaScript loaded by a web app
@@ -1685,6 +1688,9 @@
 
 ## Python 
 
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
+- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for building AI-powered software
 - [clementabary/server](https://github.com/clementabary/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [clementabary/sigsep-mus-eval](https://github.com/clementabary/sigsep-mus-eval) - museval - source separation evaluation tools for python
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
@@ -1702,7 +1708,7 @@
 - [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementations and Models
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
-- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by GPT-4
+- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read audio and music meta data and duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave and AIFF files with python 2 or 3
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -2186,6 +2192,10 @@
 
 - [jhorology/nks-presets-collection](https://github.com/jhorology/nks-presets-collection) - NKS(Native Kontrol Standard) presets collection
 
+## Stylus 
+
+- [thiagobraga/google-calendar-userstyles](https://github.com/thiagobraga/google-calendar-userstyles) - 🗓 One Dark theme for Google Calendar
+
 ## Svelte 
 
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -2271,6 +2281,13 @@
 
 ## TypeScript 
 
+- [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
+- [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - A Chat GPT Embedding Template
+- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
+- [transmissions11/flux](https://github.com/transmissions11/flux) - LLM Power Tool
+- [xiaoluoboding/chrome-ext-mv3-starter](https://github.com/xiaoluoboding/chrome-ext-mv3-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
+- [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
+- [vercel-labs/edge-data-latency](https://github.com/vercel-labs/edge-data-latency) - Visualize the latency of databases at the Edge.
 - [dosco/minds](https://github.com/dosco/minds) - MindsJS - Build AI powered workflows easily
 - [simpel/little-template-maker](https://github.com/simpel/little-template-maker) - 
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Powered by OpenAI API GPT-4/3.5 and Vercel, support muti text conversations/prompts preset/image generation -- 支持多组文本对话/预设提示/图像生成，由 OpenAI API GPT-4/3.5 和 Vercel 提供支持
