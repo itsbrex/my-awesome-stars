@@ -215,6 +215,7 @@
 
 ## ai 
 
+- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for building AI-powered software
 - [dosco/minds](https://github.com/dosco/minds) - MindsJS - Build AI powered workflows easily
@@ -300,7 +301,7 @@
 ## api 
 
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com). And some speculation, of course.
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
 - [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -544,6 +545,7 @@
 
 ## chatgpt 
 
+- [Ozennefr/GPPPT](https://github.com/Ozennefr/GPPPT) - A simple one file python script that executes AI processes defined in YML.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - A Chat GPT Embedding Template
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Powered by OpenAI API GPT-4/3.5 and Vercel, support muti text conversations/prompts preset/image generation -- 支持多组文本对话/预设提示/图像生成，由 OpenAI API GPT-4/3.5 和 Vercel 提供支持
@@ -555,7 +557,7 @@
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com). And some speculation, of course.
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Translate your locale json files with AI assistance.
 - [ybenkirane/DatingGPT](https://github.com/ybenkirane/DatingGPT) - DateGPT Repository: An AI-Powered Guide to Dating Apps
@@ -2025,6 +2027,7 @@
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app build with Node, NextJS, MongoDB, Docker and Kubernetes.
 - [fdxs-alt/form-creator](https://github.com/fdxs-alt/form-creator) - Nextjs app allowing user to create custom forms like those at Google Forms.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
@@ -2041,6 +2044,7 @@
 
 ## music 
 
+- [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
 - [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation
@@ -2133,6 +2137,7 @@
 - [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
 - [btahir/next-shopify-starter](https://github.com/btahir/next-shopify-starter) - Nextjs + Tailwind CSS + Shopify Starter
 - [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Auto-generate and maintain your project's .env files
+- [zaarheed/transvribe](https://github.com/zaarheed/transvribe) - 
 - [graphlatte/graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind
 - [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Modern boilerplate with Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Commitlint + PostCSS + Tailwind CSS
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2386,6 +2391,7 @@
 - [seth-brown/formd](https://github.com/seth-brown/formd) - A Markdown formatting tool
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -2463,6 +2469,9 @@
 
 ## others 
 
+- [seungheondoh/music-text-representation](https://github.com/seungheondoh/music-text-representation) - Toward Universal Text-to-Music-Retrieval [ICASSP2023]
+- [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
+- [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
 - [hturan/three-stacks](https://github.com/hturan/three-stacks) - Three-dimensional generative scalar design system component visualisation tool
@@ -2582,7 +2591,6 @@
 - [GavinRay97/vital-synth-sdk](https://github.com/GavinRay97/vital-synth-sdk) - Utilities for working with presets for the Vital synth, and hopefully eventual ML explorations
 - [jakespracher/ml-synth-preset-generator](https://github.com/jakespracher/ml-synth-preset-generator) - Machine Learning with Synthesizers
 - [michael-jan/antithesis](https://github.com/michael-jan/antithesis) - Using machine learning to reverse-engineer synth presets from raw audio.
-- [zaarheed/transvribe](https://github.com/zaarheed/transvribe) - 
 - [hukkelas/deep_privacy2](https://github.com/hukkelas/deep_privacy2) - DeepPrivacy2 - A Toolbox for Realistic Image Anonymization
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
@@ -3700,7 +3708,6 @@
 - [Themitchell/Max-Library](https://github.com/Themitchell/Max-Library) - My Max (MSP) Library
 - [rigoneri/syte](https://github.com/rigoneri/syte) - [Archived] A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and muc
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
-- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
 - [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
 - [mrhenko/Hedningarna-Live](https://github.com/mrhenko/Hedningarna-Live) - 
@@ -3998,6 +4005,7 @@
 
 ## python 
 
+- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
@@ -4090,6 +4098,7 @@
 
 ## pytorch 
 
+- [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [gwinndr/MusicTransformer-Pytorch](https://github.com/gwinndr/MusicTransformer-Pytorch) - MusicTransformer written for MaestroV2 using the Pytorch framework for music generation
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -4953,7 +4962,7 @@
 
 ## webapp 
 
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com). And some speculation, of course.
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
