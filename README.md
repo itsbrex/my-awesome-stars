@@ -90,6 +90,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
 - [bwhitman/amy](https://github.com/bwhitman/amy) - AMY - the Additive Music synthesizer librarY
@@ -395,6 +396,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [adamschwartz/playground](https://github.com/adamschwartz/playground) - 
 - [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
@@ -536,6 +538,10 @@
 
 ## JavaScript 
 
+- [thlorenz/docme](https://github.com/thlorenz/docme) - Generates github compatible API documentation from your project's jsdocs and adds them to your Readme.
+- [d3/d3-interpolate](https://github.com/d3/d3-interpolate) - Interpolate numbers, colors, strings, arrays, objects, whatever!
+- [zachwinter/spotify-viz](https://github.com/zachwinter/spotify-viz) - Create realtime audio-reactive visuals, powered by Spotify.
+- [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
 - [hturan/three-stacks](https://github.com/hturan/three-stacks) - Three-dimensional generative scalar design system component visualisation tool
 - [code-charity/dark-mode](https://github.com/code-charity/dark-mode) - Dark Mode - Chrome extension. Relax your eyes at night and day.
 - [malerba118/react-starter-cli](https://github.com/malerba118/react-starter-cli) - React app with a custom generator cli
@@ -556,7 +562,7 @@
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [WoolDoughnut310/gistify](https://github.com/WoolDoughnut310/gistify) - Chrome extension to display Copy To Gist button on code blocks.
@@ -835,7 +841,6 @@
 - [gaurangrshah/next-supabase-starter](https://github.com/gaurangrshah/next-supabase-starter) - 
 - [harish-garg/nextjs-reactjs-gpt-3](https://github.com/harish-garg/nextjs-reactjs-gpt-3) - GPT-3 Powered Serverless App using NextJS & React
 - [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
-- [tomsoderlund/reactnative-nextjs-template](https://github.com/tomsoderlund/reactnative-nextjs-template) - Build native apps (iOS/Android/Windows/macOS) and an SEO-optimized web app from the same React codebase
 - [tomsoderlund/nextjs-generic-landing-page](https://github.com/tomsoderlund/nextjs-generic-landing-page) - A generic landing page template, built in Next.js (React) with static HTML export
 - [xk2800/TODO-app-fullstack-jamstack-nextjs](https://github.com/xk2800/TODO-app-fullstack-jamstack-nextjs) - A simple to-do PWA. Built with Next.js, Next Auth, Tailwind CSS & Airtable. (Made to try out airtable's abilities)
 - [pnkjjsr/nextjs-pwa-firebaseauth-api-starterkit](https://github.com/pnkjjsr/nextjs-pwa-firebaseauth-api-starterkit) - nextjs-pwa-firebaseauth-api-starterkit
@@ -1253,6 +1258,7 @@
 
 ## Jupyter Notebook 
 
+- [youssefHosni/Practical-Machine-Learning](https://github.com/youssefHosni/Practical-Machine-Learning) - 
 - [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
 - [StanfordASL/ALPaCA](https://github.com/StanfordASL/ALPaCA) - Code for "Meta-Learning Priors for Efficient Online Bayesian Regression" by James Harrison, Apoorva Sharma, and Marco Pavone
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
@@ -1414,6 +1420,7 @@
 
 ## Others 
 
+- [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
 - [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 - [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
 - [DevGuyRash/rashino-prompts](https://github.com/DevGuyRash/rashino-prompts) - 
@@ -1688,6 +1695,7 @@
 
 ## Python 
 
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [seungheondoh/music-text-representation](https://github.com/seungheondoh/music-text-representation) - Toward Universal Text-to-Music-Retrieval [ICASSP2023]
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Ozennefr/GPPPT](https://github.com/Ozennefr/GPPPT) - A simple one file python script that executes AI processes defined in YML.
@@ -2114,6 +2122,7 @@
 
 ## Shell 
 
+- [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [pawamoy/shelldemo](https://github.com/pawamoy/shelldemo) - Run a set of Bash commands as if typed by a robo- I mean, a person.
 - [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://bit.ly/n-install | bash
 - [bigb123/beatport-aiff-converter](https://github.com/bigb123/beatport-aiff-converter) - Script that uses ffmpeg and metaflac to convert big and uncompressed aiff files to loseless files (including cover art).
@@ -2286,6 +2295,10 @@
 
 ## TypeScript 
 
+- [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
+- [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
+- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
+- [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - A Chat GPT Embedding Template
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
@@ -2306,7 +2319,7 @@
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy your own ChatGPT web UI. 一键拥有你自己的 ChatGPT 网页服务。
 - [SKaplanOfficial/Raycast-File-AI](https://github.com/SKaplanOfficial/Raycast-File-AI) - A Raycast extension for identifying, summarizing, and comparing files using AI
 - [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
@@ -2632,6 +2645,7 @@
 - [KabirKr/nextjs-fullstack-starter](https://github.com/KabirKr/nextjs-fullstack-starter) - NextJs fullstack project starter with Typescript, Chakra-ui, next-auth, next-connect, prisma and next-seo
 - [samueldobbie/troogl-extension](https://github.com/samueldobbie/troogl-extension) - Real-time insights into the news you read :newspaper:
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
+- [tomsoderlund/reactnative-nextjs-template](https://github.com/tomsoderlund/reactnative-nextjs-template) - Build native apps (iOS/Android/Windows/macOS) and an SEO-optimized web app from the same React codebase
 - [alexeagleson/nextjs-fullstack-app-template](https://github.com/alexeagleson/nextjs-fullstack-app-template) - A fullstack template for a NextJs App
 - [JithinAntony4/nextjs-pwa-boilerplate](https://github.com/JithinAntony4/nextjs-pwa-boilerplate) - 🔥 NextJS Boilerplate with hybrid static & server rendering, TypeScript support, route pre-fetching, PWA support, FCM integration, SendGrid integration, Twilio integration, and Google SignIn
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
