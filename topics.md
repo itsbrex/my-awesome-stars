@@ -30,6 +30,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -60,6 +61,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [education](#education)
 - [electron](#electron)
 - [ember](#ember)
 - [emoji](#emoji)
@@ -215,6 +217,8 @@
 
 ## ai 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
@@ -267,6 +271,7 @@
 
 ## analytics 
 
+- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [greenido/AppsScriptBests](https://github.com/greenido/AppsScriptBests) - A little repo to keep track on GS (Apps script)
 
 ## android 
@@ -346,6 +351,7 @@
 
 ## automation 
 
+- [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [seed-of-apricot/issue-list-readme](https://github.com/seed-of-apricot/issue-list-readme) - Display issues on the landing page 👀
 - [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
@@ -592,6 +598,15 @@
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API and chat API from anywhere
+
+## chatgpt-api 
+
+- [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
+- [ybenkirane/DatingGPT](https://github.com/ybenkirane/DatingGPT) - DateGPT Repository: An AI-Powered Guide to Dating Apps
+- [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
+- [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
+- [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
 
@@ -886,6 +901,7 @@
 
 ## data-visualization 
 
+- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [preziotte/party-mode](https://github.com/preziotte/party-mode) - An experimental music visualizer using d3.js and the web audio api.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
@@ -900,6 +916,8 @@
 
 ## deep-learning 
 
+- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
@@ -968,6 +986,7 @@
 
 ## docker 
 
+- [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [ebidel/try-puppeteer](https://github.com/ebidel/try-puppeteer) - Run Puppeteer code in the cloud
@@ -986,6 +1005,15 @@
 - [sillsdev/docu-notion](https://github.com/sillsdev/docu-notion) - Download Notion pages as markdown and image files, preserving hierarchy and enabling workflow properties. Works with Docusaurus.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## education 
+
+- [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
 ## electron 
 
@@ -1557,6 +1585,7 @@
 
 ## javascript 
 
+- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
 - [dosco/minds](https://github.com/dosco/minds) - MindsJS - Build AI powered workflows easily
@@ -1754,7 +1783,6 @@
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
-- [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [danielfrg/demucs-app](https://github.com/danielfrg/demucs-app) - Use DEMUCS to split songs into multiple sources
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 
@@ -1799,6 +1827,7 @@
 
 ## learning 
 
+- [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 
 ## library 
@@ -1906,6 +1935,7 @@
 
 ## macos 
 
+- [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [pyxelr/recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) - All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
@@ -2056,6 +2086,7 @@
 
 ## music 
 
+- [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
@@ -2140,6 +2171,9 @@
 
 ## nextjs 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
+- [gannonh/openai-api-next-starter](https://github.com/gannonh/openai-api-next-starter) - OpenAI Next.js starter project
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
@@ -2305,6 +2339,7 @@
 
 ## nlp 
 
+- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
@@ -2339,6 +2374,7 @@
 
 ## nodejs 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
 - [dosco/minds](https://github.com/dosco/minds) - MindsJS - Build AI powered workflows easily
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
@@ -2487,13 +2523,21 @@
 
 ## others 
 
+- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
+- [milgra/macaudiokeepalive](https://github.com/milgra/macaudiokeepalive) - Audio Port Keepalive for MacOS
+- [nomic-ai/pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all
+- [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - gpt4all and llama typescript bindings
+- [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
+- [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - This is a list of links for anyone who wants to explore making music with machine learning
+- [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
+- [gpnoel/DeepRemix](https://github.com/gpnoel/DeepRemix) - Remixing Music with Deep Learning
+- [a-rich/DJ-Tools](https://github.com/a-rich/DJ-Tools) - DJ tools for downloading, processing, and sharing music / rekordbox data.
 - [johnnesky/beepbox](https://github.com/johnnesky/beepbox) - An online tool for sketching and sharing instrumental melodies.
 - [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint).
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community
 - [Swizec/ScholarStream.ai](https://github.com/Swizec/ScholarStream.ai) - A twitter-like experience for arXiv feeds using GPT
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [Intuitive-Systems/react-agent-ts](https://github.com/Intuitive-Systems/react-agent-ts) - 
@@ -4046,6 +4090,9 @@
 
 ## python 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -4139,6 +4186,8 @@
 
 ## pytorch 
 
+- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
@@ -4176,6 +4225,8 @@
 
 ## react 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
 - [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
@@ -4383,6 +4434,7 @@
 
 ## reactjs 
 
+- [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [AshirbadGudu/bun-nextjs-app](https://github.com/AshirbadGudu/bun-nextjs-app) - Create a next.js app with bun
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
@@ -4422,7 +4474,6 @@
 - [tomsoderlund/nextjs-generic-landing-page](https://github.com/tomsoderlund/nextjs-generic-landing-page) - A generic landing page template, built in Next.js (React) with static HTML export
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [netlify-templates/kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
-- [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [codingcodax/reexjs-cli](https://github.com/codingcodax/reexjs-cli) - An interactive CLI automation tool 🛠️ for creating react.js and next.js projects most fast and efficiently. ⚛️
 - [marcomatutehn/nextjs-podcast-player](https://github.com/marcomatutehn/nextjs-podcast-player) - Podcast player made it with React.Js and Next.Js
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
@@ -4580,6 +4631,7 @@
 
 ## software 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -4637,6 +4689,7 @@
 
 ## svelte 
 
+- [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
@@ -4699,6 +4752,7 @@
 
 ## tensorflow 
 
+- [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -4752,6 +4806,7 @@
 
 ## typescript 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
@@ -4986,6 +5041,7 @@
 
 ## web 
 
+- [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
