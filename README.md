@@ -540,6 +540,7 @@
 
 ## JavaScript 
 
+- [ezzcodeezzlife/fileGPT](https://github.com/ezzcodeezzlife/fileGPT) - fileGPT is a powerful and easy-to-use CLI tool that allows you to interact with the OpenAI GPT-4 & GPT-3.5 model to get code completion suggestions and apply the instructions to your code directly.
 - [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint).
@@ -749,7 +750,6 @@
 - [choraria/google-apps-script](https://github.com/choraria/google-apps-script) - A collection of Google Apps Script that I've worked on over time.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [cookjeremiahironpadel/uploadfiletosheetsdrive](https://github.com/cookjeremiahironpadel/uploadfiletosheetsdrive) - Upload a file from an outside web form or from a form that you can access from a google sheets menu.  The file then goes to google drive and a link to the drive file is posted in your sheet on next av
-- [rupamkairi/nextjs-google-forms-clone](https://github.com/rupamkairi/nextjs-google-forms-clone) - 
 - [iuriimattos2/google-sheet-nextjs](https://github.com/iuriimattos2/google-sheet-nextjs) - Next JS/React Form to Google Sheet
 - [tanaikech/ProjectApp2](https://github.com/tanaikech/ProjectApp2) - This is a GAS project library for Google Apps Script (GAS). This library can be used for the projects of both standalone script type and container-bound script type.
 - [epilande/alfred-be-quiet](https://github.com/epilande/alfred-be-quiet) - 🤫 Workflow to automatically pause audio/video playing
@@ -1706,6 +1706,9 @@
 
 ## Python 
 
+- [Quefumas/gensound](https://github.com/Quefumas/gensound) - Pythonic audio processing and generation framework
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+- [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
@@ -2323,6 +2326,9 @@
 
 ## TypeScript 
 
+- [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
+- [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
+- [jonathanzxu/keyless-ai-content-generation](https://github.com/jonathanzxu/keyless-ai-content-generation) - A Jasper alternative open source with ChatGPT, made keyless by Window.AI
 - [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - gpt4all and llama typescript bindings
 - [gannonh/openai-api-next-starter](https://github.com/gannonh/openai-api-next-starter) - OpenAI Next.js starter project
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
