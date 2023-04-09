@@ -54,6 +54,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -217,6 +218,8 @@
 
 ## ai 
 
+- [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
+- [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
@@ -553,6 +556,7 @@
 
 ## chatgpt 
 
+- [ezzcodeezzlife/fileGPT](https://github.com/ezzcodeezzlife/fileGPT) - fileGPT is a powerful and easy-to-use CLI tool that allows you to interact with the OpenAI GPT-4 & GPT-3.5 model to get code completion suggestions and apply the instructions to your code directly.
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.
 - [Ozennefr/GPPPT](https://github.com/Ozennefr/GPPPT) - A simple one file python script that executes AI processes defined in YML.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
@@ -916,6 +920,7 @@
 
 ## deep-learning 
 
+- [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.
@@ -943,6 +948,12 @@
 - [drethage/speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet) - A neural network for end-to-end speech denoising
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+
+## deno 
+
+- [whomwah/alfred-vscode-workflow](https://github.com/whomwah/alfred-vscode-workflow) - Searches for `.git` repos in a path of your choice and allows you to open them in VSCode.
+- [whomwah/alfred-github-workflow](https://github.com/whomwah/alfred-github-workflow) - An Alfred 5 workflow for working with Github. Uses Deno, written in TypeScript
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 
 ## deployment 
 
@@ -1585,6 +1596,7 @@
 
 ## javascript 
 
+- [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
@@ -2086,6 +2098,9 @@
 
 ## music 
 
+- [Quefumas/gensound](https://github.com/Quefumas/gensound) - Pythonic audio processing and generation framework
+- [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
+- [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
@@ -2523,6 +2538,8 @@
 
 ## others 
 
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+- [jonathanzxu/keyless-ai-content-generation](https://github.com/jonathanzxu/keyless-ai-content-generation) - A Jasper alternative open source with ChatGPT, made keyless by Window.AI
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [milgra/macaudiokeepalive](https://github.com/milgra/macaudiokeepalive) - Audio Port Keepalive for MacOS
 - [nomic-ai/pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all
@@ -2954,7 +2971,6 @@
 - [choraria/google-apps-script](https://github.com/choraria/google-apps-script) - A collection of Google Apps Script that I've worked on over time.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [cookjeremiahironpadel/uploadfiletosheetsdrive](https://github.com/cookjeremiahironpadel/uploadfiletosheetsdrive) - Upload a file from an outside web form or from a form that you can access from a google sheets menu.  The file then goes to google drive and a link to the drive file is posted in your sheet on next av
-- [rupamkairi/nextjs-google-forms-clone](https://github.com/rupamkairi/nextjs-google-forms-clone) - 
 - [iuriimattos2/google-sheet-nextjs](https://github.com/iuriimattos2/google-sheet-nextjs) - Next JS/React Form to Google Sheet
 - [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [labnol/apps-script-starter](https://github.com/labnol/apps-script-starter) - Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script
@@ -4090,6 +4106,7 @@
 
 ## python 
 
+- [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -4806,6 +4823,7 @@
 
 ## typescript 
 
+- [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
