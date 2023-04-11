@@ -542,7 +542,6 @@
 
 - [csansoon/ai-web-designer](https://github.com/csansoon/ai-web-designer) - An easy way to create and edit static websites powered by OpenAI's API
 - [ezzcodeezzlife/fileGPT](https://github.com/ezzcodeezzlife/fileGPT) - fileGPT is a powerful and easy-to-use CLI tool that allows you to interact with the OpenAI GPT-4 & GPT-3.5 model to get code completion suggestions and apply the instructions to your code directly.
-- [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint).
 - [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
@@ -703,7 +702,7 @@
 - [image-charts/google-sheets-add-on-dependency-graph](https://github.com/image-charts/google-sheets-add-on-dependency-graph) - Insert a dependency graph in Google Sheets (custom formula)
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [temycodes/nextjs-step-form](https://github.com/temycodes/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
-- [vercel/nextgram](https://github.com/vercel/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
+- [vercel-labs/nextgram](https://github.com/vercel-labs/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [ericz99/autofill-extension](https://github.com/ericz99/autofill-extension) - Free Opensource Chrome Autofill Extension.
 - [dxdc/aws-sdk-google-apps](https://github.com/dxdc/aws-sdk-google-apps) - Native Google Apps Script support for Amazon AWS SDK for JavaScript
@@ -1265,6 +1264,8 @@
 
 ## Jupyter Notebook 
 
+- [datamllab/xdeep](https://github.com/datamllab/xdeep) - 
+- [pnnl/DeepDataProfiler](https://github.com/pnnl/DeepDataProfiler) - Python library for analyzing the internal structure of deep neural networks.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [youssefHosni/Practical-Machine-Learning](https://github.com/youssefHosni/Practical-Machine-Learning) - 
 - [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
@@ -1430,6 +1431,7 @@
 
 ## Others 
 
+- [dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 - [imaurer/awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - List of interesting resources for building and using ChatGPT plugins.
 - [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - This is a list of links for anyone who wants to explore making music with machine learning
@@ -1709,9 +1711,11 @@
 
 ## Python 
 
+- [daQuincy/DeepMusicvStyle](https://github.com/daQuincy/DeepMusicvStyle) - Code repo for ICME 2020 paper "Style-Conditioned Music Generation". VAE model that allows style-conditioned music generation.
 - [Quefumas/gensound](https://github.com/Quefumas/gensound) - Pythonic audio processing and generation framework
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
+- [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
@@ -2329,6 +2333,7 @@
 
 ## TypeScript 
 
+- [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [jonathanzxu/keyless-ai-content-generation](https://github.com/jonathanzxu/keyless-ai-content-generation) - A Jasper alternative open source with ChatGPT, made keyless by Window.AI
