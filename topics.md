@@ -221,7 +221,7 @@
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -1566,6 +1566,7 @@
 
 ## ios 
 
+- [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [bradhowes/SoundFonts](https://github.com/bradhowes/SoundFonts) - Powerful polyphonic synthesizer for iOS that relies on sound fonts for generating audio - https://bradhowes.github.io/SoundFonts/
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
@@ -1608,6 +1609,7 @@
 
 ## javascript 
 
+- [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
@@ -1804,6 +1806,7 @@
 
 ## js 
 
+- [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
@@ -1959,6 +1962,7 @@
 
 ## macos 
 
+- [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -2111,6 +2115,7 @@
 
 ## music 
 
+- [kylekingcdn/music-library-exporter](https://github.com/kylekingcdn/music-library-exporter) - A lightweight macOS app used to automatically generate (and customize) an Apple Music/iTunes Music Library XML file.
 - [tripathiarpan20/midiformers](https://github.com/tripathiarpan20/midiformers) - Applying Transformers to MIDI  music for various tasks
 - [Quefumas/gensound](https://github.com/Quefumas/gensound) - Pythonic audio processing and generation framework
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
@@ -2201,7 +2206,7 @@
 ## nextjs 
 
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [gannonh/openai-api-next-starter](https://github.com/gannonh/openai-api-next-starter) - OpenAI Next.js starter project
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -2404,7 +2409,7 @@
 
 ## nodejs 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
 - [dosco/minds](https://github.com/dosco/minds) - MindsJS - Build AI powered workflows easily
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
@@ -2553,6 +2558,8 @@
 
 ## others 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [ccrma/chuck](https://github.com/ccrma/chuck) - ChucK Music Programming Language
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [tuneflow/AudioLDM](https://github.com/tuneflow/AudioLDM) - Fork of AudioLDM as a TuneFlow plugin
 - [craigsapp/midifile](https://github.com/craigsapp/midifile) - C++ classes for reading/writing Standard MIDI Files
@@ -2575,7 +2582,7 @@
 - [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint).
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM
+- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM 问答
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [Swizec/ScholarStream.ai](https://github.com/Swizec/ScholarStream.ai) - A twitter-like experience for arXiv feeds using GPT
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
@@ -4127,7 +4134,7 @@
 ## python 
 
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -4262,7 +4269,7 @@
 
 ## react 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
@@ -4670,7 +4677,7 @@
 
 ## software 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -4743,6 +4750,7 @@
 
 ## swift 
 
+- [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [ZekeSnider/Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
 - [bradhowes/SoundFonts](https://github.com/bradhowes/SoundFonts) - Powerful polyphonic synthesizer for iOS that relies on sound fonts for generating audio - https://bradhowes.github.io/SoundFonts/
@@ -4845,9 +4853,10 @@
 
 ## typescript 
 
+- [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
