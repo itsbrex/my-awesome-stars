@@ -1104,6 +1104,7 @@
 
 ## eslint 
 
+- [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Modern boilerplate with Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Commitlint + PostCSS + Tailwind CSS
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
@@ -1381,6 +1382,7 @@
 
 ## graphql 
 
+- [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [graphlatte/graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
@@ -1953,6 +1955,8 @@
 
 ## machine-learning 
 
+- [bmcfee/muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data
+- [pescadores/pescador](https://github.com/pescadores/pescador) - Stochastic multi-stream sampling for iterative learning
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -2142,6 +2146,7 @@
 
 ## music 
 
+- [bmcfee/muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data
 - [shijithpk/music-discovery](https://github.com/shijithpk/music-discovery) - How to find new music on Spotify by aggregating the choices of tastemakers
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [axeldelafosse/stemgen](https://github.com/axeldelafosse/stemgen) - 🎛 Stemgen is a Stem file generator. Convert any track into a Stem and have fun with Traktor.
@@ -2236,6 +2241,7 @@
 
 ## nextjs 
 
+- [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
@@ -2588,6 +2594,8 @@
 
 ## others 
 
+- [marl/jams](https://github.com/marl/jams) - A JSON Annotated Music Specification for Reproducible MIR Research
+- [craffel/mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
 - [sbooth/SFBAudioUtilities](https://github.com/sbooth/SFBAudioUtilities) - Core Audio, Audio Toolbox, and AVFoundation utilities
 - [sbooth/Max](https://github.com/sbooth/Max) - An audio converter and CD ripper
 - [fepegar/spotify-bpm-splitter](https://github.com/fepegar/spotify-bpm-splitter) - App to split a Spotify list in children playlists sorted by tempo
@@ -4167,6 +4175,8 @@
 
 ## python 
 
+- [bmcfee/muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data
+- [pescadores/pescador](https://github.com/pescadores/pescador) - Stochastic multi-stream sampling for iterative learning
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
@@ -4512,6 +4522,7 @@
 
 ## reactjs 
 
+- [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [AshirbadGudu/bun-nextjs-app](https://github.com/AshirbadGudu/bun-nextjs-app) - Create a next.js app with bun
@@ -4887,6 +4898,7 @@
 
 ## typescript 
 
+- [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
