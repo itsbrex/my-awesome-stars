@@ -121,6 +121,7 @@
 
 ## C# # 
 
+- [Myuuiii/DAWPresence](https://github.com/Myuuiii/DAWPresence) - A Discord Rich Presence app for several DAWs like FL Studio and Ableton
 - [palmarci/rbBeatDetect](https://github.com/palmarci/rbBeatDetect) - Send OSC beat signals from rekordbox
 - [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
 - [alelievr/Mixture](https://github.com/alelievr/Mixture) - Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime
@@ -142,6 +143,8 @@
 
 ## C++ 
 
+- [mpusch88/Externalizer](https://github.com/mpusch88/Externalizer) - Externalizer is a VST3 audio plugin developed using the JUCE framework, designed to enable routing audio to and from external hardware processors within DAWs and other audio programs. The goal of the 
+- [JanWilczek/cracking-the-coding-interview](https://github.com/JanWilczek/cracking-the-coding-interview) - Solutions of the "Cracking the coding interview" book exercises.
 - [ianacaburian/AbletonLink_JuceSampler](https://github.com/ianacaburian/AbletonLink_JuceSampler) - Simple tutorial on how to build JUCE projects with tempo synchronization by Ableton Link
 - [Ableton/link](https://github.com/Ableton/link) - Ableton Link
 - [sbooth/SFBAudioUtilities](https://github.com/sbooth/SFBAudioUtilities) - Core Audio, Audio Toolbox, and AVFoundation utilities
@@ -549,6 +552,7 @@
 
 ## JavaScript 
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [fheyen/midi-chords](https://github.com/fheyen/midi-chords) - Tells you what chord you are playing via WebMIDI
 - [fheyen/musicvis-lib](https://github.com/fheyen/musicvis-lib) - Library for web-based music visualization
@@ -1310,6 +1314,7 @@
 
 ## Kotlin 
 
+- [Onuchin-Artem/k-Loops](https://github.com/Onuchin-Artem/k-Loops) - Live coding system for controlling Ableton Live written in Kotlin
 - [fsynthlib/fsynth](https://github.com/fsynthlib/fsynth) - Music synthesizer, written for fun and to learn stuff
 
 ## Less 
@@ -1332,11 +1337,14 @@
 
 ## Makefile 
 
+- [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
 - [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Max 
 
+- [prcalopa/musicae](https://github.com/prcalopa/musicae) - Scale-agnostic MIDI programming tool for Ableton Live
+- [ben-hayes/southbank_ai](https://github.com/ben-hayes/southbank_ai) - AI music plugins for Ableton Live used in a human-AI performance at London's Southbank Centre
 - [himwho/ant-midi-server](https://github.com/himwho/ant-midi-server) - Everything you need for an ant colony to play and broadcast MIDI/OSC via a dockerized server for listening to LAN MIDI and broadcasting it to WAN
 - [to-the-sun/amanuensis](https://github.com/to-the-sun/amanuensis) - The Amanuensis is an automated songwriting and recording system aimed at ridding the process of anything left-brained, so one need never leave a creative, spontaneous and improvisational state of mind
 - [SpektroAudio/AP2JS](https://github.com/SpektroAudio/AP2JS) - Max JS script for controlling and programming the Ableton Push 2 hardware controller
@@ -1449,6 +1457,8 @@
 
 ## Others 
 
+- [thekeypals/ableton-live-project-template](https://github.com/thekeypals/ableton-live-project-template) - Default project template used by the collective.
+- [satelllte/ableton-project-template](https://github.com/satelllte/ableton-project-template) - A simple template repository that enables the use of Git versioning for Ableton projects
 - [umbrellabeach/music-generation-with-DL](https://github.com/umbrellabeach/music-generation-with-DL) - Resources on Music Generation with Deep Learning
 - [dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
@@ -1731,6 +1741,13 @@
 
 ## Python 
 
+- [ChaseDurand/Ableton-Live-Sample-Tagger](https://github.com/ChaseDurand/Ableton-Live-Sample-Tagger) - Utility for tagging samples used across Ableton Live Sets/Projects with Live's "Collection" feature.
+- [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
+- [R9295/ableton-live-control-surface-starter](https://github.com/R9295/ableton-live-control-surface-starter) - A template for bootstrapping AbletonLive ControlSurface projects
+- [samsta/XoneK2_DJ](https://github.com/samsta/XoneK2_DJ) - Allen & Heath Xone:K2 remote script for Ableton Live 11, targeted at DJing
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
+- [JanWilczek/adc22](https://github.com/JanWilczek/adc22) - A companion repository for the Audio Developers Conference 2022 in London containing the live demo.
+- [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [oliveirabruno01/babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi) - BabyAGI: an Autonomous and Self-Improving agent, or BASI
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [akashrchandran/syrics](https://github.com/akashrchandran/syrics) - A command line tool to fetch lyrics from spotify and save it to lrc file. It can fetch both synced and unsynced lyrics from spotify.
@@ -2312,6 +2329,8 @@
 
 ## Swift 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
+- [DominikButz/MinimizableView](https://github.com/DominikButz/MinimizableView) - SwiftUI view that minimizes to the bottom of the screen similar to the mini-player in Apple Music or Spotify.
 - [dn-m/Music](https://github.com/dn-m/Music) - Structures for the creation, analysis, and performance of music in Swift
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
@@ -2383,6 +2402,8 @@
 
 ## TypeScript 
 
+- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
