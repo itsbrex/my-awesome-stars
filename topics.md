@@ -220,6 +220,7 @@
 
 ## ai 
 
+- [ben-hayes/southbank_ai](https://github.com/ben-hayes/southbank_ai) - AI music plugins for Ableton Live used in a human-AI performance at London's Southbank Centre
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
@@ -298,6 +299,7 @@
 
 ## angular 
 
+- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [Microwawe/mamba-ui](https://github.com/Microwawe/mamba-ui) - Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
@@ -572,6 +574,7 @@
 
 ## chatgpt 
 
+- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 - [imaurer/awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - List of interesting resources for building and using ChatGPT plugins.
@@ -627,6 +630,7 @@
 ## chatgpt-api 
 
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
+- [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [ybenkirane/DatingGPT](https://github.com/ybenkirane/DatingGPT) - DateGPT Repository: An AI-Powered Guide to Better Bios
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
@@ -943,6 +947,7 @@
 
 ## deep-learning 
 
+- [ben-hayes/southbank_ai](https://github.com/ben-hayes/southbank_ai) - AI music plugins for Ableton Live used in a human-AI performance at London's Southbank Centre
 - [music-x-lab/POP909-Dataset](https://github.com/music-x-lab/POP909-Dataset) - This is the dataset repository for the paper: POP909: A Pop-song Dataset for Music Arrangement Generation
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
@@ -1011,6 +1016,7 @@
 
 ## discord 
 
+- [Myuuiii/DAWPresence](https://github.com/Myuuiii/DAWPresence) - A Discord Rich Presence app for several DAWs like FL Studio and Ableton
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [rogeraabbccdd/Rekordbox-NowPlaying](https://github.com/rogeraabbccdd/Rekordbox-NowPlaying) - Get rekordbox now playing master track for OBS and Discord Rich Presence.
 - [jareer12/Discord-Bot-Dashboard](https://github.com/jareer12/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
@@ -1027,6 +1033,7 @@
 
 ## docker 
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -1058,6 +1065,7 @@
 
 ## electron 
 
+- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -1602,6 +1610,8 @@
 
 ## ios 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
+- [DominikButz/MinimizableView](https://github.com/DominikButz/MinimizableView) - SwiftUI view that minimizes to the bottom of the screen similar to the mini-player in Apple Music or Spotify.
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [bradhowes/SoundFonts](https://github.com/bradhowes/SoundFonts) - Powerful polyphonic synthesizer for iOS that relies on sound fonts for generating audio - https://bradhowes.github.io/SoundFonts/
@@ -1866,6 +1876,7 @@
 
 ## kotlin 
 
+- [Onuchin-Artem/k-Loops](https://github.com/Onuchin-Artem/k-Loops) - Live coding system for controlling Ableton Live written in Kotlin
 - [fsynthlib/fsynth](https://github.com/fsynthlib/fsynth) - Music synthesizer, written for fun and to learn stuff
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 
@@ -1894,6 +1905,7 @@
 
 ## learning 
 
+- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 
@@ -1970,6 +1982,7 @@
 
 ## machine-learning 
 
+- [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [bmcfee/muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data
@@ -2008,6 +2021,7 @@
 
 ## macos 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
@@ -2163,6 +2177,9 @@
 
 ## music 
 
+- [prcalopa/musicae](https://github.com/prcalopa/musicae) - Scale-agnostic MIDI programming tool for Ableton Live
+- [ben-hayes/southbank_ai](https://github.com/ben-hayes/southbank_ai) - AI music plugins for Ableton Live used in a human-AI performance at London's Southbank Centre
+- [thekeypals/ableton-live-project-template](https://github.com/thekeypals/ableton-live-project-template) - Default project template used by the collective.
 - [akashrchandran/syrics](https://github.com/akashrchandran/syrics) - A command line tool to fetch lyrics from spotify and save it to lrc file. It can fetch both synced and unsynced lyrics from spotify.
 - [music-x-lab/POP909-Dataset](https://github.com/music-x-lab/POP909-Dataset) - This is the dataset repository for the paper: POP909: A Pop-song Dataset for Music Arrangement Generation
 - [Wally869/MidiGenerator](https://github.com/Wally869/MidiGenerator) - Utils and classes to algorithmically generate Music. This folder builds on MusiStrata to represent a musical structure and output a midi.
@@ -2268,6 +2285,8 @@
 
 ## nextjs 
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
@@ -2451,6 +2470,7 @@
 
 ## node 
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - tsconfig.json paser & paths matcher
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
@@ -2473,6 +2493,7 @@
 
 ## nodejs 
 
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
 - [dosco/minds](https://github.com/dosco/minds) - MindsJS - Build AI powered workflows easily
@@ -2622,6 +2643,15 @@
 
 ## others 
 
+- [ChaseDurand/Ableton-Live-Sample-Tagger](https://github.com/ChaseDurand/Ableton-Live-Sample-Tagger) - Utility for tagging samples used across Ableton Live Sets/Projects with Live's "Collection" feature.
+- [R9295/ableton-live-control-surface-starter](https://github.com/R9295/ableton-live-control-surface-starter) - A template for bootstrapping AbletonLive ControlSurface projects
+- [satelllte/ableton-project-template](https://github.com/satelllte/ableton-project-template) - A simple template repository that enables the use of Git versioning for Ableton projects
+- [mpusch88/Externalizer](https://github.com/mpusch88/Externalizer) - Externalizer is a VST3 audio plugin developed using the JUCE framework, designed to enable routing audio to and from external hardware processors within DAWs and other audio programs. The goal of the 
+- [samsta/XoneK2_DJ](https://github.com/samsta/XoneK2_DJ) - Allen & Heath Xone:K2 remote script for Ableton Live 11, targeted at DJing
+- [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
+- [JanWilczek/cracking-the-coding-interview](https://github.com/JanWilczek/cracking-the-coding-interview) - Solutions of the "Cracking the coding interview" book exercises.
+- [JanWilczek/adc22](https://github.com/JanWilczek/adc22) - A companion repository for the Audio Developers Conference 2022 in London containing the live demo.
+- [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [oliveirabruno01/babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi) - BabyAGI: an Autonomous and Self-Improving agent, or BASI
 - [fheyen/midi-chords](https://github.com/fheyen/midi-chords) - Tells you what chord you are playing via WebMIDI
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
@@ -4209,6 +4239,7 @@
 
 ## python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [akashrchandran/syrics](https://github.com/akashrchandran/syrics) - A command line tool to fetch lyrics from spotify and save it to lrc file. It can fetch both synced and unsynced lyrics from spotify.
 - [music-x-lab/POP909-Dataset](https://github.com/music-x-lab/POP909-Dataset) - This is the dataset repository for the paper: POP909: A Pop-song Dataset for Music Arrangement Generation
@@ -4357,6 +4388,7 @@
 
 ## react 
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
@@ -4719,6 +4751,7 @@
 
 ## serverless 
 
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [saasify-sh/puppeteer-serverless](https://github.com/saasify-sh/puppeteer-serverless) - Puppeteer for both serverless functions and development.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
@@ -4843,6 +4876,8 @@
 
 ## swift 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
+- [DominikButz/MinimizableView](https://github.com/DominikButz/MinimizableView) - SwiftUI view that minimizes to the bottom of the screen similar to the mini-player in Apple Music or Spotify.
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [ZekeSnider/Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
@@ -4877,6 +4912,8 @@
 
 ## swiftui 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
+- [DominikButz/MinimizableView](https://github.com/DominikButz/MinimizableView) - SwiftUI view that minimizes to the bottom of the screen similar to the mini-player in Apple Music or Spotify.
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
@@ -4946,6 +4983,7 @@
 
 ## typescript 
 
+- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
