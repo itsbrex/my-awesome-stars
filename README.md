@@ -143,6 +143,8 @@
 
 ## C++ 
 
+- [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
+- [samsta/min.midiout](https://github.com/samsta/min.midiout) - Use MIDI output to preview/audition MIDI clips in Ableton Live
 - [mpusch88/Externalizer](https://github.com/mpusch88/Externalizer) - Externalizer is a VST3 audio plugin developed using the JUCE framework, designed to enable routing audio to and from external hardware processors within DAWs and other audio programs. The goal of the 
 - [JanWilczek/cracking-the-coding-interview](https://github.com/JanWilczek/cracking-the-coding-interview) - Solutions of the "Cracking the coding interview" book exercises.
 - [ianacaburian/AbletonLink_JuceSampler](https://github.com/ianacaburian/AbletonLink_JuceSampler) - Simple tutorial on how to build JUCE projects with tempo synchronization by Ableton Link
@@ -408,6 +410,7 @@
 
 ## HTML 
 
+- [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1343,6 +1346,7 @@
 
 ## Max 
 
+- [adamjmurray/ableton-midi-sculptor](https://github.com/adamjmurray/ableton-midi-sculptor) - Ableton MIDI Sculptor: Tools for MIDI editing in Ableton Live
 - [prcalopa/musicae](https://github.com/prcalopa/musicae) - Scale-agnostic MIDI programming tool for Ableton Live
 - [ben-hayes/southbank_ai](https://github.com/ben-hayes/southbank_ai) - AI music plugins for Ableton Live used in a human-AI performance at London's Southbank Centre
 - [himwho/ant-midi-server](https://github.com/himwho/ant-midi-server) - Everything you need for an ant colony to play and broadcast MIDI/OSC via a dockerized server for listening to LAN MIDI and broadcasting it to WAN
@@ -2588,7 +2592,7 @@
 - [frencojobs/vscode-notion](https://github.com/frencojobs/vscode-notion) - Browse Notion pages right inside Visual Studio Code.
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
 - [itsjoetree/plant-db](https://github.com/itsjoetree/plant-db) - database application to store information about plants
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [rzuppur/rekordfix](https://github.com/rzuppur/rekordfix) - GUI tool for missing functionality to manage a Rekordbox collection
 - [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for cue points, playlists, crates, tags and a web/mobile frontend
