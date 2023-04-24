@@ -121,6 +121,7 @@
 
 ## C# # 
 
+- [praeclarum/AskGPT](https://github.com/praeclarum/AskGPT) - Ask ChatGPT questions from the command line.
 - [Myuuiii/DAWPresence](https://github.com/Myuuiii/DAWPresence) - A Discord Rich Presence app for several DAWs like FL Studio and Ableton
 - [palmarci/rbBeatDetect](https://github.com/palmarci/rbBeatDetect) - Send OSC beat signals from rekordbox
 - [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
@@ -152,7 +153,7 @@
 - [sbooth/SFBAudioUtilities](https://github.com/sbooth/SFBAudioUtilities) - Core Audio, Audio Toolbox, and AVFoundation utilities
 - [ccrma/chuck](https://github.com/ccrma/chuck) - ChucK Music Programming Language
 - [craigsapp/midifile](https://github.com/craigsapp/midifile) - C++ classes for reading/writing Standard MIDI Files
-- [nomic-ai/pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all
+- [nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all) - Official supported Python bindings for llama.cpp + gpt4all
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [cedrickchee/tch-js](https://github.com/cedrickchee/tch-js) - A JavaScript and TypeScript port of PyTorch C++ library (libtorch) - Node.js N-API bindings for libtorch.
@@ -219,6 +220,7 @@
 - [theianchan/base-frictionless-demo](https://github.com/theianchan/base-frictionless-demo) - Like Segment's frictionless signup concept, but for the Base demo form.
 - [siwalikm/quick-form-css](https://github.com/siwalikm/quick-form-css) - CSS boilerplate to convert raw html form to a beautiful minimalistic web-form. http://bit.ly/QFC-demo
 - [vip-git/nextjs-react-jsonschema-form-material-ui-example](https://github.com/vip-git/nextjs-react-jsonschema-form-material-ui-example) - 
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [SaadBazaz/next-whatsapp-chat-widget](https://github.com/SaadBazaz/next-whatsapp-chat-widget) - 📲 WhatsApp Chat Plugin/Widget for your Nextjs app
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
@@ -410,6 +412,7 @@
 
 ## HTML 
 
+- [mganss/XmlSchemaClassGenerator](https://github.com/mganss/XmlSchemaClassGenerator) - Generate C# classes from XML Schema files
 - [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
@@ -555,6 +558,10 @@
 
 ## JavaScript 
 
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
+- [joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example](https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example) - Example for this script: https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement-photoshop-script
+- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension
+- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [fheyen/midi-chords](https://github.com/fheyen/midi-chords) - Tells you what chord you are playing via WebMIDI
@@ -594,7 +601,7 @@
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [WoolDoughnut310/gistify](https://github.com/WoolDoughnut310/gistify) - Chrome extension to display Copy To Gist button on code blocks.
@@ -1346,6 +1353,7 @@
 
 ## Max 
 
+- [carsault/chord_extraction_prediction_lib](https://github.com/carsault/chord_extraction_prediction_lib) - 
 - [adamjmurray/ableton-midi-sculptor](https://github.com/adamjmurray/ableton-midi-sculptor) - Ableton MIDI Sculptor: Tools for MIDI editing in Ableton Live
 - [prcalopa/musicae](https://github.com/prcalopa/musicae) - Scale-agnostic MIDI programming tool for Ableton Live
 - [ben-hayes/southbank_ai](https://github.com/ben-hayes/southbank_ai) - AI music plugins for Ableton Live used in a human-AI performance at London's Southbank Centre
@@ -1461,6 +1469,7 @@
 
 ## Others 
 
+- [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source VST/audio plugin projects. Please contribute more links or open source your own plugins.
 - [thekeypals/ableton-live-project-template](https://github.com/thekeypals/ableton-live-project-template) - Default project template used by the collective.
 - [satelllte/ableton-project-template](https://github.com/satelllte/ableton-project-template) - A simple template repository that enables the use of Git versioning for Ableton projects
 - [umbrellabeach/music-generation-with-DL](https://github.com/umbrellabeach/music-generation-with-DL) - Resources on Music Generation with Deep Learning
@@ -1532,7 +1541,6 @@
 - [dwyl/home](https://github.com/dwyl/home) - 🏡 👩‍💻 💡 home is where you can [learn to] build the future surrounded by like-minded creative, friendly and [intrinsically] motivated people focussed on health, fitness and making things people and the
 - [dwyl/start-here](https://github.com/dwyl/start-here) - :bulb: A Quick-start Guide for People who want to dwyl :heart: :white_check_mark:
 - [tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script) - This is a sample script for creating a PNG image with the alpha channel using Google Apps Script.
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [pbtchinaa/emails_from_checkbox_googleappscript](https://github.com/pbtchinaa/emails_from_checkbox_googleappscript) - 
 - [testLPCP/Login-Form-Google-AppScript](https://github.com/testLPCP/Login-Form-Google-AppScript) - 
 - [techstreams/tsmarkmail](https://github.com/techstreams/tsmarkmail) - TSMarkMail Google Document Add-on Documentation
@@ -1745,6 +1753,10 @@
 
 ## Python 
 
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort free video editing!
+- [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
+- [jina-ai/gptdeploy](https://github.com/jina-ai/gptdeploy) - One line to create them all
+- [algolia-samples/avsearch](https://github.com/algolia-samples/avsearch) - Automated av content transcription search for your website
 - [ChaseDurand/Ableton-Live-Sample-Tagger](https://github.com/ChaseDurand/Ableton-Live-Sample-Tagger) - Utility for tagging samples used across Ableton Live Sets/Projects with Live's "Collection" feature.
 - [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 - [R9295/ableton-live-control-surface-starter](https://github.com/R9295/ableton-live-control-surface-starter) - A template for bootstrapping AbletonLive ControlSurface projects
@@ -1798,7 +1810,7 @@
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
-- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
+- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [clementabary/server](https://github.com/clementabary/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [clementabary/sigsep-mus-eval](https://github.com/clementabary/sigsep-mus-eval) - museval - source separation evaluation tools for python
@@ -2178,6 +2190,10 @@
 
 ## Rust 
 
+- [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
+- [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
+- [allthemusicllc/atm-tools](https://github.com/allthemusicllc/atm-tools) - Tools for working with MIDI files - written by All the Music LLC for musicians.
+- [allthemusicllc/libatm](https://github.com/allthemusicllc/libatm) - Library for generating and working with MIDI files
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [thomasantony/chatgpt-term](https://github.com/thomasantony/chatgpt-term) - A terminal interface to ChatGPT
@@ -2406,6 +2422,9 @@
 
 ## TypeScript 
 
+- [vantezzen/skip-silence](https://github.com/vantezzen/skip-silence) - 🔇 Browser extension to skip silent parts in videos and audio files on any webpage
+- [Glavin001/create-t3-turbo-ai](https://github.com/Glavin001/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
+- [partykit/partykit](https://github.com/partykit/partykit) - Everything's better with friends.
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
@@ -2763,7 +2782,7 @@
 - [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
 - [Tomburgs/pwa-boilerplate](https://github.com/Tomburgs/pwa-boilerplate) - ✨ PWA Boilerplate is highly scalable and is designed to help you kick-start your next project 🔭.
 - [echobind/bisonapp](https://github.com/echobind/bisonapp) - A Full Stack Jamstack in-a-box brought to you by Echobind
-- [nikolovlazar/nikolovlazar.com](https://github.com/nikolovlazar/nikolovlazar.com) - My personal site's repo built using Next.js, Chakra UI, MDX, Prisma, PlanetScale.
+- [nikolovlazar/nikolovlazar.com](https://github.com/nikolovlazar/nikolovlazar.com) - V1 of my personal site. If you're looking for v2: https://github.com/nikolovlazar/v2-nikolovlazar.com
 - [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit) - A simple PWA with all the tools a developer would ever need.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 12 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
