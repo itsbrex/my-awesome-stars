@@ -166,7 +166,6 @@
 - [monadgroup/axiom](https://github.com/monadgroup/axiom) - A powerful realtime node-based audio synthesizer.
 - [BeatRossmy/PunishableAI](https://github.com/BeatRossmy/PunishableAI) - 
 - [BeatRossmy/MidiBrainModule](https://github.com/BeatRossmy/MidiBrainModule) - 
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen) - The git repository of the advanced drum machine
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [acids-ircam/rave_vst](https://github.com/acids-ircam/rave_vst) - 
@@ -1766,6 +1765,9 @@
 
 ## Python 
 
+- [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
+- [chrisdonahue/nesmdb](https://github.com/chrisdonahue/nesmdb) - The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
 - [rhohndorf/Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
@@ -1890,7 +1892,7 @@
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-- [autonomousvision/stylegan-t](https://github.com/autonomousvision/stylegan-t) - [ARXIV'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis
+- [autonomousvision/stylegan-t](https://github.com/autonomousvision/stylegan-t) - [ICML'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis
 - [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [archinetai/archisound](https://github.com/archinetai/archisound) - A collection of pre-trained audio models, in PyTorch.
@@ -1923,6 +1925,7 @@
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [LAION-AI/dalle2-laion](https://github.com/LAION-AI/dalle2-laion) - Pretrained Dalle2 from laion
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [mido/mido](https://github.com/mido/mido) - MIDI Objects for Python
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -2696,7 +2699,7 @@
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
 - [galfrevn/nextjs-social-pwa](https://github.com/galfrevn/nextjs-social-pwa) - (In progess 🚧 ) A full-featured social network application built with Next.js, Typescript and MongoDB. Features include user authentication, posts and comments, friend requests, and a real-time chat s
 - [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
-- [flexpool/frontend](https://github.com/flexpool/frontend) - Source code the v2 Flexpool.io Website
+- [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
