@@ -225,6 +225,8 @@
 
 ## ai 
 
+- [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [ben-hayes/southbank_ai](https://github.com/ben-hayes/southbank_ai) - AI music plugins for Ableton Live used in a human-AI performance at London's Southbank Centre
 - [oliveirabruno01/babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi) - BabyAGI: an Autonomous and Self-Improving agent, or BASI
@@ -403,6 +405,7 @@
 
 ## awesome 
 
+- [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [imaurer/awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - List of interesting resources for building and using ChatGPT plugins.
 - [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
@@ -517,6 +520,7 @@
 
 ## bash 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [devpolo/gac](https://github.com/devpolo/gac) - One simple command to format and faster your git add and git commit actions.
 - [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Make pseudonymous Git commits over Tor
@@ -585,7 +589,11 @@
 
 ## chatgpt 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+- [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
+- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Keeping Track of Affordable LLMs, 🦙 Cult and More
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
 - [praeclarum/AskGPT](https://github.com/praeclarum/AskGPT) - Ask ChatGPT questions from the command line.
@@ -645,7 +653,7 @@
 
 ## chatgpt-api 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [praeclarum/AskGPT](https://github.com/praeclarum/AskGPT) - Ask ChatGPT questions from the command line.
 - [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -714,6 +722,7 @@
 - [itsbrex/ChatGPT-Cookies](https://github.com/itsbrex/ChatGPT-Cookies) - Chrome Extension to easily copy or export your ChatGPT cookies + user-agent to clipboard with one click.
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
+- [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -750,6 +759,7 @@
 
 ## cli 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [george-avn/ffenmass](https://github.com/george-avn/ffenmass) - Encoding whole directories with FFmpeg made easy.
@@ -971,6 +981,8 @@
 
 ## deep-learning 
 
+- [koil-music/regroove-m4l](https://github.com/koil-music/regroove-m4l) - Regroove is a Max for Live device that generates expressive drum rhythms using a learned understanding of groove ♬
+- [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
@@ -1212,6 +1224,7 @@
 - [juliangruber/browser-run](https://github.com/juliangruber/browser-run) - Run code inside a browser from the command line
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+- [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
 - [nimeshnayaju/tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [chouglesaud/repositree](https://github.com/chouglesaud/repositree) - Browser extension that helps to explore the Github repository.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1324,6 +1337,7 @@
 
 ## github 
 
+- [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [lbarman/github-punchline](https://github.com/lbarman/github-punchline) - Write a message in github's activity graph
@@ -1472,6 +1486,7 @@
 
 ## hacktoberfest 
 
+- [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
 - [vantezzen/skip-silence](https://github.com/vantezzen/skip-silence) - 🔇 Browser extension to skip silent parts in videos and audio files on any webpage
 - [akashrchandran/syrics](https://github.com/akashrchandran/syrics) - A command line tool to fetch lyrics from spotify and save it to lrc file. It can fetch both synced and unsynced lyrics from spotify.
@@ -1699,6 +1714,7 @@
 
 ## javascript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [fheyen/musicvis-lib](https://github.com/fheyen/musicvis-lib) - Library for web-based music visualization
@@ -2029,6 +2045,7 @@
 
 ## machine-learning 
 
+- [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
@@ -2228,6 +2245,8 @@
 
 ## music 
 
+- [StandartTemplateConstruct/AbletonLinkHeartbeatSync](https://github.com/StandartTemplateConstruct/AbletonLinkHeartbeatSync) - Write music with BPM always matching your heartbeat!
+- [koil-music/regroove-m4l](https://github.com/koil-music/regroove-m4l) - Regroove is a Max for Live device that generates expressive drum rhythms using a learned understanding of groove ♬
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [olaviinha/ChordsGuruTurbo100aDeluxe](https://github.com/olaviinha/ChordsGuruTurbo100aDeluxe) - Visualize and preview written chord progressions
 - [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
@@ -2515,6 +2534,7 @@
 
 ## nlp 
 
+- [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
@@ -2552,6 +2572,7 @@
 
 ## nodejs 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
@@ -2706,6 +2727,57 @@
 
 ## others 
 
+- [octokit/auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript
+- [nzkdevsaider/ableton-nextjs](https://github.com/nzkdevsaider/ableton-nextjs) - Replica of Ableton website made in NextJS.
+- [matis-io/AbletonAnalog80sSound](https://github.com/matis-io/AbletonAnalog80sSound) - Presets for Ableton Live's Analog synthesiser of 80s hits
+- [BSvER1/AbletonMidiMapper](https://github.com/BSvER1/AbletonMidiMapper) - a small utility for grabbing automation out of ableton to send to other applications over virtual midi ports
+- [L1fescape/ableton-open-last-set](https://github.com/L1fescape/ableton-open-last-set) - Open Ableton to your most recent set rather than a new project
+- [stevengt/ableton-xml-analysis](https://github.com/stevengt/ableton-xml-analysis) - 
+- [baguettemusique/ableton_user_actions](https://github.com/baguettemusique/ableton_user_actions) - This is my ExampleActions.py file where I develop User Actions for ClyphXPro with Ableton 10
+- [luiscript/NSYNC](https://github.com/luiscript/NSYNC) - Sync your animations with MIDI clock or Ableton link (with different creative tools).
+- [ryoikarashi/ableton-packs-downloader](https://github.com/ryoikarashi/ableton-packs-downloader) - A tiny batch script for downloading all ableton live packs.
+- [NikkDusky/ableton-11-discord-presence](https://github.com/NikkDusky/ableton-11-discord-presence) - Ableton Live Suite 11 Discord Presence
+- [BrandesEric/song-scaffolder](https://github.com/BrandesEric/song-scaffolder) - Generates song ideas directly in Ableton Live
+- [ntn98/AbletonLiveAutoExporter](https://github.com/ntn98/AbletonLiveAutoExporter) - A simple python script that allows you to export multiple Abeton Live sets automatically
+- [AvneeshSarwate/abletonAutomationExtraction](https://github.com/AvneeshSarwate/abletonAutomationExtraction) - Extract automation information from Ableton live to use in standalone animations
+- [showsync/LiveMTC](https://github.com/showsync/LiveMTC) - LiveMTC is a plugin/app combination that outputs Midi Time Code from Ableton Live
+- [JeromeDevillers/ableton-hue-record](https://github.com/JeromeDevillers/ableton-hue-record) - Set Philips Hue color to red when you recording with your Ableton Push 2.
+- [mattmcwaters/AbletonExporter](https://github.com/mattmcwaters/AbletonExporter) - Automatically Stems out a project grouped by colors given by user.
+- [AlperKoc/AbletonParser](https://github.com/AlperKoc/AbletonParser) - Ableton project converted to an .xml file, and parsed as a python dict
+- [sandcobainer/neu-encoder](https://github.com/sandcobainer/neu-encoder) - Using Magenta's nsynth-fastgen project to synthesize samples with neural sythensis in Max4Live,Ableton
+- [hamoid/ableton-live-preset-report](https://github.com/hamoid/ableton-live-preset-report) - A python script that prints out details from preset files
+- [valsteen/ableton_log](https://github.com/valsteen/ableton_log) - Proof of concept to generate release notes from different versions of ableton projects
+- [luizen/ableton-live-theme-editor-web](https://github.com/luizen/ableton-live-theme-editor-web) - An online editor for Ableton Live themes
+- [maitreverge/camel_crusher_ableton](https://github.com/maitreverge/camel_crusher_ableton) - :dromedary_camel: Camel Crusher :dromedary_camel: by Camel Audio, discontinued VST Audio-Pluggin. Custom-mapped for Ableton 10+ Working :muscle: Crushing :boom:
+- [markkorput/OF-Sketch-AbletonResolumeController](https://github.com/markkorput/OF-Sketch-AbletonResolumeController) - Ableton Live (audio) and Resolume Arena (video) controller app
+- [scribbletune/exotic-scale-devices](https://github.com/scribbletune/exotic-scale-devices) - Exotic MIDI Scale effect devices for Ableton Live
+- [Adrian-Winter/Ableton-Dj-Booth](https://github.com/Adrian-Winter/Ableton-Dj-Booth) - A Max for Live plugin that makes DJing with Ableton a pleasure
+- [Tomas-Lawton/AutoBeat](https://github.com/Tomas-Lawton/AutoBeat) - Novel AI drum machine for Ableton
+- [hamiltonkibbe/PyAbleton](https://github.com/hamiltonkibbe/PyAbleton) - A Python Library for creating and editing Ableton Live instrument patches
+- [samvincent/AbletonLive-Traktor-Filter](https://github.com/samvincent/AbletonLive-Traktor-Filter) - Traktor style Cut-Off Filter for Ableton Live
+- [estoycon/Ableton-Drum-Racks](https://github.com/estoycon/Ableton-Drum-Racks) - 
+- [thorhop/livemanager](https://github.com/thorhop/livemanager) - Ableton Live project manager
+- [codeflows/SceneLauncher](https://github.com/codeflows/SceneLauncher) - Ableton Live scene launcher app for iOS
+- [shamharoth/AbletonPushColours](https://github.com/shamharoth/AbletonPushColours) - Modified Push Scripts for Hooktheory Colour Coding
+- [elixirbeats/abletoolz](https://github.com/elixirbeats/abletoolz) - Tools for editing and analyzing Ableton Live sets
+- [BrandesEric/AbletonJS](https://github.com/BrandesEric/AbletonJS) - Controlling Ableton Live with TypeScript.
+- [Discord-ian/ableton-presence](https://github.com/Discord-ian/ableton-presence) - Discord Rich Presence with Ableton
+- [naotokui/M4L-CreativeGAN-Rhythm](https://github.com/naotokui/M4L-CreativeGAN-Rhythm) - Rhythm GAN/CAN player for Ableton Live / Max for Live
+- [bartwronski/AbletonOperatorAMSWavetables](https://github.com/bartwronski/AbletonOperatorAMSWavetables) - Some "massive" wavetables for Ableton Operator additive synthesis oscillators and a Python script to create new ones
+- [j74/V-Module-Max-for-Live-Video-Plugins](https://github.com/j74/V-Module-Max-for-Live-Video-Plugins) - Max for Live Video Plugins for Ableton Live
+- [bdyetton/LinkToPy](https://github.com/bdyetton/LinkToPy) - A python module for interfacing with Ableton Link.
+- [satoruhiga/ofxAbletonLiveSet](https://github.com/satoruhiga/ofxAbletonLiveSet) - Ableton Live Set (.als) Project File parser
+- [Ableton/ableton.github.io](https://github.com/Ableton/ableton.github.io) - Ableton's GitHub.io website
+- [AhmadMoussa/Python-Midi-Ableton](https://github.com/AhmadMoussa/Python-Midi-Ableton) - A tutorial/guide on how to send midi signals from python to Ableton live, as resources on the internet about this are sparse and cryptic
+- [clintburgos/ableton-git](https://github.com/clintburgos/ableton-git) - wrapper for git that ensures the best settings for versioning Ableton Live projects
+- [ideoforms/AbletonOSC](https://github.com/ideoforms/AbletonOSC) - Control Ableton Live 11 via Open Sound Control (OSC)
+- [gudgud96/midi-neural-processor](https://github.com/gudgud96/midi-neural-processor) - midi processor library for PerformanceRNN & MusicTransformer published by "Google Magenta"
+- [itsbrex/batch-rekorkbox-to-ableton](https://github.com/itsbrex/batch-rekorkbox-to-ableton) - 
+- [derberg/manage-files-in-multiple-repositories](https://github.com/derberg/manage-files-in-multiple-repositories) - GitHub Action that introduces support for global workflows. Global workflows are the one you update in just one repo and they are automatically updated in other repositories.
+- [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
+- [weykon/new-man](https://github.com/weykon/new-man) - a app on macOS easily using chatGPT searching
+- [Significant-Gravitas/Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
+- [doutv/Auto-GPT-Notion](https://github.com/doutv/Auto-GPT-Notion) - Auto-GPT Notion Plugin
 - [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
 - [chrisdonahue/nesmdb](https://github.com/chrisdonahue/nesmdb) - The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
@@ -3043,7 +3115,6 @@
 - [itsjoetree/plant-db](https://github.com/itsjoetree/plant-db) - database application to store information about plants
 - [LeMansHack/AbletonAPI](https://github.com/LeMansHack/AbletonAPI) - NodeJS API for Ableton Live using Max4Node
 - [magenta/magenta-demos](https://github.com/magenta/magenta-demos) - Demonstrations of Magenta Models
-- [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
 - [palmarci/rbBeatDetect](https://github.com/palmarci/rbBeatDetect) - Send OSC beat signals from rekordbox
 - [Bide-UK/Bides-Rekordbox-AutoCuer](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer) - A tool to automate adding Hot Cue and Memory points in Rekordbox.
 - [owenstanley/rekordbox-cue-points](https://github.com/owenstanley/rekordbox-cue-points) - A python script to automate setting rekordbox cue points
@@ -4341,7 +4412,9 @@
 
 ## python 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
+- [DBraun/AbletonParsing](https://github.com/DBraun/AbletonParsing) - Parse an Ableton ASD clip file (warp markers and more) in Python
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact with Massive Embedding and Text Datasets in Your Web Browser
 - [xlwings/xlwings-server-helloworld-fastapi](https://github.com/xlwings/xlwings-server-helloworld-fastapi) - Demo repo for the xlwings remote interpreter
@@ -4456,6 +4529,7 @@
 
 ## pytorch 
 
+- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Keeping Track of Affordable LLMs, 🦙 Cult and More
 - [coreylowman/rl_simply](https://github.com/coreylowman/rl_simply) - Simple pytorch implementations of RL algorithms
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -4497,6 +4571,7 @@
 
 ## react 
 
+- [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
@@ -4759,6 +4834,7 @@
 
 ## redux 
 
+- [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [wx-chevalier/m-fe-boilerplates](https://github.com/wx-chevalier/m-fe-boilerplates) - Lucid & Futuristic Production Boilerplates For Frontend(Web) Apps, React/RN/Vue, with TypeScript(Optional), Webpack 4/Parcel, MobX/Redux :dizzy: 多技术栈前端项目模板
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
@@ -4779,7 +4855,7 @@
 
 ## reverse-engineering 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [offlinemark/dawtool](https://github.com/offlinemark/dawtool) - Reverse-engineered parsers for Ableton Live & FL Studio project files.
@@ -4880,6 +4956,7 @@
 
 ## shell 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [pawamoy/shelldemo](https://github.com/pawamoy/shelldemo) - Run a set of Bash commands as if typed by a robo- I mean, a person.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -5045,6 +5122,7 @@
 
 ## tensorflow 
 
+- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Keeping Track of Affordable LLMs, 🦙 Cult and More
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
@@ -5076,6 +5154,7 @@
 
 ## terraform 
 
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
@@ -5100,6 +5179,7 @@
 
 ## typescript 
 
+- [flametuner/vscode-conventional-commit-ai](https://github.com/flametuner/vscode-conventional-commit-ai) - Create conventional commits using Open Ai API
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
@@ -5296,6 +5376,7 @@
 
 ## visual-studio-code 
 
+- [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [saurabhdaware/vscode-terminal-manager](https://github.com/saurabhdaware/vscode-terminal-manager) - VSCode Extension to manage Terminals. Lets you add multiple optional terminals and easily switch through them. 🎉
@@ -5311,6 +5392,7 @@
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
+- [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
 - [rzuppur/rekordfix](https://github.com/rzuppur/rekordfix) - GUI tool for missing functionality to manage a Rekordbox collection
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
