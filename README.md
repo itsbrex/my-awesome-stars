@@ -6,6 +6,7 @@
 ## Contents
 
 - [AppleScript](#applescript)
+- [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -48,6 +49,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -78,6 +80,10 @@
 - [unforswearing/dued](https://github.com/unforswearing/dued) - An Alfred extension and system service for formatted dates on macos
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 - [johnvining/dayonealfred](https://github.com/johnvining/dayonealfred) - Helps ya help Alfred log stuff to Day One
+
+## Assembly 
+
+- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 
 ## Astro 
 
@@ -145,6 +151,8 @@
 
 ## C++ 
 
+- [markkorput/OF-Sketch-AbletonResolumeController](https://github.com/markkorput/OF-Sketch-AbletonResolumeController) - Ableton Live (audio) and Resolume Arena (video) controller app
+- [satoruhiga/ofxAbletonLiveSet](https://github.com/satoruhiga/ofxAbletonLiveSet) - Ableton Live Set (.als) Project File parser
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [samsta/min.midiout](https://github.com/samsta/min.midiout) - Use MIDI output to preview/audition MIDI clips in Ableton Live
 - [mpusch88/Externalizer](https://github.com/mpusch88/Externalizer) - Externalizer is a VST3 audio plugin developed using the JUCE framework, designed to enable routing audio to and from external hardware processors within DAWs and other audio programs. The goal of the 
@@ -335,6 +343,7 @@
 
 ## Dockerfile 
 
+- [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [lannonbr/vsce-action](https://github.com/lannonbr/vsce-action) - A GitHub Action to automate deploying VS Code extensions
 - [alertbox/devcontainers-try-bun](https://github.com/alertbox/devcontainers-try-bun) - Bun, all-in-one JS runtime and its prerequisites starter project template for use with VS Code Remote - Containers and GitHub Codespaces, ideal for Windows
 
@@ -344,6 +353,7 @@
 
 ## Go 
 
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
 - [sashabaranov/kagi-summarizer-api](https://github.com/sashabaranov/kagi-summarizer-api) - 
@@ -541,6 +551,8 @@
 
 ## Java 
 
+- [BSvER1/AbletonMidiMapper](https://github.com/BSvER1/AbletonMidiMapper) - a small utility for grabbing automation out of ableton to send to other applications over virtual midi ports
+- [mattmcwaters/AbletonExporter](https://github.com/mattmcwaters/AbletonExporter) - Automatically Stems out a project grouped by colors given by user.
 - [Glamdring/computoser](https://github.com/Glamdring/computoser) - Algorithm for music composition
 - [datmt/NO-CACHE-BROWSER](https://github.com/datmt/NO-CACHE-BROWSER) - We developers hate cache. Cache must die. Try these browsers instead
 - [thuannv/HeartsFlying](https://github.com/thuannv/HeartsFlying) - Hearts fly from bottom to top like Bigo Live when play stream.
@@ -561,6 +573,15 @@
 
 ## JavaScript 
 
+- [nzkdevsaider/ableton-nextjs](https://github.com/nzkdevsaider/ableton-nextjs) - Replica of Ableton website made in NextJS.
+- [JeromeDevillers/ableton-hue-record](https://github.com/JeromeDevillers/ableton-hue-record) - Set Philips Hue color to red when you recording with your Ableton Push 2.
+- [scribbletune/exotic-scale-devices](https://github.com/scribbletune/exotic-scale-devices) - Exotic MIDI Scale effect devices for Ableton Live
+- [Tomas-Lawton/AutoBeat](https://github.com/Tomas-Lawton/AutoBeat) - Novel AI drum machine for Ableton
+- [thorhop/livemanager](https://github.com/thorhop/livemanager) - Ableton Live project manager
+- [j74/V-Module-Max-for-Live-Video-Plugins](https://github.com/j74/V-Module-Max-for-Live-Video-Plugins) - Max for Live Video Plugins for Ableton Live
+- [derberg/manage-files-in-multiple-repositories](https://github.com/derberg/manage-files-in-multiple-repositories) - GitHub Action that introduces support for global workflows. Global workflows are the one you update in just one repo and they are automatically updated in other repositories.
+- [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [olaviinha/ChordsGuruTurbo100aDeluxe](https://github.com/olaviinha/ChordsGuruTurbo100aDeluxe) - Visualize and preview written chord progressions
 - [xlwings/xlwings-server-helloworld-fastapi](https://github.com/xlwings/xlwings-server-helloworld-fastapi) - Demo repo for the xlwings remote interpreter
@@ -1300,6 +1321,9 @@
 
 ## Jupyter Notebook 
 
+- [stevengt/ableton-xml-analysis](https://github.com/stevengt/ableton-xml-analysis) - 
+- [AvneeshSarwate/abletonAutomationExtraction](https://github.com/AvneeshSarwate/abletonAutomationExtraction) - Extract automation information from Ableton live to use in standalone animations
+- [sandcobainer/neu-encoder](https://github.com/sandcobainer/neu-encoder) - Using Magenta's nsynth-fastgen project to synthesize samples with neural sythensis in Max4Live,Ableton
 - [wayne391/lead-sheet-dataset](https://github.com/wayne391/lead-sheet-dataset) - :headphones: lead sheet datasets in various formats
 - [jhamer90811/chord_progression_assistant](https://github.com/jhamer90811/chord_progression_assistant) - project which uses Hooktheory and Spotify APIs to perform analysis of chord progressions of popular songs.
 - [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
@@ -1355,12 +1379,15 @@
 
 ## Makefile 
 
+- [luiscript/NSYNC](https://github.com/luiscript/NSYNC) - Sync your animations with MIDI clock or Ableton link (with different creative tools).
 - [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
-- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Max 
 
+- [koil-music/regroove-m4l](https://github.com/koil-music/regroove-m4l) - Regroove is a Max for Live device that generates expressive drum rhythms using a learned understanding of groove ♬
+- [showsync/LiveMTC](https://github.com/showsync/LiveMTC) - LiveMTC is a plugin/app combination that outputs Midi Time Code from Ableton Live
+- [naotokui/M4L-CreativeGAN-Rhythm](https://github.com/naotokui/M4L-CreativeGAN-Rhythm) - Rhythm GAN/CAN player for Ableton Live / Max for Live
 - [mganss/Aicd](https://github.com/mganss/Aicd) - Acid pattern generator
 - [carsault/chord_extraction_prediction_lib](https://github.com/carsault/chord_extraction_prediction_lib) - 
 - [adamjmurray/ableton-midi-sculptor](https://github.com/adamjmurray/ableton-midi-sculptor) - Ableton MIDI Sculptor: Tools for MIDI editing in Ableton Live
@@ -1478,6 +1505,15 @@
 
 ## Others 
 
+- [matis-io/AbletonAnalog80sSound](https://github.com/matis-io/AbletonAnalog80sSound) - Presets for Ableton Live's Analog synthesiser of 80s hits
+- [StandartTemplateConstruct/AbletonLinkHeartbeatSync](https://github.com/StandartTemplateConstruct/AbletonLinkHeartbeatSync) - Write music with BPM always matching your heartbeat!
+- [AlperKoc/AbletonParser](https://github.com/AlperKoc/AbletonParser) - Ableton project converted to an .xml file, and parsed as a python dict
+- [maitreverge/camel_crusher_ableton](https://github.com/maitreverge/camel_crusher_ableton) - :dromedary_camel: Camel Crusher :dromedary_camel: by Camel Audio, discontinued VST Audio-Pluggin. Custom-mapped for Ableton 10+ Working :muscle: Crushing :boom:
+- [Adrian-Winter/Ableton-Dj-Booth](https://github.com/Adrian-Winter/Ableton-Dj-Booth) - A Max for Live plugin that makes DJing with Ableton a pleasure
+- [samvincent/AbletonLive-Traktor-Filter](https://github.com/samvincent/AbletonLive-Traktor-Filter) - Traktor style Cut-Off Filter for Ableton Live
+- [estoycon/Ableton-Drum-Racks](https://github.com/estoycon/Ableton-Drum-Racks) - 
+- [AhmadMoussa/Python-Midi-Ableton](https://github.com/AhmadMoussa/Python-Midi-Ableton) - A tutorial/guide on how to send midi signals from python to Ableton live, as resources on the internet about this are sparse and cryptic
+- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Keeping Track of Affordable LLMs, 🦙 Cult and More
 - [owencm/hooktheory-data](https://github.com/owencm/hooktheory-data) - Data dump from hook theory / hooktheory
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
@@ -1765,10 +1801,29 @@
 
 ## Python 
 
+- [L1fescape/ableton-open-last-set](https://github.com/L1fescape/ableton-open-last-set) - Open Ableton to your most recent set rather than a new project
+- [baguettemusique/ableton_user_actions](https://github.com/baguettemusique/ableton_user_actions) - This is my ExampleActions.py file where I develop User Actions for ClyphXPro with Ableton 10
+- [NikkDusky/ableton-11-discord-presence](https://github.com/NikkDusky/ableton-11-discord-presence) - Ableton Live Suite 11 Discord Presence
+- [ntn98/AbletonLiveAutoExporter](https://github.com/ntn98/AbletonLiveAutoExporter) - A simple python script that allows you to export multiple Abeton Live sets automatically
+- [hamoid/ableton-live-preset-report](https://github.com/hamoid/ableton-live-preset-report) - A python script that prints out details from preset files
+- [valsteen/ableton_log](https://github.com/valsteen/ableton_log) - Proof of concept to generate release notes from different versions of ableton projects
+- [hamiltonkibbe/PyAbleton](https://github.com/hamiltonkibbe/PyAbleton) - A Python Library for creating and editing Ableton Live instrument patches
+- [shamharoth/AbletonPushColours](https://github.com/shamharoth/AbletonPushColours) - Modified Push Scripts for Hooktheory Colour Coding
+- [elixirbeats/abletoolz](https://github.com/elixirbeats/abletoolz) - Tools for editing and analyzing Ableton Live sets
+- [Discord-ian/ableton-presence](https://github.com/Discord-ian/ableton-presence) - Discord Rich Presence with Ableton
+- [bartwronski/AbletonOperatorAMSWavetables](https://github.com/bartwronski/AbletonOperatorAMSWavetables) - Some "massive" wavetables for Ableton Operator additive synthesis oscillators and a Python script to create new ones
+- [bdyetton/LinkToPy](https://github.com/bdyetton/LinkToPy) - A python module for interfacing with Ableton Link.
+- [DBraun/AbletonParsing](https://github.com/DBraun/AbletonParsing) - Parse an Ableton ASD clip file (warp markers and more) in Python
+- [ideoforms/AbletonOSC](https://github.com/ideoforms/AbletonOSC) - Control Ableton Live 11 via Open Sound Control (OSC)
+- [gudgud96/midi-neural-processor](https://github.com/gudgud96/midi-neural-processor) - midi processor library for PerformanceRNN & MusicTransformer published by "Google Magenta"
+- [itsbrex/batch-rekorkbox-to-ableton](https://github.com/itsbrex/batch-rekorkbox-to-ableton) - 
+- [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
+- [Significant-Gravitas/Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
+- [doutv/Auto-GPT-Notion](https://github.com/doutv/Auto-GPT-Notion) - Auto-GPT Notion Plugin
 - [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
 - [chrisdonahue/nesmdb](https://github.com/chrisdonahue/nesmdb) - The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [rhohndorf/Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [coreylowman/rl_simply](https://github.com/coreylowman/rl_simply) - Simple pytorch implementations of RL algorithms
@@ -2158,6 +2213,7 @@
 
 ## Rich Text Format 
 
+- [luizen/ableton-live-theme-editor-web](https://github.com/luizen/ableton-live-theme-editor-web) - An online editor for Ableton Live themes
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 
 ## Ruby 
@@ -2222,6 +2278,7 @@
 
 ## Rust 
 
+- [clintburgos/ableton-git](https://github.com/clintburgos/ableton-git) - wrapper for git that ensures the best settings for versioning Ableton Live projects
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
@@ -2268,6 +2325,10 @@
 - [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 - [jakegiltsoff/sassline](https://github.com/jakegiltsoff/sassline) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 
+## Sass 
+
+- [Ableton/ableton.github.io](https://github.com/Ableton/ableton.github.io) - Ableton's GitHub.io website
+
 ## Scala 
 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
@@ -2275,6 +2336,7 @@
 
 ## Shell 
 
+- [ryoikarashi/ableton-packs-downloader](https://github.com/ryoikarashi/ableton-packs-downloader) - A tiny batch script for downloading all ableton live packs.
 - [a-blender/audioserver](https://github.com/a-blender/audioserver) - Audio processor and HTTPS streaming server in Go
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
@@ -2382,6 +2444,8 @@
 
 ## Swift 
 
+- [codeflows/SceneLauncher](https://github.com/codeflows/SceneLauncher) - Ableton Live scene launcher app for iOS
+- [weykon/new-man](https://github.com/weykon/new-man) - a app on macOS easily using chatGPT searching
 - [StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query your Apple Health data with natural language 💬 🩺
 - [adamcichy/SwiftySound](https://github.com/adamcichy/SwiftySound) - SwiftySound is a simple library that lets you play sounds with a single line of code.
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS & macOS in Swift. Native SwiftUI & UIKit views.
@@ -2457,6 +2521,12 @@
 
 ## TypeScript 
 
+- [octokit/auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript
+- [BrandesEric/song-scaffolder](https://github.com/BrandesEric/song-scaffolder) - Generates song ideas directly in Ableton Live
+- [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
+- [BrandesEric/AbletonJS](https://github.com/BrandesEric/AbletonJS) - Controlling Ableton Live with TypeScript.
+- [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
+- [flametuner/vscode-conventional-commit-ai](https://github.com/flametuner/vscode-conventional-commit-ai) - Create conventional commits using Open Ai API
 - [cfortuner/wellknown](https://github.com/cfortuner/wellknown) - A registry of AI Plugins
 - [vantezzen/skip-silence](https://github.com/vantezzen/skip-silence) - 🔇 Browser extension to skip silent parts in videos and audio files on any webpage
 - [Glavin001/create-t3-turbo-ai](https://github.com/Glavin001/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
