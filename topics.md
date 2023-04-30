@@ -225,6 +225,7 @@
 
 ## ai 
 
+- [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
 - [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
@@ -594,6 +595,8 @@
 
 ## chatgpt 
 
+- [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
+- [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
@@ -995,6 +998,7 @@
 
 ## database 
 
+- [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact with Massive Embedding and Text Datasets in Your Web Browser
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
@@ -1363,6 +1367,7 @@
 
 ## github 
 
+- [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
@@ -1745,6 +1750,7 @@
 
 ## javascript 
 
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
@@ -2378,6 +2384,7 @@
 
 ## mysql 
 
+- [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ibrahimhozhun/prisma-nextjs](https://github.com/ibrahimhozhun/prisma-nextjs) - Website created with Next.js, NextUI library & Prisma ORM
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -2406,6 +2413,8 @@
 
 ## nextjs 
 
+- [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
+- [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot) - Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js.
 - [yaseenmustapha/nextjs13-app](https://github.com/yaseenmustapha/nextjs13-app) - Full-stack Next.js 13 application. Uses React 18 client & server components, TypeScript, Prisma ORM, Railway PostgreSQL database, NextAuth.js OAuth 2.0 authentication, OpenAI API GPT-3.5-Turbo, and St
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2579,6 +2588,7 @@
 
 ## nlp 
 
+- [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
@@ -2775,6 +2785,8 @@
 
 ## others 
 
+- [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
+- [loretoparisi/cleanup.pictures](https://github.com/loretoparisi/cleanup.pictures) - Code for https://cleanup.pictures
 - [willeswa/somadocs](https://github.com/willeswa/somadocs) - a nextjs app to implement reading documents using openai (embeddings and chat model), pinecone for vectors store and langchain.
 - [murchie85/GPT_AUTOMATE](https://github.com/murchie85/GPT_AUTOMATE) - An automation harness for GPT to produce a full ready to go code poject.
 - [MikeKadoshnikov/Project-Genesis](https://github.com/MikeKadoshnikov/Project-Genesis) - Project Genesis is the development of a mathematical visual representation of music. Don't judge harshly, there are no resources and ChatGPT doesnt help!
@@ -5090,6 +5102,7 @@
 
 ## sql 
 
+- [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
 - [ibrahimhozhun/prisma-nextjs](https://github.com/ibrahimhozhun/prisma-nextjs) - Website created with Next.js, NextUI library & Prisma ORM
@@ -5251,6 +5264,7 @@
 
 ## twitter 
 
+- [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [privatenumber/snap-tweet](https://github.com/privatenumber/snap-tweet) - Snap a screenshot of a tweet 📸
 - [sdelgadoc/download-tweets-ai-text-gen-plus](https://github.com/sdelgadoc/download-tweets-ai-text-gen-plus) - Python script to download public Tweets from a given Twitter account into a format suitable for AI text generation
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
@@ -5260,6 +5274,9 @@
 
 ## typescript 
 
+- [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
+- [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
+- [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astro + Tailwind CSS + TypeScript Starter and Boilerplate
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot) - Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js.
 - [ryohey/signal](https://github.com/ryohey/signal) - A friendly music sequencer built with web technology
@@ -5473,6 +5490,7 @@
 
 ## vue 
 
+- [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
 - [munron/mv3-vue-chrome-extension-template](https://github.com/munron/mv3-vue-chrome-extension-template) - Support Manifest V3 , Vue3 , Typescript, Hot Reload, Firebase Authentication
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
