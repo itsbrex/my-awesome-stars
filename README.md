@@ -87,6 +87,7 @@
 
 ## Astro 
 
+- [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astro + Tailwind CSS + TypeScript Starter and Boilerplate
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -579,6 +580,9 @@
 
 ## JavaScript 
 
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
+- [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
+- [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [simplifiedkd/ChatGPT4MusicVisualizer](https://github.com/simplifiedkd/ChatGPT4MusicVisualizer) - 
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
 - [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a node.js web service for automate accounting via chatGPT, Telegram bot and Notion.
@@ -2551,6 +2555,11 @@
 
 ## TypeScript 
 
+- [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
+- [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
+- [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
+- [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
+- [loretoparisi/cleanup.pictures](https://github.com/loretoparisi/cleanup.pictures) - Code for https://cleanup.pictures
 - [willeswa/somadocs](https://github.com/willeswa/somadocs) - a nextjs app to implement reading documents using openai (embeddings and chat model), pinecone for vectors store and langchain.
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [jbesomi/notionGPT](https://github.com/jbesomi/notionGPT) - Notion + ChatGPT = 🔥
@@ -3076,6 +3085,7 @@
 
 ## Vue 
 
+- [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
 - [xiaoluoboding/nuxt3-starter](https://github.com/xiaoluoboding/nuxt3-starter) - 💚 A Better Nuxt 3 Starter Template，generate by nuxi.
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - One Tab Group | A Chrome extension for reorganizing your open tabs, restoring saved tab sessions, and also restoring tab groups.
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
