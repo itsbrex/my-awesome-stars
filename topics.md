@@ -173,6 +173,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
+- [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
 - [server](#server)
@@ -225,6 +226,9 @@
 
 ## ai 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
+- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
+- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
@@ -290,6 +294,7 @@
 
 ## algorithm 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
@@ -332,6 +337,7 @@
 
 ## api 
 
+- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 - [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
@@ -356,6 +362,7 @@
 
 ## artificial-intelligence 
 
+- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [sean1832/SumGPT](https://github.com/sean1832/SumGPT) - Bulk summarization of documents using ChatGPT API
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
@@ -382,7 +389,7 @@
 
 ## automation 
 
-- [magicpaIm/openAISpeechToDatabase](https://github.com/magicpaIm/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
+- [sortoite/openAISpeechToDatabase](https://github.com/sortoite/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [shijithpk/music-discovery](https://github.com/shijithpk/music-discovery) - How to find new music on Spotify by aggregating the choices of tastemakers
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
@@ -514,6 +521,7 @@
 
 ## azure 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 
 ## babel 
@@ -596,13 +604,18 @@
 
 ## chatgpt 
 
+- [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
+- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Responsive personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for de
+- [AdirthaBorgohain/intelliweb-GPT](https://github.com/AdirthaBorgohain/intelliweb-GPT) - Intelligent search engine/QA module that uses GPT models to provide accurate, relevant & recent answers from Google News/Web, & can directly answer user queries using GPT's knowledge.
+- [editor-syntax/gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use
+- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
 - [mazzzystar/teach-show-consult](https://github.com/mazzzystar/teach-show-consult) - Teach ChatGPT the Alda music programming language, show it some superb code, and consult with it to compose a melody.
-- [magicpaIm/openAISpeechToDatabase](https://github.com/magicpaIm/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
+- [sortoite/openAISpeechToDatabase](https://github.com/sortoite/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 - [otelo2/Obsidian-AI](https://github.com/otelo2/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
@@ -674,6 +687,9 @@
 
 ## chatgpt-api 
 
+- [editor-syntax/gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use
+- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
+- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [otelo2/Obsidian-AI](https://github.com/otelo2/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
@@ -895,6 +911,7 @@
 
 ## cryptocurrency 
 
+- [isaiahbjork/Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [sandoche/Proof-of-Stake-Cryptocurrency-generator](https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator) - 🍀 Create your own Proof of Stake cryptocurrency with its own blockchain based on NXT
 
@@ -980,6 +997,7 @@
 
 ## data-science 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [pyxelr/recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) - All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
@@ -988,6 +1006,7 @@
 
 ## data-structures 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
@@ -999,6 +1018,7 @@
 
 ## database 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact with Massive Embedding and Text Datasets in Your Web Browser
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
@@ -1010,6 +1030,7 @@
 
 ## deep-learning 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [koil-music/regroove-m4l](https://github.com/koil-music/regroove-m4l) - Regroove is a Max for Live device that generates expressive drum rhythms using a learned understanding of groove ♬
 - [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
@@ -1214,6 +1235,7 @@
 
 ## ethereum 
 
+- [isaiahbjork/Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
 - [AltCoinExchange/ethatomicswap](https://github.com/AltCoinExchange/ethatomicswap) - Ethereum atomic swap
@@ -1693,6 +1715,7 @@
 
 ## http 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [ariesclark/oily.js](https://github.com/ariesclark/oily.js) - A blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience!
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 
@@ -1741,6 +1764,7 @@
 
 ## java 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1751,6 +1775,7 @@
 
 ## javascript 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
@@ -1990,6 +2015,7 @@
 
 ## language 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
@@ -2084,6 +2110,7 @@
 
 ## machine-learning 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -2289,6 +2316,7 @@
 
 ## music 
 
+- [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [mrdjtools/AttributeTagger](https://github.com/mrdjtools/AttributeTagger) - This is a publicly available version of the attribute tagger I created using ChatGPT 4. The tagger cross-references Spotify's metadata with tracks located in a specific folder and automatically assign
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
@@ -2355,7 +2383,6 @@
 - [epilande/alfred-be-quiet](https://github.com/epilande/alfred-be-quiet) - 🤫 Workflow to automatically pause audio/video playing
 - [gustavosaez/Alfred-Workflow-Apple-Music](https://github.com/gustavosaez/Alfred-Workflow-Apple-Music) - Apple Music Curated Playlists
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
-- [caoimhebyrne/audition](https://github.com/caoimhebyrne/audition) - Audition is a web application made with Next.JS that recommends artists on Spotify based on your music taste
 - [1j01/midiflip](https://github.com/1j01/midiflip) - 🎹 MIDI music mayhem - flip, transpose, and arbitrarily remap pitches in MIDI files
 - [instrumentbible/solfege.ai](https://github.com/instrumentbible/solfege.ai) - Detect solfege hand signs using machine learning ✋ 🎹
 - [LiveEnhancementSuite/LESforMacOS](https://github.com/LiveEnhancementSuite/LESforMacOS) - Ableton Live, supercharged (on macOS)
@@ -2415,6 +2442,7 @@
 
 ## nextjs 
 
+- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Responsive personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for de
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot) - Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js.
@@ -2774,6 +2802,7 @@
 
 ## opencv 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [vilmacio/depixelate](https://github.com/vilmacio/depixelate) - Upscale an illustration and increase details
 
 ## opengl 
@@ -2787,6 +2816,17 @@
 
 ## others 
 
+- [mlc-ai/relax](https://github.com/mlc-ai/relax) - 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [rumpfmax/Multi-GPT](https://github.com/rumpfmax/Multi-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
+- [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT) - A simple and extensible program that helps you run GPT-4 model autonomously.
+- [Seitk/gpt-assistant](https://github.com/Seitk/gpt-assistant) - Atom the GPT Assistant - Smart Home Powered with AI
+- [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
+- [slavingia/push-to-do](https://github.com/slavingia/push-to-do) - Push voice to-dos to Notion
+- [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
+- [Methexis-Inc/SocialAGI](https://github.com/Methexis-Inc/SocialAGI) - Create digital souls
+- [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [d3n7/riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion
 - [endolith/scopeplot](https://github.com/endolith/scopeplot) - Oscilloscope-like plotting of waveforms
@@ -4500,6 +4540,9 @@
 
 ## python 
 
+- [AdirthaBorgohain/intelliweb-GPT](https://github.com/AdirthaBorgohain/intelliweb-GPT) - Intelligent search engine/QA module that uses GPT models to provide accurate, relevant & recent answers from Google News/Web, & can directly answer user queries using GPT's knowledge.
+- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
+- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [sean1832/SumGPT](https://github.com/sean1832/SumGPT) - Bulk summarization of documents using ChatGPT API
@@ -4664,6 +4707,7 @@
 
 ## react 
 
+- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Responsive personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for de
 - [ryohey/signal](https://github.com/ryohey/signal) - A friendly music sequencer built with web technology
 - [yaseenmustapha/nextjs13-app](https://github.com/yaseenmustapha/nextjs13-app) - Full-stack Next.js 13 application. Uses React 18 client & server components, TypeScript, Prisma ORM, Railway PostgreSQL database, NextAuth.js OAuth 2.0 authentication, OpenAI API GPT-3.5-Turbo, and St
 - [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
@@ -4768,7 +4812,6 @@
 - [NBruhno/homepage](https://github.com/NBruhno/homepage) - My personal portfolio and playground
 - [ejirocodes/Nextjs_Authentication](https://github.com/ejirocodes/Nextjs_Authentication) - 🔏 This repository is for my article How to use NextAuth.js for client-side authentication in Next.js
 - [CompSciDev/Next.js-jwt-http-cookie-only](https://github.com/CompSciDev/Next.js-jwt-http-cookie-only) - You'll learn how to implement your own authentication in Next.js using JWT and storing that JWT inside an httpOnly cookie.
-- [caoimhebyrne/audition](https://github.com/caoimhebyrne/audition) - Audition is a web application made with Next.JS that recommends artists on Spotify based on your music taste
 - [albingroen/react-cmdk](https://github.com/albingroen/react-cmdk) - A fast, accessible, and pretty command palette for React
 - [ibrahimhozhun/prisma-nextjs](https://github.com/ibrahimhozhun/prisma-nextjs) - Website created with Next.js, NextUI library & Prisma ORM
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
@@ -4952,6 +4995,8 @@
 
 ## reverse-engineering 
 
+- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
+- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -5015,6 +5060,10 @@
 - [doubleedesign/Flexee-WordPress-Theme](https://github.com/doubleedesign/Flexee-WordPress-Theme) - FlexeeWP is a WordPress starter theme that uses a simple, flexbox-based, 12-column grid system and plenty of SASS. Currently a work in progress.
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [olefredrik/FoundationPress](https://github.com/olefredrik/FoundationPress) - FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
+
+## scala 
+
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 
 ## scikit-learn 
 
@@ -5109,6 +5158,7 @@
 
 ## sql 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
@@ -5497,6 +5547,7 @@
 
 ## vue 
 
+- [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Your Ultimate Copilot on the Desktop. ChatGPTBox is a desktop app for GPT-3.5 (OpenAI API).
 - [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
 - [munron/mv3-vue-chrome-extension-template](https://github.com/munron/mv3-vue-chrome-extension-template) - Support Manifest V3 , Vue3 , Typescript, Hot Reload, Firebase Authentication
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
@@ -5533,6 +5584,7 @@
 
 ## web 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
