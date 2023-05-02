@@ -429,6 +429,8 @@
 
 ## HTML 
 
+- [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m
+- [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
 - [SerRat44/DescentIntoDarkness](https://github.com/SerRat44/DescentIntoDarkness) - Contained html/javascript text-based rpg coded entirely using chatGPT without using external libraries or websites.
 - [SerRat44/dIDMusicEngine](https://github.com/SerRat44/dIDMusicEngine) - Contained html/javascript audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
 - [mganss/XmlSchemaClassGenerator](https://github.com/mganss/XmlSchemaClassGenerator) - Generate C# classes from XML Schema files
@@ -558,6 +560,7 @@
 
 ## Java 
 
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [BSvER1/AbletonMidiMapper](https://github.com/BSvER1/AbletonMidiMapper) - a small utility for grabbing automation out of ableton to send to other applications over virtual midi ports
 - [mattmcwaters/AbletonExporter](https://github.com/mattmcwaters/AbletonExporter) - Automatically Stems out a project grouped by colors given by user.
 - [Glamdring/computoser](https://github.com/Glamdring/computoser) - Algorithm for music composition
@@ -580,6 +583,11 @@
 
 ## JavaScript 
 
+- [editor-syntax/gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use
+- [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
+- [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
+- [Methexis-Inc/SocialAGI](https://github.com/Methexis-Inc/SocialAGI) - Create digital souls
+- [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
 - [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
@@ -1825,6 +1833,15 @@
 
 ## Python 
 
+- [mlc-ai/relax](https://github.com/mlc-ai/relax) - 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [AdirthaBorgohain/intelliweb-GPT](https://github.com/AdirthaBorgohain/intelliweb-GPT) - Intelligent search engine/QA module that uses GPT models to provide accurate, relevant & recent answers from Google News/Web, & can directly answer user queries using GPT's knowledge.
+- [rumpfmax/Multi-GPT](https://github.com/rumpfmax/Multi-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
+- [isaiahbjork/Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
+- [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT) - A simple and extensible program that helps you run GPT-4 model autonomously.
+- [Seitk/gpt-assistant](https://github.com/Seitk/gpt-assistant) - Atom the GPT Assistant - Smart Home Powered with AI
+- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [endolith/scopeplot](https://github.com/endolith/scopeplot) - Oscilloscope-like plotting of waveforms
 - [d3n7/GPT-4-Unlimited-Tools](https://github.com/d3n7/GPT-4-Unlimited-Tools) - Custom Plugins for GPT-4 (easy web app interface)
 - [d3n7/GPT-4-To-MIDI](https://github.com/d3n7/GPT-4-To-MIDI) - Text prompt to MIDI File using OpenAI's GPT-4
@@ -1835,7 +1852,7 @@
 - [mrdjtools/AttributeTagger](https://github.com/mrdjtools/AttributeTagger) - This is a publicly available version of the attribute tagger I created using ChatGPT 4. The tagger cross-references Spotify's metadata with tracks located in a specific folder and automatically assign
 - [MartinDeadly/Music-Maker](https://github.com/MartinDeadly/Music-Maker) - ChatGPT is working with me to generate midi files
 - [mazzzystar/teach-show-consult](https://github.com/mazzzystar/teach-show-consult) - Teach ChatGPT the Alda music programming language, show it some superb code, and consult with it to compose a melody.
-- [magicpaIm/openAISpeechToDatabase](https://github.com/magicpaIm/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
+- [sortoite/openAISpeechToDatabase](https://github.com/sortoite/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
 - [Praytic/chatgpt-notion-auto-tagging](https://github.com/Praytic/chatgpt-notion-auto-tagging) - Notion & ChatGPT integration to auto-tag and categorise web pages
 - [jbesomi/browserGPT](https://github.com/jbesomi/browserGPT) - An open-source autonomous browser agent
 - [sean1832/SumGPT](https://github.com/sean1832/SumGPT) - Bulk summarization of documents using ChatGPT API
@@ -2371,6 +2388,7 @@
 
 ## Scala 
 
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [lizepeng/app.io](https://github.com/lizepeng/app.io) - This application shows how to build scalable web application with Play Framework, Cassandra, Elastic Search, Bootstrap and Angular.js. By including cassandra and elasticsearch, app.io achieved non-blo
 
@@ -2484,6 +2502,7 @@
 
 ## Swift 
 
+- [slavingia/push-to-do](https://github.com/slavingia/push-to-do) - Push voice to-dos to Notion
 - [delannoyk/AudioPlayer](https://github.com/delannoyk/AudioPlayer) - AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
 - [codeflows/SceneLauncher](https://github.com/codeflows/SceneLauncher) - Ableton Live scene launcher app for iOS
 - [weykon/new-man](https://github.com/weykon/new-man) - a app on macOS easily using chatGPT searching
@@ -2562,6 +2581,8 @@
 
 ## TypeScript 
 
+- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Responsive personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for de
+- [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
@@ -2920,7 +2941,6 @@
 - [asnunes/notion-page-to-html-api](https://github.com/asnunes/notion-page-to-html-api) - Vercel API wrapper to notion-page-to-html library
 - [asnunes/notion-page-to-html](https://github.com/asnunes/notion-page-to-html) - NodeJS tool to convert public Notion pages to HTML from page ID
 - [Kazuki-tam/gas-slack2notion](https://github.com/Kazuki-tam/gas-slack2notion) - gas-slack2notion is a starter kit to post messages via Google Sheets from Slack to Notion.
-- [caoimhebyrne/audition](https://github.com/caoimhebyrne/audition) - Audition is a web application made with Next.JS that recommends artists on Spotify based on your music taste
 - [albingroen/react-cmdk](https://github.com/albingroen/react-cmdk) - A fast, accessible, and pretty command palette for React
 - [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - 🔮 Codeball – AI Code Review that finds bugs and fast-tracks your code
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -3091,6 +3111,7 @@
 
 ## Vue 
 
+- [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Your Ultimate Copilot on the Desktop. ChatGPTBox is a desktop app for GPT-3.5 (OpenAI API).
 - [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
 - [xiaoluoboding/nuxt3-starter](https://github.com/xiaoluoboding/nuxt3-starter) - 💚 A Better Nuxt 3 Starter Template，generate by nuxi.
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - One Tab Group | A Chrome extension for reorganizing your open tabs, restoring saved tab sessions, and also restoring tab groups.
