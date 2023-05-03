@@ -153,6 +153,8 @@
 
 ## C++ 
 
+- [WuYiming6526/HARD](https://github.com/WuYiming6526/HARD) - Harmony-Rhythm Disentanglement audio remixer plugin
+- [Torsion-Audio/Scyclone](https://github.com/Torsion-Audio/Scyclone) - Real-time Neural Timbre Transfer
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [markkorput/OF-Sketch-AbletonResolumeController](https://github.com/markkorput/OF-Sketch-AbletonResolumeController) - Ableton Live (audio) and Resolume Arena (video) controller app
 - [satoruhiga/ofxAbletonLiveSet](https://github.com/satoruhiga/ofxAbletonLiveSet) - Ableton Live Set (.als) Project File parser
@@ -583,10 +585,10 @@
 
 ## JavaScript 
 
+- [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
 - [editor-syntax/gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use
 - [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
 - [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
-- [Methexis-Inc/SocialAGI](https://github.com/Methexis-Inc/SocialAGI) - Create digital souls
 - [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
@@ -614,7 +616,7 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example](https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example) - Example for this script: https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement-photoshop-script
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension
-- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
+- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [fheyen/midi-chords](https://github.com/fheyen/midi-chords) - Tells you what chord you are playing via WebMIDI
@@ -1347,6 +1349,7 @@
 
 ## Jupyter Notebook 
 
+- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [stevengt/ableton-xml-analysis](https://github.com/stevengt/ableton-xml-analysis) - 
@@ -1841,7 +1844,6 @@
 - [isaiahbjork/Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
 - [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT) - A simple and extensible program that helps you run GPT-4 model autonomously.
 - [Seitk/gpt-assistant](https://github.com/Seitk/gpt-assistant) - Atom the GPT Assistant - Smart Home Powered with AI
-- [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [endolith/scopeplot](https://github.com/endolith/scopeplot) - Oscilloscope-like plotting of waveforms
 - [d3n7/GPT-4-Unlimited-Tools](https://github.com/d3n7/GPT-4-Unlimited-Tools) - Custom Plugins for GPT-4 (easy web app interface)
 - [d3n7/GPT-4-To-MIDI](https://github.com/d3n7/GPT-4-To-MIDI) - Text prompt to MIDI File using OpenAI's GPT-4
@@ -2502,6 +2504,7 @@
 
 ## Swift 
 
+- [jpcarrascal/live-set-switcher](https://github.com/jpcarrascal/live-set-switcher) - Ableton Live Set Switcher
 - [slavingia/push-to-do](https://github.com/slavingia/push-to-do) - Push voice to-dos to Notion
 - [delannoyk/AudioPlayer](https://github.com/delannoyk/AudioPlayer) - AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
 - [codeflows/SceneLauncher](https://github.com/codeflows/SceneLauncher) - Ableton Live scene launcher app for iOS
@@ -2583,6 +2586,7 @@
 
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Responsive personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for de
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
+- [Methexis-Inc/SocialAGI](https://github.com/Methexis-Inc/SocialAGI) - Create digital souls
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
@@ -2634,7 +2638,7 @@
 - [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
-- [transmissions11/flux](https://github.com/transmissions11/flux) - LLM Power Tool
+- [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [xiaoluoboding/chrome-ext-mv3-starter](https://github.com/xiaoluoboding/chrome-ext-mv3-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [vercel-labs/edge-data-latency](https://github.com/vercel-labs/edge-data-latency) - Visualize the latency of databases at the Edge.
