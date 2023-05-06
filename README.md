@@ -359,7 +359,7 @@
 
 ## Go 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compa
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for in
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
@@ -618,7 +618,7 @@
 - [xlwings/xlwings-server-helloworld-fastapi](https://github.com/xlwings/xlwings-server-helloworld-fastapi) - Demo repo for the xlwings remote interpreter
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example](https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example) - Example for this script: https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement-photoshop-script
-- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension
+- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower plugin for ChatGPT
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
@@ -2871,7 +2871,7 @@
 - [munky69rock/gas-google-form-notifier-to-slack](https://github.com/munky69rock/gas-google-form-notifier-to-slack) - Google Formの通知をGASでSlackに通知する
 - [ohmyform/api](https://github.com/ohmyform/api) - ✏️ Free open source Application Programming Interface API for OhMyForm ⛺
 - [ohmyform/ui](https://github.com/ohmyform/ui) - ✏️ Free open source Web User Interface for OhMyForm  ⛺
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
@@ -3043,7 +3043,7 @@
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [ricokahler/next-data-hooks](https://github.com/ricokahler/next-data-hooks) - Use `getStaticProps`/`getServerSideProps` as react-hooks
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [sozonome/nextarter-tailwind-daisy](https://github.com/sozonome/nextarter-tailwind-daisy) - battery packed template / boilerplate to initialize PWA ready Next.js app with TailwindCSS - DaisyUI & Typescript setup ✨
+- [sozonome/nextarter-tailwind](https://github.com/sozonome/nextarter-tailwind) - battery packed template / boilerplate to initialize PWA ready Next.js app with TailwindCSS & Typescript setup ✨
 - [colinramsay/remix-supabase](https://github.com/colinramsay/remix-supabase) - A starter for Remix + Supabase + Tailwind with the auth UI ready to go
 - [jckw/remix-ts-tailwind-radix-stitches-starter](https://github.com/jckw/remix-ts-tailwind-radix-stitches-starter) - A simple starter using Remix, TypeScript, Radix UI, Stitches, and (soon) Tailwind.
 - [QuentinWidlocher/remix-template](https://github.com/QuentinWidlocher/remix-template) - 🔋Batteries included Remix template with Tailwind, Prisma and powerful form utils
