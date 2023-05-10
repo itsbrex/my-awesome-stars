@@ -1539,6 +1539,7 @@
 
 ## Others 
 
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - 
 - [anuk2001/groovegpt](https://github.com/anuk2001/groovegpt) - chatgpt + spotify for personalized music recommendations
 - [icai/quill-chatgpt](https://github.com/icai/quill-chatgpt) - A Quill chatgpt module which like notion
@@ -1979,7 +1980,7 @@
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation
-- [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementations and Models
+- [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
@@ -2403,6 +2404,7 @@
 
 ## Shell 
 
+- [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [ryoikarashi/ableton-packs-downloader](https://github.com/ryoikarashi/ableton-packs-downloader) - A tiny batch script for downloading all ableton live packs.
 - [a-blender/audioserver](https://github.com/a-blender/audioserver) - Audio processor and HTTPS streaming server in Go
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
@@ -2591,6 +2593,8 @@
 
 ## TypeScript 
 
+- [zckly/wove](https://github.com/zckly/wove) - Wove is a tool for building long-running workflows with LLMs.
+- [zakhenry/embedme](https://github.com/zakhenry/embedme) - Utility for embedding code snippets into markdown documents
 - [aminmarashi/gpt-api-companion](https://github.com/aminmarashi/gpt-api-companion) - Tools built around the GPT API to make using of it easier, sets you free from ChatGPT (requires GPT API Key)
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [steven-tey/extrapolate](https://github.com/steven-tey/extrapolate) - Age transformation AI app powered by Next.js, Vercel, Replicate, Upstash, and Cloudflare R2 + Workers.
