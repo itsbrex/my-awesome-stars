@@ -231,6 +231,7 @@
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API for ggml compatible models: llama.c
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
@@ -246,6 +247,7 @@
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
+- [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - Links for music + machine learning
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Build your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
@@ -264,7 +266,7 @@
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [ybenkirane/DatingGPT](https://github.com/ybenkirane/DatingGPT) - DateGPT Repository: An AI-Powered Guide to Better Bios
-- [danny-avila/chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model & Bing, reverse-engineered UI, with AI model switching, message search, ChatGPT Plugins, Multi-User System, & Prompt Templates (WIP)
+- [danny-avila/chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model, Bing, PaLM 2, reverse-engineered UI, with AI model switching, message search, ChatGPT Plugins, Multi-User System, & Prompt Templates (WIP)
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -346,7 +348,8 @@
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
-- [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
+- [danny-avila/chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model, Bing, PaLM 2, reverse-engineered UI, with AI model switching, message search, ChatGPT Plugins, Multi-User System, & Prompt Templates (WIP)
+- [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
@@ -664,7 +667,7 @@
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [ybenkirane/DatingGPT](https://github.com/ybenkirane/DatingGPT) - DateGPT Repository: An AI-Powered Guide to Better Bios
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [danny-avila/chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model & Bing, reverse-engineered UI, with AI model switching, message search, ChatGPT Plugins, Multi-User System, & Prompt Templates (WIP)
+- [danny-avila/chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model, Bing, PaLM 2, reverse-engineered UI, with AI model switching, message search, ChatGPT Plugins, Multi-User System, & Prompt Templates (WIP)
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
@@ -2388,6 +2391,7 @@
 - [Quefumas/gensound](https://github.com/Quefumas/gensound) - Pythonic audio processing and generation framework
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
+- [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - Links for music + machine learning
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
@@ -2863,7 +2867,6 @@
 - [aminmarashi/gpt-api-companion](https://github.com/aminmarashi/gpt-api-companion) - Tools built around the GPT API to make using of it easier, sets you free from ChatGPT (requires GPT API Key)
 - [steven-tey/nextjs-boilerplate-69](https://github.com/steven-tey/nextjs-boilerplate-69) - 
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. LocalAI is a RESTful API for ggml comp
 - [tuneflow/tuneflow-py-demos](https://github.com/tuneflow/tuneflow-py-demos) - 
 - [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
 - [WuYiming6526/HARD](https://github.com/WuYiming6526/HARD) - Harmony-Rhythm Disentanglement audio remixer plugin
@@ -3033,7 +3036,6 @@
 - [nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all) - Official supported Python bindings for llama.cpp + gpt4all
 - [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - gpt4all and llama typescript bindings
 - [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
-- [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - This is a list of links for anyone who wants to explore making music with machine learning
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [gpnoel/DeepRemix](https://github.com/gpnoel/DeepRemix) - Remixing Music with Deep Learning
 - [a-rich/DJ-Tools](https://github.com/a-rich/DJ-Tools) - DJ tools for downloading, processing, and sharing music / rekordbox data.
@@ -5428,7 +5430,7 @@
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - React and TypeScript Chrome extension example project for developers to create their own extensions.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [0xreeko/lmnsqzy](https://github.com/0xreeko/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
+- [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
 - [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
@@ -5682,7 +5684,7 @@
 
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
-- [danny-avila/chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model & Bing, reverse-engineered UI, with AI model switching, message search, ChatGPT Plugins, Multi-User System, & Prompt Templates (WIP)
+- [danny-avila/chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model, Bing, PaLM 2, reverse-engineered UI, with AI model switching, message search, ChatGPT Plugins, Multi-User System, & Prompt Templates (WIP)
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
