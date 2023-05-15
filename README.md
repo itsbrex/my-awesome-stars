@@ -90,7 +90,6 @@
 - [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astro + Tailwind CSS + TypeScript Starter and Boilerplate
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -361,7 +360,7 @@
 
 ## Go 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API for ggml compatible models: llama.c
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llam
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
@@ -630,6 +629,7 @@
 - [fheyen/musicvis-lib](https://github.com/fheyen/musicvis-lib) - Library for web-based music visualization
 - [doesdev/song-structure](https://github.com/doesdev/song-structure) - Get rough idea on potential song structures from the CLI
 - [petersalomonsen/javascriptmusic](https://github.com/petersalomonsen/javascriptmusic) - A.K.A. WebAssembly Music. Live coding music and synthesis in Javascript / AssemblyScript (WebAssembly)
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [TooTallNate/spotify-uri](https://github.com/TooTallNate/spotify-uri) - Parse and format the various Spotify URI formats
 - [JobSavelsberg/music-structure](https://github.com/JobSavelsberg/music-structure) - A web application that extracts and visualizes music structure. Connects with the Spotify API for audio content data.
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
@@ -1365,7 +1365,6 @@
 - [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
 - [datamllab/xdeep](https://github.com/datamllab/xdeep) - 
 - [pnnl/DeepDataProfiler](https://github.com/pnnl/DeepDataProfiler) - Python library for analyzing the internal structure of deep neural networks.
-- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [youssefHosni/Practical-Machine-Learning](https://github.com/youssefHosni/Practical-Machine-Learning) - 
 - [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
 - [StanfordASL/ALPaCA](https://github.com/StanfordASL/ALPaCA) - Code for "Meta-Learning Priors for Efficient Online Bayesian Regression" by James Harrison, Apoorva Sharma, and Marco Pavone
@@ -1933,7 +1932,6 @@
 - [pescadores/pescador](https://github.com/pescadores/pescador) - Stochastic multi-stream sampling for iterative learning
 - [marl/jams](https://github.com/marl/jams) - A JSON Annotated Music Specification for Reproducible MIR Research
 - [craffel/mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [shijithpk/music-discovery](https://github.com/shijithpk/music-discovery) - How to find new music on Spotify by aggregating the choices of tastemakers
 - [fepegar/spotify-bpm-splitter](https://github.com/fepegar/spotify-bpm-splitter) - App to split a Spotify list in children playlists sorted by tempo
 - [george-avn/ffenmass](https://github.com/george-avn/ffenmass) - Encoding whole directories with FFmpeg made easy.
@@ -1947,7 +1945,8 @@
 - [Quefumas/gensound](https://github.com/Quefumas/gensound) - Pythonic audio processing and generation framework
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Build your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
+- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We help developers to build, deploy, and monitor AI agents.  Focusing on specialized AI agents that build software for you - your personal software developers.
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [gpnoel/DeepRemix](https://github.com/gpnoel/DeepRemix) - Remixing Music with Deep Learning
@@ -2597,6 +2596,7 @@
 
 ## TypeScript 
 
+- [seancdavis/seancdavis-com](https://github.com/seancdavis/seancdavis-com) - My personal website, which is mostly just a blog helping developers build better websites.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
@@ -2876,6 +2876,7 @@
 - [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
 - [ikorihn/google-form-invitation](https://github.com/ikorihn/google-form-invitation) - Google Form からカレンダーイベントにゲスト招待を行うGAS
