@@ -152,6 +152,7 @@
 
 ## C++ 
 
+- [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [WuYiming6526/HARD](https://github.com/WuYiming6526/HARD) - Harmony-Rhythm Disentanglement audio remixer plugin
 - [Torsion-Audio/Scyclone](https://github.com/Torsion-Audio/Scyclone) - Real-time Neural Timbre Transfer
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -588,6 +589,7 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/single-filez-cli](https://github.com/gildas-lormeau/single-filez-cli) - 
 - [epsil/spotgen](https://github.com/epsil/spotgen) - Spotify Playlist Generator
 - [edanchenkov/MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! 🦄
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
@@ -663,6 +665,7 @@
 - [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
@@ -1366,7 +1369,7 @@
 - [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
 - [datamllab/xdeep](https://github.com/datamllab/xdeep) - 
 - [pnnl/DeepDataProfiler](https://github.com/pnnl/DeepDataProfiler) - Python library for analyzing the internal structure of deep neural networks.
-- [youssefHosni/Practical-Machine-Learning](https://github.com/youssefHosni/Practical-Machine-Learning) - 
+- [youssefHosni/Practical-Machine-Learning](https://github.com/youssefHosni/Practical-Machine-Learning) - Practical machine learning notebook & articles covers the machine learning end to end life cycle.
 - [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
 - [StanfordASL/ALPaCA](https://github.com/StanfordASL/ALPaCA) - Code for "Meta-Learning Priors for Efficient Online Bayesian Regression" by James Harrison, Apoorva Sharma, and Marco Pavone
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
@@ -1846,6 +1849,7 @@
 
 ## Python 
 
+- [CoryWBoris/AbletonAutoColor](https://github.com/CoryWBoris/AbletonAutoColor) - Automatic Color Assignment Based On Name In Ableton Live
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
@@ -1963,6 +1967,7 @@
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
+- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
@@ -2700,7 +2705,6 @@
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [ricardomatias/playa](https://github.com/ricardomatias/playa) - A framework for musical composition. It allows creating custom music algorithms, musical phrases, percussion rhythms, harmonic sequences and more.
 - [ricardomatias/ableton-live](https://github.com/ricardomatias/ableton-live) - A library for communicating with Live via WebSockets, works both in NodeJS and in the Browser.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [devkiran/NextAPI](https://github.com/devkiran/NextAPI) - A Next.js RESTful API Starter for building SaaS Apps
@@ -3150,7 +3154,6 @@
 
 - [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Your Ultimate Copilot on the Desktop. ChatGPTBox is a desktop app for GPT-3.5 (OpenAI API).
 - [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
-- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [xiaoluoboding/nuxt3-starter](https://github.com/xiaoluoboding/nuxt3-starter) - 💚 A Better Nuxt 3 Starter Template，generate by nuxi.
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - One Tab Group | A Chrome extension for reorganizing your open tabs, restoring saved tab sessions, and also restoring tab groups.
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
