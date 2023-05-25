@@ -1361,6 +1361,7 @@
 
 ## Jupyter Notebook 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [stevengt/ableton-xml-analysis](https://github.com/stevengt/ableton-xml-analysis) - 
@@ -1853,6 +1854,13 @@
 
 ## Python 
 
+- [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
+- [guyyariv/AI-Beat-Maker](https://github.com/guyyariv/AI-Beat-Maker) - Generate beats out of given samples
+- [google-research/perceiver-ar](https://github.com/google-research/perceiver-ar) - 
+- [emmethalm/tuneAI](https://github.com/emmethalm/tuneAI) - TuneAI or "autoFinetune" is an effortless way to fine tune an OpenAI model based on YouTube or text input. Automating transcript cleaning & prompt-completion pair generation.
+- [microprediction/gptprobe](https://github.com/microprediction/gptprobe) - For unmanned missions into GPT returning structured data
+- [emmethalm/infiniteGPT](https://github.com/emmethalm/infiniteGPT) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
+- [thygate/stable-diffusion-webui-depthmap-script](https://github.com/thygate/stable-diffusion-webui-depthmap-script) - High Resolution Depth Maps for Stable Diffusion WebUI
 - [timmahrt/praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hie
 - [ideoforms/pylive](https://github.com/ideoforms/pylive) - Query and control Ableton Live from Python
 - [CoryWBoris/AbletonAutoColor](https://github.com/CoryWBoris/AbletonAutoColor) - Automatic Color Assignment Based On Name In Ableton Live
@@ -2535,6 +2543,7 @@
 
 ## Swift 
 
+- [jesshmusic/AIComposer](https://github.com/jesshmusic/AIComposer) - AIComposer composes music using a genetic algorithm and MIDI file input.
 - [jpcarrascal/live-set-switcher](https://github.com/jpcarrascal/live-set-switcher) - Ableton Live Set Switcher
 - [slavingia/push-to-do](https://github.com/slavingia/push-to-do) - Push voice to-dos to Notion
 - [delannoyk/AudioPlayer](https://github.com/delannoyk/AudioPlayer) - AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
@@ -2615,6 +2624,8 @@
 
 ## TypeScript 
 
+- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
+- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [seancdavis/seancdavis-com](https://github.com/seancdavis/seancdavis-com) - My personal website, which is mostly just a blog helping developers build better websites.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
