@@ -41,6 +41,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [Python](#python)
 - [R](#r)
@@ -1556,6 +1557,7 @@
 
 ## Others 
 
+- [skibumstevo/FileNameShortener-AppleScript](https://github.com/skibumstevo/FileNameShortener-AppleScript) - Intelligently shortens filenames exceeding 143 characters in length (Synology exFAT eCryptfs safe)
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
@@ -1855,6 +1857,10 @@
 - [wealthbot-io/wealthbot](https://github.com/wealthbot-io/wealthbot) - Use wealthbot.io to easily setup your own wealth management platform ⛺
 - [cargomedia/osx-setup](https://github.com/cargomedia/osx-setup) - UNMAINTAINED - Setup OS X
 
+## Pascal 
+
+- [WouterVanNifterick/delphi-klatt-synth](https://github.com/WouterVanNifterick/delphi-klatt-synth) - Klatt Speech Synthesizer
+
 ## Perl 
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
@@ -1862,6 +1868,8 @@
 
 ## Python 
 
+- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives
+- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [Yudhister1/AI-Composer-for-Machine-Learning-](https://github.com/Yudhister1/AI-Composer-for-Machine-Learning-) - LSTM recurrent neural network over a dataset of MIDI files
 - [asigalov61/RecoMIDI](https://github.com/asigalov61/RecoMIDI) - Dead simple, precise and super-efficient MIDI music recommendation system implementation [Algo+AI]
 - [kitchWWW/sounds.pink](https://github.com/kitchWWW/sounds.pink) - turn motion into midi
@@ -2637,6 +2645,8 @@
 
 ## TypeScript 
 
+- [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
+- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [3Alan/chatpdf-demo](https://github.com/3Alan/chatpdf-demo) - This is the minimum implementation demo of ChatPDF, which answers related questions about PDF.
 - [3Alan/DocsMind](https://github.com/3Alan/DocsMind) - 🤖 DocsMind allows you to chat with your docs and summarize your docs, support pdf, md.
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
