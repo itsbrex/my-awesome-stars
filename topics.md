@@ -229,6 +229,8 @@
 
 ## ai 
 
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [kitchWWW/sounds.pink](https://github.com/kitchWWW/sounds.pink) - turn motion into midi
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
@@ -378,6 +380,7 @@
 
 ## artificial-intelligence 
 
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [asigalov61/RecoMIDI](https://github.com/asigalov61/RecoMIDI) - Dead simple, precise and super-efficient MIDI music recommendation system implementation [Algo+AI]
 - [SethuSenthil/Copy-for-ChatGPT](https://github.com/SethuSenthil/Copy-for-ChatGPT) - Extention to bring a copy button for ChatGPT
@@ -408,6 +411,7 @@
 
 ## automation 
 
+- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [sortoite/openAISpeechToDatabase](https://github.com/sortoite/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [shijithpk/music-discovery](https://github.com/shijithpk/music-discovery) - How to find new music on Spotify by aggregating the choices of tastemakers
@@ -548,6 +552,7 @@
 
 ## azure 
 
+- [kimtth/azure-openai-elastic-vector-langchain](https://github.com/kimtth/azure-openai-elastic-vector-langchain) - Azure Open AI, OSS LLM 🌊1. Vector storage and 🦙langchain 🔎2. Azure Search ChatGpt demo 3. Microsoft ♾️Semantic-Kernel with 🌌 Cosmos DB, etc.
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 
@@ -630,6 +635,10 @@
 
 ## chatgpt 
 
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [gajosu/chat-gpt-rest-api](https://github.com/gajosu/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
+- [kimtth/azure-openai-elastic-vector-langchain](https://github.com/kimtth/azure-openai-elastic-vector-langchain) - Azure Open AI, OSS LLM 🌊1. Vector storage and 🦙langchain 🔎2. Azure Search ChatGpt demo 3. Microsoft ♾️Semantic-Kernel with 🌌 Cosmos DB, etc.
+- [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
@@ -662,7 +671,7 @@
 - [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
-- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Keeping Track of Affordable LLMs, 🦙 Cult and More
+- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
@@ -723,6 +732,7 @@
 
 ## chatgpt-api 
 
+- [gajosu/chat-gpt-rest-api](https://github.com/gajosu/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [editor-syntax/gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
@@ -841,6 +851,7 @@
 
 ## cli 
 
+- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [mausworks/tidier](https://github.com/mausworks/tidier) - The file & folder name formatter
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1253,6 +1264,7 @@
 
 ## emoji 
 
+- [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
 - [lambtron/emojipacks](https://github.com/lambtron/emojipacks) - CLI to bulk upload emojis to your Slack
 - [shrugs/partyparrot](https://github.com/shrugs/partyparrot) - :tada: :bird: Very Serious Code :tm: that generates huge slack messages with emojis.
@@ -1421,6 +1433,7 @@
 
 ## git 
 
+- [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
@@ -1483,6 +1496,7 @@
 
 ## github-api 
 
+- [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [leonhartX/gas-github](https://github.com/leonhartX/gas-github) - sync gas code to github
@@ -1660,7 +1674,6 @@
 - [jellydn/next-app-starter](https://github.com/jellydn/next-app-starter) - Another awesome starter for your app base on nextjs + tailwind + react-query + zod + react-hook-form + next-auth +  jotai
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
@@ -1842,6 +1855,8 @@
 
 ## javascript 
 
+- [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
+- [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [rserota/wad](https://github.com/rserota/wad) - Web Audio DAW.  Use the Web Audio API for dynamic sound synthesis.  It's like jQuery for your ears.
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity
 - [jazz-soft/JZZ](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and web-browsers
@@ -2062,6 +2077,7 @@
 
 ## json 
 
+- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -2187,6 +2203,8 @@
 
 ## machine-learning 
 
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 - [guyyariv/AI-Beat-Maker](https://github.com/guyyariv/AI-Beat-Maker) - Generate beats out of given samples
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
@@ -2384,7 +2402,7 @@
 
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
-- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
+- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. [I always use this to start new project]
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [jihyojeon/Missage](https://github.com/jihyojeon/Missage) - An assistant in your hand who improved your work ability and quality of life! Finally, your AI record manager is here. Built with Express, NextJS and MongoDB.
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app build with Node, NextJS, MongoDB, Docker and Kubernetes.
@@ -2595,7 +2613,7 @@
 - [j471n/next-hulu](https://github.com/j471n/next-hulu) - This web app is a clone of Hulu, a streaming service for movies and television shows. It utilizes the themoviedb API to retrieve data for the content that is displayed in the application. However, the
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 13+, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Li
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
+- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. [I always use this to start new project]
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [yilmazev/nextjs-music-app](https://github.com/yilmazev/nextjs-music-app) - Music app I made with NextJS
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
@@ -2729,6 +2747,8 @@
 
 ## nlp 
 
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
@@ -2863,6 +2883,7 @@
 
 ## npm 
 
+- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [NodeSecure/npm-registry-sdk](https://github.com/NodeSecure/npm-registry-sdk) - Node.js SDK to fetch data from the npm API.
 - [abhijithvijayan/wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webextension Manifest Generator that you specify `manifest.json` properties to appear only in specific browsers and environment
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -2933,6 +2954,7 @@
 
 ## others 
 
+- [itsbrex/chat-gpt-rest-api](https://github.com/itsbrex/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
 - [nudibranchrecords/hedron](https://github.com/nudibranchrecords/hedron) - Perform live shows with your three.js creations
 - [gbevin/SendMIDI](https://github.com/gbevin/SendMIDI) - Multi-platform command-line tool to send out MIDI messages
 - [stripe/stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
@@ -4833,7 +4855,7 @@
 ## pytorch 
 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
-- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Keeping Track of Affordable LLMs, 🦙 Cult and More
+- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
 - [coreylowman/rl_simply](https://github.com/coreylowman/rl_simply) - Simple pytorch implementations of RL algorithms
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -4928,7 +4950,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
+- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. [I always use this to start new project]
 - [Ddupasquier/instaassistant-client](https://github.com/Ddupasquier/instaassistant-client) - AntiSocialSuite is a tool used for automating social media interaction. Allowing a user to create events that run on schedule to send likes, follows, dm, and comments all from one dashboard.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -5286,7 +5308,7 @@
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [saasify-sh/puppeteer-serverless](https://github.com/saasify-sh/puppeteer-serverless) - Puppeteer for both serverless functions and development.
-- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
+- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. [I always use this to start new project]
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions.
 - [neg4n/next-api-og-image](https://github.com/neg4n/next-api-og-image) - :bowtie: Easy way to generate open-graph images dynamically  in HTML or React using Next.js API Routes. Suitable for serverless environment.
@@ -5472,7 +5494,7 @@
 ## tensorflow 
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Keeping Track of Affordable LLMs, 🦙 Cult and More
+- [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
@@ -5530,6 +5552,7 @@
 
 ## typescript 
 
+- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [imbhargav5/nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
@@ -5600,7 +5623,7 @@
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. Can be easy to deployed on Vercel 🚀 [I always use this to start new project]
+- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. [I always use this to start new project]
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
