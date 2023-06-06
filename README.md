@@ -454,7 +454,6 @@
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [adamschwartz/playground](https://github.com/adamschwartz/playground) - 
-- [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [foobar404/wave.js](https://github.com/foobar404/wave.js) - Audio visualizer library for javascript. Create dynamic animations that react to an audio file or audio stream.
 - [jakespracher/ml-synth-preset-generator](https://github.com/jakespracher/ml-synth-preset-generator) - Machine Learning with Synthesizers
@@ -700,7 +699,7 @@
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [WoolDoughnut310/gistify](https://github.com/WoolDoughnut310/gistify) - Chrome extension to display Copy To Gist button on code blocks.
-- [danny-avila/chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model, Bing, PaLM 2, reverse-engineered UI, with AI model switching, message search, ChatGPT Plugins, Multi-User System, & Prompt Templates (WIP)
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, PaLM 2, AI model switching, message search, langchain, Plugins, Multi-User System, Presets, completely open-source for self-hosting. More features in dev
 - [memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
@@ -2095,6 +2094,7 @@
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read audio and music meta data and duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave and AIFF files with python 2 or 3
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [VarunPatelius/Py-iMessenger](https://github.com/VarunPatelius/Py-iMessenger) - Py-iMessenger is a chatbot that works with iMessage to execute commands using text messages.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
@@ -2959,7 +2959,7 @@
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [whomwah/alfred-github-workflow](https://github.com/whomwah/alfred-github-workflow) - An Alfred 5 workflow for working with Github. Uses Deno, written in TypeScript
 - [mem-labs/mem-node](https://github.com/mem-labs/mem-node) - Official Node.js client for the Mem API
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 cleye — The intuitive & typed CLI development tool for Node.js
