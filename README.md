@@ -307,7 +307,7 @@
 - [jhardy/minimal-devices](https://github.com/jhardy/minimal-devices) - minimal-devices
 - [TryKickoff/kickoff](https://github.com/TryKickoff/kickoff) - :basketball: A lightweight front-end framework  for creating scalable, responsive sites. Version 8 has just been released!
 - [stephenscaff/WeBeScrollin](https://github.com/stephenscaff/WeBeScrollin) - We Be Scrollin is a stupid simple jquery plugin to animate scroll to targets via data-attributes.
-- [karelvuong/devtools-chromegray--dark](https://github.com/karelvuong/devtools-chromegray--dark) - A theme for Chrome Developer Tools based on @kkga's Spacegray.
+- [0xkarel/devtools-chromegray--dark](https://github.com/0xkarel/devtools-chromegray--dark) - A theme for Chrome Developer Tools based on @kkga's Spacegray.
 - [stephenscaff/keyframes-slider](https://github.com/stephenscaff/keyframes-slider) - A pure css approach to creating background-image sliders.
 - [stephenscaff/The-JumpOff-Wp-Kit](https://github.com/stephenscaff/The-JumpOff-Wp-Kit) - A little Wordpress & Codekit starter Theme / FrontEnd framework. But, so done with CodeKit and it's issues with teams and no legit config file. Use gulp instead https://github.com/stephenscaff/jumpoff
 - [stephenscaff/The-JumpOff-Kit](https://github.com/stephenscaff/The-JumpOff-Kit) - A codekit project starter and front-end framework of sorts.
@@ -353,6 +353,7 @@
 
 - [vishalxl/nostr_console](https://github.com/vishalxl/nostr_console) - Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
 - [adventures-in/notion_gdocs_integration](https://github.com/adventures-in/notion_gdocs_integration) - Integrating Google Docs/Slides/Sheets and Notion.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 
 ## Dockerfile 
@@ -368,7 +369,7 @@
 
 ## Go 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compat
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
@@ -1596,7 +1597,7 @@
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [MrWillCom/awesome](https://github.com/MrWillCom/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years!
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
-- [mintlify/starter](https://github.com/mintlify/starter) - The starter kit for your Mintlify docs
+- [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [wesbos/cobalt2-raycast](https://github.com/wesbos/cobalt2-raycast) - Cobalt2 Raycast Theme
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
@@ -1816,8 +1817,8 @@
 - [agh/slack_themes](https://github.com/agh/slack_themes) - :speech_balloon: Slack Themes :see_no_evil: A collection of themes for Slack pulled together into one easily referenced place, letting you get a taste before you copy and paste!
 - [chadanderson/alfred_quick_resize](https://github.com/chadanderson/alfred_quick_resize) - Quickly resize images on your desktop with Alfred
 - [ohoachuck/alfred2-resize](https://github.com/ohoachuck/alfred2-resize) - Alfred Workflow to resize selected image with specific ratio to choose from list
-- [karelvuong/terminal-afterglow](https://github.com/karelvuong/terminal-afterglow) - The Afterglow sublime theme ported over to Terminal.app.
-- [karelvuong/st-primer](https://github.com/karelvuong/st-primer) - ⚠️ No longer supported ⚠️ - A UI + syntax theme for @SublimeText inspired by GitHub's UI.
+- [0xkarel/terminal-afterglow](https://github.com/0xkarel/terminal-afterglow) - The Afterglow sublime theme ported over to Terminal.app.
+- [0xkarel/st-primer](https://github.com/0xkarel/st-primer) - ⚠️ No longer supported ⚠️ - A UI + syntax theme for @SublimeText inspired by GitHub's UI.
 - [teracyhq/bootflat-ui-kit-sketch](https://github.com/teracyhq/bootflat-ui-kit-sketch) - Free Sketch UI Kit for Bootflat http://bootflat.github.io/
 - [EvanLovely/alfred--doing](https://github.com/EvanLovely/alfred--doing) - An Alfred Workflow for interacting with Brett Terpstra's `doing` CLI – http://brettterpstra.com/projects/doing/
 - [sillygwailo/Open-URL-in-Tweetbot.workflow](https://github.com/sillygwailo/Open-URL-in-Tweetbot.workflow) - A Mac OS X Automator workflow to open a twitter.com URL in Tweetbot
@@ -2490,7 +2491,6 @@
 - [samdenty/github-icons](https://github.com/samdenty/github-icons) - API, Chrome Extension & Mac App/CLI that adds icons to your repos
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [kitlith/rseq_rs](https://github.com/kitlith/rseq_rs) - RSEQ assembler, disassembler, and midi converter
 - [icaroferre/AudioHit](https://github.com/icaroferre/AudioHit) - Rust-based CLI for batch processing audio samples.
 - [kejadlen/dark-sky.alfredworkflow](https://github.com/kejadlen/dark-sky.alfredworkflow) - A Dark Sky workflow for Alfred
