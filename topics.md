@@ -2968,6 +2968,7 @@
 
 ## others 
 
+- [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
 - [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - Repository for the paper "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning", including 1.88M CoT rationales extracted across 1,060 task
 - [kaistAI/SelFee](https://github.com/kaistAI/SelFee) - Official codebase for "SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation"
 - [danhemerlein/ableton-colors](https://github.com/danhemerlein/ableton-colors) - JSON file of the Ableton Live 10 Color Palette
@@ -3233,7 +3234,7 @@
 - [hturan/three-stacks](https://github.com/hturan/three-stacks) - Three-dimensional generative scalar design system component visualisation tool
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [adamschwartz/playground](https://github.com/adamschwartz/playground) - 
-- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+- [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [vercel-labs/edge-data-latency](https://github.com/vercel-labs/edge-data-latency) - Visualize the latency of databases at the Edge.
 - [clementabary/server](https://github.com/clementabary/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
