@@ -620,7 +620,7 @@
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [Shyguy99/Whatsapp-bot](https://github.com/Shyguy99/Whatsapp-bot) - A simple WhatsApp Bot made using open-wa library with some additional features.
-- [Zynez/Discord-Bot-Dashboard](https://github.com/Zynez/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
+- [jub0t/Discord-Bot-Dashboard](https://github.com/jub0t/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [ohld/igbot](https://github.com/ohld/igbot) - 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!
 - [Selbi182/SpotifyDiscoveryBot](https://github.com/Selbi182/SpotifyDiscoveryBot) - A Java-based bot that automatically crawls for new releases by your followed artists on Spotify. Never miss a release again!
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
@@ -875,7 +875,7 @@
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [AltriusRS/Shumai](https://github.com/AltriusRS/Shumai) - A delicious new outlook on command line argument handling.
-- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
 - [yuler/gh-todo](https://github.com/yuler/gh-todo) - [GitHub CLI] extension for todo list manager via GitHub issues
@@ -1178,7 +1178,7 @@
 - [Myuuiii/DAWPresence](https://github.com/Myuuiii/DAWPresence) - A Discord Rich Presence app for several DAWs like FL Studio and Ableton
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [rogeraabbccdd/Rekordbox-NowPlaying](https://github.com/rogeraabbccdd/Rekordbox-NowPlaying) - Get rekordbox now playing master track for OBS and Discord Rich Presence.
-- [Zynez/Discord-Bot-Dashboard](https://github.com/Zynez/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
+- [jub0t/Discord-Bot-Dashboard](https://github.com/jub0t/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [supreen/form2role-bot](https://github.com/supreen/form2role-bot) - Discord bot that automatically assigns roles(from spreadsheet) to users found in a Google Sheet
@@ -1192,7 +1192,7 @@
 
 ## docker 
 
-- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -1593,7 +1593,7 @@
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [graphlatte/graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
-- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [niklaskorz/whatsapp-viewer](https://github.com/niklaskorz/whatsapp-viewer) - A web interface and GraphQL API for your local unencrypted WhatsApp backup.
@@ -2435,6 +2435,7 @@
 
 ## music 
 
+- [BenediktAlkin/SongTaggerForSpotify](https://github.com/BenediktAlkin/SongTaggerForSpotify) - Song tagging for Spotify
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
 - [s-omranpour/DeepMusic](https://github.com/s-omranpour/DeepMusic) - A python package for high level musical data manipulation and preprocessing, making data ready to be fed to a neural network.
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
@@ -2580,7 +2581,7 @@
 ## nextjs 
 
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
-- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [imbhargav5/nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [steven-tey/extrapolate](https://github.com/steven-tey/extrapolate) - Age transformation AI app powered by Next.js, Vercel, Replicate, Upstash, and Cloudflare R2 + Workers.
@@ -2790,13 +2791,13 @@
 - [xom9ikk/dotenv](https://github.com/xom9ikk/dotenv) - GitHub Action to read .env file and add variables to GITHUB_ENV
 - [ebidel/try-puppeteer](https://github.com/ebidel/try-puppeteer) - Run Puppeteer code in the cloud
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
-- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 cleye — The intuitive & typed CLI development tool for Node.js
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
 - [saurabhdaware/projectman](https://github.com/saurabhdaware/projectman) - ProjectMan is a command line tool to easily save/open your favorite projects right from command line. `pm add` to add projects and `pm open` to open them from anywhere you want🦸
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [Zynez/Discord-Bot-Dashboard](https://github.com/Zynez/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
+- [jub0t/Discord-Bot-Dashboard](https://github.com/jub0t/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -2828,7 +2829,7 @@
 - [ArekSredzki/electron-release-server](https://github.com/ArekSredzki/electron-release-server) - A fully featured, self-hosted release server for electron applications, compatible with auto-updater.
 - [abhijithvijayan/wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webextension Manifest Generator that you specify `manifest.json` properties to appear only in specific browsers and environment
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
-- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
 - [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
@@ -2861,7 +2862,7 @@
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
 - [msaaddev/open-source](https://github.com/msaaddev/open-source) - ⚡️ A comprehensive list of all the open-source work I have done over the years. Authored 20+ open-source software that includes automation tools, node packages, web applications, etc.
-- [Zynez/Discord-Bot-Dashboard](https://github.com/Zynez/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
+- [jub0t/Discord-Bot-Dashboard](https://github.com/jub0t/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app build with Node, NextJS, MongoDB, Docker and Kubernetes.
 - [supreen/form2role-bot](https://github.com/supreen/form2role-bot) - Discord bot that automatically assigns roles(from spreadsheet) to users found in a Google Sheet
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -2968,6 +2969,8 @@
 
 ## others 
 
+- [evanw/polywasm](https://github.com/evanw/polywasm) - 
+- [ingimar-eyfjord/spotify_data_analysis_R](https://github.com/ingimar-eyfjord/spotify_data_analysis_R) - 
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
 - [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - Repository for the paper "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning", including 1.88M CoT rationales extracted across 1,060 task
 - [kaistAI/SelFee](https://github.com/kaistAI/SelFee) - Official codebase for "SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation"
@@ -4941,7 +4944,7 @@
 ## react 
 
 - [alecchendev/spotify-refresh-token](https://github.com/alecchendev/spotify-refresh-token) - A simple site for developers to easily get their own refresh token for Spotify's API.
-- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
@@ -5327,7 +5330,7 @@
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [Zynez/Discord-Bot-Dashboard](https://github.com/Zynez/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
+- [jub0t/Discord-Bot-Dashboard](https://github.com/jub0t/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [kibitzr/kibitzr](https://github.com/kibitzr/kibitzr) - Personal Web Assistant
