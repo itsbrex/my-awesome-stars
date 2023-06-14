@@ -447,8 +447,7 @@
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m
 - [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
-- [SerRat44/DescentIntoDarkness](https://github.com/SerRat44/DescentIntoDarkness) - Contained html/javascript text-based rpg coded entirely using chatGPT without using external libraries or websites.
-- [SerRat44/dIDMusicEngine](https://github.com/SerRat44/dIDMusicEngine) - Contained html/javascript audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
+- [SerRat44/DIDMusicEngine](https://github.com/SerRat44/DIDMusicEngine) - Contained html/javascript audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
 - [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
 - [mganss/XmlSchemaClassGenerator](https://github.com/mganss/XmlSchemaClassGenerator) - Generate C# classes from XML Schema files
 - [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
@@ -489,7 +488,7 @@
 - [nimezhu/sheetid](https://github.com/nimezhu/sheetid) - google chrome extension to extract sheet id
 - [theianchan/base-sheets-daily](https://github.com/theianchan/base-sheets-daily) - Chrome extension with Google Sheets backend
 - [pickuperast/google_script_post_get_to_web](https://github.com/pickuperast/google_script_post_get_to_web) - 
-- [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder based for Next.js 🅧. Zero-config deployment 🚀. React now supported!
+- [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [letswritetw/letswrite-google-excel-db-en](https://github.com/letswritetw/letswrite-google-excel-db-en) - How to use Google Sheets as a database
 - [crisp-im/crisp-snippets](https://github.com/crisp-im/crisp-snippets) - 👾 Snippets to help you build code for your Crisp Chatbox & more.
 - [thedevdrawer/html-to-react](https://github.com/thedevdrawer/html-to-react) - Convert and HTML Website to React
@@ -599,6 +598,7 @@
 
 ## JavaScript 
 
+- [mchlkucera/notion-to-html](https://github.com/mchlkucera/notion-to-html) - API for converting Notion database items to simple HTML
 - [evanw/polywasm](https://github.com/evanw/polywasm) - 
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
 - [davideriboli/Generative-Music](https://github.com/davideriboli/Generative-Music) - Docs, patches, scripts, tools & utilities mainly related to VCV Rack, Wotjia and Monome Norns. Shield
@@ -635,6 +635,7 @@
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
 - [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
 - [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
+- [SerRat44/DescentIntoDarkness](https://github.com/SerRat44/DescentIntoDarkness) - Contained html/javascript text-based rpg coded entirely using chatGPT without using external libraries or websites.
 - [simplifiedkd/ChatGPT4MusicVisualizer](https://github.com/simplifiedkd/ChatGPT4MusicVisualizer) - 
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
 - [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a node.js web service for automate accounting via chatGPT, Telegram bot and Notion.
@@ -955,7 +956,7 @@
 - [jamesonchan/spotify-soundtrack](https://github.com/jamesonchan/spotify-soundtrack) - next-middleware/JWT/nextauth/spotifyApi/tailwind/recoil
 - [srijans38/nextauth-youtube-test](https://github.com/srijans38/nextauth-youtube-test) - Getting YouTube user data with NextAuth.js (OAuth + JWT)
 - [everify/everify-nextauth-two-factor](https://github.com/everify/everify-nextauth-two-factor) - 
-- [CompSciDev/Next.js-jwt-http-cookie-only](https://github.com/CompSciDev/Next.js-jwt-http-cookie-only) - You'll learn how to implement your own authentication in Next.js using JWT and storing that JWT inside an httpOnly cookie.
+- [Tenacity-Dev/Next.js-jwt-http-cookie-only](https://github.com/Tenacity-Dev/Next.js-jwt-http-cookie-only) - You'll learn how to implement your own authentication in Next.js using JWT and storing that JWT inside an httpOnly cookie.
 - [anthonyringoet/next-auth-example](https://github.com/anthonyringoet/next-auth-example) - An example project that shows how to use NextAuth.js
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [alyssaxuu/figma-to-google-slides](https://github.com/alyssaxuu/figma-to-google-slides) - Convert Figma frames into a Google Slides presentation 🍭
@@ -1904,6 +1905,8 @@
 
 ## Python 
 
+- [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [kaistAI/SelFee](https://github.com/kaistAI/SelFee) - Official codebase for "SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation"
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -2884,7 +2887,7 @@
 - [xom9ikk/dotenv](https://github.com/xom9ikk/dotenv) - GitHub Action to read .env file and add variables to GITHUB_ENV
 - [codeshifu/sync-dotenv](https://github.com/codeshifu/sync-dotenv) - Keep your .env in sync with .env.example
 - [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [constructorfleet/homebridge-ultimate-govee](https://github.com/constructorfleet/homebridge-ultimate-govee) - Homebridge plugin to control Govee products in HomeKit exactly as they were meant to be.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
