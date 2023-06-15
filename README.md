@@ -131,6 +131,7 @@
 
 ## C# # 
 
+- [calbertobarbosajr/MusicGenreRecommendationAnalyzer](https://github.com/calbertobarbosajr/MusicGenreRecommendationAnalyzer) - 
 - [BenediktAlkin/SongTaggerForSpotify](https://github.com/BenediktAlkin/SongTaggerForSpotify) - Song tagging for Spotify
 - [wwweather/ai-codes](https://github.com/wwweather/ai-codes) - AI codes.
 - [praeclarum/AskGPT](https://github.com/praeclarum/AskGPT) - Ask ChatGPT questions from the command line.
@@ -703,7 +704,7 @@
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [WoolDoughnut310/gistify](https://github.com/WoolDoughnut310/gistify) - Chrome extension to display Copy To Gist button on code blocks.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, PaLM 2, AI model switching, message search, langchain, Plugins, Multi-User System, Presets, completely open-source for self-hosting. More features in dev
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source for self-hos
 - [memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
@@ -1391,6 +1392,8 @@
 
 ## Jupyter Notebook 
 
+- [itsbrex/bark](https://github.com/itsbrex/bark) - 🔊 Text-Prompted Generative Audio Model
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen, Tortoise)
 - [dakshtrehan/AI-Music-Generation](https://github.com/dakshtrehan/AI-Music-Generation) - Predicting Music pieces using LSTMs. MIDI files are used to generate and predict musical tones.
 - [aishoot/AI_Music_Composition](https://github.com/aishoot/AI_Music_Composition) - Do you think that AI can write songs for us? The project is just the music generator with the power of AI.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -1587,6 +1590,7 @@
 
 ## Others 
 
+- [jiamingze/musicgen-by-audiocraft](https://github.com/jiamingze/musicgen-by-audiocraft) - Generate music byaudiocraft
 - [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - Repository for the paper "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning", including 1.88M CoT rationales extracted across 1,060 task
 - [danhemerlein/ableton-colors](https://github.com/danhemerlein/ableton-colors) - JSON file of the Ableton Live 10 Color Palette
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
@@ -1905,6 +1909,10 @@
 
 ## Python 
 
+- [Naaafis/FewShot_MusicGen](https://github.com/Naaafis/FewShot_MusicGen) - Research project - Performing music generation of target domain with minimal available data from said domain
+- [CoffeeVampir3/audiocraft-webui](https://github.com/CoffeeVampir3/audiocraft-webui) - Quick webui for audiocraft
+- [neggles/musicgen-web](https://github.com/neggles/musicgen-web) - 
+- [oobabooga/one-click-installers](https://github.com/oobabooga/one-click-installers) - Simplified installers for oobabooga/text-generation-webui.
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [kaistAI/SelFee](https://github.com/kaistAI/SelFee) - Official codebase for "SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation"
@@ -2020,7 +2028,7 @@
 - [chrisdonahue/LakhNES](https://github.com/chrisdonahue/LakhNES) - Generate 8-bit chiptunes with deep learning
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - A TensorFlow implementation of DeepMind's WaveNet paper
 - [scmvp301135/SurpriseNet](https://github.com/scmvp301135/SurpriseNet) - SurpriseNet: Melody Harmonization Conditioning on User-controlled Surprise Contours
-- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact with Massive Embedding and Text Datasets in Your Web Browser
+- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact with massive embedding, text and image datasets in your web browser
 - [neonsecret/TTS-With-Voice-Cloning-Multilang](https://github.com/neonsecret/TTS-With-Voice-Cloning-Multilang) - Clone a voice in a few seconds to generate arbitrary speech in real-time in multiple languages
 - [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
@@ -2525,6 +2533,7 @@
 
 ## Shell 
 
+- [rsxdalv/one-click-installers-tts](https://github.com/rsxdalv/one-click-installers-tts) - Simplified installers for suno-ai/bark, musicgen and tortoise
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
@@ -2716,6 +2725,7 @@
 
 ## TypeScript 
 
+- [rsxdalv/musicgen-prompts](https://github.com/rsxdalv/musicgen-prompts) - Site for sharing MusicGen Prompts and Creations
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate, unminify and unpack bundled javascript
 - [joanroig/midi-to-scaler-chord-sets](https://github.com/joanroig/midi-to-scaler-chord-sets) - Convert chord progressions from midi files to Plugin Boutique's Scaler sets.
