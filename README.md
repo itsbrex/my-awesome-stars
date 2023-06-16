@@ -227,6 +227,7 @@
 
 ## CSS 
 
+- [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [imbhargav5/nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
 - [chr15m/bugout.network](https://github.com/chr15m/bugout.network) - 
 - [asciinema/asciicast2gif](https://github.com/asciinema/asciicast2gif) - Generate GIF animations from asciicasts (asciinema recordings)
@@ -371,6 +372,7 @@
 
 ## Go 
 
+- [lc/subjs](https://github.com/lc/subjs) - Fetches javascript file from a list of URLS or subdomains.
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -599,6 +601,8 @@
 
 ## JavaScript 
 
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [mchlkucera/notion-to-html](https://github.com/mchlkucera/notion-to-html) - API for converting Notion database items to simple HTML
 - [evanw/polywasm](https://github.com/evanw/polywasm) - 
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
@@ -1392,6 +1396,7 @@
 
 ## Jupyter Notebook 
 
+- [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [itsbrex/bark](https://github.com/itsbrex/bark) - 🔊 Text-Prompted Generative Audio Model
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen, Tortoise)
 - [dakshtrehan/AI-Music-Generation](https://github.com/dakshtrehan/AI-Music-Generation) - Predicting Music pieces using LSTMs. MIDI files are used to generate and predict musical tones.
@@ -1590,6 +1595,8 @@
 
 ## Others 
 
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [jiamingze/musicgen-by-audiocraft](https://github.com/jiamingze/musicgen-by-audiocraft) - Generate music byaudiocraft
 - [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - Repository for the paper "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning", including 1.88M CoT rationales extracted across 1,060 task
 - [danhemerlein/ableton-colors](https://github.com/danhemerlein/ableton-colors) - JSON file of the Ableton Live 10 Color Palette
@@ -1909,6 +1916,9 @@
 
 ## Python 
 
+- [flipcoder/midimech](https://github.com/flipcoder/midimech) - 🎼  Isomorphic musical layout engine for LinnStrument and Launchpad X, with DAW/Synthesia visualizer
+- [asigalov61/Los-Angeles-MIDI-Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset) - SOTA kilo-scale MIDI dataset for MIR and Music AI purposes
+- [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [Naaafis/FewShot_MusicGen](https://github.com/Naaafis/FewShot_MusicGen) - Research project - Performing music generation of target domain with minimal available data from said domain
 - [CoffeeVampir3/audiocraft-webui](https://github.com/CoffeeVampir3/audiocraft-webui) - Quick webui for audiocraft
 - [neggles/musicgen-web](https://github.com/neggles/musicgen-web) - 
@@ -2725,6 +2735,7 @@
 
 ## TypeScript 
 
+- [itsbrex/markprompt](https://github.com/itsbrex/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [rsxdalv/musicgen-prompts](https://github.com/rsxdalv/musicgen-prompts) - Site for sharing MusicGen Prompts and Creations
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate, unminify and unpack bundled javascript
@@ -2822,7 +2833,7 @@
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
@@ -3273,7 +3284,7 @@
 
 ## Vala 
 
-- [SubhadeepJasu/Ensembles](https://github.com/SubhadeepJasu/Ensembles) - A digital arranger workstation powered by FluidSynth
+- [ensemblesaw/ensembles-app](https://github.com/ensemblesaw/ensembles-app) - A digital arranger workstation powered by FluidSynth
 
 ## Vim Script 
 
