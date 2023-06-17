@@ -271,7 +271,6 @@
 - [FaCuZ/torrentmedia](https://github.com/FaCuZ/torrentmedia) - Fully-featured desktop WebTorrent client
 - [ajainvivek/P2PDrop](https://github.com/ajainvivek/P2PDrop) - P2PDrop will allow you to share files between peers powered by WebRTC
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
-- [mrbrainz/Mixcloud-Tracklist-Enabler](https://github.com/mrbrainz/Mixcloud-Tracklist-Enabler) - Bookmarklet to re-enable Mixcloud tracklists
 - [Wattenberger/N1-snow-theme](https://github.com/Wattenberger/N1-snow-theme) - 
 - [diklein/Kleinstein](https://github.com/diklein/Kleinstein) - Hide your account list!
 - [oeaeee/n1-stripe](https://github.com/oeaeee/n1-stripe) - A Nylas N1 theme that displays accounts below your messages.
@@ -640,7 +639,7 @@
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
 - [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
 - [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
-- [SerRat44/DescentIntoDarkness](https://github.com/SerRat44/DescentIntoDarkness) - Contained html/javascript text-based rpg coded entirely using chatGPT without using external libraries or websites.
+- [SerRat44/DescentIntoDarkness](https://github.com/SerRat44/DescentIntoDarkness) - html/javascript text-based rpg coded entirely using chatGPT without external libraries, websites, or images
 - [simplifiedkd/ChatGPT4MusicVisualizer](https://github.com/simplifiedkd/ChatGPT4MusicVisualizer) - 
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
 - [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a node.js web service for automate accounting via chatGPT, Telegram bot and Notion.
@@ -1177,6 +1176,7 @@
 - [niklabh/linkmin](https://github.com/niklabh/linkmin) - A expressjs/redis URL shortner
 - [prenagha/launchbar](https://github.com/prenagha/launchbar) - LaunchBar Actions
 - [athyuttamre/tab-snooze](https://github.com/athyuttamre/tab-snooze) - Deprecated. Snooze tabs for later.
+- [mrbrainz/Mixcloud-Tracklist-Enabler](https://github.com/mrbrainz/Mixcloud-Tracklist-Enabler) - Bookmarklet to re-enable Mixcloud tracklists
 - [kwyn/squirt-reader-N1-plugin](https://github.com/kwyn/squirt-reader-N1-plugin) - A spritz like speed reader for the N1 client, inspired by @cameron 's squirt.io bookmarklet
 - [colinking/n1-unsubscribe](https://github.com/colinking/n1-unsubscribe) - Plugin for Nylas Mail that adds a quick unsubscribe button for email.
 - [jackiehluo/n1-weather](https://github.com/jackiehluo/n1-weather) - A weather plugin for N1.
@@ -2831,7 +2831,7 @@
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
-- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, Maximize your efficiency and productivity, support for English, Chinese, Japanese, and Korean. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
