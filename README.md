@@ -600,6 +600,8 @@
 
 ## JavaScript 
 
+- [fofr/replicate-llm-training](https://github.com/fofr/replicate-llm-training) - Fine tune an LLM using Replicate
+- [fofr/waveformer](https://github.com/fofr/waveformer) - Text to waveform video using MusicGen
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [mchlkucera/notion-to-html](https://github.com/mchlkucera/notion-to-html) - API for converting Notion database items to simple HTML
@@ -1396,6 +1398,9 @@
 
 ## Jupyter Notebook 
 
+- [dominiqueGrys/train-musicGen](https://github.com/dominiqueGrys/train-musicGen) - using WAV files to train the meta musicGen
+- [pietrobolcato/musicgen-endpoint-ableton](https://github.com/pietrobolcato/musicgen-endpoint-ableton) - AWS Endpoint for Meta's MusicGen, with a Max4Live device to use it within Ableton Live
+- [m41w4r3exe/the-jam-machine](https://github.com/m41w4r3exe/the-jam-machine) - The jam machine dreams up techno music compositions through deep neural hallucinations. Just import the raw inspiration into your favorite DAW using the generated MIDI file to finish producing your or
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [itsbrex/bark](https://github.com/itsbrex/bark) - 🔊 Text-Prompted Generative Audio Model
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen, Tortoise)
@@ -1916,6 +1921,7 @@
 
 ## Python 
 
+- [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [flipcoder/midimech](https://github.com/flipcoder/midimech) - 🎼  Isomorphic musical layout engine for LinnStrument and Launchpad X, with DAW/Synthesia visualizer
 - [asigalov61/Los-Angeles-MIDI-Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset) - SOTA kilo-scale MIDI dataset for MIR and Music AI purposes
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
