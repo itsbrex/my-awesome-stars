@@ -34,6 +34,7 @@
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Max](#max)
 - [NewLisp](#newlisp)
@@ -1470,6 +1471,10 @@
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
 
+## MDX 
+
+- [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
+
 ## Makefile 
 
 - [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services and resources to create and distribute music.
@@ -1922,6 +1927,7 @@
 
 ## Python 
 
+- [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [moises-ai/maestro-worker-python](https://github.com/moises-ai/maestro-worker-python) - 
 - [flipcoder/midimech](https://github.com/flipcoder/midimech) - 🎼  Isomorphic musical layout engine for LinnStrument and Launchpad X, with DAW/Synthesia visualizer
@@ -2775,7 +2781,7 @@
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Create digital souls
+- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Create AI souls
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
@@ -3092,7 +3098,6 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [47ng/chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
-- [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
 - [alampros/react-confetti](https://github.com/alampros/react-confetti) - Confetti without the cleanup.
 - [juliomuhlbauer/julio](https://github.com/juliomuhlbauer/julio) - 
 - [Rixcy/shouldibeoff](https://github.com/Rixcy/shouldibeoff) - Simple site for checking if it's a bank holiday in the UK
