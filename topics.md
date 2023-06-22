@@ -2999,6 +2999,7 @@
 
 ## others 
 
+- [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [emirdemirel/ASA_ICASSP2021](https://github.com/emirdemirel/ASA_ICASSP2021) - A duration-invariant audio-to-lyrics alignment pipeline with low memory footprint which segments long music recordings via a recursive biased decoding procedure.
 - [hugofabricio/moises](https://github.com/hugofabricio/moises) - Moises Website
@@ -3101,7 +3102,7 @@
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
 - [slavingia/push-to-do](https://github.com/slavingia/push-to-do) - Push voice to-dos to Notion
 - [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Create digital souls
+- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Create AI souls
 - [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [d3n7/riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion
