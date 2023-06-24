@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [gbevin/SendMIDI](https://github.com/gbevin/SendMIDI) - Multi-platform command-line tool to send out MIDI messages
 - [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 - [magenta/ddsp-vst](https://github.com/magenta/ddsp-vst) - Realtime DDSP Neural Synthesizer and Effect
@@ -601,6 +602,7 @@
 
 ## JavaScript 
 
+- [echonest/ArtistX](https://github.com/echonest/ArtistX) - Explore the song attributes for an artist
 - [gajus/format-graphql](https://github.com/gajus/format-graphql) - Formats GraphQL schema definition language (SDL) document.
 - [fofr/replicate-llm-training](https://github.com/fofr/replicate-llm-training) - Fine tune an LLM using Replicate
 - [fofr/waveformer](https://github.com/fofr/waveformer) - Text to waveform video using MusicGen
@@ -906,7 +908,6 @@
 - [justinshenk/sheet-copier](https://github.com/justinshenk/sheet-copier) - Chrome Extension to Make a Google Sheet Copyable
 - [CrystallizeAPI/crystallize-cli](https://github.com/CrystallizeAPI/crystallize-cli) - Scaffold a Crystallize project via the command line
 - [55sketch/gsx2json](https://github.com/55sketch/gsx2json) - Google Spreadsheet to JSON API service.
-- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [storyblok/nextjs-multilanguage-website](https://github.com/storyblok/nextjs-multilanguage-website) - Nextjs Multilanguage Website
@@ -1011,7 +1012,7 @@
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [jub0t/Discord-Bot-Dashboard](https://github.com/jub0t/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
+- [jub0t/Discord-Bot-Panel](https://github.com/jub0t/Discord-Bot-Panel) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [stevenschmatz/export-google-form](https://github.com/stevenschmatz/export-google-form) - :arrow_down_small: A small Google Apps Script file to export a form into a JSON file.
 - [jsoma/tabletop](https://github.com/jsoma/tabletop) - Tabletop.js gives spreadsheets legs
 - [jlord/sheetdown](https://github.com/jlord/sheetdown) - :page_with_curl: :arrow_down: Convert a Google Spreadsheet into a Table in Markdown
@@ -1473,6 +1474,9 @@
 
 ## MDX 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
+- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
 
 ## Makefile 
@@ -1606,10 +1610,10 @@
 
 ## Others 
 
+- [ardatan/graphql-import](https://github.com/ardatan/graphql-import) - Import & export definitions in GraphQL SDL
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [jiamingze/musicgen-by-audiocraft](https://github.com/jiamingze/musicgen-by-audiocraft) - Generate music byaudiocraft
-- [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - Repository for the paper "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning", including 1.88M CoT rationales extracted across 1,060 task
 - [danhemerlein/ableton-colors](https://github.com/danhemerlein/ableton-colors) - JSON file of the Ableton Live 10 Color Palette
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
@@ -1927,6 +1931,11 @@
 
 ## Python 
 
+- [Appdynamics/PyAppd](https://github.com/Appdynamics/PyAppd) - Python API for AppDynamics REST API
+- [aliev/aioauth-fastapi](https://github.com/aliev/aioauth-fastapi) - aioauth integration with FastAPI
+- [algorithmic-music-exploration/amen](https://github.com/algorithmic-music-exploration/amen) - A toolbox for algorithmic remixing, after Echo Nest Remix
+- [toaco/carry](https://github.com/toaco/carry) - Python ETL(Extract-Transform-Load) tool / Data migration tool
+- [echonest/discogs-xml2db](https://github.com/echonest/discogs-xml2db) - Import the discogs monthly XML dumps into a database (fork of http://code.google.com/p/discogs-sql-importer/)
 - [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [moises-ai/maestro-worker-python](https://github.com/moises-ai/maestro-worker-python) - 
@@ -1940,6 +1949,7 @@
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen, Tortoise)
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
+- [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - Repository for the paper "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning", including 1.88M CoT rationales extracted across 1,060 task
 - [kaistAI/SelFee](https://github.com/kaistAI/SelFee) - Official codebase for "SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation"
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -2751,6 +2761,10 @@
 
 ## TypeScript 
 
+- [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
+- [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database!
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [hugofabricio/moises](https://github.com/hugofabricio/moises) - Moises Website
 - [itsbrex/markprompt](https://github.com/itsbrex/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [rsxdalv/musicgen-prompts](https://github.com/rsxdalv/musicgen-prompts) - Site for sharing MusicGen Prompts and Creations
@@ -2822,7 +2836,6 @@
 - [jonathanzxu/keyless-ai-content-generation](https://github.com/jonathanzxu/keyless-ai-content-generation) - A Jasper alternative open source with ChatGPT, made keyless by Window.AI
 - [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - gpt4all and llama typescript bindings
 - [gannonh/openai-api-next-starter](https://github.com/gannonh/openai-api-next-starter) - OpenAI Next.js starter project
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [johnnesky/beepbox](https://github.com/johnnesky/beepbox) - An online tool for sketching and sharing instrumental melodies.
 - [Swizec/ScholarStream.ai](https://github.com/Swizec/ScholarStream.ai) - A twitter-like experience for arXiv feeds using GPT
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
@@ -3046,7 +3059,6 @@
 - [galfrevn/nextjs-social-pwa](https://github.com/galfrevn/nextjs-social-pwa) - (In progess 🚧 ) A full-featured social network application built with Next.js, Typescript and MongoDB. Features include user authentication, posts and comments, friend requests, and a real-time chat s
 - [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
-- [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
@@ -3054,7 +3066,7 @@
 - [munky69rock/gas-google-form-notifier-to-slack](https://github.com/munky69rock/gas-google-form-notifier-to-slack) - Google Formの通知をGASでSlackに通知する
 - [ohmyform/api](https://github.com/ohmyform/api) - ✏️ Free open source Application Programming Interface API for OhMyForm ⛺
 - [ohmyform/ui](https://github.com/ohmyform/ui) - ✏️ Free open source Web User Interface for OhMyForm  ⛺
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
@@ -3275,7 +3287,7 @@
 - [janbiasi/ableton-tools](https://github.com/janbiasi/ableton-tools) - A toolbelt for music artisans working with Ableton Live
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [solobat/Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal is a push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [meiblorn/ngx-fullpage](https://github.com/meiblorn/ngx-fullpage) - Angular 2 fullPage.js port library
