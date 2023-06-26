@@ -101,6 +101,7 @@
 
 ## C 
 
+- [Rezonality/zing](https://github.com/Rezonality/zing) - Audio Integration Library
 - [sprymix/metamagic.json](https://github.com/sprymix/metamagic.json) - An ultra-fast Python implementation of a JSON encoder
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -580,6 +581,7 @@
 
 ## Java 
 
+- [sonallux/spotify-web-api](https://github.com/sonallux/spotify-web-api) - Tools for fixing and improving the official Spotify OpenAPI definition.
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [BSvER1/AbletonMidiMapper](https://github.com/BSvER1/AbletonMidiMapper) - a small utility for grabbing automation out of ableton to send to other applications over virtual midi ports
 - [mattmcwaters/AbletonExporter](https://github.com/mattmcwaters/AbletonExporter) - Automatically Stems out a project grouped by colors given by user.
@@ -603,6 +605,7 @@
 
 ## JavaScript 
 
+- [metrasynth/mt1](https://github.com/metrasynth/mt1) - Metrasynth MT-1
 - [echonest/ArtistX](https://github.com/echonest/ArtistX) - Explore the song attributes for an artist
 - [gajus/format-graphql](https://github.com/gajus/format-graphql) - Formats GraphQL schema definition language (SDL) document.
 - [fofr/replicate-llm-training](https://github.com/fofr/replicate-llm-training) - Fine tune an LLM using Replicate
@@ -842,7 +845,6 @@
 - [image-charts/google-sheets-add-on-dependency-graph](https://github.com/image-charts/google-sheets-add-on-dependency-graph) - Insert a dependency graph in Google Sheets (custom formula)
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [temycodes/nextjs-step-form](https://github.com/temycodes/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
-- [vercel-labs/nextgram](https://github.com/vercel-labs/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [ericz99/autofill-extension](https://github.com/ericz99/autofill-extension) - Free Opensource Chrome Autofill Extension.
 - [dxdc/aws-sdk-google-apps](https://github.com/dxdc/aws-sdk-google-apps) - Native Google Apps Script support for Amazon AWS SDK for JavaScript
@@ -1410,7 +1412,6 @@
 - [itsbrex/bark](https://github.com/itsbrex/bark) - 🔊 Text-Prompted Generative Audio Model
 - [dakshtrehan/AI-Music-Generation](https://github.com/dakshtrehan/AI-Music-Generation) - Predicting Music pieces using LSTMs. MIDI files are used to generate and predict musical tones.
 - [aishoot/AI_Music_Composition](https://github.com/aishoot/AI_Music_Composition) - Do you think that AI can write songs for us? The project is just the music generator with the power of AI.
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - 
 - [kimtth/azure-openai-elastic-vector-langchain](https://github.com/kimtth/azure-openai-elastic-vector-langchain) - Azure Open AI, OSS LLM 🌊1. Vector storage and 🦙langchain 🔎2. Azure Search ChatGpt demo 3. Microsoft ♾️Semantic-Kernel with 🌌 Cosmos DB, etc.
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
@@ -1475,6 +1476,7 @@
 
 ## MDX 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
@@ -1932,6 +1934,7 @@
 
 ## Python 
 
+- [SonyCSLParis/DrumGAN](https://github.com/SonyCSLParis/DrumGAN) - Synthesis of Drum Sounds With Perceptual Timbral Conditioning Using Generative Adversarial Networks
 - [Appdynamics/PyAppd](https://github.com/Appdynamics/PyAppd) - Python API for AppDynamics REST API
 - [aliev/aioauth-fastapi](https://github.com/aliev/aioauth-fastapi) - aioauth integration with FastAPI
 - [algorithmic-music-exploration/amen](https://github.com/algorithmic-music-exploration/amen) - A toolbox for algorithmic remixing, after Echo Nest Remix
@@ -2762,6 +2765,8 @@
 
 ## TypeScript 
 
+- [spencerudnick/synth.kitchen](https://github.com/spencerudnick/synth.kitchen) - In-browser modular synthesis with the Web Audio API.
+- [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
 - [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database!
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -3070,6 +3075,7 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
+- [vercel-labs/nextgram](https://github.com/vercel-labs/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [soyalumno/aws_v4_signer_gas](https://github.com/soyalumno/aws_v4_signer_gas) - GASからAmazonのSP-APIを実行するための署名を作成する
@@ -3080,7 +3086,7 @@
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [Seb-GRAF/tailwind-helper](https://github.com/Seb-GRAF/tailwind-helper) - Tailwindhelper | A Tailwind css multitool for visualizing classes, converting units, and finding colors
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
