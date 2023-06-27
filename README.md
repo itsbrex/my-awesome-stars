@@ -605,6 +605,13 @@
 
 ## JavaScript 
 
+- [bepitulaz/generative-music](https://github.com/bepitulaz/generative-music) - The code from my single: A New Life
+- [rushjs1/musicVisualizer](https://github.com/rushjs1/musicVisualizer) - Music visualization for ableton live in realtime using ableton-js, threejs and socket.io.
+- [bigmistqke/ableton.js](https://github.com/bigmistqke/ableton.js) - 
+- [descriptinc/web-audio-js](https://github.com/descriptinc/web-audio-js) - Pure JS implementation of the Web Audio API
+- [AvneeshSarwate/Ableton-p5](https://github.com/AvneeshSarwate/Ableton-p5) - Connecting Ableton Live to p5.js via External Instrument and Web Midi
+- [kabirsingh2004/JUGNU-MUSIC](https://github.com/kabirsingh2004/JUGNU-MUSIC) - An advanced Music Bot, with Button interactivity, Best Filters , Best UI , Own bot channel supported , based on Distube.JS and Discord.JS
+- [limhenry/spotify-refresh-token-generator](https://github.com/limhenry/spotify-refresh-token-generator) - A web app to generate Spotify Refresh Token
 - [metrasynth/mt1](https://github.com/metrasynth/mt1) - Metrasynth MT-1
 - [echonest/ArtistX](https://github.com/echonest/ArtistX) - Explore the song attributes for an artist
 - [gajus/format-graphql](https://github.com/gajus/format-graphql) - Formats GraphQL schema definition language (SDL) document.
@@ -958,7 +965,6 @@
 - [Terris/redwood-stripe-example](https://github.com/Terris/redwood-stripe-example) - An example Stripe implementation with RedwoodJS
 - [redwoodjs/example-store-stripe](https://github.com/redwoodjs/example-store-stripe) - Redwood Example Store with Stripe Checkout Integration
 - [jamezmca/holy-sheet](https://github.com/jamezmca/holy-sheet) - next.js RESTapi to google sheets
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [VLabStudio/Tutorials](https://github.com/VLabStudio/Tutorials) - All of the smaller projects I have done in tutorials / project files
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -1404,6 +1410,7 @@
 
 ## Jupyter Notebook 
 
+- [VijayIyer/musicautobot](https://github.com/VijayIyer/musicautobot) - Using deep learning to generate music in MIDI format.
 - [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [dominiqueGrys/train-musicGen](https://github.com/dominiqueGrys/train-musicGen) - using WAV files to train the meta musicGen
 - [pietrobolcato/musicgen-endpoint-ableton](https://github.com/pietrobolcato/musicgen-endpoint-ableton) - AWS Endpoint for Meta's MusicGen, with a Max4Live device to use it within Ableton Live
@@ -1934,6 +1941,10 @@
 
 ## Python 
 
+- [jagilley/guided-beam-search](https://github.com/jagilley/guided-beam-search) - 
+- [jagilley/autodrummer](https://github.com/jagilley/autodrummer) - A text-to-audio model for generating text-conditioned drum beats
+- [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
+- [CPJKU/madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
 - [SonyCSLParis/DrumGAN](https://github.com/SonyCSLParis/DrumGAN) - Synthesis of Drum Sounds With Perceptual Timbral Conditioning Using Generative Adversarial Networks
 - [Appdynamics/PyAppd](https://github.com/Appdynamics/PyAppd) - Python API for AppDynamics REST API
 - [aliev/aioauth-fastapi](https://github.com/aliev/aioauth-fastapi) - aioauth integration with FastAPI
@@ -2572,6 +2583,7 @@
 
 ## Shell 
 
+- [p-lambda/jukemir](https://github.com/p-lambda/jukemir) - Perform transfer learning for MIR using Jukebox!
 - [emirdemirel/ASA_ICASSP2021](https://github.com/emirdemirel/ASA_ICASSP2021) - A duration-invariant audio-to-lyrics alignment pipeline with low memory footprint which segments long music recordings via a recursive biased decoding procedure.
 - [rsxdalv/one-click-installers-tts](https://github.com/rsxdalv/one-click-installers-tts) - Simplified installers for suno-ai/bark, musicgen and tortoise
 - [feross/timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity
@@ -2765,6 +2777,10 @@
 
 ## TypeScript 
 
+- [jaggad/crunker](https://github.com/jaggad/crunker) - Simple way to merge or concatenate audio files with the Web Audio API.
+- [dawg/dawg](https://github.com/dawg/dawg) - A DAW built using Electron and the Web Audio API
+- [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
+- [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
 - [spencerudnick/synth.kitchen](https://github.com/spencerudnick/synth.kitchen) - In-browser modular synthesis with the Web Audio API.
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
@@ -3023,7 +3039,7 @@
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [nimeshnayaju/tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack Next.js Boilerplate with TypeScript, MongoDB & MVC architecture with full customization. [I always use this to start new project]
+- [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack TypeScript Next.js Boilerplate with  module-driven architecture with full customization.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
@@ -3144,6 +3160,7 @@
 - [redwoodjs/gitpod-starter](https://github.com/redwoodjs/gitpod-starter) - Create a new Redwood project using Gitpod
 - [nico-limo/next-chakra-sheet-ecommerce](https://github.com/nico-limo/next-chakra-sheet-ecommerce) - A ecommerce created with Next, Typescript and google Sheet
 - [jihyojeon/Missage](https://github.com/jihyojeon/Missage) - An assistant in your hand who improved your work ability and quality of life! Finally, your AI record manager is here. Built with Express, NextJS and MongoDB.
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [akmalhisyammm/akmalhisyam.my.id](https://github.com/akmalhisyammm/akmalhisyam.my.id) - My personal site developed using Next.js and Chakra UI
 - [legitbeep/nextchakra-starter](https://github.com/legitbeep/nextchakra-starter) - ⚡Next js template filled with linting, typescript, seo, chakra-ui and optional pwa.
 - [svenpetermanec/pwa-frontend](https://github.com/svenpetermanec/pwa-frontend) - A social media service for sharing and messaging, built with React, Redux, TypeScript, Chakra UI and Socket.IO
