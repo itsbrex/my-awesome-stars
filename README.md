@@ -323,7 +323,7 @@
 - [jhardy/minimal-devices](https://github.com/jhardy/minimal-devices) - minimal-devices
 - [TryKickoff/kickoff](https://github.com/TryKickoff/kickoff) - :basketball: A lightweight front-end framework  for creating scalable, responsive sites. Version 8 has just been released!
 - [stephenscaff/WeBeScrollin](https://github.com/stephenscaff/WeBeScrollin) - We Be Scrollin is a stupid simple jquery plugin to animate scroll to targets via data-attributes.
-- [0xkarel/devtools-chromegray--dark](https://github.com/0xkarel/devtools-chromegray--dark) - A theme for Chrome Developer Tools based on @kkga's Spacegray.
+- [karelvuong/devtools-chromegray--dark](https://github.com/karelvuong/devtools-chromegray--dark) - A theme for Chrome Developer Tools based on @kkga's Spacegray.
 - [stephenscaff/keyframes-slider](https://github.com/stephenscaff/keyframes-slider) - A pure css approach to creating background-image sliders.
 - [stephenscaff/The-JumpOff-Wp-Kit](https://github.com/stephenscaff/The-JumpOff-Wp-Kit) - A little Wordpress & Codekit starter Theme / FrontEnd framework. But, so done with CodeKit and it's issues with teams and no legit config file. Use gulp instead https://github.com/stephenscaff/jumpoff
 - [stephenscaff/The-JumpOff-Kit](https://github.com/stephenscaff/The-JumpOff-Kit) - A codekit project starter and front-end framework of sorts.
@@ -464,7 +464,6 @@
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m
 - [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
-- [SerRat44/DIDMusicEngine](https://github.com/SerRat44/DIDMusicEngine) - Contained html/javascript audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
 - [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
 - [mganss/XmlSchemaClassGenerator](https://github.com/mganss/XmlSchemaClassGenerator) - Generate C# classes from XML Schema files
 - [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
@@ -616,6 +615,8 @@
 
 ## JavaScript 
 
+- [arihanv/PromptGPT-Ext](https://github.com/arihanv/PromptGPT-Ext) - 
+- [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [PFython/pyscript-local-runtime](https://github.com/PFython/pyscript-local-runtime) - 
 - [magenta/drumbot](https://github.com/magenta/drumbot) - Play real-time music with a machine learning drummer that drums based on your melody.
 - [rocktimsaikia/spotify-rtoken-cli](https://github.com/rocktimsaikia/spotify-rtoken-cli) - Generate Spotify refresh_token right from terminal
@@ -672,6 +673,7 @@
 - [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
 - [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [SerRat44/DescentIntoDarkness](https://github.com/SerRat44/DescentIntoDarkness) - html/javascript text-based rpg coded entirely using chatGPT without external libraries, websites, or images
+- [SerRat44/DIDMusicEngine](https://github.com/SerRat44/DIDMusicEngine) - The audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
 - [simplifiedkd/ChatGPT4MusicVisualizer](https://github.com/simplifiedkd/ChatGPT4MusicVisualizer) - 
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
 - [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a node.js web service for automate accounting via chatGPT, Telegram bot and Notion.
@@ -1875,8 +1877,8 @@
 - [agh/slack_themes](https://github.com/agh/slack_themes) - :speech_balloon: Slack Themes :see_no_evil: A collection of themes for Slack pulled together into one easily referenced place, letting you get a taste before you copy and paste!
 - [chadanderson/alfred_quick_resize](https://github.com/chadanderson/alfred_quick_resize) - Quickly resize images on your desktop with Alfred
 - [ohoachuck/alfred2-resize](https://github.com/ohoachuck/alfred2-resize) - Alfred Workflow to resize selected image with specific ratio to choose from list
-- [0xkarel/terminal-afterglow](https://github.com/0xkarel/terminal-afterglow) - The Afterglow sublime theme ported over to Terminal.app.
-- [0xkarel/st-primer](https://github.com/0xkarel/st-primer) - ⚠️ No longer supported ⚠️ - A UI + syntax theme for @SublimeText inspired by GitHub's UI.
+- [karelvuong/terminal-afterglow](https://github.com/karelvuong/terminal-afterglow) - The Afterglow sublime theme ported over to Terminal.app.
+- [karelvuong/st-primer](https://github.com/karelvuong/st-primer) - ⚠️ No longer supported ⚠️ - A UI + syntax theme for @SublimeText inspired by GitHub's UI.
 - [teracyhq/bootflat-ui-kit-sketch](https://github.com/teracyhq/bootflat-ui-kit-sketch) - Free Sketch UI Kit for Bootflat http://bootflat.github.io/
 - [EvanLovely/alfred--doing](https://github.com/EvanLovely/alfred--doing) - An Alfred Workflow for interacting with Brett Terpstra's `doing` CLI – http://brettterpstra.com/projects/doing/
 - [sillygwailo/Open-URL-in-Tweetbot.workflow](https://github.com/sillygwailo/Open-URL-in-Tweetbot.workflow) - A Mac OS X Automator workflow to open a twitter.com URL in Tweetbot
@@ -1960,6 +1962,9 @@
 
 ## Python 
 
+- [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
+- [RegsonDR/spotify-save-playlists-cron](https://github.com/RegsonDR/spotify-save-playlists-cron) - Save Spotify's auto-generated playlists automatically - Powered by Github Actions.
+- [gioxx/spotify-save-new-music-friday](https://github.com/gioxx/spotify-save-new-music-friday) - Save Spotify's "New Music Friday" playlist automatically - Powered by Github Actions, based on the original script by @RegsonDR.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [Flixor/AbletonTracklist](https://github.com/Flixor/AbletonTracklist) - Simple script for extracting tracklists from Ableton in Mixcloud format
 - [QosmoInc/neutone_sdk](https://github.com/QosmoInc/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
@@ -2151,7 +2156,7 @@
 - [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [lastmile-ai/llama-retrieval-plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - LLaMa retrieval plugin script using OpenAI's retrieval plugin
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
@@ -2604,6 +2609,7 @@
 
 ## Shell 
 
+- [drench/shpotify](https://github.com/drench/shpotify) - Command line access to the Spotify API
 - [p-lambda/jukemir](https://github.com/p-lambda/jukemir) - Perform transfer learning for MIR using Jukebox!
 - [emirdemirel/ASA_ICASSP2021](https://github.com/emirdemirel/ASA_ICASSP2021) - A duration-invariant audio-to-lyrics alignment pipeline with low memory footprint which segments long music recordings via a recursive biased decoding procedure.
 - [rsxdalv/one-click-installers-tts](https://github.com/rsxdalv/one-click-installers-tts) - Simplified installers for suno-ai/bark, musicgen and tortoise
@@ -2799,6 +2805,7 @@
 
 ## TypeScript 
 
+- [arihanv/PromptGPT](https://github.com/arihanv/PromptGPT) - 
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
 - [rocktimsaikia/spotify-mini](https://github.com/rocktimsaikia/spotify-mini) - Mini Spotify client for nodejs exposing few useful methods
 - [jaggad/crunker](https://github.com/jaggad/crunker) - Simple way to merge or concatenate audio files with the Web Audio API.
@@ -2841,7 +2848,7 @@
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - The library for creating AI souls
+- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - The library for designing AI souls
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
