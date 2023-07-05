@@ -699,7 +699,7 @@
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 - [imaurer/awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - List of interesting resources for building and using ChatGPT plugins.
 - [ezzcodeezzlife/fileGPT](https://github.com/ezzcodeezzlife/fileGPT) - fileGPT is a powerful and easy-to-use CLI tool that allows you to interact with the OpenAI GPT-4 & GPT-3.5 model to get code completion suggestions and apply the instructions to your code directly.
-- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [Ozennefr/GPPPT](https://github.com/Ozennefr/GPPPT) - A simple one file python script that executes AI processes defined in YML.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
@@ -1144,7 +1144,7 @@
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
@@ -2132,6 +2132,7 @@
 
 ## json 
 
+- [drench/shpotify](https://github.com/drench/shpotify) - Command line access to the Spotify API
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
 - [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
@@ -2262,6 +2263,7 @@
 
 ## machine-learning 
 
+- [arihanv/PromptGPT](https://github.com/arihanv/PromptGPT) - 
 - [vroomai/vst](https://github.com/vroomai/vst) - 🎹 Generate sounds from words. Directly in your DAW.
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 - [CPJKU/madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
@@ -2492,6 +2494,8 @@
 
 ## music 
 
+- [RegsonDR/spotify-save-playlists-cron](https://github.com/RegsonDR/spotify-save-playlists-cron) - Save Spotify's auto-generated playlists automatically - Powered by Github Actions.
+- [gioxx/spotify-save-new-music-friday](https://github.com/gioxx/spotify-save-new-music-friday) - Save Spotify's "New Music Friday" playlist automatically - Powered by Github Actions, based on the original script by @RegsonDR.
 - [bepitulaz/generative-music](https://github.com/bepitulaz/generative-music) - The code from my single: A New Life
 - [jagilley/autodrummer](https://github.com/jagilley/autodrummer) - A text-to-audio model for generating text-conditioned drum beats
 - [kabirsingh2004/JUGNU-MUSIC](https://github.com/kabirsingh2004/JUGNU-MUSIC) - An advanced Music Bot, with Button interactivity, Best Filters , Best UI , Own bot channel supported , based on Distube.JS and Discord.JS
@@ -3047,6 +3051,8 @@
 
 ## others 
 
+- [arihanv/PromptGPT-Ext](https://github.com/arihanv/PromptGPT-Ext) - 
+- [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
 - [zhlynn/zsign](https://github.com/zhlynn/zsign) - Maybe it is the most quickly codesign alternative for iOS12+,  cross-platform ( macOS, Linux , Windows ), more features.
 - [PFython/pyscript-local-runtime](https://github.com/PFython/pyscript-local-runtime) - 
 - [magenta/drumbot](https://github.com/magenta/drumbot) - Play real-time music with a machine learning drummer that drums based on your melody.
@@ -3195,7 +3201,7 @@
 - [murchie85/GPT_AUTOMATE](https://github.com/murchie85/GPT_AUTOMATE) - An automation harness for GPT to produce a full ready to go code poject.
 - [MikeKadoshnikov/Project-Genesis](https://github.com/MikeKadoshnikov/Project-Genesis) - Project Genesis is the development of a mathematical visual representation of music. Don't judge harshly, there are no resources and ChatGPT doesnt help!
 - [SerRat44/DescentIntoDarkness](https://github.com/SerRat44/DescentIntoDarkness) - html/javascript text-based rpg coded entirely using chatGPT without external libraries, websites, or images
-- [SerRat44/DIDMusicEngine](https://github.com/SerRat44/DIDMusicEngine) - Contained html/javascript audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
+- [SerRat44/DIDMusicEngine](https://github.com/SerRat44/DIDMusicEngine) - The audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
 - [MartinDeadly/Music-Maker](https://github.com/MartinDeadly/Music-Maker) - ChatGPT is working with me to generate midi files
 - [simplifiedkd/ChatGPT4MusicVisualizer](https://github.com/simplifiedkd/ChatGPT4MusicVisualizer) - 
 - [anuk2001/groovegpt](https://github.com/anuk2001/groovegpt) - chatgpt + spotify for personalized music recommendations
@@ -4655,12 +4661,12 @@
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [stephenscaff/EveryDayImInstagrammin](https://github.com/stephenscaff/EveryDayImInstagrammin) - A little jquery plugin to show instagram pics by user or hastag, with some caption styles.
 - [stephenscaff/WeBeScrollin](https://github.com/stephenscaff/WeBeScrollin) - We Be Scrollin is a stupid simple jquery plugin to animate scroll to targets via data-attributes.
-- [0xkarel/terminal-afterglow](https://github.com/0xkarel/terminal-afterglow) - The Afterglow sublime theme ported over to Terminal.app.
-- [0xkarel/devtools-chromegray--dark](https://github.com/0xkarel/devtools-chromegray--dark) - A theme for Chrome Developer Tools based on @kkga's Spacegray.
+- [karelvuong/terminal-afterglow](https://github.com/karelvuong/terminal-afterglow) - The Afterglow sublime theme ported over to Terminal.app.
+- [karelvuong/devtools-chromegray--dark](https://github.com/karelvuong/devtools-chromegray--dark) - A theme for Chrome Developer Tools based on @kkga's Spacegray.
 - [stephenscaff/keyframes-slider](https://github.com/stephenscaff/keyframes-slider) - A pure css approach to creating background-image sliders.
 - [stephenscaff/ChickenDinner](https://github.com/stephenscaff/ChickenDinner) - A stupid little Jquery plugin to randomly load images from a client-side array via img tag or background-image.
 - [RyanParsley/bluesCalculator](https://github.com/RyanParsley/bluesCalculator) - A calculator for deriving the minor blues progression from a provided root note. It was made with CoffeeScript and Middleman.
-- [0xkarel/st-primer](https://github.com/0xkarel/st-primer) - ⚠️ No longer supported ⚠️ - A UI + syntax theme for @SublimeText inspired by GitHub's UI.
+- [karelvuong/st-primer](https://github.com/karelvuong/st-primer) - ⚠️ No longer supported ⚠️ - A UI + syntax theme for @SublimeText inspired by GitHub's UI.
 - [stephenscaff/The-JumpOff-Wp-Kit](https://github.com/stephenscaff/The-JumpOff-Wp-Kit) - A little Wordpress & Codekit starter Theme / FrontEnd framework. But, so done with CodeKit and it's issues with teams and no legit config file. Use gulp instead https://github.com/stephenscaff/jumpoff
 - [stephenscaff/The-JumpOff-Kit](https://github.com/stephenscaff/The-JumpOff-Kit) - A codekit project starter and front-end framework of sorts.
 - [teracyhq/bootflat-ui-kit-sketch](https://github.com/teracyhq/bootflat-ui-kit-sketch) - Free Sketch UI Kit for Bootflat http://bootflat.github.io/
@@ -4895,6 +4901,9 @@
 
 ## python 
 
+- [RegsonDR/spotify-save-playlists-cron](https://github.com/RegsonDR/spotify-save-playlists-cron) - Save Spotify's auto-generated playlists automatically - Powered by Github Actions.
+- [gioxx/spotify-save-new-music-friday](https://github.com/gioxx/spotify-save-new-music-friday) - Save Spotify's "New Music Friday" playlist automatically - Powered by Github Actions, based on the original script by @RegsonDR.
+- [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
@@ -5045,7 +5054,7 @@
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [gwinndr/MusicTransformer-Pytorch](https://github.com/gwinndr/MusicTransformer-Pytorch) - MusicTransformer written for MaestroV2 using the Pytorch framework for music generation
@@ -5512,6 +5521,7 @@
 
 ## shell 
 
+- [drench/shpotify](https://github.com/drench/shpotify) - Command line access to the Spotify API
 - [flipcoder/textbeat](https://github.com/flipcoder/textbeat) - 🎹 plaintext music sequencer and midi shell, with vim playback and the powers of music theory  🥁
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
