@@ -385,6 +385,7 @@
 
 ## Go 
 
+- [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [lc/subjs](https://github.com/lc/subjs) - Fetches javascript file from a list of URLS or subdomains.
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -493,7 +494,7 @@
 - [tanaikech/Google-Apps-Script-Library-Database](https://github.com/tanaikech/Google-Apps-Script-Library-Database) - This is for the Google Apps Script Library Database and a web application for searching the libraries..
 - [dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) - :email: An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data.
 - [shuky-shukrun/many-forms](https://github.com/shuky-shukrun/many-forms) - Google Spreadsheet add-on that allow you to create and analyze google forms using friendly UI. Use case can be a surveys system for school or university, where you may need many differant forms with t
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [yonasadiel/ladon](https://github.com/yonasadiel/ladon) - Form Builder with Google Apps Script
 - [ireost/GoogleAppsScript](https://github.com/ireost/GoogleAppsScript) - Setting custom Google forms
 - [jagatjeevan/googleForm](https://github.com/jagatjeevan/googleForm) - This is just a html for a google app script.
@@ -1554,6 +1555,7 @@
 
 ## Objective-C 
 
+- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [atomicbird/momcom](https://github.com/atomicbird/momcom) - Experimental Core Data model compiler
 - [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all rela
 - [yepher/CoreDataUtility](https://github.com/yepher/CoreDataUtility) - An OSX application that simplifies development and debugging of CoreData enabled applications.
@@ -2805,6 +2807,7 @@
 
 ## TypeScript 
 
+- [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [arihanv/PromptGPT](https://github.com/arihanv/PromptGPT) - 
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
 - [rocktimsaikia/spotify-mini](https://github.com/rocktimsaikia/spotify-mini) - Mini Spotify client for nodejs exposing few useful methods
@@ -3191,7 +3194,7 @@
 - [redwoodjs/gitpod-starter](https://github.com/redwoodjs/gitpod-starter) - Create a new Redwood project using Gitpod
 - [nico-limo/next-chakra-sheet-ecommerce](https://github.com/nico-limo/next-chakra-sheet-ecommerce) - A ecommerce created with Next, Typescript and google Sheet
 - [jihyojeon/Missage](https://github.com/jihyojeon/Missage) - An assistant in your hand who improved your work ability and quality of life! Finally, your AI record manager is here. Built with Express, NextJS and MongoDB.
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [akmalhisyammm/akmalhisyam.my.id](https://github.com/akmalhisyammm/akmalhisyam.my.id) - My personal site developed using Next.js and Chakra UI
 - [legitbeep/nextchakra-starter](https://github.com/legitbeep/nextchakra-starter) - ⚡Next js template filled with linting, typescript, seo, chakra-ui and optional pwa.
 - [svenpetermanec/pwa-frontend](https://github.com/svenpetermanec/pwa-frontend) - A social media service for sharing and messaging, built with React, Redux, TypeScript, Chakra UI and Socket.IO
