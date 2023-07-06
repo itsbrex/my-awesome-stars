@@ -410,7 +410,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 
 ## atom 
@@ -873,6 +873,8 @@
 
 ## cli 
 
+- [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
+- [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [mausworks/tidier](https://github.com/mausworks/tidier) - The file & folder name formatter
@@ -1547,6 +1549,8 @@
 
 ## go 
 
+- [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
+- [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
@@ -1569,6 +1573,7 @@
 
 ## golang 
 
+- [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
@@ -1608,7 +1613,7 @@
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [alyssaxuu/figma-to-google-slides](https://github.com/alyssaxuu/figma-to-google-slides) - Convert Figma frames into a Google Slides presentation 🍭
 - [tjcages/lil-chat](https://github.com/tjcages/lil-chat) - an app to post on your own private wall
 - [cybercase/google-forms-html-exporter](https://github.com/cybercase/google-forms-html-exporter) - Build a standard HTML &lt;form&gt; using any Google Forms
@@ -2314,7 +2319,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [amitkan1995/Vision](https://github.com/amitkan1995/Vision) - A smart attendance system to monitor attendance and update it to excel sheet. A version 2.0 of Fack-Reck (https://github.com/amitkan1995/Face-Reck) with an improved UI and now support Google Sheet Upd
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [instrumentbible/solfege.ai](https://github.com/instrumentbible/solfege.ai) - Detect solfege hand signs using machine learning ✋ 🎹
@@ -2325,6 +2330,7 @@
 
 ## macos 
 
+- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
@@ -2855,6 +2861,7 @@
 
 ## node 
 
+- [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [bepitulaz/generative-music](https://github.com/bepitulaz/generative-music) - The code from my single: A New Life
 - [djipco/webmidi](https://github.com/djipco/webmidi) - Tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (note
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2932,7 +2939,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [bahdcoder/friendly-mail](https://github.com/bahdcoder/friendly-mail) - 📩 Mail provider for elegantly sending emails in node js.
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [dragonman225/notablog](https://github.com/dragonman225/notablog) - Tell stories of your work with Notion
@@ -5882,6 +5889,7 @@
 - [charles-clerk-dev/new-wave-stack](https://github.com/charles-clerk-dev/new-wave-stack) - Custom Remix stack using Clerk for authentication and full user management.
 - [olafsulich/fullstack-nextjs-ecommerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - Fullstack Next.js E-Commerce made with NextAuth + Prisma, Docker + TypeScript + React Query + Stripe + Tailwind Sentry and much more 🛒
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [akmalhisyammm/akmalhisyam.my.id](https://github.com/akmalhisyammm/akmalhisyam.my.id) - My personal site developed using Next.js and Chakra UI
 - [legitbeep/nextchakra-starter](https://github.com/legitbeep/nextchakra-starter) - ⚡Next js template filled with linting, typescript, seo, chakra-ui and optional pwa.
 - [Lukazovic/nextjs-with-chakra-ui-boilerplate](https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate) - Next.js with Chakra UI boilerplate. PWA ready with storybook and tests configured.
@@ -5973,6 +5981,7 @@
 
 ## visual-studio-code 
 
+- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
