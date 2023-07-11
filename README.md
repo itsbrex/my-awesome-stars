@@ -9,7 +9,6 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -100,10 +99,6 @@
 
 - [tcbtcb/ClyphX_Pro](https://github.com/tcbtcb/ClyphX_Pro) - My personal bindings and mappings for my Platform M+
 
-## Blade 
-
-- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
-
 ## C 
 
 - [Rezonality/zing](https://github.com/Rezonality/zing) - Audio Integration Library
@@ -164,6 +159,7 @@
 
 ## C++ 
 
+- [luiscript/react-native-ableton-link](https://github.com/luiscript/react-native-ableton-link) - Ableton Link for React Native
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [zhlynn/zsign](https://github.com/zhlynn/zsign) - Maybe it is the most quickly codesign alternative for iOS12+,  cross-platform ( macOS, Linux , Windows ), more features.
 - [vroomai/vst](https://github.com/vroomai/vst) - 🎹 Generate sounds from words. Directly in your DAW.
@@ -1646,6 +1642,7 @@
 
 ## Others 
 
+- [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools) - This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, musi
 - [ardatan/graphql-import](https://github.com/ardatan/graphql-import) - Import & export definitions in GraphQL SDL
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -1912,6 +1909,7 @@
 
 ## PHP 
 
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [alexwhin/huntr.in](https://github.com/alexwhin/huntr.in) - Product hunt reviews widget. Enables product hunt makers to embed a dynamic reviews widget into their application/website https://www.producthunt.com/posts/product-hunt-reviews-widget
 - [iammordaty/key-tools](https://github.com/iammordaty/key-tools) - :musical_note: KeyTools is a library that allows you to convert musical keys between notations. In addition, KeyTools allows you to calculate matching keys for harmonic mixing.
@@ -1968,6 +1966,7 @@
 
 ## Python 
 
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf   Live Demo: https://gpt.h2o.a
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
 - [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
@@ -2175,7 +2174,7 @@
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
 - [clementabary/server](https://github.com/clementabary/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [clementabary/sigsep-mus-eval](https://github.com/clementabary/sigsep-mus-eval) - museval - source separation evaluation tools for python
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
@@ -2813,6 +2812,8 @@
 
 ## TypeScript 
 
+- [JDoggen/StarkOSC](https://github.com/JDoggen/StarkOSC) - Wrapper library for osc-js to control Ableton via AbletonOSC
+- [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [xiaoluoboding/vercel-metafy](https://github.com/xiaoluoboding/vercel-metafy) - Easily scrape metadata from websites as a service using Vercel.
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
