@@ -1429,6 +1429,7 @@
 
 ## Jupyter Notebook 
 
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
 - [VijayIyer/musicautobot](https://github.com/VijayIyer/musicautobot) - Using deep learning to generate music in MIDI format.
 - [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [dominiqueGrys/train-musicGen](https://github.com/dominiqueGrys/train-musicGen) - using WAV files to train the meta musicGen
@@ -1966,6 +1967,8 @@
 
 ## Python 
 
+- [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
+- [unconv/gpt-autopilot](https://github.com/unconv/gpt-autopilot) - A GPT-4 powered AI agent that can create full projects with iterative prompting
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf   Live Demo: https://gpt.h2o.a
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
@@ -2046,7 +2049,7 @@
 - [CoryWBoris/AbletonAutoColor](https://github.com/CoryWBoris/AbletonAutoColor) - Automatic Color Assignment Based On Name In Ableton Live
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [BlaCkinkGJ/catch-me-if-you-can](https://github.com/BlaCkinkGJ/catch-me-if-you-can) - plagiarism detector
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
@@ -2174,7 +2177,7 @@
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
 - [clementabary/server](https://github.com/clementabary/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [clementabary/sigsep-mus-eval](https://github.com/clementabary/sigsep-mus-eval) - museval - source separation evaluation tools for python
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
@@ -2860,7 +2863,7 @@
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Clean abstractions for agentic LLM entities
+- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Practical Tools for Guiding LLM Cognition
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
