@@ -229,6 +229,7 @@
 
 ## ai 
 
+- [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf   Live Demo: https://gpt.h2o.a
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
@@ -267,7 +268,7 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
 - [dosco/minds](https://github.com/dosco/minds) - MindsJS - Build AI powered workflows easily
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Talk to your codebase
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
@@ -635,7 +636,6 @@
 ## bot 
 
 - [kabirsingh2004/JUGNU-MUSIC](https://github.com/kabirsingh2004/JUGNU-MUSIC) - An advanced Music Bot, with Button interactivity, Best Filters , Best UI , Own bot channel supported , based on Distube.JS and Discord.JS
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
 - [Sobhan-SRZA/Nitro-Generator-Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) - This is nitro generator bot for discord and build with discord.py and ❤️
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
@@ -981,6 +981,7 @@
 
 ## computer-vision 
 
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -3076,6 +3077,7 @@
 
 ## others 
 
+- [unconv/gpt-autopilot](https://github.com/unconv/gpt-autopilot) - A GPT-4 powered AI agent that can create full projects with iterative prompting
 - [JDoggen/StarkOSC](https://github.com/JDoggen/StarkOSC) - Wrapper library for osc-js to control Ableton via AbletonOSC
 - [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
 - [luiscript/react-native-ableton-link](https://github.com/luiscript/react-native-ableton-link) - Ableton Link for React Native
@@ -3197,7 +3199,7 @@
 - [gildas-lormeau/single-filez-cli](https://github.com/gildas-lormeau/single-filez-cli) - 
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
-- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [epsil/spotgen](https://github.com/epsil/spotgen) - Spotify Playlist Generator
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [wesbos/cobalt2-raycast](https://github.com/wesbos/cobalt2-raycast) - Cobalt2 Raycast Theme
@@ -3219,7 +3221,7 @@
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
 - [slavingia/push-to-do](https://github.com/slavingia/push-to-do) - Push voice to-dos to Notion
 - [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Clean abstractions for agentic LLM entities
+- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Practical Tools for Guiding LLM Cognition
 - [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [d3n7/riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion
@@ -4931,6 +4933,7 @@
 
 ## python 
 
+- [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [RegsonDR/spotify-save-playlists-cron](https://github.com/RegsonDR/spotify-save-playlists-cron) - Save Spotify's auto-generated playlists automatically - Powered by Github Actions.
 - [gioxx/spotify-save-new-music-friday](https://github.com/gioxx/spotify-save-new-music-friday) - Save Spotify's "New Music Friday" playlist automatically - Powered by Github Actions, based on the original script by @RegsonDR.
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
@@ -4979,7 +4982,7 @@
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
