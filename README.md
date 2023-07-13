@@ -238,6 +238,7 @@
 ## CSS 
 
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
+- [PFython/pyscript-local-runtime](https://github.com/PFython/pyscript-local-runtime) - 
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [imbhargav5/nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
 - [chr15m/bugout.network](https://github.com/chr15m/bugout.network) - 
@@ -613,12 +614,13 @@
 
 ## JavaScript 
 
+- [samuelthomas2774/icloud-api](https://github.com/samuelthomas2774/icloud-api) - Mirror of https://gitlab.fancy.org.uk/samuel/icloud-api - Unofficial API for accessing iCloud data
+- [scottstensland/websockets-streaming-audio](https://github.com/scottstensland/websockets-streaming-audio) - Stream audio to a Web Audio API enabled browser from Node.js server side using Web Worker and Web Socket
 - [sindresorhus/run-jxa](https://github.com/sindresorhus/run-jxa) - Run JXA code and get the result
 - [sindresorhus/run-applescript](https://github.com/sindresorhus/run-applescript) - Run AppleScript and get the result
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [arihanv/PromptGPT-Ext](https://github.com/arihanv/PromptGPT-Ext) - 
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
-- [PFython/pyscript-local-runtime](https://github.com/PFython/pyscript-local-runtime) - 
 - [magenta/drumbot](https://github.com/magenta/drumbot) - Play real-time music with a machine learning drummer that drums based on your melody.
 - [rocktimsaikia/spotify-rtoken-cli](https://github.com/rocktimsaikia/spotify-rtoken-cli) - Generate Spotify refresh_token right from terminal
 - [aaronats/jsmidi](https://github.com/aaronats/jsmidi) - 
@@ -696,7 +698,7 @@
 - [xlwings/xlwings-server-helloworld-fastapi](https://github.com/xlwings/xlwings-server-helloworld-fastapi) - Demo repo for the xlwings remote interpreter
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example](https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example) - Example for this script: https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement-photoshop-script
-- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower plugin for ChatGPT
+- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
@@ -1429,6 +1431,7 @@
 
 ## Jupyter Notebook 
 
+- [texttron/hyde](https://github.com/texttron/hyde) - HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
 - [VijayIyer/musicautobot](https://github.com/VijayIyer/musicautobot) - Using deep learning to generate music in MIDI format.
 - [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
@@ -1967,6 +1970,7 @@
 
 ## Python 
 
+- [UKPLab/gpl](https://github.com/UKPLab/gpl) - Powerful unsupervised domain adaptation method for dense retrieval. Requires only unlabeled corpus and yields massive improvement: "GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation o
 - [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [unconv/gpt-autopilot](https://github.com/unconv/gpt-autopilot) - A GPT-4 powered AI agent that can create full projects with iterative prompting
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf   Live Demo: https://gpt.h2o.a
@@ -2815,6 +2819,7 @@
 
 ## TypeScript 
 
+- [foxt/icloud.js](https://github.com/foxt/icloud.js) - Library for accessing iCloud in Node.js
 - [JDoggen/StarkOSC](https://github.com/JDoggen/StarkOSC) - Wrapper library for osc-js to control Ableton via AbletonOSC
 - [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
@@ -2948,7 +2953,7 @@
 - [ricardomatias/ableton-live](https://github.com/ricardomatias/ableton-live) - A library for communicating with Live via WebSockets, works both in NodeJS and in the Browser.
 - [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
-- [devkiran/NextAPI](https://github.com/devkiran/NextAPI) - A Next.js RESTful API Starter for building SaaS Apps
+- [devkiran/NextAPI](https://github.com/devkiran/NextAPI) - A Next.js API starter for building SaaS apps
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ifyour/code-var](https://github.com/ifyour/code-var) - 🤦‍♂️ No more headaches with variable naming
@@ -3139,7 +3144,7 @@
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [vercel-labs/nextgram](https://github.com/vercel-labs/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [soyalumno/aws_v4_signer_gas](https://github.com/soyalumno/aws_v4_signer_gas) - GASからAmazonのSP-APIを実行するための署名を作成する
 - [ipenywis/react-easy-auth](https://github.com/ipenywis/react-easy-auth) - React Login with very easy authentication using react-auth-kit library. Explained on CoderOne Youtube channel
