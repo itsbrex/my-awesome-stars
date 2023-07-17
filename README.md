@@ -1443,6 +1443,7 @@
 
 ## Jupyter Notebook 
 
+- [fosfrancesco/asap-dataset](https://github.com/fosfrancesco/asap-dataset) - A  dataset  of  222  digital  musical  scores aligned with 1068 performances (more than 92 hours) of Western  classical  piano  music.
 - [zhao1701/spotify-song-lyric-analysis](https://github.com/zhao1701/spotify-song-lyric-analysis) - An extended analysis of the evolution of American popular music from 1960 to 2017 using data from the Billboard Year-End Hot 100 charts, lyrics scraped from the web, and Spotify audio features.
 - [texttron/hyde](https://github.com/texttron/hyde) - HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
@@ -1660,6 +1661,7 @@
 
 ## Others 
 
+- [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset
 - [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools) - This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, musi
 - [ardatan/graphql-import](https://github.com/ardatan/graphql-import) - Import & export definitions in GraphQL SDL
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -1926,6 +1928,7 @@
 
 ## PHP 
 
+- [Noise-Labs/chords-dataset](https://github.com/Noise-Labs/chords-dataset) - automaticlly chord midi & wav files generator
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [alexwhin/huntr.in](https://github.com/alexwhin/huntr.in) - Product hunt reviews widget. Enables product hunt makers to embed a dynamic reviews widget into their application/website https://www.producthunt.com/posts/product-hunt-reviews-widget
@@ -1983,6 +1986,12 @@
 
 ## Python 
 
+- [YatingMusic/compound-word-transformer](https://github.com/YatingMusic/compound-word-transformer) - Official implementation of compound word transformer (AAAI'21)
+- [shiehn/midi_query](https://github.com/shiehn/midi_query) - Query MIDI datasets for matching key, time signature & chord progression
+- [emredjan/cnn-audio-recognition](https://github.com/emredjan/cnn-audio-recognition) - Audio to midi conversion using deep learning and google nsynth dataset
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [imiskolee/so-vits-svc-5.0](https://github.com/imiskolee/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
+- [PlayVoice/so-vits-svc-5.0](https://github.com/PlayVoice/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
 - [skorokithakis/jsane](https://github.com/skorokithakis/jsane) - A saner way to traverse JSON in Python
 - [JoshBot-Debug/Json-Database-Local](https://github.com/JoshBot-Debug/Json-Database-Local) - Maintain a Json Database locally
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
