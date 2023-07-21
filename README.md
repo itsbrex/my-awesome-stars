@@ -98,6 +98,7 @@
 
 ## Batchfile 
 
+- [Sxela/WarpFusion](https://github.com/Sxela/WarpFusion) - WarpFusion
 - [tcbtcb/ClyphX_Pro](https://github.com/tcbtcb/ClyphX_Pro) - My personal bindings and mappings for my Platform M+
 
 ## C 
@@ -160,6 +161,7 @@
 
 ## C++ 
 
+- [c4dm/nnls-chroma](https://github.com/c4dm/nnls-chroma) - A Vamp plugin library for harmony and chord extraction.
 - [luiscript/react-native-ableton-link](https://github.com/luiscript/react-native-ableton-link) - Ableton Link for React Native
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [zhlynn/zsign](https://github.com/zhlynn/zsign) - Maybe it is the most quickly codesign alternative for iOS12+,  cross-platform ( macOS, Linux , Windows ), more features.
@@ -335,6 +337,7 @@
 
 ## Clojure 
 
+- [thi-ng/cgg](https://github.com/thi-ng/cgg) - Online cosine gradient generator for use w/ thi.ng/color
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [Deep-Symmetry/open-beat-control](https://github.com/Deep-Symmetry/open-beat-control) - Provides a subset of beat-link features over Open Sound Control.
 - [Deep-Symmetry/beat-carabiner](https://github.com/Deep-Symmetry/beat-carabiner) - A minimal tempo bridge between Pioneer Pro DJ Link and Ableton Link.
@@ -375,7 +378,6 @@
 ## Dockerfile 
 
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
-- [Sxela/WarpFusion](https://github.com/Sxela/WarpFusion) - WarpFusion
 - [lannonbr/vsce-action](https://github.com/lannonbr/vsce-action) - A GitHub Action to automate deploying VS Code extensions
 - [alertbox/devcontainers-try-bun](https://github.com/alertbox/devcontainers-try-bun) - Bun, all-in-one JS runtime and its prerequisites starter project template for use with VS Code Remote - Containers and GitHub Codespaces, ideal for Windows
 
@@ -466,6 +468,7 @@
 
 ## HTML 
 
+- [christofw/pitchclass_mctc](https://github.com/christofw/pitchclass_mctc) - Pytorch project accompanying the paper "Training Deep Pitch-Class Representations With a Multi-Label CTC Loss", ISMIR 2021.
 - [Onni97/AbletonLinkOnNodeServer](https://github.com/Onni97/AbletonLinkOnNodeServer) - A Node server that uses the Ableton Link protocol. It serves a page to see the data of the Ableton Link session that is running on the same WiFi
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m
@@ -622,6 +625,19 @@
 
 ## JavaScript 
 
+- [moises-ai/syllable](https://github.com/moises-ai/syllable) - Syllable count in JavaScript
+- [ManuelVargas1251/Chord-Finder](https://github.com/ManuelVargas1251/Chord-Finder) - 🎹🎵 Client web application to find chords through keyboard UI
+- [cwilso/PitchDetect](https://github.com/cwilso/PitchDetect) - Pitch detection in Web Audio using autocorrelation
+- [cwilso/WebAudio](https://github.com/cwilso/WebAudio) - Web Audio API Playground
+- [Theodeus/tuna](https://github.com/Theodeus/tuna) - An audio effects library for the Web Audio API.
+- [acarabott/audio-dsp-playground](https://github.com/acarabott/audio-dsp-playground) - A WebAudioAPI Playground for Audio DSP
+- [jshanley/blip](https://github.com/jshanley/blip) - Sweet, sugary goodness for looping and sampling with the Web Audio API
+- [positonic/json-to-web-audio](https://github.com/positonic/json-to-web-audio) - json-to-web-audio allows you to specify oscillators and filters as JSON, and it will automatically create the necessary Web audio api nodes and filters, and link them together, and send the result to 
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Node.js implementation of Web audio API
+- [smol-ai/menubar](https://github.com/smol-ai/menubar) - One keyboard shortcut =&gt; Fast, Full webapp access to ChatGPT/Bard/Claude/Bing! A/B test them, or use them in the background. I use this 20 times a day.
+- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
+- [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
 - [00000o1/sirdb](https://github.com/00000o1/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [2xAA/AIRHORN.mp3](https://github.com/2xAA/AIRHORN.mp3) - *bwaaaaaaaaaarrm*
 - [vcync/frameV](https://github.com/vcync/frameV) - Framed Visuals: collaborative generative art.
@@ -1443,6 +1459,11 @@
 
 ## Jupyter Notebook 
 
+- [brannondorsey/midi-dataset](https://github.com/brannondorsey/midi-dataset) - Code for creating a dataset of MIDI ground truth
+- [brannondorsey/midi-glove](https://github.com/brannondorsey/midi-glove) - Create MIDI note vector embeddings using GloVe (Global Vectors for Word Representation)
+- [cjbayron/autochord](https://github.com/cjbayron/autochord) - Automatic Chord Recognition tools - ISMIR2021 Late-Breaking Demo presentation
+- [craffel/pretty-midi](https://github.com/craffel/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
+- [Bradybry/chatXML](https://github.com/Bradybry/chatXML) - A proposal for a structured LLM prompt method.
 - [fosfrancesco/asap-dataset](https://github.com/fosfrancesco/asap-dataset) - A  dataset  of  222  digital  musical  scores aligned with 1068 performances (more than 92 hours) of Western  classical  piano  music.
 - [zhao1701/spotify-song-lyric-analysis](https://github.com/zhao1701/spotify-song-lyric-analysis) - An extended analysis of the evolution of American popular music from 1960 to 2017 using data from the Billboard Year-End Hot 100 charts, lyrics scraped from the web, and Spotify audio features.
 - [texttron/hyde](https://github.com/texttron/hyde) - HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels
@@ -1661,6 +1682,7 @@
 
 ## Others 
 
+- [taranjeet/awesome-claude](https://github.com/taranjeet/awesome-claude) - An awesome list of AnthropicAI' Claude model
 - [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset
 - [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools) - This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, musi
 - [ardatan/graphql-import](https://github.com/ardatan/graphql-import) - Import & export definitions in GraphQL SDL
@@ -1986,6 +2008,21 @@
 
 ## Python 
 
+- [Baka-Nekoz/gpt2midi](https://github.com/Baka-Nekoz/gpt2midi) - A simple python app that generates a melody in the desired key using ChatGPT API and turns it into a MIDI file.
+- [AetherSonata/GPTmidi-UI](https://github.com/AetherSonata/GPTmidi-UI) - simple UI for generating midi through ChatGPT and other LLMs
+- [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
+- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [SwayamSahoo11742/Scopul](https://github.com/SwayamSahoo11742/Scopul) - A python package to extract information from MIDI files
+- [johnnygreco/midiGPT](https://github.com/johnnygreco/midiGPT) - 🎹 midiGPT: a decoder-only transformer model for music generation
+- [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
+- [davidfstr/trycast](https://github.com/davidfstr/trycast) - trycast parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
+- [Bubobubobubobubo/sardine](https://github.com/Bubobubobubobubo/sardine) - Python's missing "algorave" module
+- [mugulmd/Claude](https://github.com/mugulmd/Claude) - Synchronizing visuals with audio in live-coding environments
+- [zinccat/ChatGPT-streamlit](https://github.com/zinccat/ChatGPT-streamlit) - Easy to use UI built with Streamlit for using ChatGPT, Claude, Stable Diffusion and beyond
+- [Bradybry/GPT4-ExpertManager](https://github.com/Bradybry/GPT4-ExpertManager) - 
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [YatingMusic/compound-word-transformer](https://github.com/YatingMusic/compound-word-transformer) - Official implementation of compound word transformer (AAAI'21)
 - [shiehn/midi_query](https://github.com/shiehn/midi_query) - Query MIDI datasets for matching key, time signature & chord progression
 - [emredjan/cnn-audio-recognition](https://github.com/emredjan/cnn-audio-recognition) - Audio to midi conversion using deep learning and google nsynth dataset
@@ -2092,7 +2129,7 @@
 - [mlc-ai/relax](https://github.com/mlc-ai/relax) - 
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [AdirthaBorgohain/intelliweb-GPT](https://github.com/AdirthaBorgohain/intelliweb-GPT) - Intelligent search engine/QA module that uses GPT models to provide accurate, relevant & recent answers from Google News/Web, & can directly answer user queries using GPT's knowledge.
-- [rumpfmax/Multi-GPT](https://github.com/rumpfmax/Multi-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [sidhq/Multi-GPT](https://github.com/sidhq/Multi-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [isaiahbjork/Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
 - [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT) - A simple and extensible program that helps you run GPT-4 model autonomously.
@@ -2592,6 +2629,7 @@
 
 ## Rust 
 
+- [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust.
 - [clintburgos/ableton-git](https://github.com/clintburgos/ableton-git) - wrapper for git that ensures the best settings for versioning Ableton Live projects
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
@@ -2650,6 +2688,7 @@
 
 ## Shell 
 
+- [davidfstr/Python-in-Mac-App-Store](https://github.com/davidfstr/Python-in-Mac-App-Store) - Barebones Python app that can be submitted to the Mac App Store.
 - [drench/shpotify](https://github.com/drench/shpotify) - Command line access to the Spotify API
 - [p-lambda/jukemir](https://github.com/p-lambda/jukemir) - Perform transfer learning for MIR using Jukebox!
 - [emirdemirel/ASA_ICASSP2021](https://github.com/emirdemirel/ASA_ICASSP2021) - A duration-invariant audio-to-lyrics alignment pipeline with low memory footprint which segments long music recordings via a recursive biased decoding procedure.
@@ -2764,6 +2803,7 @@
 
 ## Swift 
 
+- [derrickward/ChordRecGen](https://github.com/derrickward/ChordRecGen) - Mobile app library for musical chord recognition and generation
 - [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize UserDefaults over iCloud.
 - [Peter-Schorn/SpotifyAPI](https://github.com/Peter-Schorn/SpotifyAPI) - A Swift library for the Spotify web API. Supports all endpoints.
 - [jesshmusic/AIComposer](https://github.com/jesshmusic/AIComposer) - AIComposer composes music using a genetic algorithm and MIDI file input.
@@ -2847,6 +2887,12 @@
 
 ## TypeScript 
 
+- [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
+- [jshanley/motivejs](https://github.com/jshanley/motivejs) - JavaScript music theory library
+- [Richienb/audic](https://github.com/Richienb/audic) - Play some audio.
+- [Bubobubobubobubo/sardine-vscode](https://github.com/Bubobubobubobubo/sardine-vscode) - VSCode extension for Sardine
+- [AHGGG/poe-node-api](https://github.com/AHGGG/poe-node-api) - A reverse engineered Node.js client for Quora's Poe.
+- [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 - [Picovoice/web-voice-processor](https://github.com/Picovoice/web-voice-processor) - A library for real-time voice processing in web browsers
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
 - [mirkonasato/fakebase](https://github.com/mirkonasato/fakebase) - A "fake" database for Node.js that stores data in local JSON files, for testing and sample applications.
@@ -2899,7 +2945,7 @@
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Practical Tools for Guiding LLM Cognition
+- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Practical Tools for AI Souls
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
@@ -2958,7 +3004,7 @@
 - [xiaoluoboding/chrome-ext-mv3-starter](https://github.com/xiaoluoboding/chrome-ext-mv3-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [vercel-labs/edge-data-latency](https://github.com/vercel-labs/edge-data-latency) - Visualize the latency of databases at the Edge.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient- The best library to work with LLMs
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - Simplify Building with LLMs, Function Calling and Reasoning
 - [simpel/little-template-maker](https://github.com/simpel/little-template-maker) - 
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
@@ -3030,7 +3076,7 @@
 - [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Auto-generate and maintain your project's .env files
 - [HiDeoo/vercel-env-push](https://github.com/HiDeoo/vercel-env-push) - The missing Vercel CLI command to push environment variables from .env files.
 - [supabase/examples-archive](https://github.com/supabase/examples-archive) - Supabase Examples Archive
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
@@ -3152,7 +3198,7 @@
 - [cristicretu/ts-next-tailwind-template](https://github.com/cristicretu/ts-next-tailwind-template) - Ultimate Front-end Template made using NextJs, TailwindCSS, and Typescript
 - [timdeschryver/vscode-chameleon](https://github.com/timdeschryver/vscode-chameleon) - Randomize your Visual Studio Code theme, font and icons on startup
 - [thedevdavid/devbiz-academy](https://github.com/thedevdavid/devbiz-academy) - 
-- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [sci-barite/sylph](https://github.com/sci-barite/sylph) - Sylph is a Chrome Extension that sifts data from a few popular websites, and sends it to a web app done in Google Apps Script, which in turn sends it to a Google Sheet.
 - [abunaum/nextui-dashboard](https://github.com/abunaum/nextui-dashboard) - Dashboard sample using NextUI and NextJS
