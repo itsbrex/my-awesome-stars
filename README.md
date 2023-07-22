@@ -15,6 +15,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Cuda](#cuda)
 - [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -103,6 +104,7 @@
 
 ## C 
 
+- [CarlWangChina/SongDriver2-Real-time-Emotion-based-Music-Arrangement-with-Soft-Transition](https://github.com/CarlWangChina/SongDriver2-Real-time-Emotion-based-Music-Arrangement-with-Soft-Transition) - SongDriver2 achieves a balance between real-time emotion fit and soft transitions, enhancing the coherence of the generated music.
 - [Rezonality/zing](https://github.com/Rezonality/zing) - Audio Integration Library
 - [sprymix/metamagic.json](https://github.com/sprymix/metamagic.json) - An ultra-fast Python implementation of a JSON encoder
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -364,6 +366,10 @@
 - [plapier/domflags-extension](https://github.com/plapier/domflags-extension) - A chrome extension to bookmark deeply nested DOM elements
 - [HackPlan/power](https://github.com/HackPlan/power) - DEPRECATED
 
+## Cuda 
+
+- [facebookresearch/music-translation](https://github.com/facebookresearch/music-translation) - A UNIVERSAL MUSIC TRANSLATION NETWORK - a method for translating music across musical instruments and styles.
+
 ## Cython 
 
 - [mevimo/youbit](https://github.com/mevimo/youbit) - Host any type of file on YouTube
@@ -392,6 +398,7 @@
 
 ## Go 
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [lc/subjs](https://github.com/lc/subjs) - Fetches javascript file from a list of URLS or subdomains.
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
@@ -1459,6 +1466,7 @@
 
 ## Jupyter Notebook 
 
+- [mtln/VideoGeneratorForMultiTrackAudio](https://github.com/mtln/VideoGeneratorForMultiTrackAudio) - Create a video that visualizes the mix and arrangement of a song.
 - [brannondorsey/midi-dataset](https://github.com/brannondorsey/midi-dataset) - Code for creating a dataset of MIDI ground truth
 - [brannondorsey/midi-glove](https://github.com/brannondorsey/midi-glove) - Create MIDI note vector embeddings using GloVe (Global Vectors for Word Representation)
 - [cjbayron/autochord](https://github.com/cjbayron/autochord) - Automatic Chord Recognition tools - ISMIR2021 Late-Breaking Demo presentation
@@ -1528,6 +1536,7 @@
 
 ## Lua 
 
+- [CUHK-CMD/Automatic-Music-Arrangement](https://github.com/CUHK-CMD/Automatic-Music-Arrangement) - 
 - [Lydorn/DeepRenderEngine](https://github.com/Lydorn/DeepRenderEngine) - A Deep Learning approach to 3D rendering
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
@@ -1682,6 +1691,7 @@
 
 ## Others 
 
+- [lcultx/AutoArrangement](https://github.com/lcultx/AutoArrangement) - 
 - [taranjeet/awesome-claude](https://github.com/taranjeet/awesome-claude) - An awesome list of AnthropicAI' Claude model
 - [jukedeck/nottingham-dataset](https://github.com/jukedeck/nottingham-dataset) - Cleaned version of the Nottingham dataset
 - [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools) - This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, musi
@@ -2008,6 +2018,17 @@
 
 ## Python 
 
+- [cwacek/python-jsonschema-objects](https://github.com/cwacek/python-jsonschema-objects) - Automatic Python binding generation from JSON Schemas
+- [mlachmish/MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
+- [justinsalamon/audio_to_midi_melodia](https://github.com/justinsalamon/audio_to_midi_melodia) - Extract the melody from an audio file and export to MIDI
+- [LPBeaulieu/Automatic-Music-Arrangement-FixTheBeats](https://github.com/LPBeaulieu/Automatic-Music-Arrangement-FixTheBeats) - FixTheBeats automatically arranges the notes in a MIDI file so that they fit within the range of your instrument. It then annotates the changes as lyric tags, which can be displayed in a scorewriter s
+- [ginedoc/Auto-Arrangement](https://github.com/ginedoc/Auto-Arrangement) - 
+- [qsdfo/automatic_arrangement](https://github.com/qsdfo/automatic_arrangement) - 
+- [anerli/openai-afc](https://github.com/anerli/openai-afc) - OpenAI auto-function-calling. A simple interface to auto-magically having GPT call your Python functions.
+- [FyZyX/llmfuncs](https://github.com/FyZyX/llmfuncs) - Dynamically generate JSON Schema from Python code. Great for OpenAI function calls!
+- [RockChinQ/CallingGPT](https://github.com/RockChinQ/CallingGPT) - Build your own ChatGPT plugin platform with GPT's function calling ability | func call by GPT
+- [seanconnolly2000/openai-functions-wrapper](https://github.com/seanconnolly2000/openai-functions-wrapper) - This illustrates using "functions" with ChatGPT API calls.
+- [janekb04/py2gpt](https://github.com/janekb04/py2gpt) - Convert Python code into JSON consumable by OpenAI's function API.
 - [Baka-Nekoz/gpt2midi](https://github.com/Baka-Nekoz/gpt2midi) - A simple python app that generates a melody in the desired key using ChatGPT API and turns it into a MIDI file.
 - [AetherSonata/GPTmidi-UI](https://github.com/AetherSonata/GPTmidi-UI) - simple UI for generating midi through ChatGPT and other LLMs
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
@@ -2247,7 +2268,7 @@
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 - [clementabary/server](https://github.com/clementabary/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [clementabary/sigsep-mus-eval](https://github.com/clementabary/sigsep-mus-eval) - museval - source separation evaluation tools for python
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
@@ -2298,7 +2319,7 @@
 - [acids-ircam/RAVE](https://github.com/acids-ircam/RAVE) - Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [autonomousvision/stylegan-t](https://github.com/autonomousvision/stylegan-t) - [ICML'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis
-- [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
+- [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [archinetai/archisound](https://github.com/archinetai/archisound) - A collection of pre-trained audio models, in PyTorch.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2887,6 +2908,8 @@
 
 ## TypeScript 
 
+- [polywrap/PolyGPT](https://github.com/polywrap/PolyGPT) - PolyGPT is an autonomous agent that learns new capabilities on-demand. The project utilizes Polywrap to implement capabilities as dynamically fetchable WebAssembly modules called Wraps, which update t
+- [batuhanbilginn/openai-function-call-nextjs](https://github.com/batuhanbilginn/openai-function-call-nextjs) - How you can send email with function calls and Resend in Next.js application
 - [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
 - [jshanley/motivejs](https://github.com/jshanley/motivejs) - JavaScript music theory library
 - [Richienb/audic](https://github.com/Richienb/audic) - Play some audio.
@@ -2945,7 +2968,7 @@
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Practical Tools for AI Souls
+- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Subroutines for AI Souls
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
