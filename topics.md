@@ -903,6 +903,7 @@
 
 ## cli 
 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like ot
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
@@ -3157,6 +3158,7 @@
 
 ## others 
 
+- [TheSoundOfAIOSR/project_common](https://github.com/TheSoundOfAIOSR/project_common) - Common environment for all groups to connect to other groups with a relative path
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [magenta/mt3](https://github.com/magenta/mt3) - MT3: Multi-Task Multitrack Music Transcription
 - [rpl/create-webextension](https://github.com/rpl/create-webextension) - create a new WebExtension with only one command
@@ -3171,7 +3173,7 @@
 - [ginedoc/Auto-Arrangement](https://github.com/ginedoc/Auto-Arrangement) - 
 - [lcultx/AutoArrangement](https://github.com/lcultx/AutoArrangement) - 
 - [qsdfo/automatic_arrangement](https://github.com/qsdfo/automatic_arrangement) - 
-- [polywrap/PolyGPT](https://github.com/polywrap/PolyGPT) - PolyGPT is an autonomous agent that learns new capabilities on-demand. The project utilizes Polywrap to implement capabilities as dynamically fetchable WebAssembly modules called Wraps, which update t
+- [polywrap/PolyGPT](https://github.com/polywrap/PolyGPT) - PolyGPT is an autonomous agent that can learn new capabilities on-demand.
 - [anerli/openai-afc](https://github.com/anerli/openai-afc) - OpenAI auto-function-calling. A simple interface to auto-magically having GPT call your Python functions.
 - [FyZyX/llmfuncs](https://github.com/FyZyX/llmfuncs) - Dynamically generate JSON Schema from Python code. Great for OpenAI function calls!
 - [batuhanbilginn/openai-function-call-nextjs](https://github.com/batuhanbilginn/openai-function-call-nextjs) - How you can send email with function calls and Resend in Next.js application
@@ -5083,6 +5085,7 @@
 
 ## python 
 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like ot
 - [janekb04/py2gpt](https://github.com/janekb04/py2gpt) - Convert Python code into JSON consumable by OpenAI's function API.
 - [SwayamSahoo11742/Scopul](https://github.com/SwayamSahoo11742/Scopul) - A python package to extract information from MIDI files
 - [davidfstr/Python-in-Mac-App-Store](https://github.com/davidfstr/Python-in-Mac-App-Store) - Barebones Python app that can be submitted to the Mac App Store.
