@@ -2026,6 +2026,7 @@
 
 ## Python 
 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like ot
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [google-research/t5x](https://github.com/google-research/t5x) - 
@@ -2722,6 +2723,7 @@
 
 ## Shell 
 
+- [TheSoundOfAIOSR/project_common](https://github.com/TheSoundOfAIOSR/project_common) - Common environment for all groups to connect to other groups with a relative path
 - [davidfstr/Python-in-Mac-App-Store](https://github.com/davidfstr/Python-in-Mac-App-Store) - Barebones Python app that can be submitted to the Mac App Store.
 - [drench/shpotify](https://github.com/drench/shpotify) - Command line access to the Spotify API
 - [p-lambda/jukemir](https://github.com/p-lambda/jukemir) - Perform transfer learning for MIR using Jukebox!
@@ -2923,7 +2925,7 @@
 
 - [spotify/basic-pitch-ts](https://github.com/spotify/basic-pitch-ts) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection.
 - [rubenspgcavalcante/webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers
-- [polywrap/PolyGPT](https://github.com/polywrap/PolyGPT) - PolyGPT is an autonomous agent that learns new capabilities on-demand. The project utilizes Polywrap to implement capabilities as dynamically fetchable WebAssembly modules called Wraps, which update t
+- [polywrap/PolyGPT](https://github.com/polywrap/PolyGPT) - PolyGPT is an autonomous agent that can learn new capabilities on-demand.
 - [batuhanbilginn/openai-function-call-nextjs](https://github.com/batuhanbilginn/openai-function-call-nextjs) - How you can send email with function calls and Resend in Next.js application
 - [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
 - [jshanley/motivejs](https://github.com/jshanley/motivejs) - JavaScript music theory library
