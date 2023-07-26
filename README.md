@@ -163,6 +163,8 @@
 
 ## C++ 
 
+- [superpoweredSDK/SuperpoweredLatency](https://github.com/superpoweredSDK/SuperpoweredLatency) - This application measures round-trip audio latency on an iOS or Android device. Low round-trip audio latency is a strong indicator of how well any mobile device is optimized for professional audio. Lo
+- [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [c4dm/nnls-chroma](https://github.com/c4dm/nnls-chroma) - A Vamp plugin library for harmony and chord extraction.
 - [luiscript/react-native-ableton-link](https://github.com/luiscript/react-native-ableton-link) - Ableton Link for React Native
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
@@ -632,6 +634,10 @@
 
 ## JavaScript 
 
+- [sindresorhus/import-modules](https://github.com/sindresorhus/import-modules) - Import all modules in a directory
+- [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
+- [aaronats/jsmidi-atom](https://github.com/aaronats/jsmidi-atom) - 
+- [aaronats/jsmidi-cli](https://github.com/aaronats/jsmidi-cli) - 
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [JL978/spotify-clone-client](https://github.com/JL978/spotify-clone-client) - A ReactJS clone application of the popular Spotify music streaming service. This application utilizes the Spotify API and the Spotify Web Playback SDK
 - [rpl/create-webextension](https://github.com/rpl/create-webextension) - create a new WebExtension with only one command
@@ -1473,6 +1479,7 @@
 
 ## Jupyter Notebook 
 
+- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [erl-j/neural-instrument-cloning](https://github.com/erl-j/neural-instrument-cloning) - In this project we combine techniques from neural voice cloning and musical instrument synthesis to achieve good results from as little as 16 seconds of target data.
 - [mtln/VideoGeneratorForMultiTrackAudio](https://github.com/mtln/VideoGeneratorForMultiTrackAudio) - Create a video that visualizes the mix and arrangement of a song.
 - [brannondorsey/midi-dataset](https://github.com/brannondorsey/midi-dataset) - Code for creating a dataset of MIDI ground truth
@@ -2026,6 +2033,15 @@
 
 ## Python 
 
+- [alexanderattar/dsp](https://github.com/alexanderattar/dsp) - Digital Signal Processing - Audio Effects: A collection of Python scripts
+- [kyleyannelli/BetterAudio](https://github.com/kyleyannelli/BetterAudio) - Really simple Python program which uses Spotify's Pedalboard library to add effects to mic. Mainly using for NoiseGate, Compression, & Gain then out to BlackHole for live audio enhancement. Mirrored f
+- [victorbadenas/DNNEffects](https://github.com/victorbadenas/DNNEffects) - Training repository for modelling audio effects with deep convolutional neural network
+- [HasiruNMP/audio-effects-web-api](https://github.com/HasiruNMP/audio-effects-web-api) - A simple web API for adding audio effects (reverb, compression, delay) for audio files and video files
+- [ekm507/mahdiO](https://github.com/ekm507/mahdiO) - Generate music and sound effects by python and mathematics (digital signal processing)
+- [nxbyte/PythonAudioEffects](https://github.com/nxbyte/PythonAudioEffects) - A Python library that can apply: darth vader, echo, radio, robotic, and ghost effects to audio samples.
+- [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
+- [asteroid-team/torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.
+- [musikalkemist/audioDataAugmentationTutorial](https://github.com/musikalkemist/audioDataAugmentationTutorial) - Repository hosting code and slides of the Audio Data Augmentation series on The Sound of AI YT channel.
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like ot
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
@@ -2268,7 +2284,7 @@
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
+- [chatchat-space/langchain-ChatGLM](https://github.com/chatchat-space/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
@@ -2306,7 +2322,7 @@
 - [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [VarunPatelius/Py-iMessenger](https://github.com/VarunPatelius/Py-iMessenger) - Py-iMessenger is a chatbot that works with iMessage to execute commands using text messages.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
 - [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -2723,6 +2739,7 @@
 
 ## Shell 
 
+- [ProfessorManhattan/prettier-config-sexy-mode](https://github.com/ProfessorManhattan/prettier-config-sexy-mode) - Simplifies configuring Prettier by bundling plugins and configuring them in a single shareable configuration
 - [TheSoundOfAIOSR/project_common](https://github.com/TheSoundOfAIOSR/project_common) - Common environment for all groups to connect to other groups with a relative path
 - [davidfstr/Python-in-Mac-App-Store](https://github.com/davidfstr/Python-in-Mac-App-Store) - Barebones Python app that can be submitted to the Mac App Store.
 - [drench/shpotify](https://github.com/drench/shpotify) - Command line access to the Spotify API
@@ -2923,6 +2940,8 @@
 
 ## TypeScript 
 
+- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [thereplicants/ableton-package-manager](https://github.com/thereplicants/ableton-package-manager) - apm is a package manager for the Ableton Live DAW to manage Max for Live dependencies and Node for Max patches. Created by @vine77.
 - [spotify/basic-pitch-ts](https://github.com/spotify/basic-pitch-ts) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection.
 - [rubenspgcavalcante/webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers
 - [polywrap/PolyGPT](https://github.com/polywrap/PolyGPT) - PolyGPT is an autonomous agent that can learn new capabilities on-demand.
