@@ -902,7 +902,7 @@
 - [MoizAhmedd/youtube-video-search](https://github.com/MoizAhmedd/youtube-video-search) - An extension that lets you search for words in a youtube video, and seeks to that timestamp
 - [feikerwu/quicklink](https://github.com/feikerwu/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [Pondorasti/nextjs-chrome-extension](https://github.com/Pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
-- [thomaswang/next-chrome](https://github.com/thomaswang/next-chrome) - Next.js Chrome Extension Starter
+- [thomaswang/next-chrome](https://github.com/thomaswang/next-chrome) - Next.js / Chrome extension starter template
 - [barrywire/next-nextui](https://github.com/barrywire/next-nextui) - A Next.js NextUI template set up for success
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
 - [mzaien/mzaien-cli](https://github.com/mzaien/mzaien-cli) - Know me via cli 😁
@@ -1488,6 +1488,7 @@
 - [craffel/pretty-midi](https://github.com/craffel/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 - [Bradybry/chatXML](https://github.com/Bradybry/chatXML) - A proposal for a structured LLM prompt method.
 - [fosfrancesco/asap-dataset](https://github.com/fosfrancesco/asap-dataset) - A  dataset  of  222  digital  musical  scores aligned with 1068 performances (more than 92 hours) of Western  classical  piano  music.
+- [emredjan/cnn-audio-recognition](https://github.com/emredjan/cnn-audio-recognition) - Audio to midi conversion using deep learning and google nsynth dataset
 - [zhao1701/spotify-song-lyric-analysis](https://github.com/zhao1701/spotify-song-lyric-analysis) - An extended analysis of the evolution of American popular music from 1960 to 2017 using data from the Billboard Year-End Hot 100 charts, lyrics scraped from the web, and Spotify audio features.
 - [texttron/hyde](https://github.com/texttron/hyde) - HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
@@ -2033,6 +2034,8 @@
 
 ## Python 
 
+- [yunlong10/LaunchpadGPT](https://github.com/yunlong10/LaunchpadGPT) - Repo for ICMC 2023 paper: LaunchpadGPT: Language Model as Music Visualization Designer on Launchpad
+- [jeffreyjohnens/MetaMIDIDataset](https://github.com/jeffreyjohnens/MetaMIDIDataset) - 
 - [alexanderattar/dsp](https://github.com/alexanderattar/dsp) - Digital Signal Processing - Audio Effects: A collection of Python scripts
 - [kyleyannelli/BetterAudio](https://github.com/kyleyannelli/BetterAudio) - Really simple Python program which uses Spotify's Pedalboard library to add effects to mic. Mainly using for NoiseGate, Compression, & Gain then out to BlackHole for live audio enhancement. Mirrored f
 - [victorbadenas/DNNEffects](https://github.com/victorbadenas/DNNEffects) - Training repository for modelling audio effects with deep convolutional neural network
@@ -2042,7 +2045,7 @@
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
 - [asteroid-team/torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.
 - [musikalkemist/audioDataAugmentationTutorial](https://github.com/musikalkemist/audioDataAugmentationTutorial) - Repository hosting code and slides of the Audio Data Augmentation series on The Sound of AI YT channel.
-- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like ot
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [google-research/t5x](https://github.com/google-research/t5x) - 
@@ -2076,7 +2079,6 @@
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [YatingMusic/compound-word-transformer](https://github.com/YatingMusic/compound-word-transformer) - Official implementation of compound word transformer (AAAI'21)
 - [shiehn/midi_query](https://github.com/shiehn/midi_query) - Query MIDI datasets for matching key, time signature & chord progression
-- [emredjan/cnn-audio-recognition](https://github.com/emredjan/cnn-audio-recognition) - Audio to midi conversion using deep learning and google nsynth dataset
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [imiskolee/so-vits-svc-5.0](https://github.com/imiskolee/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
 - [PlayVoice/so-vits-svc-5.0](https://github.com/PlayVoice/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
@@ -2968,7 +2970,7 @@
 - [dawg/dawg](https://github.com/dawg/dawg) - A DAW built using Electron and the Web Audio API
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
-- [spencerudnick/synth.kitchen](https://github.com/spencerudnick/synth.kitchen) - In-browser modular synthesis with the Web Audio API.
+- [rain-korshak/synth.kitchen](https://github.com/rain-korshak/synth.kitchen) - In-browser modular synthesis with the Web Audio API.
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
 - [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database!
@@ -3027,7 +3029,7 @@
 - [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
 - [BrandesEric/AbletonJS](https://github.com/BrandesEric/AbletonJS) - Controlling Ableton Live with TypeScript.
 - [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
-- [flametuner/vscode-conventional-commit-ai](https://github.com/flametuner/vscode-conventional-commit-ai) - Create conventional commits using Open Ai API
+- [gusinacio/vscode-conventional-commit-ai](https://github.com/gusinacio/vscode-conventional-commit-ai) - Create conventional commits using Open Ai API
 - [cfortuner/wellknown](https://github.com/cfortuner/wellknown) - A registry of AI Plugins
 - [vantezzen/skip-silence](https://github.com/vantezzen/skip-silence) - 🔇 Browser extension to skip silent parts in videos and audio files on any webpage
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
