@@ -9,6 +9,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -35,6 +36,7 @@
 - [Kaitai Struct](#kaitai-struct)
 - [Kotlin](#kotlin)
 - [Less](#less)
+- [Liquid](#liquid)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -101,6 +103,10 @@
 
 - [Sxela/WarpFusion](https://github.com/Sxela/WarpFusion) - WarpFusion
 - [tcbtcb/ClyphX_Pro](https://github.com/tcbtcb/ClyphX_Pro) - My personal bindings and mappings for my Platform M+
+
+## Bikeshed 
+
+- [WebAudio/web-audio-api](https://github.com/WebAudio/web-audio-api) - The Web Audio API v1.0, developed by the W3C Audio WG
 
 ## C 
 
@@ -634,6 +640,9 @@
 
 ## JavaScript 
 
+- [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
+- [jdlee022/Synth-Lord](https://github.com/jdlee022/Synth-Lord) - (web app) A web based synthesizer with MIDI support.
+- [natemoo-re/tiny-decode](https://github.com/natemoo-re/tiny-decode) - Decode HTML entities the browser-friendly way
 - [sindresorhus/import-modules](https://github.com/sindresorhus/import-modules) - Import all modules in a directory
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [aaronats/jsmidi-atom](https://github.com/aaronats/jsmidi-atom) - 
@@ -902,7 +911,7 @@
 - [MoizAhmedd/youtube-video-search](https://github.com/MoizAhmedd/youtube-video-search) - An extension that lets you search for words in a youtube video, and seeks to that timestamp
 - [feikerwu/quicklink](https://github.com/feikerwu/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [Pondorasti/nextjs-chrome-extension](https://github.com/Pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
-- [thomaswang/next-chrome](https://github.com/thomaswang/next-chrome) - Next.js / Chrome extension starter template
+- [thomaswangarchive/next-chrome](https://github.com/thomaswangarchive/next-chrome) - Next.js / Chrome extension starter template
 - [barrywire/next-nextui](https://github.com/barrywire/next-nextui) - A Next.js NextUI template set up for success
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
 - [mzaien/mzaien-cli](https://github.com/mzaien/mzaien-cli) - Know me via cli 😁
@@ -1551,6 +1560,10 @@
 - [edipox/n1-ido](https://github.com/edipox/n1-ido) - Ido is a clean, simple, Polymail-inspired theme for Mailspring
 - [keystonejs/keystone-demo](https://github.com/keystonejs/keystone-demo) - 
 
+## Liquid 
+
+- [deathau/11ndieWeb](https://github.com/deathau/11ndieWeb) - 
+
 ## Lua 
 
 - [CUHK-CMD/Automatic-Music-Arrangement](https://github.com/CUHK-CMD/Automatic-Music-Arrangement) - 
@@ -1708,6 +1721,7 @@
 
 ## Others 
 
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
 - [abhishekkrthakur/approachingalmost](https://github.com/abhishekkrthakur/approachingalmost) - Approaching (Almost) Any Machine Learning Problem
 - [lcultx/AutoArrangement](https://github.com/lcultx/AutoArrangement) - 
 - [taranjeet/awesome-claude](https://github.com/taranjeet/awesome-claude) - An awesome list of AnthropicAI' Claude model
@@ -2036,6 +2050,10 @@
 
 ## Python 
 
+- [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
+- [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [lyramakesmusic/musicgen-demucs-gradio](https://github.com/lyramakesmusic/musicgen-demucs-gradio) - 
 - [AutonomousResearchGroup/autocoder](https://github.com/AutonomousResearchGroup/autocoder) - Code that basically writes itself
 - [EleutherAI/aria](https://github.com/EleutherAI/aria) - 
@@ -2692,6 +2710,7 @@
 
 ## Rust 
 
+- [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust.
 - [clintburgos/ableton-git](https://github.com/clintburgos/ableton-git) - wrapper for git that ensures the best settings for versioning Ableton Live projects
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
@@ -2868,6 +2887,8 @@
 
 ## Swift 
 
+- [jdlee022/ScaleGenius](https://github.com/jdlee022/ScaleGenius) - (iOS App) A reference guide for guitar players that displays scales on the fretboard which adjust for alternate tunings. Written in Swift.
+- [tanhakabir/SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Streaming and realtime audio manipulation with AVAudioEngine
 - [derrickward/ChordRecGen](https://github.com/derrickward/ChordRecGen) - Mobile app library for musical chord recognition and generation
 - [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize UserDefaults over iCloud.
 - [Peter-Schorn/SpotifyAPI](https://github.com/Peter-Schorn/SpotifyAPI) - A Swift library for the Spotify web API. Supports all endpoints.
@@ -2952,6 +2973,14 @@
 
 ## TypeScript 
 
+- [notochord/playback](https://github.com/notochord/playback) - A chord player, and a language for describing musical styles
+- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
+- [danigb/smplr](https://github.com/danigb/smplr) - A web audio sampler instrument
+- [natemoo-re/ultramatter](https://github.com/natemoo-re/ultramatter) - &lt;1kB frontmatter parser that supports a reasonable subset of YAML
+- [natemoo-re/ultraflag](https://github.com/natemoo-re/ultraflag) - &lt;1kB CLI flag parser
+- [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml) - 
+- [BrainJS/brain.js-examples](https://github.com/BrainJS/brain.js-examples) - Brain.js Examples in Typescript and Javascript
+- [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
 - [steveluc/elec](https://github.com/steveluc/elec) - electron, typescript and webpack
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
