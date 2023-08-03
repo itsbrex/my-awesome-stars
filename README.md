@@ -483,6 +483,7 @@
 
 ## HTML 
 
+- [deadmau5archive/deadmau5archive.github.io](https://github.com/deadmau5archive/deadmau5archive.github.io) - 
 - [christofw/pitchclass_mctc](https://github.com/christofw/pitchclass_mctc) - Pytorch project accompanying the paper "Training Deep Pitch-Class Representations With a Multi-Label CTC Loss", ISMIR 2021.
 - [Onni97/AbletonLinkOnNodeServer](https://github.com/Onni97/AbletonLinkOnNodeServer) - A Node server that uses the Ableton Link protocol. It serves a page to see the data of the Ableton Link session that is running on the same WiFi
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
@@ -701,6 +702,7 @@
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
 - [davideriboli/Generative-Music](https://github.com/davideriboli/Generative-Music) - Docs, patches, scripts, tools & utilities mainly related to VCV Rack, Wotjia and Monome Norns. Shield
 - [matthewcaren/TRoco](https://github.com/matthewcaren/TRoco) - A generative algorithm for music composition based on jazz theory
+- [plassma/symbolic-music-discrete-diffusion](https://github.com/plassma/symbolic-music-discrete-diffusion) - 
 - [felixroos/strudel](https://github.com/felixroos/strudel) - 
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
@@ -1488,6 +1490,7 @@
 
 ## Jupyter Notebook 
 
+- [keunwoochoi/transfer_learning_music](https://github.com/keunwoochoi/transfer_learning_music) - Transfer learning for music classification and regression tasks
 - [spags093/spotify_song_data](https://github.com/spags093/spotify_song_data) - Part 1: Analysis of Spotify song data that uses Machine Learning to determine what features make a "hit" song on Spotify.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [erl-j/neural-instrument-cloning](https://github.com/erl-j/neural-instrument-cloning) - In this project we combine techniques from neural voice cloning and musical instrument synthesis to achieve good results from as little as 16 seconds of target data.
@@ -2049,6 +2052,9 @@
 
 ## Python 
 
+- [keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras) - Music auto-tagging models and trained weights in keras/theano
+- [keunwoochoi/lstm_real_book](https://github.com/keunwoochoi/lstm_real_book) - LSTM source code to generate jazz chord progressions
+- [keunwoochoi/kapre](https://github.com/keunwoochoi/kapre) - kapre: Keras Audio Preprocessors
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
@@ -2170,7 +2176,6 @@
 - [ilaria-manco/word2wave](https://github.com/ilaria-manco/word2wave) - Word2Wave: a framework for generating short audio samples from a text prompt using WaveGAN and COALA.
 - [mostafaelaraby/wavegan-pytorch](https://github.com/mostafaelaraby/wavegan-pytorch) - Pytorch Implementation of wavegan model to generate audio
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
-- [plassma/symbolic-music-discrete-diffusion](https://github.com/plassma/symbolic-music-discrete-diffusion) - 
 - [deckerego/Macropad_4chord_MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) - A take on the 4chord MIDI project with the Adafruit Macropad
 - [itsbrex/chat-gpt-rest-api](https://github.com/itsbrex/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
 - [gajosu/chat-gpt-rest-api](https://github.com/gajosu/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
@@ -2255,7 +2260,7 @@
 - [doutv/Auto-GPT-Notion](https://github.com/doutv/Auto-GPT-Notion) - Auto-GPT Notion Plugin
 - [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
 - [chrisdonahue/nesmdb](https://github.com/chrisdonahue/nesmdb) - The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
-- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [rhohndorf/Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
