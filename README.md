@@ -483,6 +483,7 @@
 
 ## HTML 
 
+- [glefundes/audio-class](https://github.com/glefundes/audio-class) - Web-based tool for straight-forward class annotation of audio files
 - [deadmau5archive/deadmau5archive.github.io](https://github.com/deadmau5archive/deadmau5archive.github.io) - 
 - [christofw/pitchclass_mctc](https://github.com/christofw/pitchclass_mctc) - Pytorch project accompanying the paper "Training Deep Pitch-Class Representations With a Multi-Label CTC Loss", ISMIR 2021.
 - [Onni97/AbletonLinkOnNodeServer](https://github.com/Onni97/AbletonLinkOnNodeServer) - A Node server that uses the Ableton Link protocol. It serves a page to see the data of the Ableton Link session that is running on the same WiFi
@@ -1101,7 +1102,6 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jub0t/BotMaster](https://github.com/jub0t/BotMaster) - Simplify Discord Bot and Node.js Script Management with this tool.
 - [stevenschmatz/export-google-form](https://github.com/stevenschmatz/export-google-form) - :arrow_down_small: A small Google Apps Script file to export a form into a JSON file.
 - [jsoma/tabletop](https://github.com/jsoma/tabletop) - Tabletop.js gives spreadsheets legs
@@ -1490,6 +1490,7 @@
 
 ## Jupyter Notebook 
 
+- [jordipons/musicnn](https://github.com/jordipons/musicnn) - Pronounced as "musician", musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging.
 - [keunwoochoi/transfer_learning_music](https://github.com/keunwoochoi/transfer_learning_music) - Transfer learning for music classification and regression tasks
 - [spags093/spotify_song_data](https://github.com/spags093/spotify_song_data) - Part 1: Analysis of Spotify song data that uses Machine Learning to determine what features make a "hit" song on Spotify.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
@@ -1723,6 +1724,7 @@
 
 ## Others 
 
+- [AI-Guru/music-generation-research](https://github.com/AI-Guru/music-generation-research) - A straightforward collection of Music Generation research resources.
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
 - [abhishekkrthakur/approachingalmost](https://github.com/abhishekkrthakur/approachingalmost) - Approaching (Almost) Any Machine Learning Problem
 - [lcultx/AutoArrangement](https://github.com/lcultx/AutoArrangement) - 
@@ -2052,6 +2054,7 @@
 
 ## Python 
 
+- [1aienthusiast/audiocraft](https://github.com/1aienthusiast/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras) - Music auto-tagging models and trained weights in keras/theano
 - [keunwoochoi/lstm_real_book](https://github.com/keunwoochoi/lstm_real_book) - LSTM source code to generate jazz chord progressions
 - [keunwoochoi/kapre](https://github.com/keunwoochoi/kapre) - kapre: Keras Audio Preprocessors
@@ -2157,7 +2160,7 @@
 - [CoffeeVampir3/audiocraft-webui](https://github.com/CoffeeVampir3/audiocraft-webui) - Quick webui for audiocraft
 - [neggles/musicgen-web](https://github.com/neggles/musicgen-web) - 
 - [oobabooga/one-click-installers](https://github.com/oobabooga/one-click-installers) - Simplified installers for oobabooga/text-generation-webui.
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen, Tortoise)
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs)
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - Repository for the paper "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning", including 1.84M CoT rationales extracted across 1,060 task
@@ -3028,7 +3031,7 @@
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [hugofabricio/moises](https://github.com/hugofabricio/moises) - Moises Website
 - [itsbrex/markprompt](https://github.com/itsbrex/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
-- [rsxdalv/musicgen-prompts](https://github.com/rsxdalv/musicgen-prompts) - Site for sharing MusicGen Prompts and Creations
+- [rsxdalv/musicgen-prompts](https://github.com/rsxdalv/musicgen-prompts) - Site for sharing MusicGen + AudioGen Prompts and Creations
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate, unminify and unpack bundled javascript
 - [joanroig/midi-to-scaler-chord-sets](https://github.com/joanroig/midi-to-scaler-chord-sets) - Convert chord progressions from midi files to Plugin Boutique's Scaler sets.
@@ -3483,6 +3486,7 @@
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [feedbackfarm/react](https://github.com/feedbackfarm/react) - 
 - [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [one-aalam/ng-starter-kit](https://github.com/one-aalam/ng-starter-kit) - Angular with Supabase, and other bells and whistles
