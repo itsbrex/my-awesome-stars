@@ -591,6 +591,7 @@
 
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 
 ## babel 
@@ -3211,6 +3212,7 @@
 
 ## others 
 
+- [DolbyLaboratories/neural-upsampling-artifacts-audio](https://github.com/DolbyLaboratories/neural-upsampling-artifacts-audio) - Upsampling Artifacts in Neural Audio Synthesis – https://arxiv.org/abs/2010.14356
 - [jordipons/musicnn](https://github.com/jordipons/musicnn) - Pronounced as "musician", musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging.
 - [AI-Guru/music-generation-research](https://github.com/AI-Guru/music-generation-research) - A straightforward collection of Music Generation research resources.
 - [1aienthusiast/audiocraft](https://github.com/1aienthusiast/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
@@ -4900,7 +4902,7 @@
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [mital/fluidium](https://github.com/mital/fluidium) - A Native Mac OS X Browser Platform based on WebKit with a Cocoa plug-in architecture, tab thumbnails, web splitviews, userscripting, userstyles, extensive AppleScript-ability, URL shortcuts, Twitter t
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
-- [mephux/komanda](https://github.com/mephux/komanda) - The IRC Client For Developers
+- [djcas9/komanda](https://github.com/djcas9/komanda) - The IRC Client For Developers
 - [deanishe/alfred-pwgen](https://github.com/deanishe/alfred-pwgen) - Generate passwords with Alfred
 - [pjdietz/rester-sublime-http-client](https://github.com/pjdietz/rester-sublime-http-client) - REST client for Sublime Text 2 and 3
 - [darrinhenein/framer-sketch-boilerplate](https://github.com/darrinhenein/framer-sketch-boilerplate) - A boilerplate for rapid prototyping using Framer.js and Sketch.
@@ -5174,6 +5176,7 @@
 
 ## python 
 
+- [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
 - [glefundes/audio-class](https://github.com/glefundes/audio-class) - Web-based tool for straight-forward class annotation of audio files
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
