@@ -13,6 +13,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -40,6 +41,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Mathematica](#mathematica)
 - [Max](#max)
 - [NewLisp](#newlisp)
 - [OCaml](#ocaml)
@@ -111,6 +113,7 @@
 
 ## C 
 
+- [mhroth/tinyosc](https://github.com/mhroth/tinyosc) - A minimal Open Sound Control (OSC) library written in vanilla C.
 - [CarlWangChina/SongDriver2-Real-time-Emotion-based-Music-Arrangement-with-Soft-Transition](https://github.com/CarlWangChina/SongDriver2-Real-time-Emotion-based-Music-Arrangement-with-Soft-Transition) - SongDriver2 achieves a balance between real-time emotion fit and soft transitions, enhancing the coherence of the generated music.
 - [Rezonality/zing](https://github.com/Rezonality/zing) - Audio Integration Library
 - [sprymix/metamagic.json](https://github.com/sprymix/metamagic.json) - An ultra-fast Python implementation of a JSON encoder
@@ -144,6 +147,7 @@
 
 ## C# # 
 
+- [hiroxpepe/meowziq](https://github.com/hiroxpepe/meowziq) - A MIDI sequencer to read JSON files writing MeowziQ format and play as a song.
 - [calbertobarbosajr/MusicGenreRecommendationAnalyzer](https://github.com/calbertobarbosajr/MusicGenreRecommendationAnalyzer) - 
 - [BenediktAlkin/SongTaggerForSpotify](https://github.com/BenediktAlkin/SongTaggerForSpotify) - Song tagging for Spotify
 - [wwweather/ai-codes](https://github.com/wwweather/ai-codes) - AI codes.
@@ -170,6 +174,13 @@
 
 ## C++ 
 
+- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
+- [sandormatyi/Sequoia](https://github.com/sandormatyi/Sequoia) - 808-style MIDI sequencer built around a Teensy LC board
+- [rafalcieslak/harmonySEQ](https://github.com/rafalcieslak/harmonySEQ) - MIDI sequencer designed for live performances
+- [cas2void/ofxDawMetro](https://github.com/cas2void/ofxDawMetro) - DAW style metronome (like Ableton Live, etc.)
+- [moebiussurfing/ofxBeatClock](https://github.com/moebiussurfing/ofxBeatClock) - DAW styled BPM-Beat Clock. Internal mode with Tap Tempo,  external MIDI sync and basic Ableton Link.
+- [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) - Source code for SonoBus, a real-time network audio streaming collaboration tool.
+- [anzbert/f_link](https://github.com/anzbert/f_link) - Ableton Link support in Flutter
 - [superpoweredSDK/SuperpoweredLatency](https://github.com/superpoweredSDK/SuperpoweredLatency) - This application measures round-trip audio latency on an iOS or Android device. Low round-trip audio latency is a strong indicator of how well any mobile device is optimized for professional audio. Lo
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [c4dm/nnls-chroma](https://github.com/c4dm/nnls-chroma) - A Vamp plugin library for harmony and chord extraction.
@@ -248,6 +259,10 @@
 - [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
+
+## CMake 
+
+- [jatinchowdhury18/LinkTestPlugin](https://github.com/jatinchowdhury18/LinkTestPlugin) - A minimal test audio plugin containing an Ableton Link instance
 
 ## CSS 
 
@@ -406,6 +421,7 @@
 
 ## Go 
 
+- [schollz/miti](https://github.com/schollz/miti) - miti is a musical instrument textual interface. Basically, its MIDI, but with human-readable text. :musical_note:
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [lc/subjs](https://github.com/lc/subjs) - Fetches javascript file from a list of URLS or subdomains.
@@ -613,11 +629,13 @@
 
 ## Haskell 
 
+- [elaforge/karya](https://github.com/elaforge/karya) - music sequencer and generalized notation
 - [Euterpea/Euterpea2](https://github.com/Euterpea/Euterpea2) - Euterpea version 2
 - [meck/alfred-footman](https://github.com/meck/alfred-footman) - A library for writing script filters for Alfred in Haskell
 
 ## Java 
 
+- [jjazzboss/JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - A complete Midi-based framework for automatic backing tracks generation.
 - [sonallux/spotify-web-api](https://github.com/sonallux/spotify-web-api) - Tools for fixing and improving the official Spotify OpenAPI definition.
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [BSvER1/AbletonMidiMapper](https://github.com/BSvER1/AbletonMidiMapper) - a small utility for grabbing automation out of ableton to send to other applications over virtual midi ports
@@ -642,6 +660,11 @@
 
 ## JavaScript 
 
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - SoundFont2 based Javascript synthetizer
+- [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
+- [qwolilowp/Z_TENNOT_IU](https://github.com/qwolilowp/Z_TENNOT_IU) - harmonic table note layout, Euler Tonnetz, Browser GUI, WebMIDI Interface, Sequencer
+- [acidatm/tram](https://github.com/acidatm/tram) - Tram21 is a typographic drumcomputer.
+- [hundredrabbits/Pilot](https://github.com/hundredrabbits/Pilot) - Orca's best friend.
 - [dohyeon5626/github-recent-repo-extension](https://github.com/dohyeon5626/github-recent-repo-extension) - Take a look at the repositories you've seen recently.
 - [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
 - [jdlee022/Synth-Lord](https://github.com/jdlee022/Synth-Lord) - (web app) A web based synthesizer with MIDI support.
@@ -1100,6 +1123,7 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jub0t/BotMaster](https://github.com/jub0t/BotMaster) - Simplify Discord Bot and Node.js Script Management with this tool.
 - [stevenschmatz/export-google-form](https://github.com/stevenschmatz/export-google-form) - :arrow_down_small: A small Google Apps Script file to export a form into a JSON file.
 - [jsoma/tabletop](https://github.com/jsoma/tabletop) - Tabletop.js gives spreadsheets legs
@@ -1595,6 +1619,10 @@
 - [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
+## Mathematica 
+
+- [Ludwiggle/GRUMIDI](https://github.com/Ludwiggle/GRUMIDI) - Recurrent Neural Network for generative MIDI music
+
 ## Max 
 
 - [d3n7/riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion
@@ -1636,6 +1664,7 @@
 
 ## Objective-C 
 
+- [cemolcay/MIDISequencerAUv3](https://github.com/cemolcay/MIDISequencerAUv3) - A great start point for making AUv3 MIDI sequencer apps.
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [atomicbird/momcom](https://github.com/atomicbird/momcom) - Experimental Core Data model compiler
 - [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all rela
@@ -1723,8 +1752,10 @@
 
 ## Others 
 
+- [iamwillrost/ableton-live-metronome-app](https://github.com/iamwillrost/ableton-live-metronome-app) - an apple watch application that uses ableton link metronome bpm and sync data from live and causes the watch to vibrate or pulse in time on the wrist.
+- [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [AI-Guru/music-generation-research](https://github.com/AI-Guru/music-generation-research) - A straightforward collection of Music Generation research resources.
-- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [abhishekkrthakur/approachingalmost](https://github.com/abhishekkrthakur/approachingalmost) - Approaching (Almost) Any Machine Learning Problem
 - [lcultx/AutoArrangement](https://github.com/lcultx/AutoArrangement) - 
 - [taranjeet/awesome-claude](https://github.com/taranjeet/awesome-claude) - An awesome list of AnthropicAI' Claude model
@@ -2048,11 +2079,18 @@
 
 ## Perl 
 
+- [oldtechaa/SeekMIDI](https://github.com/oldtechaa/SeekMIDI) - SeekMIDI, a simple multi-channel graphical MIDI sequencer.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [aparks517/convert-websters](https://github.com/aparks517/convert-websters) - Convert Webster's Unabridged Dictionary from Project Gutenberg to OSX dictionary
 
 ## Python 
 
+- [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox in Pytorch
+- [atong01/conditional-flow-matching](https://github.com/atong01/conditional-flow-matching) - Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport
+- [makuto/keykey](https://github.com/makuto/keykey) - MIDI Synth Sequencer Suite
+- [jaakkopee/neuronSeq](https://github.com/jaakkopee/neuronSeq) - A MIDI sequencer based on a neural network.
+- [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
+- [EnigmaCurry/midi-livecode](https://github.com/EnigmaCurry/midi-livecode) - A MIDI live-coding environment for composition using isobar and Ableton Link
 - [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
 - [1aienthusiast/audiocraft](https://github.com/1aienthusiast/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras) - Music auto-tagging models and trained weights in keras/theano
@@ -2720,6 +2758,8 @@
 
 ## Rust 
 
+- [huboles/cellseq](https://github.com/huboles/cellseq) - generative midi sequencer
+- [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Plain Rust wrapper of Ableton Link's C 11 extension
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust.
 - [clintburgos/ableton-git](https://github.com/clintburgos/ableton-git) - wrapper for git that ensures the best settings for versioning Ableton Live projects
@@ -2983,6 +3023,7 @@
 
 ## TypeScript 
 
+- [Jaggernaut555/midi-mixer-spotify](https://github.com/Jaggernaut555/midi-mixer-spotify) - Control spotify with a midi mixer plugin
 - [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - Use AI to write complete stories.
 - [notochord/playback](https://github.com/notochord/playback) - A chord player, and a language for describing musical styles
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
@@ -3488,7 +3529,6 @@
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [feedbackfarm/react](https://github.com/feedbackfarm/react) - 
 - [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [one-aalam/ng-starter-kit](https://github.com/one-aalam/ng-starter-kit) - Angular with Supabase, and other bells and whistles
