@@ -2088,6 +2088,7 @@
 
 ## Python 
 
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [LAION-AI/audio-dataset](https://github.com/LAION-AI/audio-dataset) - Audio Dataset for training CLAP and other models
 - [magenta/midi-ddsp](https://github.com/magenta/midi-ddsp) - Synthesis of MIDI with DDSP (https://midi-ddsp.github.io/)
 - [magenta/note-seq](https://github.com/magenta/note-seq) - A serializable note sequence representation and utilities.
