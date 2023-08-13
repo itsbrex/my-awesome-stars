@@ -927,7 +927,6 @@
 - [dergachev/chrome-xpath-link](https://github.com/dergachev/chrome-xpath-link) - 
 - [ColinFay/mdlinks](https://github.com/ColinFay/mdlinks) - A Google Chrome extension to create Markdown links for the current page
 - [rishonkumar/Spotify-Clone](https://github.com/rishonkumar/Spotify-Clone) - Spotify Clone using React Js and API used from RapidApi
-- [yilmazev/nextjs-music-app](https://github.com/yilmazev/nextjs-music-app) - Music app I made with NextJS
 - [zCodeLAT/Als-mandala](https://github.com/zCodeLAT/Als-mandala) - Drop your Ableton Live .als project and get your personal mandala.
 - [WouterVanNifterick/ableton-viewer](https://github.com/WouterVanNifterick/ableton-viewer) - Ableton Project Manager
 - [alfredapp/1password-workflow](https://github.com/alfredapp/1password-workflow) - Search and open 1Password items
@@ -3052,6 +3051,10 @@
 
 ## TypeScript 
 
+- [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
+- [UnJavaScripter/web-midi-basics](https://github.com/UnJavaScripter/web-midi-basics) - A Web MIDI basic example
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating WebAudio code
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
