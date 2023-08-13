@@ -234,6 +234,7 @@
 
 ## ai 
 
+- [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [jaakkopee/neuronSeq](https://github.com/jaakkopee/neuronSeq) - A MIDI sequencer based on a neural network.
@@ -687,6 +688,7 @@
 
 ## chatgpt 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A programming language for large language models.
 - [RockChinQ/CallingGPT](https://github.com/RockChinQ/CallingGPT) - Build your own ChatGPT plugin platform with GPT's function calling ability | func call by GPT
 - [janekb04/py2gpt](https://github.com/janekb04/py2gpt) - Convert Python code into JSON consumable by OpenAI's function API.
@@ -2777,7 +2779,6 @@
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for playlists, crates and a web/mobile frontend
 - [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen) - The advanced drum machine for Linux, macOS, and Windows
-- [yilmazev/nextjs-music-app](https://github.com/yilmazev/nextjs-music-app) - Music app I made with NextJS
 - [andrewcb/plink](https://github.com/andrewcb/plink) - An AudioUnit-based music programming environment for macOS
 - [henrybetts/ableton-retime](https://github.com/henrybetts/ableton-retime) - A python script for retiming Ableton Live projects
 - [epilande/alfred-be-quiet](https://github.com/epilande/alfred-be-quiet) - 🤫 Workflow to automatically pause audio/video playing
@@ -2851,6 +2852,8 @@
 
 ## nextjs 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based question answering system based on the LLM language model, providing out-of-the-box capabilities for data processing, model invocation, and more. It also allows for comple
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
@@ -2905,7 +2908,6 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [gadingnst/fullstack-next-template](https://github.com/gadingnst/fullstack-next-template) - Fullstack TypeScript Next.js Boilerplate with  module-driven architecture with full customization.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
-- [yilmazev/nextjs-music-app](https://github.com/yilmazev/nextjs-music-app) - Music app I made with NextJS
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
@@ -3272,6 +3274,8 @@
 
 ## others 
 
+- [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
+- [UnJavaScripter/web-midi-basics](https://github.com/UnJavaScripter/web-midi-basics) - A Web MIDI basic example
 - [polywrap/awesome-polywrap](https://github.com/polywrap/awesome-polywrap) - A collection of awesome things regarding the Polywrap ecosystem.
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating WebAudio code
 - [cwilso/midi-synth](https://github.com/cwilso/midi-synth) - A MIDI-driven Web Audio synthesizer
