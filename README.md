@@ -679,11 +679,11 @@
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
 - [jimmywarting/native-file-system-adapter](https://github.com/jimmywarting/native-file-system-adapter) - File system, based on the spec reference implementation
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
-- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor other extensions' network calls
+- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [homanp/superagent](https://github.com/homanp/superagent) - 🥷 Superagent - Build, deploy, and manage LLM-powered agents
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - A JSON Schema Validator that supports Draft 04, 06, 07, 2019-09, and 2020-12
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - SoundFont2 based Javascript synthetizer
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - JavaScript MIDI player and synthesizer based on SoundFont2 specifications
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [qwolilowp/Z_TENNOT_IU](https://github.com/qwolilowp/Z_TENNOT_IU) - harmonic table note layout, Euler Tonnetz, Browser GUI, WebMIDI Interface, Sequencer
 - [acidatm/tram](https://github.com/acidatm/tram) - Tram21 is a typographic drumcomputer.
@@ -849,7 +849,6 @@
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [WoolDoughnut310/gistify](https://github.com/WoolDoughnut310/gistify) - Chrome extension to display Copy To Gist button on code blocks.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 - [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
 - [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
@@ -1349,6 +1348,7 @@
 - [ceyko/spotify-smartlist](https://github.com/ceyko/spotify-smartlist) - Spotify app to play a playlist in approximate popularity order.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [zurb/siphon-media-query](https://github.com/zurb/siphon-media-query) - Extract media query-specific rules from CSS.
+- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [jasonrudolph/launchbar-emoji-lookup](https://github.com/jasonrudolph/launchbar-emoji-lookup) - LaunchBar action to find the perfect emoji by name or keyword 🔎
 - [alecortega/palettable](https://github.com/alecortega/palettable) - Create color palettes using the knowledge of millions of designers.
@@ -1532,6 +1532,7 @@
 
 ## Jupyter Notebook 
 
+- [Zentra94/ai-cinema-engine](https://github.com/Zentra94/ai-cinema-engine) - AI video maker
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files. Integration with music production tools.
 - [webpolis/midigpt](https://github.com/webpolis/midigpt) - Playing around with MIDI and LLM
 - [DolbyLaboratories/neural-upsampling-artifacts-audio](https://github.com/DolbyLaboratories/neural-upsampling-artifacts-audio) - Upsampling Artifacts in Neural Audio Synthesis – https://arxiv.org/abs/2010.14356
@@ -1589,7 +1590,7 @@
 - [magenta/magenta-demos](https://github.com/magenta/magenta-demos) - Demonstrations of Magenta Models
 - [twitterdev/Twitter-API-to-Google-Sheets](https://github.com/twitterdev/Twitter-API-to-Google-Sheets) - A code sample that allows you to send a payload from the Twitter API to Google Sheets.
 - [theianchan/base-image-scaler](https://github.com/theianchan/base-image-scaler) - SDRs put a lot of work into outbound messaging to capture the attention of prospects. What if they could... Not do that work?
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
 - [ashenoy95/ml](https://github.com/ashenoy95/ml) - Machine Learning, Neural Nets, Deep Learning basics
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [neuro-team-femto/cleese](https://github.com/neuro-team-femto/cleese) - Combinatorial Expressive Speech Engine
@@ -2079,7 +2080,6 @@
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [cmall/LocalHomePage](https://github.com/cmall/LocalHomePage) - A Local Home Page for OSX Web Development
 - [Mte90/Wordmove-Tools](https://github.com/Mte90/Wordmove-Tools) - Tools for a better experience with WordMove!
-- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [rinatkhaziev/sane-html-newsletters](https://github.com/rinatkhaziev/sane-html-newsletters) - WordPress plugin to convert regular HTML/CSS WP template into HTML with inline CSS that email clients understand.
 - [peter-sharp/html-pages-to-wp-pages](https://github.com/peter-sharp/html-pages-to-wp-pages) - ( Alpha ) converts html pages to wordpress pages ( page post type )
 - [wp-plugins/cms2cms-html-to-wp-convertor](https://github.com/wp-plugins/cms2cms-html-to-wp-convertor) - WordPress.org Plugin Mirror
@@ -2119,6 +2119,9 @@
 
 ## Python 
 
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+- [marl/crepe](https://github.com/marl/crepe) - CREPE: A Convolutional REpresentation for Pitch Estimation -- pre-trained model (ICASSP 2018)
+- [bmcfee/pyrubberband](https://github.com/bmcfee/pyrubberband) - python wrapper for rubberband
 - [KimDodds25/LLMTableTransformation](https://github.com/KimDodds25/LLMTableTransformation) - 
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [r2d4/parserllm](https://github.com/r2d4/parserllm) - Use context-free grammars with an LLM
@@ -3125,6 +3128,7 @@
 
 ## TypeScript 
 
+- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) - A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 - [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().
 - [jokull/python-ts-graphql-demo](https://github.com/jokull/python-ts-graphql-demo) - Demo project to demonstrate how an asyncio Python project with SQLAlchemy and Strawberry can have a great typed DX on the frontend via codegen and TypeScript React hooks.
 - [midival/core](https://github.com/midival/core) - 
@@ -3182,7 +3186,7 @@
 - [Bubobubobubobubo/sardine-vscode](https://github.com/Bubobubobubobubo/sardine-vscode) - VSCode extension for Sardine
 - [AHGGG/poe-node-api](https://github.com/AHGGG/poe-node-api) - A reverse engineered Node.js client for Quora's Poe.
 - [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
-- [smol-ai/menubar](https://github.com/smol-ai/menubar) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [Picovoice/web-voice-processor](https://github.com/Picovoice/web-voice-processor) - A library for real-time voice processing in web browsers
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
 - [mirkonasato/fakebase](https://github.com/mirkonasato/fakebase) - A "fake" database for Node.js that stores data in local JSON files, for testing and sample applications.
@@ -3328,6 +3332,7 @@
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - React and TypeScript Chrome extension example project for developers to create their own extensions.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [paulphys/spotify-next-auth-token-rotation](https://github.com/paulphys/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
@@ -3483,7 +3488,6 @@
 - [n4bb12/vercel-github-oauth-proxy](https://github.com/n4bb12/vercel-github-oauth-proxy) - ▲🔐 Protect a static website hosted on Vercel behind GitHub authentication.
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
 - [Landish/create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - 📟  Create Tailwind CSS plugin and publish on npm with ease
-- [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [cristicretu/ts-next-tailwind-template](https://github.com/cristicretu/ts-next-tailwind-template) - Ultimate Front-end Template made using NextJs, TailwindCSS, and Typescript
 - [timdeschryver/vscode-chameleon](https://github.com/timdeschryver/vscode-chameleon) - Randomize your Visual Studio Code theme, font and icons on startup
 - [thedevdavid/devbiz-academy](https://github.com/thedevdavid/devbiz-academy) - 
