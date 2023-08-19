@@ -428,6 +428,7 @@
 
 ## artificial-intelligence 
 
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -542,7 +543,7 @@
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
@@ -600,7 +601,7 @@
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
@@ -725,7 +726,7 @@
 - [AHGGG/poe-node-api](https://github.com/AHGGG/poe-node-api) - A reverse engineered Node.js client for Quora's Poe.
 - [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 - [Bradybry/chatXML](https://github.com/Bradybry/chatXML) - A proposal for a structured LLM prompt method.
-- [smol-ai/menubar](https://github.com/smol-ai/menubar) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
@@ -883,7 +884,7 @@
 
 ## chrome-extension 
 
-- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor other extensions' network calls
+- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [dohyeon5626/github-recent-repo-extension](https://github.com/dohyeon5626/github-recent-repo-extension) - Take a look at the repositories you've seen recently.
 - [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
@@ -1243,6 +1244,7 @@
 
 ## deep-learning 
 
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [hugofloresgarcia/vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers!
 - [descriptinc/descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) - State-of-the-art audio codec with 90x compression factor. Supports 44.1kHz, 24kHz, and 16kHz mono/stereo audio.
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
@@ -1418,7 +1420,7 @@
 
 - [acidatm/tram](https://github.com/acidatm/tram) - Tram21 is a typographic drumcomputer.
 - [hundredrabbits/Pilot](https://github.com/hundredrabbits/Pilot) - Orca's best friend.
-- [smol-ai/menubar](https://github.com/smol-ai/menubar) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [vcync/modV](https://github.com/vcync/modV) - modular audio visualisation powered by JavaScript
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
@@ -1779,7 +1781,7 @@
 
 ## google 
 
-- [smol-ai/menubar](https://github.com/smol-ai/menubar) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [munron/mv3-vue-chrome-extension-template](https://github.com/munron/mv3-vue-chrome-extension-template) - Support Manifest V3 , Vue3 , Typescript, Hot Reload, Firebase Authentication
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
@@ -1924,7 +1926,7 @@
 - [mazipan/mazipan.space](https://github.com/mazipan/mazipan.space) - 👿 Codebase for mazipan.space. Next.js x Tailwind
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [redwoodjs/awesome-redwood](https://github.com/redwoodjs/awesome-redwood) - A community-driven collection of Redwood related plugins, config, themes, build scripts, tutorials, podcasts, and more.
@@ -2109,7 +2111,7 @@
 ## javascript 
 
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
-- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor other extensions' network calls
+- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
@@ -2368,7 +2370,7 @@
 ## jupyter-notebook 
 
 - [music-x-lab/POP909-Dataset](https://github.com/music-x-lab/POP909-Dataset) - This is the dataset repository for the paper: POP909: A Pop-song Dataset for Music Arrangement Generation
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
 
 ## kotlin 
 
@@ -2962,6 +2964,7 @@
 
 ## nextjs 
 
+- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) - A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 - [jokull/python-ts-graphql-demo](https://github.com/jokull/python-ts-graphql-demo) - Demo project to demonstrate how an asyncio Python project with SQLAlchemy and Strawberry can have a great typed DX on the frontend via codegen and TypeScript React hooks.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -3022,7 +3025,6 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
-- [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
 - [cristicretu/ts-next-tailwind-template](https://github.com/cristicretu/ts-next-tailwind-template) - Ultimate Front-end Template made using NextJs, TailwindCSS, and Typescript
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
@@ -3390,6 +3392,7 @@
 
 ## others 
 
+- [Zentra94/ai-cinema-engine](https://github.com/Zentra94/ai-cinema-engine) - AI video maker
 - [KimDodds25/LLMTableTransformation](https://github.com/KimDodds25/LLMTableTransformation) - 
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [r2d4/parserllm](https://github.com/r2d4/parserllm) - Use context-free grammars with an LLM
@@ -3449,7 +3452,7 @@
 - [codedamn/teach.codedamn.com](https://github.com/codedamn/teach.codedamn.com) - 
 - [arisona/m4l_devices](https://github.com/arisona/m4l_devices) - 
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - SoundFont2 based Javascript synthetizer
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - JavaScript MIDI player and synthesizer based on SoundFont2 specifications
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [sandormatyi/Sequoia](https://github.com/sandormatyi/Sequoia) - 808-style MIDI sequencer built around a Teensy LC board
 - [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
@@ -5430,6 +5433,7 @@
 
 ## python 
 
+- [bmcfee/pyrubberband](https://github.com/bmcfee/pyrubberband) - python wrapper for rubberband
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
@@ -5562,7 +5566,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever) - 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
 - [Jeff53978/LinkGen](https://github.com/Jeff53978/LinkGen) - An Open Source Account Generator Bot!
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
 - [echo724/notion2medium](https://github.com/echo724/notion2medium) - Simple command that publishes Notion Page to Medium.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [paperboi/PickPocket](https://github.com/paperboi/PickPocket) - A python script to transfer all your Pocket links to a database in Notion.
@@ -5761,7 +5765,6 @@
 - [kevhjc/clementine](https://github.com/kevhjc/clementine) - A place to save your thoughts and ideas
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
-- [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [PatrickNiyogitare28/super-vite](https://github.com/PatrickNiyogitare28/super-vite) - ⚡ A vite react typescript boilerplate with pre-configured sass, redux-tool-kit, tailwind, eslint, prettier & jest, i18n internalization,  Dockerfile... built in cli coming soon ⚒️
 - [sozonome/nextarter-nextui](https://github.com/sozonome/nextarter-nextui) - template to initialize Next.js project with Next-UI and typescript setup
@@ -6325,6 +6328,7 @@
 
 ## tensorflow 
 
+- [marl/crepe](https://github.com/marl/crepe) - CREPE: A Convolutional REpresentation for Pitch Estimation -- pre-trained model (ICASSP 2018)
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
@@ -6501,7 +6505,6 @@
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [kevhjc/clementine](https://github.com/kevhjc/clementine) - A place to save your thoughts and ideas
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
-- [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [cristicretu/ts-next-tailwind-template](https://github.com/cristicretu/ts-next-tailwind-template) - Ultimate Front-end Template made using NextJs, TailwindCSS, and Typescript
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
