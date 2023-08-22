@@ -182,6 +182,7 @@
 
 ## C++ 
 
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [julian0821/Audio-to-MIDI](https://github.com/julian0821/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
 - [ddiakopoulos/modern-midi](https://github.com/ddiakopoulos/modern-midi) - :musical_score: C++11 MIDI file & realtime io library
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -280,7 +281,6 @@
 - [lablab-ai/webgpu-llm-chrome-extension-starter](https://github.com/lablab-ai/webgpu-llm-chrome-extension-starter) - WebLLM Chrome Extension Starter Pack.
 - [vercel/spr-landing](https://github.com/vercel/spr-landing) - Serverless Pre-Rendering Landing Page
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
-- [PFython/pyscript-local-runtime](https://github.com/PFython/pyscript-local-runtime) - 
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [chr15m/bugout.network](https://github.com/chr15m/bugout.network) - 
 - [asciinema/asciicast2gif](https://github.com/asciinema/asciicast2gif) - Generate GIF animations from asciicasts (asciinema recordings)
@@ -679,6 +679,7 @@
 
 ## JavaScript 
 
+- [mrcaidev/tailwindcss-radix-colors](https://github.com/mrcaidev/tailwindcss-radix-colors) - Bring Radix UI's color system to Tailwind CSS.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [meilisearch/vercel-demo](https://github.com/meilisearch/vercel-demo) - A website that lets you know where to watch a movie built on Next.js and Meilisearch, deployed on Vercel with the Meilisearch + Vercel integration.
 - [GoogleChromeLabs/browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser
@@ -688,7 +689,7 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [homanp/superagent](https://github.com/homanp/superagent) - 🥷 Superagent - Build, deploy, and manage LLM-powered agents
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - A JSON Schema Validator that supports Draft 04, 06, 07, 2019-09, and 2020-12
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - JavaScript MIDI player and synthesizer based on SoundFont2 specifications
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - JavaScript MIDI player and synthesizer based on SoundFont2 specifications. No dependencies required.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [qwolilowp/Z_TENNOT_IU](https://github.com/qwolilowp/Z_TENNOT_IU) - harmonic table note layout, Euler Tonnetz, Browser GUI, WebMIDI Interface, Sequencer
 - [acidatm/tram](https://github.com/acidatm/tram) - Tram21 is a typographic drumcomputer.
@@ -731,6 +732,7 @@
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [arihanv/PromptGPT-Ext](https://github.com/arihanv/PromptGPT-Ext) - 
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
+- [PFython/pyscript-local-runtime](https://github.com/PFython/pyscript-local-runtime) - 
 - [magenta/drumbot](https://github.com/magenta/drumbot) - Play real-time music with a machine learning drummer that drums based on your melody.
 - [rocktimsaikia/spotify-rtoken-cli](https://github.com/rocktimsaikia/spotify-rtoken-cli) - Generate Spotify refresh_token right from terminal
 - [aaronats/jsmidi](https://github.com/aaronats/jsmidi) - 
@@ -806,7 +808,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [olaviinha/ChordsGuruTurbo100aDeluxe](https://github.com/olaviinha/ChordsGuruTurbo100aDeluxe) - Visualize and preview written chord progressions
-- [xlwings/xlwings-server-helloworld-fastapi](https://github.com/xlwings/xlwings-server-helloworld-fastapi) - Demo repo for the xlwings remote interpreter
+- [xlwings/xlwings-server-helloworld-fastapi](https://github.com/xlwings/xlwings-server-helloworld-fastapi) - Demo repo for the xlwings Server
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example](https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement.js-Photoshop-script-standalone-example) - Example for this script: https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement-photoshop-script
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
@@ -3143,7 +3145,7 @@
 - [Morioh-Lab/is-bot](https://github.com/Morioh-Lab/is-bot) - Detect user-agent is a bot/spider/crawler
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
-- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
+- [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [FlowiseAI/FlowiseEmbedReact](https://github.com/FlowiseAI/FlowiseEmbedReact) - 
 - [FlowiseAI/FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed) - 
@@ -3320,7 +3322,6 @@
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
-- [munron/mv3-vue-chrome-extension-template](https://github.com/munron/mv3-vue-chrome-extension-template) - Support Manifest V3 , Vue3 , Typescript, Hot Reload, Firebase Authentication
 - [Swizec/article-threader](https://github.com/Swizec/article-threader) - Smöl tool that turns URLs into twitter threads
 - [penrodlol/demo-nextjs-browser-extension](https://github.com/penrodlol/demo-nextjs-browser-extension) - This project is a Next.js application that can be bundled into a browser extension.
 - [fuyutarow/solid-chrome-extension-template](https://github.com/fuyutarow/solid-chrome-extension-template) - Chrome Extension Boilerplate with SolidJS + Vite + TypeScript + Manifest V3 + Hot Relaod
@@ -3508,7 +3509,7 @@
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI and Nextjs.
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
-- [galfrevn/flow](https://github.com/galfrevn/flow) - 
+- [galfrevn/flow](https://github.com/galfrevn/flow) - Join our revolutionary social network app for authentic connections. Share, engage, and explore with a vibrant community that values meaningful interactions. Your next online journey starts here.
 - [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
