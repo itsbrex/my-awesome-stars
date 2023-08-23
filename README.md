@@ -679,6 +679,7 @@
 
 ## JavaScript 
 
+- [ighoshsubho/NotionAutomation](https://github.com/ighoshsubho/NotionAutomation) - Notion Automation using Serverless and Notion API
 - [mrcaidev/tailwindcss-radix-colors](https://github.com/mrcaidev/tailwindcss-radix-colors) - Bring Radix UI's color system to Tailwind CSS.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [meilisearch/vercel-demo](https://github.com/meilisearch/vercel-demo) - A website that lets you know where to watch a movie built on Next.js and Meilisearch, deployed on Vercel with the Meilisearch + Vercel integration.
@@ -1539,6 +1540,9 @@
 
 ## Jupyter Notebook 
 
+- [Anil-matcha/Notion-to-Chatbot](https://github.com/Anil-matcha/Notion-to-Chatbot) - Chat with any Notion document.   Easily input the document content you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud
+- [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 - [Zentra94/ai-cinema-engine](https://github.com/Zentra94/ai-cinema-engine) - AI video maker
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files. Integration with music production tools.
 - [webpolis/midigpt](https://github.com/webpolis/midigpt) - Playing around with MIDI and LLM
@@ -1647,7 +1651,6 @@
 - [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services and resources to create and distribute music.
 - [luiscript/NSYNC](https://github.com/luiscript/NSYNC) - Sync your animations with MIDI clock or Ableton link (with different creative tools).
 - [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Mathematica 
 
@@ -1991,6 +1994,7 @@
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [rfletcher/Evernote-URI-Handler](https://github.com/rfletcher/Evernote-URI-Handler) - A simple custom URI handler for Evernote.
 - [psyrendust/alfred-workflows](https://github.com/psyrendust/alfred-workflows) - My Alfred Workflows
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [patrickwelker/KeyboardMaestro](https://github.com/patrickwelker/KeyboardMaestro) - Collection of Keyboard Maestro Macros
 - [vicentehidalgo/Ableton-Resolume-OSC](https://github.com/vicentehidalgo/Ableton-Resolume-OSC) - MAX patch for sending automated messages form Ableton Live to Resolume via OSC
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -2126,6 +2130,7 @@
 
 ## Python 
 
+- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [RoboCoachTechnologies/GPT-Synthesizer](https://github.com/RoboCoachTechnologies/GPT-Synthesizer) - Collaboratively build an entire code base for any project with the help of an AI
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [marl/crepe](https://github.com/marl/crepe) - CREPE: A Convolutional REpresentation for Pitch Estimation -- pre-trained model (ICASSP 2018)
