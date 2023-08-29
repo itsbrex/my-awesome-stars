@@ -1604,7 +1604,7 @@
 - [magenta/magenta-demos](https://github.com/magenta/magenta-demos) - Demonstrations of Magenta Models
 - [twitterdev/Twitter-API-to-Google-Sheets](https://github.com/twitterdev/Twitter-API-to-Google-Sheets) - A code sample that allows you to send a payload from the Twitter API to Google Sheets.
 - [theianchan/base-image-scaler](https://github.com/theianchan/base-image-scaler) - SDRs put a lot of work into outbound messaging to capture the attention of prospects. What if they could... Not do that work?
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
 - [ashenoy95/ml](https://github.com/ashenoy95/ml) - Machine Learning, Neural Nets, Deep Learning basics
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [neuro-team-femto/cleese](https://github.com/neuro-team-femto/cleese) - Combinatorial Expressive Speech Engine
@@ -2134,6 +2134,7 @@
 
 ## Python 
 
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation
 - [RafayKhattak/YoutubeGPT](https://github.com/RafayKhattak/YoutubeGPT) - YoutubeGPT is a web application powered by OpenAI's Whisper model for speech recognition and GPT-3 for text summarization. It extracts transcriptions from YouTube videos and provides users with concis
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
@@ -3176,7 +3177,7 @@
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating WebAudio code
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based question answering system based on the LLM language model, providing out-of-the-box capabilities for data processing, model invocation, and more. It also allows for comple
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based question answering system built on the LLM. It offers out-of-the-box data processing and model invocation capabilities. Moreover, it allows for workflow orchestration thro
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
@@ -3227,7 +3228,7 @@
 - [dawg/dawg](https://github.com/dawg/dawg) - A DAW built using Electron and the Web Audio API
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
-- [rain-korshak/synth.kitchen](https://github.com/rain-korshak/synth.kitchen) - In-browser modular synthesis with the Web Audio API.
+- [rain-korshak/synth.kitchen](https://github.com/rain-korshak/synth.kitchen) - modular synth playground
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
 - [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database!
@@ -3475,7 +3476,7 @@
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [frencojobs/vscode-notion](https://github.com/frencojobs/vscode-notion) - Browse Notion pages right inside Visual Studio Code.
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
-- [itsjoetree/plant-db](https://github.com/itsjoetree/plant-db) - database application to store information about plants
+- [itsjoetree/plant-db](https://github.com/itsjoetree/plant-db) - database application that handles dynamic data about plants
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [rzuppur/rekordfix](https://github.com/rzuppur/rekordfix) - GUI tool for missing functionality to manage a Rekordbox collection
