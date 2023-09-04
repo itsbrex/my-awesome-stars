@@ -235,6 +235,7 @@
 
 ## ai 
 
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud
 - [simoncragg/synth-gpt](https://github.com/simoncragg/synth-gpt) - An intelligent voice assistant
@@ -291,7 +292,7 @@
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - Links for music + machine learning
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -1252,6 +1253,7 @@
 
 ## deep-learning 
 
+- [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
 - [archinetai/audio-diffusion-pytorch-trainer](https://github.com/archinetai/audio-diffusion-pytorch-trainer) - Trainer for audio-diffusion-pytorch
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
@@ -2164,7 +2166,7 @@
 - [petersalomonsen/javascriptmusic](https://github.com/petersalomonsen/javascriptmusic) - A.K.A. WebAssembly Music. Live coding music and synthesis in Javascript / AssemblyScript (WebAssembly)
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
@@ -2516,6 +2518,8 @@
 
 ## machine-learning 
 
+- [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
+- [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
@@ -3011,7 +3015,7 @@
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [gannonh/openai-api-next-starter](https://github.com/gannonh/openai-api-next-starter) - OpenAI Next.js starter project
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -3416,6 +3420,8 @@
 
 ## others 
 
+- [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [magic-research/magic-avatar](https://github.com/magic-research/magic-avatar) - MagicAvatar: Multimodal Avatar Generation and Animation
 - [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
@@ -3570,7 +3576,7 @@
 - [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
 - [Baka-Nekoz/gpt2midi](https://github.com/Baka-Nekoz/gpt2midi) - A simple python app that generates a melody in the desired key using ChatGPT API and turns it into a MIDI file.
 - [AetherSonata/GPTmidi-UI](https://github.com/AetherSonata/GPTmidi-UI) - simple UI for generating midi through ChatGPT and other LLMs
-- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [johnnygreco/midiGPT](https://github.com/johnnygreco/midiGPT) - 🎹 midiGPT: a decoder-only transformer model for music generation
 - [cwilso/PitchDetect](https://github.com/cwilso/PitchDetect) - Pitch detection in Web Audio using autocorrelation
@@ -3929,7 +3935,7 @@
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [zachwinter/spotify-viz](https://github.com/zachwinter/spotify-viz) - Create realtime audio-reactive visuals, powered by Spotify.
 - [seungheondoh/music-text-representation](https://github.com/seungheondoh/music-text-representation) - Toward Universal Text-to-Music-Retrieval [ICASSP2023]
-- [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
+- [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital.
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
@@ -5033,7 +5039,6 @@
 - [mixedinkey-opensource/MIKMIDI](https://github.com/mixedinkey-opensource/MIKMIDI) - MIDI Library for Swift and Objective-C Mac and iOS apps.
 - [cdolivei/beatport2flac](https://github.com/cdolivei/beatport2flac) - Converts beatport's wav files to flac using the metadata from their api
 - [sammyrulez/beatport-api](https://github.com/sammyrulez/beatport-api) - Java client library for beatport.com api
-- [j-n-f/silly-beatport-scraper](https://github.com/j-n-f/silly-beatport-scraper) - Tool to help convert WAV files from Beatport into tagged FLAC (in spite of their silly API policy)
 - [stagas/node-beatport](https://github.com/stagas/node-beatport) - Beatport API client for Node.js
 - [MixInKey/MixInKey](https://github.com/MixInKey/MixInKey) - [EPITECH] Team project using Laravel5, AngularJS & BeatPort API
 - [tapglue/elements-ios](https://github.com/tapglue/elements-ios) - Elements is a library of native social network user interface components for Tapglue.
@@ -5559,7 +5564,7 @@
 - [bmcfee/muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data
 - [pescadores/pescador](https://github.com/pescadores/pescador) - Stochastic multi-stream sampling for iterative learning
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -5667,6 +5672,8 @@
 
 ## pytorch 
 
+- [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
+- [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
 - [descriptinc/descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) - State-of-the-art audio codec with 90x compression factor. Supports 44.1kHz, 24kHz, and 16kHz mono/stereo audio.
 - [crowsonkb/style-transfer-pytorch](https://github.com/crowsonkb/style-transfer-pytorch) - Neural style transfer in PyTorch.
@@ -5758,7 +5765,7 @@
 - [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
@@ -5956,6 +5963,7 @@
 
 ## react-native 
 
+- [zehfernandes/wordnote](https://github.com/zehfernandes/wordnote) - A simple and elegant notebook to write new words and discover their meanings and synonyms https://wordnote.app
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [tomsoderlund/reactnative-nextjs-template](https://github.com/tomsoderlund/reactnative-nextjs-template) - Build native apps (iOS/Android/Windows/macOS) and an SEO-optimized web app from the same React codebase
@@ -6234,7 +6242,7 @@
 
 ## software 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -6376,6 +6384,8 @@
 
 ## tensorflow 
 
+- [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
+- [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [marl/crepe](https://github.com/marl/crepe) - CREPE: A Convolutional REpresentation for Pitch Estimation -- pre-trained model (ICASSP 2018)
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
@@ -6489,7 +6499,7 @@
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
