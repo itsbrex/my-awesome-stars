@@ -180,6 +180,7 @@
 
 ## C++ 
 
+- [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
 - [SoundStacks/cmajor](https://github.com/SoundStacks/cmajor) - The Cmajor public API
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [julian0821/Audio-to-MIDI](https://github.com/julian0821/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
@@ -405,6 +406,7 @@
 
 ## Cython 
 
+- [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface.
 - [mevimo/youbit](https://github.com/mevimo/youbit) - Host any type of file on YouTube
 
 ## Dart 
@@ -677,6 +679,7 @@
 
 ## JavaScript 
 
+- [zehfernandes/wordnote](https://github.com/zehfernandes/wordnote) - A simple and elegant notebook to write new words and discover their meanings and synonyms https://wordnote.app
 - [yaph/chatgpt-export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
 - [BruceWeyne/NETFLIX-SUBTITLE-SCRAPER](https://github.com/BruceWeyne/NETFLIX-SUBTITLE-SCRAPER) - Scrape NETFLIX movies' subtitles as playing. For language learning.
 - [Uo1428/ALL-IN-ONE-Discord-Bot-](https://github.com/Uo1428/ALL-IN-ONE-Discord-Bot-) - An advance discord bot with 500+ commands
@@ -891,7 +894,6 @@
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [narayann7/mini-projects](https://github.com/narayann7/mini-projects) - mini projects, learnt new concepts with small projects
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
-- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
@@ -1591,7 +1593,7 @@
 - [datamllab/xdeep](https://github.com/datamllab/xdeep) - 
 - [pnnl/DeepDataProfiler](https://github.com/pnnl/DeepDataProfiler) - Python library for analyzing the internal structure of deep neural networks.
 - [youssefHosni/Practical-Machine-Learning](https://github.com/youssefHosni/Practical-Machine-Learning) - Practical machine learning notebook & articles covers the machine learning end to end life cycle.
-- [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
+- [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital.
 - [StanfordASL/ALPaCA](https://github.com/StanfordASL/ALPaCA) - Code for "Meta-Learning Priors for Efficient Online Bayesian Regression" by James Harrison, Apoorva Sharma, and Marco Pavone
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
 - [Harmonai-org/sample-generator](https://github.com/Harmonai-org/sample-generator) - Tools to train a generative model on arbitrary audio samples
@@ -1790,6 +1792,7 @@
 
 ## Others 
 
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [magic-research/magic-avatar](https://github.com/magic-research/magic-avatar) - MagicAvatar: Multimodal Avatar Generation and Animation
 - [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -2138,6 +2141,9 @@
 
 ## Python 
 
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
+- [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
+- [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation
@@ -2236,7 +2242,6 @@
 - [AutonomousResearchGroup/autocoder](https://github.com/AutonomousResearchGroup/autocoder) - Code that basically writes itself
 - [EleutherAI/aria](https://github.com/EleutherAI/aria) - 
 - [StefanHeng/Symbolic-Music-Generation](https://github.com/StefanHeng/Symbolic-Music-Generation) - Symbolic music generation taking inspiration from NLP and human composition process
-- [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
@@ -2271,7 +2276,7 @@
 - [Baka-Nekoz/gpt2midi](https://github.com/Baka-Nekoz/gpt2midi) - A simple python app that generates a melody in the desired key using ChatGPT API and turns it into a MIDI file.
 - [AetherSonata/GPTmidi-UI](https://github.com/AetherSonata/GPTmidi-UI) - simple UI for generating midi through ChatGPT and other LLMs
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
-- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [SwayamSahoo11742/Scopul](https://github.com/SwayamSahoo11742/Scopul) - A python package to extract information from MIDI files
 - [johnnygreco/midiGPT](https://github.com/johnnygreco/midiGPT) - 🎹 midiGPT: a decoder-only transformer model for music generation
@@ -2768,7 +2773,6 @@
 - [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
 - [karan/slackzon](https://github.com/karan/slackzon) - Simple Amazon Product Search in Slack
 - [cdolivei/beatport2flac](https://github.com/cdolivei/beatport2flac) - Converts beatport's wav files to flac using the metadata from their api
-- [j-n-f/silly-beatport-scraper](https://github.com/j-n-f/silly-beatport-scraper) - Tool to help convert WAV files from Beatport into tagged FLAC (in spite of their silly API policy)
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [quentinsf/IMAPdedup](https://github.com/quentinsf/IMAPdedup) - IMAP message de-duplicator
@@ -3315,7 +3319,7 @@
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [jonathanzxu/keyless-ai-content-generation](https://github.com/jonathanzxu/keyless-ai-content-generation) - A Jasper alternative open source with ChatGPT, made keyless by Window.AI
 - [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - gpt4all and llama typescript bindings
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
 - [gannonh/openai-api-next-starter](https://github.com/gannonh/openai-api-next-starter) - OpenAI Next.js starter project
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [johnnesky/beepbox](https://github.com/johnnesky/beepbox) - An online tool for sketching and sharing instrumental melodies.
@@ -3419,6 +3423,7 @@
 - [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [constructorfleet/homebridge-ultimate-govee](https://github.com/constructorfleet/homebridge-ultimate-govee) - Homebridge plugin to control Govee products in HomeKit exactly as they were meant to be.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [seed-of-apricot/issue-list-readme](https://github.com/seed-of-apricot/issue-list-readme) - Display issues on the landing page 👀
