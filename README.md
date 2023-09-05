@@ -513,6 +513,7 @@
 
 ## HTML 
 
+- [GrowthTech2023/PostMe](https://github.com/GrowthTech2023/PostMe) - 
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 - [whatwg/fs](https://github.com/whatwg/fs) - File System Standard
@@ -2141,12 +2142,13 @@
 
 ## Python 
 
+- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for creating seamless music loops, with play/export support.
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
-- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [RafayKhattak/YoutubeGPT](https://github.com/RafayKhattak/YoutubeGPT) - YoutubeGPT is a web application powered by OpenAI's Whisper model for speech recognition and GPT-3 for text summarization. It extracts transcriptions from YouTube videos and provides users with concis
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
@@ -3413,7 +3415,7 @@
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
 - [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [graphlatte/graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind
 - [ektogamat/camera-webgi](https://github.com/ektogamat/camera-webgi) - A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.
@@ -3738,7 +3740,7 @@
 - [fdxs-alt/form-creator](https://github.com/fdxs-alt/form-creator) - Nextjs app allowing user to create custom forms like those at Google Forms.
 - [yomorun/react-cursor-chat](https://github.com/yomorun/react-cursor-chat) - &lt;CursorChat /&gt; React Component helps bring Figma's Cursor Chat to your web applications in less than 3 minutes, making real-time collaboration anywhere.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
 - [antoinechalifour/notion-embed-rss](https://github.com/antoinechalifour/notion-embed-rss) - Embed RSS Feeds into your Notion pages
 - [theodorusclarence/notiolink](https://github.com/theodorusclarence/notiolink) - ⚡ Self-hostable branded link shortener built with Next.js & Notion API
