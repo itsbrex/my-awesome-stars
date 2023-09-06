@@ -3060,7 +3060,6 @@
 - [Pondorasti/nextjs-chrome-extension](https://github.com/Pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
 - [thomaswangio/next-chrome](https://github.com/thomaswangio/next-chrome) - Next.js / Chrome extension starter template
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
-- [sozonome/nextarter-nextui](https://github.com/sozonome/nextarter-nextui) - template to initialize Next.js project with Next-UI and typescript setup
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
@@ -3421,6 +3420,13 @@
 
 ## others 
 
+- [aida-ugent/SkillGPT](https://github.com/aida-ugent/SkillGPT) - 
+- [aida-ugent/dnb-autodj](https://github.com/aida-ugent/dnb-autodj) - 
+- [mir-aidj/EDM-subgenre-classifier](https://github.com/mir-aidj/EDM-subgenre-classifier) - Code for "Deep Learning Based EDM Subgenre Classification using Mel-Spectrogram and Tempogram Features" arXiv:2110.08862, 2021.
+- [mir-aidj/djmix-analysis](https://github.com/mir-aidj/djmix-analysis) - Code for "A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment" ISMIR 2020
+- [zhaojw1998/Beat-Transformer](https://github.com/zhaojw1998/Beat-Transformer) - Codes for ISMIR 2022 paper: Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention
+- [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
+- [jonnybluesman/mscom](https://github.com/jonnybluesman/mscom) - Music structure analysis with community detection methods
 - [GrowthTech2023/PostMe](https://github.com/GrowthTech2023/PostMe) - 
 - [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
@@ -5820,7 +5826,6 @@
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [PatrickNiyogitare28/super-vite](https://github.com/PatrickNiyogitare28/super-vite) - ⚡ A vite react typescript boilerplate with pre-configured sass, redux-tool-kit, tailwind, eslint, prettier & jest, i18n internalization,  Dockerfile... built in cli coming soon ⚒️
-- [sozonome/nextarter-nextui](https://github.com/sozonome/nextarter-nextui) - template to initialize Next.js project with Next-UI and typescript setup
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
