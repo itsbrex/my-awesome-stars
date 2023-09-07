@@ -248,7 +248,7 @@
 - [sonic-visualiser/tony](https://github.com/sonic-visualiser/tony) - High quality pitch and note transcription for scientific applications
 - [michael-jan/key-repeat](https://github.com/michael-jan/key-repeat) - A lightweight beat repeat sampler. Available in VST and AU formats.
 - [usdivad/Melodrumatic](https://github.com/usdivad/Melodrumatic) - Audio plugin that lets you use MIDI to pitch-shift via delay to turn unpitched audio into melodies
-- [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
+- [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
 - [Boscillator/auger](https://github.com/Boscillator/auger) - LoFi hold music VST
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
@@ -300,7 +300,6 @@
 - [theianchan/base-frictionless-demo](https://github.com/theianchan/base-frictionless-demo) - Like Segment's frictionless signup concept, but for the Base demo form.
 - [siwalikm/quick-form-css](https://github.com/siwalikm/quick-form-css) - CSS boilerplate to convert raw html form to a beautiful minimalistic web-form. http://bit.ly/QFC-demo
 - [vip-git/nextjs-react-jsonschema-form-material-ui-example](https://github.com/vip-git/nextjs-react-jsonschema-form-material-ui-example) - 
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [SaadBazaz/next-whatsapp-chat-widget](https://github.com/SaadBazaz/next-whatsapp-chat-widget) - 📲 WhatsApp Chat Plugin/Widget for your Nextjs app
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
@@ -704,6 +703,7 @@
 - [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
 - [jdlee022/Synth-Lord](https://github.com/jdlee022/Synth-Lord) - (web app) A web based synthesizer with MIDI support.
 - [natemoo-re/tiny-decode](https://github.com/natemoo-re/tiny-decode) - Decode HTML entities the browser-friendly way
+- [BrainJS/brain.js-examples](https://github.com/BrainJS/brain.js-examples) - Brain.js Examples in Typescript and Javascript
 - [sindresorhus/import-modules](https://github.com/sindresorhus/import-modules) - Import all modules in a directory
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [aaronats/jsmidi-atom](https://github.com/aaronats/jsmidi-atom) - 
@@ -1227,6 +1227,7 @@
 - [slmnio/discord-form-webhooks](https://github.com/slmnio/discord-form-webhooks) - Cleaner and easier to customise webhooks from Google Forms to Discord (or wherever else)
 - [supreen/form2role-bot](https://github.com/supreen/form2role-bot) - Discord bot that automatically assigns roles(from spreadsheet) to users found in a Google Sheet
 - [sitepoint-editors/notion-api-javascript-quiz](https://github.com/sitepoint-editors/notion-api-javascript-quiz) - A project that shows the connection between NotionAPI and a database and creates a quiz from it with user interaction
+- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [daily-demos/daily-notion-chrome-extension](https://github.com/daily-demos/daily-notion-chrome-extension) - 
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [itstaranarora/eventhut-next](https://github.com/itstaranarora/eventhut-next) - Eventhut is a platform that connects you to events. Users can discover and book slot for their favorite events using this web application.
@@ -1597,6 +1598,7 @@
 - [pnnl/DeepDataProfiler](https://github.com/pnnl/DeepDataProfiler) - Python library for analyzing the internal structure of deep neural networks.
 - [youssefHosni/Practical-Machine-Learning](https://github.com/youssefHosni/Practical-Machine-Learning) - Practical machine learning notebook & articles covers the machine learning end to end life cycle.
 - [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [StanfordASL/ALPaCA](https://github.com/StanfordASL/ALPaCA) - Code for "Meta-Learning Priors for Efficient Online Bayesian Regression" by James Harrison, Apoorva Sharma, and Marco Pavone
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
 - [Harmonai-org/sample-generator](https://github.com/Harmonai-org/sample-generator) - Tools to train a generative model on arbitrary audio samples
@@ -2144,6 +2146,8 @@
 
 ## Python 
 
+- [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)
 - [aida-ugent/SkillGPT](https://github.com/aida-ugent/SkillGPT) - 
 - [aida-ugent/dnb-autodj](https://github.com/aida-ugent/dnb-autodj) - 
 - [mir-aidj/EDM-subgenre-classifier](https://github.com/mir-aidj/EDM-subgenre-classifier) - Code for "Deep Learning Based EDM Subgenre Classification using Mel-Spectrogram and Tempogram Features" arXiv:2110.08862, 2021.
@@ -2513,7 +2517,6 @@
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [seungheondoh/music-text-representation](https://github.com/seungheondoh/music-text-representation) - Toward Universal Text-to-Music-Retrieval [ICASSP2023]
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Ozennefr/GPPPT](https://github.com/Ozennefr/GPPPT) - A simple one file python script that executes AI processes defined in YML.
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
@@ -3215,7 +3218,6 @@
 - [natemoo-re/ultramatter](https://github.com/natemoo-re/ultramatter) - &lt;1kB frontmatter parser that supports a reasonable subset of YAML
 - [natemoo-re/ultraflag](https://github.com/natemoo-re/ultraflag) - &lt;1kB CLI flag parser
 - [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml) - 
-- [BrainJS/brain.js-examples](https://github.com/BrainJS/brain.js-examples) - Brain.js Examples in Typescript and Javascript
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
 - [steveluc/elec](https://github.com/steveluc/elec) - electron, typescript and webpack
@@ -3558,6 +3560,7 @@
 - [ohmyform/api](https://github.com/ohmyform/api) - ✏️ Free open source Application Programming Interface API for OhMyForm ⛺
 - [ohmyform/ui](https://github.com/ohmyform/ui) - ✏️ Free open source Web User Interface for OhMyForm  ⛺
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [vercel-labs/nextgram](https://github.com/vercel-labs/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
@@ -3763,7 +3766,6 @@
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [H-Richard/google-search](https://github.com/H-Richard/google-search) - 🔎 My personal website in the style and form of a google search
-- [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [alexmarqs/my-reminders-serverless-api](https://github.com/alexmarqs/my-reminders-serverless-api) - ⏰ Personal reminders built with Vercel API Serverless Functions (Notion as CMS + Twilio)
 - [minime89-maker/next.js-notion-blog](https://github.com/minime89-maker/next.js-notion-blog) - 💫  Blog build with Next.js, Notion's API, Tailwind CSS and Vercel
