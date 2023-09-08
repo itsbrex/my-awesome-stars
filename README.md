@@ -763,7 +763,6 @@
 - [matthewcaren/TRoco](https://github.com/matthewcaren/TRoco) - A generative algorithm for music composition based on jazz theory
 - [plassma/symbolic-music-discrete-diffusion](https://github.com/plassma/symbolic-music-discrete-diffusion) - 
 - [felixroos/strudel](https://github.com/felixroos/strudel) - 
-- [felixroos/loophole-letters](https://github.com/felixroos/loophole-letters) - 
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [rserota/wad](https://github.com/rserota/wad) - Web Audio DAW.  Use the Web Audio API for dynamic sound synthesis.  It's like jQuery for your ears.
@@ -1651,6 +1650,7 @@
 
 ## MDX 
 
+- [felixroos/loophole-letters](https://github.com/felixroos/loophole-letters) - 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
@@ -1808,7 +1808,7 @@
 - [Metalesaek/flowisejson](https://github.com/Metalesaek/flowisejson) - flowise with json data
 - [ljgago/typst-chords](https://github.com/ljgago/typst-chords) - A package to write song lyrics with chord diagrams in Typst
 - [jasonwcfan/awesome-rag](https://github.com/jasonwcfan/awesome-rag) - A repository of awesome open source projects to set up your own AI powered knowledge base
-- [polywrap/awesome-polywrap](https://github.com/polywrap/awesome-polywrap) - A collection of awesome things regarding the Polywrap ecosystem.
+- [polywrap/awesome-polywrap](https://github.com/polywrap/awesome-polywrap) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [arisona/m4l_devices](https://github.com/arisona/m4l_devices) - 
 - [iamwillrost/ableton-live-metronome-app](https://github.com/iamwillrost/ableton-live-metronome-app) - an apple watch application that uses ableton link metronome bpm and sync data from live and causes the watch to vibrate or pulse in time on the wrist.
@@ -1908,7 +1908,7 @@
 - [fregante/webext-fun](https://github.com/fregante/webext-fun) - WebExtension packages for every need
 - [BlkPingu/bartender-search](https://github.com/BlkPingu/bartender-search) - 
 - [evertschone/live_clip_search](https://github.com/evertschone/live_clip_search) - A tool that allows you to search for and play clips in Ableton Live by name.
-- [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API and chat API from anywhere
+- [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - Alfred 5 Workflow for using OpenAI GPT-3.5 and GPT-4 with Text Completion/Chat API. It also allows image generation using DALL-E API.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
@@ -2146,6 +2146,9 @@
 
 ## Python 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
+- [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
+- [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)
 - [aida-ugent/SkillGPT](https://github.com/aida-ugent/SkillGPT) - 
@@ -2373,7 +2376,7 @@
 - [flipcoder/textbeat](https://github.com/flipcoder/textbeat) - 🎹 plaintext music sequencer and midi shell, with vim playback and the powers of music theory  🥁
 - [Rainbow-Dreamer/musicpy](https://github.com/Rainbow-Dreamer/musicpy) - Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.
 - [stripe/stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
-- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - Official Implementation of "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [daugaard47/ChatGPT_Conversations_To_Markdown](https://github.com/daugaard47/ChatGPT_Conversations_To_Markdown) - ChatGPT Conversations to Markdown is a Python script that converts your exported ChatGPT conversations into readable and well-formatted Markdown files.
@@ -3173,6 +3176,7 @@
 
 ## TypeScript 
 
+- [Durgaprasad-Budhwani/transformers-js-samples](https://github.com/Durgaprasad-Budhwani/transformers-js-samples) - This is transformers.js samples
 - [yomorun/presencejs](https://github.com/yomorun/presencejs) - @yomo/presencejs ⚡️ Edge Infra for Realtime Web Applications, geo-distributed architecture.
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
@@ -3348,7 +3352,7 @@
 - [xiaoluoboding/chrome-ext-mv3-starter](https://github.com/xiaoluoboding/chrome-ext-mv3-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [vercel-labs/edge-data-latency](https://github.com/vercel-labs/edge-data-latency) - Visualize the latency of databases at the Edge.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - Simplify Building with LLMs, Function Calling and Reasoning
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A Caching and Debugging Proxy Server for LLM Users and A Multi-LLM Client Library
 - [simpel/little-template-maker](https://github.com/simpel/little-template-maker) - 
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
