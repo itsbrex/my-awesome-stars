@@ -512,6 +512,7 @@
 
 ## HTML 
 
+- [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 - [GrowthTech2023/PostMe](https://github.com/GrowthTech2023/PostMe) - 
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
@@ -798,6 +799,7 @@
 - [SerRat44/DIDMusicEngine](https://github.com/SerRat44/DIDMusicEngine) - The audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
 - [simplifiedkd/ChatGPT4MusicVisualizer](https://github.com/simplifiedkd/ChatGPT4MusicVisualizer) - 
 - [Pugsly99/EtherMidi](https://github.com/Pugsly99/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
+- [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a node.js web service for automate accounting via chatGPT, Telegram bot and Notion.
 - [iuzn/chatgpt-notion-clipper](https://github.com/iuzn/chatgpt-notion-clipper) - With chatgpt-notion-clipper, you can easily add your chatgpt conversations to a Notion page.
 - [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts f
 - [HCYT/notionAI](https://github.com/HCYT/notionAI) - NotionAI.js is a JavaScript library for accessing OpenAI's GPT-3 language model through the Notion API. Generate human-like text, translate, and change tone with ease.
@@ -1544,6 +1546,7 @@
 
 ## Jupyter Notebook 
 
+- [csteinmetz1/steerable-nafx](https://github.com/csteinmetz1/steerable-nafx) - Steerable discovery of neural audio effects
 - [mir-aidj/djmix-analysis](https://github.com/mir-aidj/djmix-analysis) - Code for "A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment" ISMIR 2020
 - [jonnybluesman/mscom](https://github.com/jonnybluesman/mscom) - Music structure analysis with community detection methods
 - [Torsion-Audio/Scyclone-AI](https://github.com/Torsion-Audio/Scyclone-AI) - Create presets for  Scyclone: a Real-time Neural Timbre Transfer Plug-in
@@ -1796,6 +1799,8 @@
 
 ## Others 
 
+- [affige/genmusic_demo_list](https://github.com/affige/genmusic_demo_list) - a list of demo websites for automatic music generation research
+- [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [magic-research/magic-avatar](https://github.com/magic-research/magic-avatar) - MagicAvatar: Multimodal Avatar Generation and Animation
 - [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
@@ -2145,8 +2150,12 @@
 
 ## Python 
 
+- [zhaojw1998/AccoMontage](https://github.com/zhaojw1998/AccoMontage) - Code and MIDI demo for paper: Zhao et al., AccoMontage: Accompaniment Arrangement via Phrase Selection and Style Transfer, ISMIR 2021
+- [ismir/mir-datasets](https://github.com/ismir/mir-datasets) - Simple collection of MIR datasets with metadata and links
+- [jmoso13/jukebox-diffusion](https://github.com/jmoso13/jukebox-diffusion) - 
+- [mhrice/RemFx](https://github.com/mhrice/RemFx) - General Purpose Audio Effect Removal
 - [csteinmetz1/wavebeat](https://github.com/csteinmetz1/wavebeat) - End-to-end beat and downbeat tracking in the time domain.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for gpt-3.5-turbo. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
@@ -2507,7 +2516,6 @@
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [gpnoel/DeepRemix](https://github.com/gpnoel/DeepRemix) - Remixing Music with Deep Learning
-- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [a-rich/DJ-Tools](https://github.com/a-rich/DJ-Tools) - DJ tools for downloading, processing, and sharing music / rekordbox data.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -3075,6 +3083,7 @@
 
 ## Svelte 
 
+- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [jc9108/dark-mode-pdf](https://github.com/jc9108/dark-mode-pdf) - converts PDFs to dark mode
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -3124,7 +3133,7 @@
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
 - [andrewcb/plink](https://github.com/andrewcb/plink) - An AudioUnit-based music programming environment for macOS
 - [Primer-Archive/primer-ios](https://github.com/Primer-Archive/primer-ios) - 
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
 - [n0shake/clocker](https://github.com/n0shake/clocker) - ⏲  macOS app to plan and organize through timezones.
 - [ionic-team/capacitor-remix-templates](https://github.com/ionic-team/capacitor-remix-templates) - Build native iOS, Android, and Web apps with Capacitor and Remix.run 💿
 - [rknightuk/TrackerZapper](https://github.com/rknightuk/TrackerZapper) - Menubar app to remove link tracking parameters automatically
@@ -3299,7 +3308,6 @@
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [loretoparisi/cleanup.pictures](https://github.com/loretoparisi/cleanup.pictures) - Code for https://cleanup.pictures
 - [willeswa/somadocs](https://github.com/willeswa/somadocs) - a nextjs app to implement reading documents using openai (embeddings and chat model), pinecone for vectors store and langchain.
-- [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a node.js web service for automate accounting via chatGPT, Telegram bot and Notion.
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [jbesomi/notionGPT](https://github.com/jbesomi/notionGPT) - Notion + ChatGPT = 🔥
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
