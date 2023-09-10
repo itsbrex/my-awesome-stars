@@ -235,7 +235,9 @@
 
 ## ai 
 
+- [mhrice/RemFx](https://github.com/mhrice/RemFx) - General Purpose Audio Effect Removal
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud
 - [simoncragg/synth-gpt](https://github.com/simoncragg/synth-gpt) - An intelligent voice assistant
@@ -434,6 +436,7 @@
 
 ## artificial-intelligence 
 
+- [affige/genmusic_demo_list](https://github.com/affige/genmusic_demo_list) - a list of demo websites for automatic music generation research
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
 - [archinetai/audio-diffusion-pytorch-trainer](https://github.com/archinetai/audio-diffusion-pytorch-trainer) - Trainer for audio-diffusion-pytorch
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
@@ -2166,6 +2169,7 @@
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [fheyen/musicvis-lib](https://github.com/fheyen/musicvis-lib) - Library for web-based music visualization
 - [petersalomonsen/javascriptmusic](https://github.com/petersalomonsen/javascriptmusic) - A.K.A. WebAssembly Music. Live coding music and synthesis in Javascript / AssemblyScript (WebAssembly)
+- [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
@@ -2412,6 +2416,7 @@
 
 ## language 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface.
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
@@ -2523,6 +2528,7 @@
 
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
@@ -2642,6 +2648,7 @@
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
 - [fire1ce/BrewUp](https://github.com/fire1ce/BrewUp) - BrewUp - macOS Auto Update Homebrew
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [samdenty/github-icons](https://github.com/samdenty/github-icons) - API, Chrome Extension & Mac App/CLI that adds icons to your repos
@@ -2785,6 +2792,7 @@
 
 ## music 
 
+- [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology
 - [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for creating seamless music loops, with play/export support.
 - [julian0821/Audio-to-MIDI](https://github.com/julian0821/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
 - [Kermalis/MIDIProgramSplitter](https://github.com/Kermalis/MIDIProgramSplitter) - 🎵 Split MIDI tracks with multiple instruments! Convert MIDI to FLP! 🎵
@@ -3423,7 +3431,13 @@
 
 ## others 
 
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
+- [zhaojw1998/AccoMontage](https://github.com/zhaojw1998/AccoMontage) - Code and MIDI demo for paper: Zhao et al., AccoMontage: Accompaniment Arrangement via Phrase Selection and Style Transfer, ISMIR 2021
+- [ismir/mir-datasets](https://github.com/ismir/mir-datasets) - Simple collection of MIR datasets with metadata and links
+- [bitwig/dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
+- [jmoso13/jukebox-diffusion](https://github.com/jmoso13/jukebox-diffusion) - 
+- [csteinmetz1/steerable-nafx](https://github.com/csteinmetz1/steerable-nafx) - Steerable discovery of neural audio effects
+- [csteinmetz1/wavebeat](https://github.com/csteinmetz1/wavebeat) - End-to-end beat and downbeat tracking in the time domain.
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for gpt-3.5-turbo. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [Durgaprasad-Budhwani/transformers-js-samples](https://github.com/Durgaprasad-Budhwani/transformers-js-samples) - This is transformers.js samples
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
@@ -3443,7 +3457,6 @@
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
 - [Torsion-Audio/Scyclone-AI](https://github.com/Torsion-Audio/Scyclone-AI) - Create presets for  Scyclone: a Real-time Neural Timbre Transfer Plug-in
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [SoundStacks/cmajor](https://github.com/SoundStacks/cmajor) - The Cmajor public API
 - [RafayKhattak/YoutubeGPT](https://github.com/RafayKhattak/YoutubeGPT) - YoutubeGPT is a web application powered by OpenAI's Whisper model for speech recognition and GPT-3 for text summarization. It extracts transcriptions from YouTube videos and provides users with concis
 - [jcvasquezc/DisVoice](https://github.com/jcvasquezc/DisVoice) - feature extraction from speech signals
@@ -3734,7 +3747,7 @@
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
 - [WouterVanNifterick/delphi-klatt-synth](https://github.com/WouterVanNifterick/delphi-klatt-synth) - Klatt Speech Synthesizer
 - [skibumstevo/FileNameShortener-AppleScript](https://github.com/skibumstevo/FileNameShortener-AppleScript) - Intelligently shortens filenames exceeding 143 characters in length (Synology exFAT eCryptfs safe)
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [Yudhister1/AI-Composer-for-Machine-Learning-](https://github.com/Yudhister1/AI-Composer-for-Machine-Learning-) - LSTM recurrent neural network over a dataset of MIDI files
 - [eupston/midi-mason](https://github.com/eupston/midi-mason) - A Web Application for generating midi drums using Google Magenta AI, creating, and sharing beats. The Site is live here: https://midi-mason.herokuapp.com/
@@ -4358,7 +4371,6 @@
 - [JustinShenk/sheet-copier](https://github.com/JustinShenk/sheet-copier) - Chrome Extension to Make a Google Sheet Copyable
 - [theKashey/react-remove-scroll-bar](https://github.com/theKashey/react-remove-scroll-bar) - Remove document scroll bar. Nothing more
 - [CrystallizeAPI/crystallize-cli](https://github.com/CrystallizeAPI/crystallize-cli) - Scaffold a Crystallize project via the command line
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [55sketch/gsx2json](https://github.com/55sketch/gsx2json) - Google Spreadsheet to JSON API service.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -6513,6 +6525,7 @@
 - [gusinacio/vscode-conventional-commit-ai](https://github.com/gusinacio/vscode-conventional-commit-ai) - Create conventional commits using Open Ai API
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
+- [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
 - [revblaze/AppleMusicFriends](https://github.com/revblaze/AppleMusicFriends) - A JavaScript framework for Music that better integrates the social experience of listening with friends (like Spotify)
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
