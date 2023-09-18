@@ -1811,6 +1811,7 @@
 
 ## Others 
 
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [affige/genmusic_demo_list](https://github.com/affige/genmusic_demo_list) - a list of demo websites for automatic music generation research
 - [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
@@ -2162,7 +2163,7 @@
 ## Python 
 
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
-- [dizzysaturn/soundstorm](https://github.com/dizzysaturn/soundstorm) - Soundstorm is an advanced audio manipulation tool powered by AI. Generate text-to-audio music and sound design, generate and customize algorithmic drum loops, create algorithmic sample packs, randomiz
+- [dizzysaturn/soundstorm](https://github.com/dizzysaturn/soundstorm) - Soundstorm is a cutting-edge AI-powered audio manipulation application designed to provide a rich yet simplified experience for sound designers, algorithmic composers, and experimental audio enthusias
 - [Music-Recommendation-Engine-Project/Music-Recommendation-Engine](https://github.com/Music-Recommendation-Engine-Project/Music-Recommendation-Engine) - Music Recommendation System
 - [IndexStorm/git-rec-back](https://github.com/IndexStorm/git-rec-back) - Backend code for GitHub Recommendation Extension
 - [zharry29/drums-with-llm](https://github.com/zharry29/drums-with-llm) - 
