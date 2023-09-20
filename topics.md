@@ -235,6 +235,7 @@
 
 ## ai 
 
+- [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [IndexStorm/git-rec-back](https://github.com/IndexStorm/git-rec-back) - Backend code for GitHub Recommendation Extension
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
@@ -315,7 +316,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, compl
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -371,7 +372,7 @@
 - [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
-- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native
+- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [elblogbruno/NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 - [dpet23/Export-iTunes-Playlists](https://github.com/dpet23/Export-iTunes-Playlists) - Script to export playlists from iTunes to a folder. Can now export from iTunes to Android.
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
@@ -416,7 +417,7 @@
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, compl
 - [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -426,7 +427,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [alyssaxuu/figma-to-google-slides](https://github.com/alyssaxuu/figma-to-google-slides) - Convert Figma frames into a Google Slides presentation 🍭
 - [sbzhu/weworkapi_php](https://github.com/sbzhu/weworkapi_php) - official lib of wework api
@@ -653,7 +654,7 @@
 ## azure 
 
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, compl
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 
 ## babel 
@@ -755,7 +756,7 @@
 - [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 - [Bradybry/chatXML](https://github.com/Bradybry/chatXML) - A proposal for a structured LLM prompt method.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
@@ -830,7 +831,7 @@
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, compl
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
@@ -1849,7 +1850,7 @@
 - [jokull/python-ts-graphql-demo](https://github.com/jokull/python-ts-graphql-demo) - Demo project to demonstrate how an asyncio Python project with SQLAlchemy and Strawberry can have a great typed DX on the frontend via codegen and TypeScript React hooks.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [gajus/format-graphql](https://github.com/gajus/format-graphql) - Formats GraphQL schema definition language (SDL) document.
 - [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
@@ -1914,6 +1915,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+- [octokit/auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
 - [vantezzen/skip-silence](https://github.com/vantezzen/skip-silence) - 🔇 Browser extension to skip silent parts in videos and audio files on any webpage
@@ -2129,7 +2131,7 @@
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native
+- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [Ableton/AudioPerfLab](https://github.com/Ableton/AudioPerfLab) - An app for exploring real-time audio performance on iPhone and iPad.
 - [shyrz/url-schemes-store](https://github.com/shyrz/url-schemes-store) - A store of  URL schemes
 - [TalkingData/YourView](https://github.com/TalkingData/YourView) - YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
@@ -2479,7 +2481,7 @@
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [nxbyte/PythonAudioEffects](https://github.com/nxbyte/PythonAudioEffects) - A Python library that can apply: darth vader, echo, radio, robotic, and ghost effects to audio samples.
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [fheyen/musicvis-lib](https://github.com/fheyen/musicvis-lib) - Library for web-based music visualization
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -2489,7 +2491,7 @@
 - [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) - This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 - [tanaikech/ProjectApp2](https://github.com/tanaikech/ProjectApp2) - This is a GAS project library for Google Apps Script (GAS). This library can be used for the projects of both standalone script type and container-bound script type.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
-- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native
+- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [Isotopejs/isotope](https://github.com/Isotopejs/isotope) - UI library that aims to bring simplicity and intuitiveness back to Web Development. 🚀
@@ -3045,8 +3047,9 @@
 
 ## nextjs 
 
+- [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 13: Store, Landing, Admin, Dashboard 🔥 i18n, Stripe, Shadcn Tailwind, Drizzle, Zod Trpc TypeScript, Resend Auth Page, Lucide CSS Radix UI Themes, Responsive React Server Components, TS Postgre
+- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 13.5: Store, Landing, Admin, Dashboard 🌳 i18n, Stripe, Shadcn Tailwind, Drizzle, Zod Trpc TypeScript, Resend Auth Page, Lucide CSS Radix UI, Responsive React Server Components, TS Postgre ORM 
 - [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter 💻 Next.js 13, Tauri Apps UI, Solito Expo 💪 i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript Page, Resend, Auth, Lucide CSS Radix UI, Responsive React Server, 
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -3487,6 +3490,7 @@
 
 ## others 
 
+- [moises-ai/moises-db](https://github.com/moises-ai/moises-db) - Moises Source Separation Public Dataset
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [magenta/music-spectrogram-diffusion](https://github.com/magenta/music-spectrogram-diffusion) - 
 - [GitZip/chrome-extension](https://github.com/GitZip/chrome-extension) - 
@@ -3494,7 +3498,7 @@
 - [googlecreativelab/aiexperiments-drum-machine](https://github.com/googlecreativelab/aiexperiments-drum-machine) - Thousands of everyday sounds, organized using machine learning.
 - [xenova/chat-with-youtube](https://github.com/xenova/chat-with-youtube) - A browser extension that lets you chat with YouTube videos using Llama2-7b. Built using 🤗 Inference Endpoints and Vercel's AI SDK.
 - [rossrobino/blog](https://github.com/rossrobino/blog) - My blog
-- [rossrobino/robino](https://github.com/rossrobino/robino) - Personal website
+- [rossrobino/robino.dev](https://github.com/rossrobino/robino.dev) - Personal website
 - [zharry29/drums-with-llm](https://github.com/zharry29/drums-with-llm) - 
 - [phlippseitz/RavenWhisperer](https://github.com/phlippseitz/RavenWhisperer) - Listens to your voice and queries a language model for answers when a question is detected
 - [cryscan/web-rwkv](https://github.com/cryscan/web-rwkv) - Implementation of the RWKV language model in pure WebGPU/Rust.
@@ -3708,7 +3712,7 @@
 - [emredjan/cnn-audio-recognition](https://github.com/emredjan/cnn-audio-recognition) - Audio to midi conversion using deep learning and google nsynth dataset
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [imiskolee/so-vits-svc-5.0](https://github.com/imiskolee/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
-- [PlayVoice/so-vits-svc-5.0](https://github.com/PlayVoice/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
+- [PlayVoice/whisper-vits-svc](https://github.com/PlayVoice/whisper-vits-svc) - Core Engine of Singing Voice Conversion & Singing Voice Clone
 - [Noise-Labs/chords-dataset](https://github.com/Noise-Labs/chords-dataset) - automaticlly chord midi & wav files generator
 - [skorokithakis/jsane](https://github.com/skorokithakis/jsane) - A saner way to traverse JSON in Python
 - [vercel/spr-landing](https://github.com/vercel/spr-landing) - Serverless Pre-Rendering Landing Page
@@ -3892,7 +3896,6 @@
 - [wwweather/ai-codes](https://github.com/wwweather/ai-codes) - AI codes.
 - [unijump-ai/unijump-extension](https://github.com/unijump-ai/unijump-extension) - 
 - [whimzyLive/ai-writer](https://github.com/whimzyLive/ai-writer) - 
-- [octokit/auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript
 - [nzkdevsaider/ableton-nextjs](https://github.com/nzkdevsaider/ableton-nextjs) - Replica of Ableton website made in NextJS.
 - [matis-io/AbletonAnalog80sSound](https://github.com/matis-io/AbletonAnalog80sSound) - Presets for Ableton Live's Analog synthesiser of 80s hits
 - [BSvER1/AbletonMidiMapper](https://github.com/BSvER1/AbletonMidiMapper) - a small utility for grabbing automation out of ableton to send to other applications over virtual midi ports
@@ -5621,7 +5624,7 @@
 - [davidfstr/Python-in-Mac-App-Store](https://github.com/davidfstr/Python-in-Mac-App-Store) - Barebones Python app that can be submitted to the Mac App Store.
 - [davidfstr/trycast](https://github.com/davidfstr/trycast) - trycast parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
 - [Bubobubobubobubo/sardine](https://github.com/Bubobubobubobubo/sardine) - Python's missing "algorave" module
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [RegsonDR/spotify-save-playlists-cron](https://github.com/RegsonDR/spotify-save-playlists-cron) - Save Spotify's auto-generated playlists automatically - Powered by Github Actions.
@@ -5851,6 +5854,8 @@
 
 ## react 
 
+- [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
+- [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
 - [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter 💻 Next.js 13, Tauri Apps UI, Solito Expo 💪 i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript Page, Resend, Auth, Lucide CSS Radix UI, Responsive React Server, 
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -6016,7 +6021,7 @@
 - [koji/react_with_TailwindCSS](https://github.com/koji/react_with_TailwindCSS) - reactjs with Tailwind CSS
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
-- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native
+- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
@@ -6076,7 +6081,7 @@
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [tomsoderlund/reactnative-nextjs-template](https://github.com/tomsoderlund/reactnative-nextjs-template) - Build native apps (iOS/Android/Windows/macOS) and an SEO-optimized web app from the same React codebase
-- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native
+- [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [tjcages/lil-chat](https://github.com/tjcages/lil-chat) - an app to post on your own private wall
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 
@@ -6582,6 +6587,7 @@
 
 ## typescript 
 
+- [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next.js project.
@@ -6904,7 +6910,7 @@
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, compl
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
