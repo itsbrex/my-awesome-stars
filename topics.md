@@ -235,6 +235,7 @@
 
 ## ai 
 
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Tools to organise your emails and reach inbox zero faster with the help of AI.
 - [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [IndexStorm/git-rec-back](https://github.com/IndexStorm/git-rec-back) - Backend code for GitHub Recommendation Extension
@@ -252,7 +253,7 @@
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The agent framework for Large Language Models
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -1812,7 +1813,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
 - [pasela/alfred-chrome-history](https://github.com/pasela/alfred-chrome-history) - Alfred workflow for Chrome history
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -1926,6 +1927,7 @@
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2166,7 +2168,6 @@
 ## javascript 
 
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
-- [yomorun/presencejs](https://github.com/yomorun/presencejs) - @yomo/presencejs ⚡️ Edge Infra for Realtime Web Applications, geo-distributed architecture.
 - [BruceWeyne/NETFLIX-SUBTITLE-SCRAPER](https://github.com/BruceWeyne/NETFLIX-SUBTITLE-SCRAPER) - Scrape NETFLIX movies' subtitles as playing. For language learning.
 - [ighoshsubho/NotionAutomation](https://github.com/ighoshsubho/NotionAutomation) - Notion Automation using Serverless and Notion API
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
@@ -2292,7 +2293,7 @@
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [Kareemfahmy97/GroupChat-react](https://github.com/Kareemfahmy97/GroupChat-react) - Full Stack Realtime Chat Messaging Application with authintication, direct messages, group chats creation, emojis & reactions, giphs, edit and delete messages, reply and specialized commands as forwar
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [jamiewilson/form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
@@ -3047,6 +3048,7 @@
 
 ## nextjs 
 
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Tools to organise your emails and reach inbox zero faster with the help of AI.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 13.5: Store, Landing, Admin, Dashboard 🌳 i18n, Stripe, Shadcn Tailwind, Drizzle, Zod Trpc TypeScript, Resend Auth Page, Lucide CSS Radix UI, Responsive React Server Components, TS Postgre ORM 
@@ -3490,6 +3492,7 @@
 
 ## others 
 
+- [satelllte/remotion-template](https://github.com/satelllte/remotion-template) - A template for crafting programmatic videos, tailored to personal preferences.
 - [moises-ai/moises-db](https://github.com/moises-ai/moises-db) - Moises Source Separation Public Dataset
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [magenta/music-spectrogram-diffusion](https://github.com/magenta/music-spectrogram-diffusion) - 
@@ -4897,7 +4900,7 @@
 - [bassrock/iTunesMetadata.bundle](https://github.com/bassrock/iTunesMetadata.bundle) - An agent for Plex iTunes Metadata
 - [jiahaog/gitcloud](https://github.com/jiahaog/gitcloud) - Use GitHub for file hosting and indexing
 - [CutePoisonX/PoisonConvert](https://github.com/CutePoisonX/PoisonConvert) - A little tool to batch-convert movies
-- [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [el1t/uBlock-Safari](https://github.com/el1t/uBlock-Safari) - uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean.
 - [physcip/mountclean-osx](https://github.com/physcip/mountclean-osx) - uphclean clone for Mac OS X
 - [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions) - Add-on actions and API Docs for Dropzone 4
@@ -5519,7 +5522,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -5717,7 +5720,7 @@
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [mevimo/youbit](https://github.com/mevimo/youbit) - Host any type of file on YouTube
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever) - 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
 - [Jeff53978/LinkGen](https://github.com/Jeff53978/LinkGen) - An Open Source Account Generator Bot!
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
@@ -5999,7 +6002,7 @@
 - [xk2800/TODO-app-fullstack-jamstack-nextjs](https://github.com/xk2800/TODO-app-fullstack-jamstack-nextjs) - A simple to-do PWA. Built with Next.js, Next Auth, Tailwind CSS & Airtable. (Made to try out airtable's abilities)
 - [JithinAntony4/nextjs-pwa-boilerplate](https://github.com/JithinAntony4/nextjs-pwa-boilerplate) - 🔥 NextJS Boilerplate with hybrid static & server rendering, TypeScript support, route pre-fetching, PWA support, FCM integration, SendGrid integration, Twilio integration, and Google SignIn
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [kvokov/oh-my-fullstack](https://github.com/kvokov/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
@@ -6587,6 +6590,7 @@
 
 ## typescript 
 
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Tools to organise your emails and reach inbox zero faster with the help of AI.
 - [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
