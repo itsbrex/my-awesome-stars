@@ -916,6 +916,7 @@
 
 ## chrome-extension 
 
+- [itsbrex/git-goin](https://github.com/itsbrex/git-goin) - A Chrome + Orion extension to clone and open any repo in your default editor ✨
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [j3soon/arxiv-utils](https://github.com/j3soon/arxiv-utils) - Meaningful titles for tabs and PDF downloads! Also supports tab search.
 - [xenova/commentblock](https://github.com/xenova/commentblock) - Automatically block spam and scam YouTube comments
@@ -1261,7 +1262,6 @@
 ## database 
 
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-- [JoshBot-Debug/Json-Database-Local](https://github.com/JoshBot-Debug/Json-Database-Local) - Maintain a Json Database locally
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [dosyago/sirdb](https://github.com/dosyago/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -1270,7 +1270,7 @@
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
-- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact with massive embedding, text and image datasets in your web browser
+- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1720,6 +1720,7 @@
 
 ## github 
 
+- [itsbrex/git-goin](https://github.com/itsbrex/git-goin) - A Chrome + Orion extension to clone and open any repo in your default editor ✨
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [wadackel/files-sync-action](https://github.com/wadackel/files-sync-action) - :package: A customizable action that synchronizes files across multiple repositories.
@@ -1897,6 +1898,7 @@
 
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 - [eshaz/icecast-metadata-js](https://github.com/eshaz/icecast-metadata-js) - Browser and NodeJS packages for playing and reading Icecast compatible streaming audio with realtime metadata updates.
+- [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1908,7 +1910,7 @@
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  Your gateway to the next tech job.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
@@ -1918,6 +1920,7 @@
 - [ensemblesaw/ensembles-app](https://github.com/ensemblesaw/ensembles-app) - A digital arranger workstation powered by FluidSynth
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2590,7 +2593,7 @@
 - [YuchenJin/autolrs](https://github.com/YuchenJin/autolrs) - Automatic learning-rate scheduler
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files. Integration with music production tools.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  Your gateway to the next tech job.
 - [Ludwiggle/GRUMIDI](https://github.com/Ludwiggle/GRUMIDI) - Recurrent Neural Network for generative MIDI music
 - [glefundes/audio-class](https://github.com/glefundes/audio-class) - Web-based tool for straight-forward class annotation of audio files
 - [spags093/spotify_song_data](https://github.com/spags093/spotify_song_data) - Part 1: Analysis of Spotify song data that uses Machine Learning to determine what features make a "hit" song on Spotify.
@@ -3075,7 +3078,7 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  Your gateway to the next tech job.
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -3500,6 +3503,7 @@
 
 ## others 
 
+- [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [urinieto/msaf](https://github.com/urinieto/msaf) - Music Structure Analysis Framework
 - [satelllte/remotion-template](https://github.com/satelllte/remotion-template) - A template for crafting programmatic videos, tailored to personal preferences.
 - [moises-ai/moises-db](https://github.com/moises-ai/moises-db) - Moises Source Separation Public Dataset
@@ -5614,7 +5618,7 @@
 - [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - 
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  Your gateway to the next tech job.
 - [jaakkopee/neuronSeq](https://github.com/jaakkopee/neuronSeq) - A MIDI sequencer based on a neural network.
 - [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
 - [glefundes/audio-class](https://github.com/glefundes/audio-class) - Web-based tool for straight-forward class annotation of audio files
@@ -5669,7 +5673,7 @@
 - [DBraun/AbletonParsing](https://github.com/DBraun/AbletonParsing) - Parse an Ableton ASD clip file (warp markers and more) in Python
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact with massive embedding, text and image datasets in your web browser
+- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
 - [xlwings/xlwings-server-helloworld-fastapi](https://github.com/xlwings/xlwings-server-helloworld-fastapi) - Demo repo for the xlwings Server
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -6217,7 +6221,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [huboles/cellseq](https://github.com/huboles/cellseq) - generative midi sequencer
-- [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Plain Rust wrapper of Ableton Link's C 11 extension
+- [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper for Ableton Link
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust.
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
@@ -6611,7 +6615,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.  Your gateway to the next tech job.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
