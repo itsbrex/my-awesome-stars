@@ -185,7 +185,7 @@
 - [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
 - [SoundStacks/cmajor](https://github.com/SoundStacks/cmajor) - The Cmajor public API
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [julian0821/Audio-to-MIDI](https://github.com/julian0821/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
+- [jomarkow/Audio-to-MIDI](https://github.com/jomarkow/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
 - [ddiakopoulos/modern-midi](https://github.com/ddiakopoulos/modern-midi) - :musical_score: C++11 MIDI file & realtime io library
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
@@ -684,6 +684,7 @@
 
 ## JavaScript 
 
+- [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West's stem player emulator
 - [j3soon/arxiv-utils](https://github.com/j3soon/arxiv-utils) - Meaningful titles for tabs and PDF downloads! Also supports tab search.
 - [GitZip/chrome-extension](https://github.com/GitZip/chrome-extension) - 
 - [googlecreativelab/aiexperiments-drum-machine](https://github.com/googlecreativelab/aiexperiments-drum-machine) - Thousands of everyday sounds, organized using machine learning.
@@ -1516,7 +1517,7 @@
 - [jaz303/spark](https://github.com/jaz303/spark) - Javascript teaching environment; like Processing with a REPL!
 - [sksmatt/NodeJS-Ableton-Piano](https://github.com/sksmatt/NodeJS-Ableton-Piano) - Controlling Ableton Live via the browser in real time using Node.JS, Express, Socket.IO and MIDI.
 - [carrierdown/m4l-midular](https://github.com/carrierdown/m4l-midular) - Max for Live modular MIDI processing modules, aka Midular
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [din/simplify_web_suite_core](https://github.com/din/simplify_web_suite_core) - Core source code for Simplify browser extensions for web players.
 - [SamyPesse/code2stl](https://github.com/SamyPesse/code2stl) - The Revolution is coming, 3D code like you’ve never seen it before!
 - [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
@@ -3129,7 +3130,7 @@
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta)
 - [vishnunair639/svelte-vite-daisyui-tailwind-starter](https://github.com/vishnunair639/svelte-vite-daisyui-tailwind-starter) - Learn SveteKit
 - [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [Fauntleroy/neutral-face-emoji-tools](https://github.com/Fauntleroy/neutral-face-emoji-tools) - Utilities that make life as a Slack emoji addict a little easier.
 
 ## Swift 
@@ -3296,7 +3297,7 @@
 - [rubenspgcavalcante/webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers
 - [polywrap/PolyGPT](https://github.com/polywrap/PolyGPT) - PolyGPT is an autonomous agent that can learn new capabilities on-demand.
 - [batuhanbilginn/openai-function-call-nextjs](https://github.com/batuhanbilginn/openai-function-call-nextjs) - How you can send email with function calls and Resend in Next.js application
-- [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
+- [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - An opinionated hypermedia-driven architecture for building web apps
 - [jshanley/motivejs](https://github.com/jshanley/motivejs) - JavaScript music theory library
 - [Richienb/audic](https://github.com/Richienb/audic) - Play some audio.
 - [Bubobubobubobubo/sardine-vscode](https://github.com/Bubobubobubobubo/sardine-vscode) - VSCode extension for Sardine
