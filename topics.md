@@ -23,6 +23,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
+- [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
@@ -235,6 +236,7 @@
 
 ## ai 
 
+- [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Tools to organise your emails and reach inbox zero faster with the help of AI.
 - [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -669,6 +671,14 @@
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 
+## backend 
+
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax 📜
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
 ## bash 
 
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -703,6 +713,7 @@
 
 ## blockchain 
 
+- [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [crapthings/hardhat-dapp-starter](https://github.com/crapthings/hardhat-dapp-starter) - a dapp starter kit with modern workflow.
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -1131,6 +1142,7 @@
 
 ## cryptocurrency 
 
+- [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [isaiahbjork/Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -1280,6 +1292,7 @@
 
 ## deep-learning 
 
+- [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [omerbsezer/MusicGeneration](https://github.com/omerbsezer/MusicGeneration) - Music generation with LSTM model (Keras)
@@ -1528,6 +1541,7 @@
 
 ## eslint 
 
+- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next.js project.
 - [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension) - 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
 - [imbhargav5/nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
@@ -1913,7 +1927,6 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
@@ -1935,6 +1948,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
+- [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
@@ -2577,6 +2591,7 @@
 
 ## machine-learning 
 
+- [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [Music-Recommendation-Engine-Project/Music-Recommendation-Engine](https://github.com/Music-Recommendation-Engine-Project/Music-Recommendation-Engine) - Music Recommendation System
 - [IndexStorm/git-rec-back](https://github.com/IndexStorm/git-rec-back) - Backend code for GitHub Recommendation Extension
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
@@ -3063,6 +3078,7 @@
 
 ## nextjs 
 
+- [yusufgns/crmonorepo](https://github.com/yusufgns/crmonorepo) - Fast usable build for turborepo and shadcn ui users
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Tools to organise your emails and reach inbox zero faster with the help of AI.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
@@ -3508,6 +3524,8 @@
 
 ## others 
 
+- [merlresearch/cocktail-fork-separation](https://github.com/merlresearch/cocktail-fork-separation) - Baseline multi-resolution cross network model trained using the Divide and Remaster Dataset
+- [moiseshorta/ADD-audio-dataset-downloader](https://github.com/moiseshorta/ADD-audio-dataset-downloader) - Simple Python CLI script for downloading N-hours of audio from Youtube, based on a list of music genres.
 - [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West's stem player emulator
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [urinieto/msaf](https://github.com/urinieto/msaf) - Music Structure Analysis Framework
@@ -5490,6 +5508,7 @@
 
 ## p2p 
 
+- [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
@@ -5800,6 +5819,7 @@
 
 ## pytorch 
 
+- [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
@@ -5874,6 +5894,8 @@
 
 ## react 
 
+- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
+- [yusufgns/crmonorepo](https://github.com/yusufgns/crmonorepo) - Fast usable build for turborepo and shadcn ui users
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
@@ -6108,6 +6130,7 @@
 
 ## reactjs 
 
+- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next.js project.
 - [JL978/spotify-clone-client](https://github.com/JL978/spotify-clone-client) - A ReactJS clone application of the popular Spotify music streaming service. This application utilizes the Spotify API and the Spotify Web Playback SDK
@@ -6447,6 +6470,7 @@
 
 ## svelte 
 
+- [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
 - [rossrobino/gpt](https://github.com/rossrobino/gpt) - Custom ChatGPT wrapper
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -6553,6 +6577,7 @@
 
 ## terminal 
 
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
@@ -6608,6 +6633,8 @@
 
 ## typescript 
 
+- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
+- [mickasmt/ui-colorgen](https://github.com/mickasmt/ui-colorgen) - An application designed to assist you with color configuration of shadcn/ui !
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Tools to organise your emails and reach inbox zero faster with the help of AI.
 - [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
