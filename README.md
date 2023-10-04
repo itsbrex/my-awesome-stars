@@ -182,6 +182,8 @@
 
 ## C++ 
 
+- [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
+- [CrushedPixel/Plugalyzer](https://github.com/CrushedPixel/Plugalyzer) - Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins
 - [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
 - [SoundStacks/cmajor](https://github.com/SoundStacks/cmajor) - The Cmajor public API
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -684,6 +686,7 @@
 
 ## JavaScript 
 
+- [PandarusAnon/slaude](https://github.com/PandarusAnon/slaude) - 
 - [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West's stem player emulator
 - [j3soon/arxiv-utils](https://github.com/j3soon/arxiv-utils) - Meaningful titles for tabs and PDF downloads! Also supports tab search.
 - [GitZip/chrome-extension](https://github.com/GitZip/chrome-extension) - 
@@ -2162,6 +2165,8 @@
 
 ## Python 
 
+- [LostAbaddon/AutoClaude](https://github.com/LostAbaddon/AutoClaude) - An experimental open-source attempt to make GPT-like tools fully autonomous. Add a new AI-Layer for Claude, so if you have Anthropic api-key, you can use Claude-version AutoGPT: AutoClaude.
+- [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
 - [merlresearch/cocktail-fork-separation](https://github.com/merlresearch/cocktail-fork-separation) - Baseline multi-resolution cross network model trained using the Divide and Remaster Dataset
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [moiseshorta/ADD-audio-dataset-downloader](https://github.com/moiseshorta/ADD-audio-dataset-downloader) - Simple Python CLI script for downloading N-hours of audio from Youtube, based on a list of music genres.
@@ -2187,7 +2192,7 @@
 - [jmoso13/jukebox-diffusion](https://github.com/jmoso13/jukebox-diffusion) - 
 - [mhrice/RemFx](https://github.com/mhrice/RemFx) - General Purpose Audio Effect Removal
 - [csteinmetz1/wavebeat](https://github.com/csteinmetz1/wavebeat) - End-to-end beat and downbeat tracking in the time domain.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for OpenAI. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
@@ -2230,7 +2235,7 @@
 - [Music-and-Culture-Technology-Lab/omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a v
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
-- [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
+- [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -2950,6 +2955,7 @@
 
 ## Rust 
 
+- [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) - Rust - Augmented Audio Libraries
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [cryscan/web-rwkv](https://github.com/cryscan/web-rwkv) - Implementation of the RWKV language model in pure WebGPU/Rust.
 - [lucacasonato/wgpu_cts_runner](https://github.com/lucacasonato/wgpu_cts_runner) - A minimal JS runtime built on Deno (deno_core / extensions) that can be used to test WebGPU CTS outside of full Deno.
@@ -3240,7 +3246,7 @@
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 13.5: Store, Landing, Admin, Dashboard 🌳 i18n, Stripe, Shadcn Tailwind, Drizzle, Zod Trpc TypeScript, Resend Auth Page, Lucide CSS Radix UI, Responsive React Server Components, TS Postgre ORM 
+- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 13: Store, Landing, Admin, Dashboard 🌳 i18n, Stripe, Shadcn Tailwind, Drizzle, Zod Trpc TypeScript, Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Postgre TS ORM
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [johnpolacek/date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
@@ -3686,7 +3692,7 @@
 - [alampros/react-confetti](https://github.com/alampros/react-confetti) - Confetti without the cleanup.
 - [juliomuhlbauer/julio](https://github.com/juliomuhlbauer/julio) - 
 - [Rixcy/shouldibeoff](https://github.com/Rixcy/shouldibeoff) - Simple site for checking if it's a bank holiday in the UK
-- [abelljs/abell](https://github.com/abelljs/abell) - A Low-Level, Framework Agnostic, Highly Flexible Static-Site-Generator to help you build Static Sites without too much of learning curve 🌀 [Alpha]
+- [abelljs/abell](https://github.com/abelljs/abell) - A Low-Level, Framework Agnostic, Highly Flexible Static-Site-Generator to help you build Static Sites without too much of learning curve 🌀
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [adamsoffer/next-apollo](https://github.com/adamsoffer/next-apollo) - React higher-order component for integrating Apollo Client with Next.js
