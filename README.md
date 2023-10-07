@@ -182,6 +182,7 @@
 
 ## C++ 
 
+- [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) - An all-round dump function library for C++ that supports even user-defined classes.
 - [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
 - [CrushedPixel/Plugalyzer](https://github.com/CrushedPixel/Plugalyzer) - Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins
 - [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
@@ -278,6 +279,7 @@
 
 ## CMake 
 
+- [steinbergmedia/vst3sdk](https://github.com/steinbergmedia/vst3sdk) - VST 3 Plug-In SDK
 - [jatinchowdhury18/LinkTestPlugin](https://github.com/jatinchowdhury18/LinkTestPlugin) - A minimal test audio plugin containing an Ableton Link instance
 
 ## CSS 
@@ -436,6 +438,7 @@
 
 ## Go 
 
+- [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [schollz/miti](https://github.com/schollz/miti) - miti is a musical instrument textual interface. Basically, its MIDI, but with human-readable text. :musical_note:
@@ -686,6 +689,7 @@
 
 ## JavaScript 
 
+- [amaciver/AudioFiler](https://github.com/amaciver/AudioFiler) - 
 - [mikeckennedy/pyscript-pwa-example](https://github.com/mikeckennedy/pyscript-pwa-example) - 
 - [intoli/user-agents](https://github.com/intoli/user-agents) - A JavaScript library for generating random user agents with data that's updated daily.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -1566,6 +1570,7 @@
 
 ## Jupyter Notebook 
 
+- [liuyishengalan/Music-Mood-Lifter-ML](https://github.com/liuyishengalan/Music-Mood-Lifter-ML) - The Music Mood Lifter is a software system empowered by machine learning algorithms that can detect facial expressions from input faces.
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable and useful multi-agent collaboration at scale to automate real-world tasks.
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [magenta/music-spectrogram-diffusion](https://github.com/magenta/music-spectrogram-diffusion) - 
@@ -3243,6 +3248,8 @@
 
 ## TypeScript 
 
+- [wundergraph/open-previews](https://github.com/wundergraph/open-previews) - Open source preview comments
+- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
 - [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
 - [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
