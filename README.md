@@ -117,6 +117,7 @@
 
 - [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
 - [mhroth/tinyosc](https://github.com/mhroth/tinyosc) - A minimal Open Sound Control (OSC) library written in vanilla C.
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [CarlWangChina/SongDriver2-Real-time-Emotion-based-Music-Arrangement-with-Soft-Transition](https://github.com/CarlWangChina/SongDriver2-Real-time-Emotion-based-Music-Arrangement-with-Soft-Transition) - SongDriver2 achieves a balance between real-time emotion fit and soft transitions, enhancing the coherence of the generated music.
 - [Rezonality/zing](https://github.com/Rezonality/zing) - Audio Integration Library
 - [sprymix/metamagic.json](https://github.com/sprymix/metamagic.json) - An ultra-fast Python implementation of a JSON encoder
@@ -1575,6 +1576,7 @@
 
 ## Jupyter Notebook 
 
+- [asigalov61/tegridy-tools](https://github.com/asigalov61/tegridy-tools) - Symbolic Music NLP Artificial Intelligence Toolkit
 - [liuyishengalan/Music-Mood-Lifter-ML](https://github.com/liuyishengalan/Music-Mood-Lifter-ML) - The Music Mood Lifter is a software system empowered by machine learning algorithms that can detect facial expressions from input faces.
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable and useful multi-agent collaboration at scale to automate real-world tasks.
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
@@ -2182,6 +2184,9 @@
 
 ## Python 
 
+- [asigalov61/Euterpe-X](https://github.com/asigalov61/Euterpe-X) - [SOTA] [PyTorch 2.0] [638M] [85.33% acc] Full-attention multi-instrumental music transformer for supervised music generation, optimized for speed, efficiency, and performance
+- [dcervantes/scidle-midi-rnn](https://github.com/dcervantes/scidle-midi-rnn) - Generating MIDI music with Recurrent Neural Networks
+- [asigalov61/Orchestrator](https://github.com/asigalov61/Orchestrator) - Local windowed attention multi-instrumental music transformer tailored for music orchestration/instrumentation and stable music generation
 - [nateraw/huggingface-sync-action](https://github.com/nateraw/huggingface-sync-action) - GitHub action that'll sync files from a GitHub Repo with the Hugging Face Hub 🤗
 - [hallatore/stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) - Enables use of ChatGPT directly from the UI
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
@@ -2327,7 +2332,6 @@
 - [AutonomousResearchGroup/autocoder](https://github.com/AutonomousResearchGroup/autocoder) - Code that basically writes itself
 - [EleutherAI/aria](https://github.com/EleutherAI/aria) - 
 - [StefanHeng/Symbolic-Music-Generation](https://github.com/StefanHeng/Symbolic-Music-Generation) - Symbolic music generation taking inspiration from NLP and human composition process
-- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [yunlong10/LaunchpadGPT](https://github.com/yunlong10/LaunchpadGPT) - Repo for ICMC 2023 paper: LaunchpadGPT: Language Model as Music Visualization Designer on Launchpad
@@ -3255,6 +3259,10 @@
 
 ## TypeScript 
 
+- [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
+- [iansimon/magenta-js](https://github.com/iansimon/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [panayotsky-dev/MobileShopView](https://github.com/panayotsky-dev/MobileShopView) - Interview Task with Next,React,TailwindCSS,Context,framer-motion,TS
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
