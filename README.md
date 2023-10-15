@@ -695,6 +695,7 @@
 
 ## JavaScript 
 
+- [remorses/installable-framer](https://github.com/remorses/installable-framer) - Use Framer components in your React project
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
@@ -973,7 +974,7 @@
 - [tomimick/tomitool-vsext](https://github.com/tomimick/tomitool-vsext) - VSCode extension to add custom syntax hilighting to plain text files
 - [Ddupasquier/instaassistant-client](https://github.com/Ddupasquier/instaassistant-client) - AntiSocialSuite is a tool used for automating social media interaction. Allowing a user to create events that run on schedule to send likes, follows, dm, and comments all from one dashboard.
 - [dineshsonachalam/repo-using-markdown-autodocs](https://github.com/dineshsonachalam/repo-using-markdown-autodocs) - 
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [alyssaxuu/motionity](https://github.com/alyssaxuu/motionity) - The web-based motion graphics editor for everyone 📽
@@ -2435,7 +2436,7 @@
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs)
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
-- [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - [Under Review] The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning
+- [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - [EMNLP 2023] The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning
 - [kaistAI/SelFee](https://github.com/kaistAI/SelFee) - Official codebase for "SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation"
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -3270,6 +3271,8 @@
 
 ## TypeScript 
 
+- [plsankar/colorhunter](https://github.com/plsankar/colorhunter) - Chrome Extenstion to export the color palette of a website in a single click.
+- [14islands/r3f-scroll-rig](https://github.com/14islands/r3f-scroll-rig) - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
 - [leap-ai/leap-ai-cover-images](https://github.com/leap-ai/leap-ai-cover-images) - 
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
 - [udecode/plate-template](https://github.com/udecode/plate-template) - A Next.js 13 template with Plate.
@@ -3501,7 +3504,7 @@
 - [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
-- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的ChatGPT快捷指令，无需熟悉提示词，就能轻松搜索、优化和管理Prompts，适应多语言及各种生产效率场景。
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
