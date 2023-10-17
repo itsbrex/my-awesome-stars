@@ -347,7 +347,7 @@
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
-- [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - 🎩 Alfred 5 Workflow for using OpenAI GPT-3.5 and GPT-4 🤖 with Text Completion/Chat API 📝 It also allows image generation using DALL-E API 🖼️ and speech-to-text conversion using Whisper API 💬
+- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 Alfred Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖 It also allows image generation using DALL-E API 🖼️ and speech-to-text conversion using Whisper API 🎤
 - [shorwood/gptsh](https://github.com/shorwood/gptsh) - GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
 - [devidw/ghrns](https://github.com/devidw/ghrns) - GitHub Repository Naming Suggestion Service: AI powered naming suggestions for your GitHub repositories
 - [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - 🔮 Codeball – AI Code Review that finds bugs and fast-tracks your code
@@ -799,7 +799,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [gajosu/chat-gpt-rest-api](https://github.com/gajosu/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
-- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, LLMs +🌌 Brief overview,🦙summary notes,🔎references, and ♾a cheatsheet..
+- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, LLMs +🌌 Brief overview,🦙Summary notes,🔎References, and 🎋Cheatsheet..
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
@@ -892,7 +892,7 @@
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-- [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - 🎩 Alfred 5 Workflow for using OpenAI GPT-3.5 and GPT-4 🤖 with Text Completion/Chat API 📝 It also allows image generation using DALL-E API 🖼️ and speech-to-text conversion using Whisper API 💬
+- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 Alfred Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖 It also allows image generation using DALL-E API 🖼️ and speech-to-text conversion using Whisper API 🎤
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ## chatgpt-api 
@@ -1100,7 +1100,7 @@
 ## clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-- [Deep-Symmetry/beat-carabiner](https://github.com/Deep-Symmetry/beat-carabiner) - A minimal tempo bridge between Pioneer Pro DJ Link and Ableton Link.
+- [Deep-Symmetry/beat-carabiner](https://github.com/Deep-Symmetry/beat-carabiner) - A minimal tempo bridge between Pioneer Pro DJ Link and Ableton Link in Clojure.
 - [Deep-Symmetry/beat-link-trigger](https://github.com/Deep-Symmetry/beat-link-trigger) - Trigger events and automate shows in response to events on Pioneer CDJs
 - [Deep-Symmetry/afterglow](https://github.com/Deep-Symmetry/afterglow) - A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone.
 
@@ -1316,6 +1316,8 @@
 
 ## deep-learning 
 
+- [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
+- [aisu-programming/Chord-Recognition](https://github.com/aisu-programming/Chord-Recognition) - Recognize chords in songs using Bidirectional Transformer || AI Cup 2020 - Chord Recognition Competition (9th place) / 和弦辨識競賽 (第九名)
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [asigalov61/tegridy-tools](https://github.com/asigalov61/tegridy-tools) - Symbolic Music NLP Artificial Intelligence Toolkit
 - [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
@@ -1462,6 +1464,7 @@
 
 ## docker 
 
+- [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
 - [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
@@ -2043,7 +2046,7 @@
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
-- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
+- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [Tomburgs/pwa-boilerplate](https://github.com/Tomburgs/pwa-boilerplate) - ✨ PWA Boilerplate is highly scalable and is designed to help you kick-start your next project 🔭.
 - [echobind/bisonapp](https://github.com/echobind/bisonapp) - A Full Stack Jamstack in-a-box brought to you by Echobind
 - [hmu332233/q-link](https://github.com/hmu332233/q-link) - Q.Link | Hide your link behind a simple quiz.
@@ -2941,6 +2944,7 @@
 
 ## music 
 
+- [stackswithans/akkorder](https://github.com/stackswithans/akkorder) - A Typescript port of Adam Stark's C++ implementation of the chord recognition algorithm described in the paper : Real-Time Chord Recognition For Live Performance, A. M. Stark and M. D. Plumbley.
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
 - [dcervantes/scidle-midi-rnn](https://github.com/dcervantes/scidle-midi-rnn) - Generating MIDI music with Recurrent Neural Networks
 - [asigalov61/Orchestrator](https://github.com/asigalov61/Orchestrator) - Local windowed attention multi-instrumental music transformer tailored for music orchestration/instrumentation and stable music generation
@@ -3177,7 +3181,7 @@
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 13: Store, Landing, Admin, Dashboard 🌳 i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS 
-- [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter 💻 Next.js 13, Tauri Apps UI, Solito Expo 💪 i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript Page, Resend, Auth, Lucide CSS Radix UI, Responsive React Server, 
+- [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter 💻 Next.js 13, Tauri Apps UI, Solito Expo 💪 i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Resend, Auth, Lucide CSS Radix UI, Responsive React Server, TS OR
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
@@ -3398,7 +3402,7 @@
 - [kinosal/cowriter](https://github.com/kinosal/cowriter) - Write 10x faster using OpenAI's GPT-3 based Davinci model to autocomplete your text
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - 🎩 Alfred 5 Workflow for using OpenAI GPT-3.5 and GPT-4 🤖 with Text Completion/Chat API 📝 It also allows image generation using DALL-E API 🖼️ and speech-to-text conversion using Whisper API 💬
+- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 Alfred Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖 It also allows image generation using DALL-E API 🖼️ and speech-to-text conversion using Whisper API 🎤
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
@@ -3624,6 +3628,21 @@
 
 ## others 
 
+- [mxkrn/webchord](https://github.com/mxkrn/webchord) - Real-time chord detection in the browser :musical_note:
+- [THE-BAETLES/chord-play-genre-detection](https://github.com/THE-BAETLES/chord-play-genre-detection) - # This repository is for genre detection use trained model using GTZAN Dataset
+- [nathan20021/react-chord-detection](https://github.com/nathan20021/react-chord-detection) - 
+- [catallerG/Chord_Detection](https://github.com/catallerG/Chord_Detection) - 
+- [Jotade100/Wav2Chord](https://github.com/Jotade100/Wav2Chord) - CNN for chord detection
+- [VTorres09/ProjectMoises](https://github.com/VTorres09/ProjectMoises) - 🎶 A chord detection system that aims to detect the chord sequence in a song and its respective playing times, this project was created for the Moises Chord Detection Challenge, based on Decibel’s Algo
+- [emirdemirel/Chord-ScaleDetection](https://github.com/emirdemirel/Chord-ScaleDetection) - Chord-Scales Dataset created & annotated for 'automatic scale detection' task
+- [RandomVertebrate/console-audioSpectra](https://github.com/RandomVertebrate/console-audioSpectra) - CLI spectral histograms of mic audio | Pitch / chord detection algorithms
+- [audio-is-fun/real-time-chord-detection](https://github.com/audio-is-fun/real-time-chord-detection) - Implementation of algorithm proposed in Bachelor Thesis: Design and Evaluation of a Simple Chord Detection Algorithm by Christoph Hausner.
+- [judyqiu1996/Chord-detection](https://github.com/judyqiu1996/Chord-detection) - Detected chords in a piece of music made of instruments, e.g. piano and guitar, by using Maximum Likelihood Method and FFT.
+- [mbaske/ml-chord-detection](https://github.com/mbaske/ml-chord-detection) - Chord Detection with Unity ML-Agents (Audio Sensor)
+- [adamstark/Chord-Detector-and-Chromagram](https://github.com/adamstark/Chord-Detector-and-Chromagram) - A Chord Detection and Chromagram Estimation Algorithm
+- [sevagh/chord-detection](https://github.com/sevagh/chord-detection) - DSP algorithms for chord detection + key estimation
+- [ohollo/chord-extractor](https://github.com/ohollo/chord-extractor) - Python library for extracting chords from multiple sound file formats
+- [natew/vxrn](https://github.com/natew/vxrn) - Vite meets React Native
 - [remorses/installable-framer](https://github.com/remorses/installable-framer) - Use Framer components in your React project
 - [14islands/r3f-scroll-rig](https://github.com/14islands/r3f-scroll-rig) - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
 - [leap-ai/leap-ai-cover-images](https://github.com/leap-ai/leap-ai-cover-images) - 
@@ -4240,7 +4259,7 @@
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
 - [adamchainz/abledecoder](https://github.com/adamchainz/abledecoder) - decrypts Ableton DRM-protected *.aif files
 - [Swizec/article-threader](https://github.com/Swizec/article-threader) - Smöl tool that turns URLs into twitter threads
@@ -6043,7 +6062,7 @@
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
-- [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter 💻 Next.js 13, Tauri Apps UI, Solito Expo 💪 i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript Page, Resend, Auth, Lucide CSS Radix UI, Responsive React Server, 
+- [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter 💻 Next.js 13, Tauri Apps UI, Solito Expo 💪 i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Resend, Auth, Lucide CSS Radix UI, Responsive React Server, TS OR
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
@@ -6701,6 +6720,8 @@
 
 ## tensorflow 
 
+- [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
+- [aisu-programming/Chord-Recognition](https://github.com/aisu-programming/Chord-Recognition) - Recognize chords in songs using Bidirectional Transformer || AI Cup 2020 - Chord Recognition Competition (9th place) / 和弦辨識競賽 (第九名)
 - [salu133445/arranger](https://github.com/salu133445/arranger) - Official Implementation of "Towards Automatic Instrumentation by Learning to Separate Parts in Symbolic Multitrack Music" (ISMIR 2021)
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
@@ -6786,6 +6807,7 @@
 
 ## typescript 
 
+- [stackswithans/akkorder](https://github.com/stackswithans/akkorder) - A Typescript port of Adam Stark's C++ implementation of the chord recognition algorithm described in the paper : Real-Time Chord Recognition For Live Performance, A. M. Stark and M. D. Plumbley.
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [ChrisAbdo/Portfolio](https://github.com/ChrisAbdo/Portfolio) - A beautifully crafted portfolio made with Next.js, TailwindCSS, and Framer Motion
