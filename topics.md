@@ -230,6 +230,7 @@
 
 ## 3d 
 
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [Qingcsai/awesome-3D-Deep-Learning](https://github.com/Qingcsai/awesome-3D-Deep-Learning) - Collection of 3D deep-learning/machine learning materials
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
@@ -238,7 +239,7 @@
 ## ai 
 
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable and useful multi-agent collaboration at scale to automate real-world tasks.
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable, fast,  and useful multi-agent collaboration at scale to automate real-world tasks.
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Tools to organise your emails and reach inbox zero faster with the help of AI.
@@ -413,7 +414,7 @@
 ## api 
 
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -455,7 +456,7 @@
 
 - [asigalov61/Orchestrator](https://github.com/asigalov61/Orchestrator) - Local windowed attention multi-instrumental music transformer tailored for music orchestration/instrumentation and stable music generation
 - [asigalov61/tegridy-tools](https://github.com/asigalov61/tegridy-tools) - Symbolic Music NLP Artificial Intelligence Toolkit
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable and useful multi-agent collaboration at scale to automate real-world tasks.
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable, fast,  and useful multi-agent collaboration at scale to automate real-world tasks.
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -769,7 +770,7 @@
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
 - [proxoar/talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable and useful multi-agent collaboration at scale to automate real-world tasks.
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable, fast,  and useful multi-agent collaboration at scale to automate real-world tasks.
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
 - [dizzysaturn/soundstorm](https://github.com/dizzysaturn/soundstorm) - Soundstorm is a cutting-edge AI-powered audio manipulation application designed to provide a rich yet simplified experience for sound designers, algorithmic composers, and experimental audio enthusias
@@ -1031,6 +1032,7 @@
 
 ## cli 
 
+- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Nextjs apps faster
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
@@ -1152,6 +1154,7 @@
 
 ## cpp 
 
+- [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) - An all-round dump function library for C++ that can print any type, even user-defined types.
 - [jomarkow/Audio-to-MIDI](https://github.com/jomarkow/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [Rezonality/zing](https://github.com/Rezonality/zing) - Audio Integration Library
@@ -1654,6 +1657,7 @@
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [glefundes/audio-class](https://github.com/glefundes/audio-class) - Web-based tool for straight-forward class annotation of audio files
 - [HasiruNMP/audio-effects-web-api](https://github.com/HasiruNMP/audio-effects-web-api) - A simple web API for adding audio effects (reverb, compression, delay) for audio files and video files
+- [guocaoyi/china-region](https://github.com/guocaoyi/china-region) - China Regions Data
 - [van-william/prompt-web-app](https://github.com/van-william/prompt-web-app) - GPT-3 & DALL-E 2 Demo Web App
 - [Pancham1603/SpotiPyDownloader](https://github.com/Pancham1603/SpotiPyDownloader) - Downloads Spotify playlist and returns zip file as Google Drive link. Supports instant individual downloads too!
 
@@ -1676,6 +1680,7 @@
 
 ## framework 
 
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
@@ -1954,16 +1959,16 @@
 
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 - [eshaz/icecast-metadata-js](https://github.com/eshaz/icecast-metadata-js) - Browser and NodeJS packages for playing and reading Icecast compatible streaming audio with realtime metadata updates.
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA's Open Source project listing
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
@@ -2249,10 +2254,11 @@
 
 ## javascript 
 
+- [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js) - High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [Ibaslogic/react-audio-player](https://github.com/Ibaslogic/react-audio-player) - A standard React audio player
 - [ChrisAbdo/Portfolio](https://github.com/ChrisAbdo/Portfolio) - A beautifully crafted portfolio made with Next.js, TailwindCSS, and Framer Motion
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
@@ -2662,7 +2668,7 @@
 
 - [dcervantes/scidle-midi-rnn](https://github.com/dcervantes/scidle-midi-rnn) - Generating MIDI music with Recurrent Neural Networks
 - [liuyishengalan/Music-Mood-Lifter-ML](https://github.com/liuyishengalan/Music-Mood-Lifter-ML) - The Music Mood Lifter is a software system empowered by machine learning algorithms that can detect facial expressions from input faces.
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable and useful multi-agent collaboration at scale to automate real-world tasks.
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable, fast,  and useful multi-agent collaboration at scale to automate real-world tasks.
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
@@ -3168,12 +3174,14 @@
 
 ## nextjs 
 
+- [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
+- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Nextjs apps faster
 - [udecode/plate-template](https://github.com/udecode/plate-template) - A Next.js 13 template with Plate.
 - [udecode/plate-playground-template](https://github.com/udecode/plate-playground-template) - A Next.js 13 template with Plate playground.
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [ChrisAbdo/Portfolio](https://github.com/ChrisAbdo/Portfolio) - A beautifully crafted portfolio made with Next.js, TailwindCSS, and Framer Motion
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [panayotsky-dev/MobileShopView](https://github.com/panayotsky-dev/MobileShopView) - Interview Task with Next,React,TailwindCSS,Context,framer-motion,TS
 - [yusufgns/crmonorepo](https://github.com/yusufgns/crmonorepo) - Fast usable build for turborepo and shadcn ui users
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
@@ -3438,7 +3446,7 @@
 ## nodejs 
 
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [eshaz/icecast-metadata-js](https://github.com/eshaz/icecast-metadata-js) - Browser and NodeJS packages for playing and reading Icecast compatible streaming audio with realtime metadata updates.
 - [ighoshsubho/NotionAutomation](https://github.com/ighoshsubho/NotionAutomation) - Notion Automation using Serverless and Notion API
@@ -3628,6 +3636,9 @@
 
 ## others 
 
+- [ruucm/shadergradient](https://github.com/ruucm/shadergradient) - 
+- [trpc/examples-next-prisma-websockets-starter](https://github.com/trpc/examples-next-prisma-websockets-starter) - 🏓 tRPC Next.js WebSocket Starter
+- [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
 - [mxkrn/webchord](https://github.com/mxkrn/webchord) - Real-time chord detection in the browser :musical_note:
 - [THE-BAETLES/chord-play-genre-detection](https://github.com/THE-BAETLES/chord-play-genre-detection) - # This repository is for genre detection use trained model using GTZAN Dataset
 - [nathan20021/react-chord-detection](https://github.com/nathan20021/react-chord-detection) - 
@@ -3661,7 +3672,6 @@
 - [hallatore/stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) - Enables use of ChatGPT directly from the UI
 - [amaciver/AudioFiler](https://github.com/amaciver/AudioFiler) - 
 - [wundergraph/open-previews](https://github.com/wundergraph/open-previews) - Open source preview comments
-- [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) - An all-round dump function library for C++ that supports even user-defined classes.
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [mikeckennedy/pyscript-pwa-example](https://github.com/mikeckennedy/pyscript-pwa-example) - 
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
@@ -3702,6 +3712,7 @@
 - [jmoso13/jukebox-diffusion](https://github.com/jmoso13/jukebox-diffusion) - 
 - [csteinmetz1/steerable-nafx](https://github.com/csteinmetz1/steerable-nafx) - Steerable discovery of neural audio effects
 - [csteinmetz1/wavebeat](https://github.com/csteinmetz1/wavebeat) - End-to-end beat and downbeat tracking in the time domain.
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [Durgaprasad-Budhwani/transformers-js-samples](https://github.com/Durgaprasad-Budhwani/transformers-js-samples) - This is transformers.js samples
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
@@ -4434,7 +4445,6 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [Rocketseat/umbriel](https://github.com/Rocketseat/umbriel) - 📪  Mail sending microservice with Node.js, TypeScript and MongoDB
 - [ravgeetdhillon/notion-bookmarks](https://github.com/ravgeetdhillon/notion-bookmarks) - A Next.js powered Chrome Extension to save weblinks to a Notion database
-- [guocaoyi/create-bun](https://github.com/guocaoyi/create-bun) - bun boilerplate, npm starter
 - [tjluoma/di](https://github.com/tjluoma/di) - [D]ownload and [I]nstall Mac apps
 - [domnantas/raycast-chatgpt](https://github.com/domnantas/raycast-chatgpt) - 
 - [alexwhin/huntr.in](https://github.com/alexwhin/huntr.in) - Product hunt reviews widget. Enables product hunt makers to embed a dynamic reviews widget into their application/website https://www.producthunt.com/posts/product-hunt-reviews-widget
@@ -5960,6 +5970,7 @@
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort free video editing!
 - [akashrchandran/syrics](https://github.com/akashrchandran/syrics) - A command line tool to fetch lyrics from spotify and save it to lrc file. It can fetch both synced and unsynced lyrics from spotify.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [guocaoyi/china-region](https://github.com/guocaoyi/china-region) - China Regions Data
 - [amitkan1995/Vision](https://github.com/amitkan1995/Vision) - A smart attendance system to monitor attendance and update it to excel sheet. A version 2.0 of Fack-Reck (https://github.com/amitkan1995/Face-Reck) with an improved UI and now support Google Sheet Upd
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [ashenoy95/ml](https://github.com/ashenoy95/ml) - Machine Learning, Neural Nets, Deep Learning basics
@@ -6033,6 +6044,7 @@
 
 ## rails 
 
+- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Nextjs apps faster
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -6046,12 +6058,12 @@
 
 ## react 
 
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
 - [Ibaslogic/react-audio-player](https://github.com/Ibaslogic/react-audio-player) - A standard React audio player
 - [ChrisAbdo/Portfolio](https://github.com/ChrisAbdo/Portfolio) - A beautifully crafted portfolio made with Next.js, TailwindCSS, and Framer Motion
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [proxoar/talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
@@ -6293,6 +6305,7 @@
 
 ## reactjs 
 
+- [mkosir/trpc-fe-boilerplate](https://github.com/mkosir/trpc-fe-boilerplate) - ⚒️ Minimal tRPC frontend boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
 - [Ibaslogic/react-audio-player](https://github.com/Ibaslogic/react-audio-player) - A standard React audio player
 - [panayotsky-dev/MobileShopView](https://github.com/panayotsky-dev/MobileShopView) - Interview Task with Next,React,TailwindCSS,Context,framer-motion,TS
 - [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
@@ -6370,7 +6383,7 @@
 
 ## rest-api 
 
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [j471n/next-hulu](https://github.com/j471n/next-hulu) - This web app is a clone of Hulu, a streaming service for movies and television shows. It utilizes the themoviedb API to retrieve data for the content that is displayed in the application. However, the
@@ -6807,6 +6820,8 @@
 
 ## typescript 
 
+- [mkosir/trpc-fe-boilerplate](https://github.com/mkosir/trpc-fe-boilerplate) - ⚒️ Minimal tRPC frontend boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
+- [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
 - [stackswithans/akkorder](https://github.com/stackswithans/akkorder) - A Typescript port of Adam Stark's C++ implementation of the chord recognition algorithm described in the paper : Real-Time Chord Recognition For Live Performance, A. M. Stark and M. D. Plumbley.
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
@@ -6814,7 +6829,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
