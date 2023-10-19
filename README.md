@@ -699,6 +699,7 @@
 
 ## JavaScript 
 
+- [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js) - High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.
 - [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
 - [mxkrn/webchord](https://github.com/mxkrn/webchord) - Real-time chord detection in the browser :musical_note:
@@ -1595,7 +1596,6 @@
 - [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
 - [asigalov61/tegridy-tools](https://github.com/asigalov61/tegridy-tools) - Symbolic Music NLP Artificial Intelligence Toolkit
 - [liuyishengalan/Music-Mood-Lifter-ML](https://github.com/liuyishengalan/Music-Mood-Lifter-ML) - The Music Mood Lifter is a software system empowered by machine learning algorithms that can detect facial expressions from input faces.
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable, fast,  and useful multi-agent collaboration at scale to automate real-world tasks.
 - [magenta/music-spectrogram-diffusion](https://github.com/magenta/music-spectrogram-diffusion) - 
 - [csteinmetz1/steerable-nafx](https://github.com/csteinmetz1/steerable-nafx) - Steerable discovery of neural audio effects
 - [mir-aidj/djmix-analysis](https://github.com/mir-aidj/djmix-analysis) - Code for "A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment" ISMIR 2020
@@ -1903,7 +1903,7 @@
 - [maitreverge/camel_crusher_ableton](https://github.com/maitreverge/camel_crusher_ableton) - :dromedary_camel: Camel Crusher :dromedary_camel: by Camel Audio, discontinued VST Audio-Pluggin. Custom-mapped for Ableton 10+ Working :muscle: Crushing :boom:
 - [Adrian-Winter/Ableton-Dj-Booth](https://github.com/Adrian-Winter/Ableton-Dj-Booth) - A Max for Live plugin that makes DJing with Ableton a pleasure
 - [samvincent/AbletonLive-Traktor-Filter](https://github.com/samvincent/AbletonLive-Traktor-Filter) - Traktor style Cut-Off Filter for Ableton Live
-- [estoycon/Ableton-Drum-Racks](https://github.com/estoycon/Ableton-Drum-Racks) - 
+- [eristoy/Ableton-Drum-Racks](https://github.com/eristoy/Ableton-Drum-Racks) - 
 - [AhmadMoussa/Python-Midi-Ableton](https://github.com/AhmadMoussa/Python-Midi-Ableton) - A tutorial/guide on how to send midi signals from python to Ableton live, as resources on the internet about this are sparse and cryptic
 - [owencm/hooktheory-data](https://github.com/owencm/hooktheory-data) - Data dump from hook theory / hooktheory
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
@@ -2106,7 +2106,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [alite/vjlxnr](https://github.com/alite/vjlxnr) - … (one more) simple VJing tool made with max/jitter/m4l …
 - [alexanderhuth/alfred-open-in-browser-workflow](https://github.com/alexanderhuth/alfred-open-in-browser-workflow) - An Alfred workflow to open the current browser tab in a different browser.
-- [timepigeon/add-snippet.alfredworkflow](https://github.com/timepigeon/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
+- [kozykove/add-snippet.alfredworkflow](https://github.com/kozykove/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
 - [stuartcryan/defaultbrowser-alfred-workflow](https://github.com/stuartcryan/defaultbrowser-alfred-workflow) - Default Browser workflow for Alfred using Kerma's DefaultBrowser Binary
 - [gravitinos/slack_themes](https://github.com/gravitinos/slack_themes) - :speech_balloon: Slack Themes :see_no_evil: A collection of themes for Slack pulled together into one easily referenced place, letting you get a taste before you copy and paste!
 - [chadanderson/alfred_quick_resize](https://github.com/chadanderson/alfred_quick_resize) - Quickly resize images on your desktop with Alfred
@@ -2216,6 +2216,7 @@
 - [asigalov61/Orchestrator](https://github.com/asigalov61/Orchestrator) - Local windowed attention multi-instrumental music transformer tailored for music orchestration/instrumentation and stable music generation
 - [nateraw/huggingface-sync-action](https://github.com/nateraw/huggingface-sync-action) - GitHub action that'll sync files from a GitHub Repo with the Hugging Face Hub 🤗
 - [hallatore/stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) - Enables use of ChatGPT directly from the UI
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable, fast,  and useful multi-agent collaboration at scale to automate real-world tasks.
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [music-x-lab/Self-Supervised-Metrical-Structure](https://github.com/music-x-lab/Self-Supervised-Metrical-Structure) - 
@@ -3288,12 +3289,13 @@
 
 ## TypeScript 
 
+- [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [ruucm/shadergradient](https://github.com/ruucm/shadergradient) - 
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [trpc/examples-next-prisma-websockets-starter](https://github.com/trpc/examples-next-prisma-websockets-starter) - 🏓 tRPC Next.js WebSocket Starter
 - [mkosir/trpc-fe-boilerplate](https://github.com/mkosir/trpc-fe-boilerplate) - ⚒️ Minimal tRPC frontend boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
 - [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Nextjs apps faster
+- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 - [nathan20021/react-chord-detection](https://github.com/nathan20021/react-chord-detection) - 
 - [stackswithans/akkorder](https://github.com/stackswithans/akkorder) - A Typescript port of Adam Stark's C++ implementation of the chord recognition algorithm described in the paper : Real-Time Chord Recognition For Live Performance, A. M. Stark and M. D. Plumbley.
 - [natew/vxrn](https://github.com/natew/vxrn) - Vite meets React Native
@@ -3311,7 +3313,7 @@
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
 - [iansimon/magenta-js](https://github.com/iansimon/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -3513,7 +3515,6 @@
 - [Jervis2049/vite-plugin-crx-mv3](https://github.com/Jervis2049/vite-plugin-crx-mv3) - Build a Chrome Extension with Vite⚡
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,000 downloads.
