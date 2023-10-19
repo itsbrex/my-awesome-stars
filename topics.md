@@ -414,7 +414,7 @@
 ## api 
 
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -1032,7 +1032,7 @@
 
 ## cli 
 
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Nextjs apps faster
+- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
@@ -1193,7 +1193,6 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
-- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [thiagobraga/google-calendar-userstyles](https://github.com/thiagobraga/google-calendar-userstyles) - 🗓 One Dark theme for Google Calendar
@@ -1267,6 +1266,7 @@
 ## data 
 
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution) - ISP Data Pollution to Protect Private Browsing History with Obfuscation
@@ -1500,7 +1500,6 @@
 
 ## education 
 
-- [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
@@ -1680,10 +1679,11 @@
 
 ## framework 
 
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
@@ -1959,7 +1959,7 @@
 
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -1983,6 +1983,7 @@
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [ensemblesaw/ensembles-app](https://github.com/ensemblesaw/ensembles-app) - A digital arranger workstation powered by FluidSynth
@@ -2258,7 +2259,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [Ibaslogic/react-audio-player](https://github.com/Ibaslogic/react-audio-player) - A standard React audio player
 - [ChrisAbdo/Portfolio](https://github.com/ChrisAbdo/Portfolio) - A beautifully crafted portfolio made with Next.js, TailwindCSS, and Framer Motion
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
@@ -2283,7 +2284,6 @@
 - [pqml/midibus.js](https://github.com/pqml/midibus.js) - :bus::dash::notes: Web MIDI API wrapper based on themidibus
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
-- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [bepitulaz/generative-music](https://github.com/bepitulaz/generative-music) - The code from my single: A New Life
 - [jaggad/crunker](https://github.com/jaggad/crunker) - Simple way to merge or concatenate audio files with the Web Audio API.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -3072,7 +3072,6 @@
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - Links for music + machine learning
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
-- [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
@@ -3175,13 +3174,13 @@
 ## nextjs 
 
 - [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Nextjs apps faster
+- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 - [udecode/plate-template](https://github.com/udecode/plate-template) - A Next.js 13 template with Plate.
 - [udecode/plate-playground-template](https://github.com/udecode/plate-playground-template) - A Next.js 13 template with Plate playground.
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [ChrisAbdo/Portfolio](https://github.com/ChrisAbdo/Portfolio) - A beautifully crafted portfolio made with Next.js, TailwindCSS, and Framer Motion
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [panayotsky-dev/MobileShopView](https://github.com/panayotsky-dev/MobileShopView) - Interview Task with Next,React,TailwindCSS,Context,framer-motion,TS
 - [yusufgns/crmonorepo](https://github.com/yusufgns/crmonorepo) - Fast usable build for turborepo and shadcn ui users
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
@@ -3446,7 +3445,7 @@
 ## nodejs 
 
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [eshaz/icecast-metadata-js](https://github.com/eshaz/icecast-metadata-js) - Browser and NodeJS packages for playing and reading Icecast compatible streaming audio with realtime metadata updates.
 - [ighoshsubho/NotionAutomation](https://github.com/ighoshsubho/NotionAutomation) - Notion Automation using Serverless and Notion API
@@ -4118,7 +4117,7 @@
 - [Tomas-Lawton/AutoBeat](https://github.com/Tomas-Lawton/AutoBeat) - Novel AI drum machine for Ableton
 - [hamiltonkibbe/PyAbleton](https://github.com/hamiltonkibbe/PyAbleton) - A Python Library for creating and editing Ableton Live instrument patches
 - [samvincent/AbletonLive-Traktor-Filter](https://github.com/samvincent/AbletonLive-Traktor-Filter) - Traktor style Cut-Off Filter for Ableton Live
-- [estoycon/Ableton-Drum-Racks](https://github.com/estoycon/Ableton-Drum-Racks) - 
+- [eristoy/Ableton-Drum-Racks](https://github.com/eristoy/Ableton-Drum-Racks) - 
 - [thorhop/livemanager](https://github.com/thorhop/livemanager) - Ableton Live project manager
 - [codeflows/SceneLauncher](https://github.com/codeflows/SceneLauncher) - Ableton Live scene launcher app for iOS
 - [shamharoth/AbletonPushColours](https://github.com/shamharoth/AbletonPushColours) - Modified Push Scripts for Hooktheory Colour Coding
@@ -4448,7 +4447,6 @@
 - [tjluoma/di](https://github.com/tjluoma/di) - [D]ownload and [I]nstall Mac apps
 - [domnantas/raycast-chatgpt](https://github.com/domnantas/raycast-chatgpt) - 
 - [alexwhin/huntr.in](https://github.com/alexwhin/huntr.in) - Product hunt reviews widget. Enables product hunt makers to embed a dynamic reviews widget into their application/website https://www.producthunt.com/posts/product-hunt-reviews-widget
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [jordwalke/paradoc](https://github.com/jordwalke/paradoc) - One Click Docs
@@ -5511,7 +5509,7 @@
 - [deanishe/alfred-mailto](https://github.com/deanishe/alfred-mailto) - Send emails to recipients and groups from Alfred
 - [alexanderhuth/alfred-open-in-browser-workflow](https://github.com/alexanderhuth/alfred-open-in-browser-workflow) - An Alfred workflow to open the current browser tab in a different browser.
 - [rr1000/Time-Sensitive-Boilerplate](https://github.com/rr1000/Time-Sensitive-Boilerplate) - A middleman boilerplate
-- [timepigeon/add-snippet.alfredworkflow](https://github.com/timepigeon/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
+- [kozykove/add-snippet.alfredworkflow](https://github.com/kozykove/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
 - [stuartcryan/defaultbrowser-alfred-workflow](https://github.com/stuartcryan/defaultbrowser-alfred-workflow) - Default Browser workflow for Alfred using Kerma's DefaultBrowser Binary
 - [jhardy/minimal-devices](https://github.com/jhardy/minimal-devices) - minimal-devices
 - [dakrone/dakrone-dotfiles](https://github.com/dakrone/dakrone-dotfiles) - misc configuration files
@@ -6044,7 +6042,7 @@
 
 ## rails 
 
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Nextjs apps faster
+- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -6058,6 +6056,8 @@
 
 ## react 
 
+- [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
+- [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
@@ -6102,7 +6102,6 @@
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
-- [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
@@ -6383,7 +6382,7 @@
 
 ## rest-api 
 
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [j471n/next-hulu](https://github.com/j471n/next-hulu) - This web app is a clone of Hulu, a streaming service for movies and television shows. It utilizes the themoviedb API to retrieve data for the content that is displayed in the application. However, the
@@ -6829,7 +6828,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with clean code by defining authorization and validation rules right inside the data schema closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
@@ -6880,7 +6879,6 @@
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
-- [midisandbox/MidiSandbox](https://github.com/midisandbox/MidiSandbox) - A free collection of midi responsive widgets made for musicians, teachers, and students. Fill in the gaps of your music theory knowledge, enhance your creative process, communicate musical ideas effic
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A Caching and Debugging Proxy Server for LLM Users and A Multi-LLM Client Library
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
