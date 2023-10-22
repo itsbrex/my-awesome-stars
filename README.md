@@ -297,7 +297,6 @@
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [chr15m/bugout.network](https://github.com/chr15m/bugout.network) - 
 - [asciinema/asciicast2gif](https://github.com/asciinema/asciicast2gif) - Generate GIF animations from asciicasts (asciinema recordings)
-- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [optimizasean/TailwindAccessibilityConfig](https://github.com/optimizasean/TailwindAccessibilityConfig) - Tailwind colors replaced (in Tailwind style) by the USG standards for accesibility colors defined at: https://designsystem.digital.gov/
 - [TheRealRajan/Toast-Notifications](https://github.com/TheRealRajan/Toast-Notifications) - Toast notifications that show up on the bottom right corner of the screen when you click on a button.
@@ -385,6 +384,7 @@
 
 ## Clojure 
 
+- [chr15m/dopeloop-experiments](https://github.com/chr15m/dopeloop-experiments) - Experiments for dopeloop.ai
 - [thi-ng/cgg](https://github.com/thi-ng/cgg) - Online cosine gradient generator for use w/ thi.ng/color
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [Deep-Symmetry/open-beat-control](https://github.com/Deep-Symmetry/open-beat-control) - Provides a subset of beat-link features over Open Sound Control.
@@ -699,6 +699,7 @@
 
 ## JavaScript 
 
+- [filmgirl/simple-next-app](https://github.com/filmgirl/simple-next-app) - Deploy to GitHub Pages using the new Actions Workflow ✨
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js) - High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.
 - [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
@@ -1301,7 +1302,6 @@
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
 - [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
 - [theccalderon/separate-stems](https://github.com/theccalderon/separate-stems) - Separate vocals and accompaniment from audio file. Uses spleeter from Deezer.
-- [nextgens/anti-paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls
 - [yeoman/generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - Scaffold out a Chrome extension
 - [dinchak/node-liveosc](https://github.com/dinchak/node-liveosc) - node.js integration with Ableton Live via LiveOSC
 - [MatthewCallis/skin.pastel.li](https://github.com/MatthewCallis/skin.pastel.li) - Ableton Live Skin Editor
@@ -2202,6 +2202,7 @@
 
 ## Python 
 
+- [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
 - [yxlllc/pc-ddsp](https://github.com/yxlllc/pc-ddsp) - Pitch Controllable DDSP Vocoders
 - [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing)
 - [Dream-High/RMVPE](https://github.com/Dream-High/RMVPE) - 
@@ -2253,7 +2254,7 @@
 - [jmoso13/jukebox-diffusion](https://github.com/jmoso13/jukebox-diffusion) - 
 - [mhrice/RemFx](https://github.com/mhrice/RemFx) - General Purpose Audio Effect Removal
 - [csteinmetz1/wavebeat](https://github.com/csteinmetz1/wavebeat) - End-to-end beat and downbeat tracking in the time domain.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
@@ -2306,7 +2307,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [Hannibal046/nanoRWKV](https://github.com/Hannibal046/nanoRWKV) - The nanoGPT-style implementation of RWKV Language Model - an RNN with GPT-level LLM performance.
 - [Abel2076/json2binidx_tool](https://github.com/Abel2076/json2binidx_tool) - 
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
@@ -2414,7 +2415,7 @@
 - [shiehn/midi_query](https://github.com/shiehn/midi_query) - Query MIDI datasets for matching key, time signature & chord progression
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [imiskolee/so-vits-svc-5.0](https://github.com/imiskolee/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
-- [PlayVoice/whisper-vits-svc](https://github.com/PlayVoice/whisper-vits-svc) - Core Engine of Singing Voice Conversion & Singing Voice Clone
+- [PlayVoice/vits-svc](https://github.com/PlayVoice/vits-svc) - Core Engine of Singing Voice Conversion & Singing Voice Clone
 - [skorokithakis/jsane](https://github.com/skorokithakis/jsane) - A saner way to traverse JSON in Python
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [henrymaas/AudioSlicer](https://github.com/henrymaas/AudioSlicer) - Audio Slicer that uses silence detection to split .wav audio files into several .wav samples.
@@ -4013,6 +4014,7 @@
 
 - [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Your Ultimate Copilot on the Desktop. ChatGPTBox is a desktop app for GPT-3.5 (OpenAI API).
 - [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
 - [nuxtbase/nuxt3-starter](https://github.com/nuxtbase/nuxt3-starter) - 💚 A Better Nuxt 3 Starter Template，generate by nuxi.
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - The website home for https://onetab.group
