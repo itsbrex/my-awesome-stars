@@ -3640,6 +3640,8 @@
 
 ## others 
 
+- [daveshap/Open_MURPHIE](https://github.com/daveshap/Open_MURPHIE) - Multi Use Robot Platform Humanoid Intelligent Entity
+- [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
 - [filmgirl/simple-next-app](https://github.com/filmgirl/simple-next-app) - Deploy to GitHub Pages using the new Actions Workflow ✨
 - [chr15m/dopeloop-experiments](https://github.com/chr15m/dopeloop-experiments) - Experiments for dopeloop.ai
 - [edgestorejs/edgestore](https://github.com/edgestorejs/edgestore) - 
