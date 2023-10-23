@@ -1849,6 +1849,7 @@
 
 ## Others 
 
+- [daveshap/Open_MURPHIE](https://github.com/daveshap/Open_MURPHIE) - Multi Use Robot Platform Humanoid Intelligent Entity
 - [DmitryRyumin/ICASSP-2023-Papers](https://github.com/DmitryRyumin/ICASSP-2023-Papers) - ICASSP 2023 Papers: A complete collection of influential and exciting research papers from the ICASSP 2023 conference. Explore the latest advancements in acoustics, speech and signal processing. Code 
 - [DivMagicCom/DivMagic](https://github.com/DivMagicCom/DivMagic) - Copy design from any website as CSS or Tailwind CSS components
 - [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
@@ -2202,6 +2203,7 @@
 
 ## Python 
 
+- [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
 - [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
 - [yxlllc/pc-ddsp](https://github.com/yxlllc/pc-ddsp) - Pitch Controllable DDSP Vocoders
 - [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing)
