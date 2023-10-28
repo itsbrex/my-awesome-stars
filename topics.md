@@ -41,6 +41,7 @@
 - [code-review](#code-review)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
@@ -414,6 +415,7 @@
 
 ## api 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
@@ -685,7 +687,6 @@
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [argyleink/shortstack](https://github.com/argyleink/shortstack) - 🥞 minimal Rollup + PostCSS modern syntax starter template
-- [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 
 ## backend 
@@ -1138,6 +1139,14 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 
+## computer-science 
+
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+
 ## computer-vision 
 
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
@@ -1518,6 +1527,7 @@
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [edanchenkov/MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! 🦄
 - [jpcarrascal/live-set-switcher](https://github.com/jpcarrascal/live-set-switcher) - Ableton Live Set Switcher
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [Wally869/VisualMidi](https://github.com/Wally869/VisualMidi) - Webapp for midi visualisations using Python and Javascript. Based on MusiStrata
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -1825,6 +1835,7 @@
 
 ## go 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [proxoar/talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
 - [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
@@ -1850,6 +1861,7 @@
 
 ## golang 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [proxoar/talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [schollz/miti](https://github.com/schollz/miti) - miti is a musical instrument textual interface. Basically, its MIDI, but with human-readable text. :musical_note:
@@ -1909,6 +1921,7 @@
 
 ## graphql 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -3180,6 +3193,7 @@
 
 ## nextjs 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 - [udecode/plate-template](https://github.com/udecode/plate-template) - A Next.js 13 template with Plate.
@@ -3923,7 +3937,7 @@
 - [emredjan/cnn-audio-recognition](https://github.com/emredjan/cnn-audio-recognition) - Audio to midi conversion using deep learning and google nsynth dataset
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [imiskolee/so-vits-svc-5.0](https://github.com/imiskolee/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
-- [PlayVoice/vits-svc](https://github.com/PlayVoice/vits-svc) - Core Engine of Singing Voice Conversion & Singing Voice Clone
+- [PlayVoice/so-vits-svc-5.0](https://github.com/PlayVoice/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
 - [Noise-Labs/chords-dataset](https://github.com/Noise-Labs/chords-dataset) - automaticlly chord midi & wav files generator
 - [skorokithakis/jsane](https://github.com/skorokithakis/jsane) - A saner way to traverse JSON in Python
 - [vercel/spr-landing](https://github.com/vercel/spr-landing) - Serverless Pre-Rendering Landing Page
@@ -4567,7 +4581,6 @@
 - [acidanthera/FeatureUnlock](https://github.com/acidanthera/FeatureUnlock) - Add Sidecar support to unsupported models
 - [montoulieu/link-ent](https://github.com/montoulieu/link-ent) - 🌲 A free Linktree alternative built with Next.js and Tailwind.
 - [montoulieu/ableton-live-downloader](https://github.com/montoulieu/ableton-live-downloader) - 🎹 Downloads the desired 64-bit installer from any version of Ableton Live 11, 10, and 9.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [buttplugio/awesome-buttplug](https://github.com/buttplugio/awesome-buttplug) - A list of awesome projects that use the Buttplug Sex Toy Control Library
 - [mikesprague/react-tailwind-ghpages-starter](https://github.com/mikesprague/react-tailwind-ghpages-starter) - Starter template for React/Tailwind CSS PWA hosted via GitHub Pages. Uses GitHub Actions to build and deploy.
 - [mikesprague/react-tailwind-vercel-starter](https://github.com/mikesprague/react-tailwind-vercel-starter) - Template for a barebones Vercel hosted React/Tailwind CSS PWA with an API endpoint powered by a serverless function
@@ -4670,7 +4683,6 @@
 - [ottomated/openapi-typescript](https://github.com/ottomated/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [ottomated/noft](https://github.com/ottomated/noft) - Chrome extension to block NFT profiles on Twitter
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [mattcroat/digital-garden](https://github.com/mattcroat/digital-garden) - :seedling: Digital garden using Next.js and MDX
 - [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
 - [mattcroat/social-share-images](https://github.com/mattcroat/social-share-images) - 📷️ Social share images for Joy of Code
@@ -5526,7 +5538,7 @@
 - [deanishe/alfred-mailto](https://github.com/deanishe/alfred-mailto) - Send emails to recipients and groups from Alfred
 - [alexanderhuth/alfred-open-in-browser-workflow](https://github.com/alexanderhuth/alfred-open-in-browser-workflow) - An Alfred workflow to open the current browser tab in a different browser.
 - [rr1000/Time-Sensitive-Boilerplate](https://github.com/rr1000/Time-Sensitive-Boilerplate) - A middleman boilerplate
-- [basepleb/add-snippet.alfredworkflow](https://github.com/basepleb/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
+- [plebness/add-snippet.alfredworkflow](https://github.com/plebness/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
 - [stuartcryan/defaultbrowser-alfred-workflow](https://github.com/stuartcryan/defaultbrowser-alfred-workflow) - Default Browser workflow for Alfred using Kerma's DefaultBrowser Binary
 - [jhardy/minimal-devices](https://github.com/jhardy/minimal-devices) - minimal-devices
 - [dakrone/dakrone-dotfiles](https://github.com/dakrone/dakrone-dotfiles) - misc configuration files
@@ -5721,6 +5733,7 @@
 
 ## postgresql 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [yaseenmustapha/nextjs13-app](https://github.com/yaseenmustapha/nextjs13-app) - Full-stack Next.js 13 application. Uses React 18 client & server components, TypeScript, Prisma ORM, Railway PostgreSQL database, NextAuth.js OAuth 2.0 authentication, OpenAI API GPT-3.5-Turbo, and St
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
@@ -6400,6 +6413,7 @@
 
 ## rest-api 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -6838,6 +6852,7 @@
 
 ## typescript 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [mkosir/trpc-fe-boilerplate](https://github.com/mkosir/trpc-fe-boilerplate) - ⚒️ Minimal tRPC frontend boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
 - [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
 - [stackswithans/akkorder](https://github.com/stackswithans/akkorder) - A Typescript port of Adam Stark's C++ implementation of the chord recognition algorithm described in the paper : Real-Time Chord Recognition For Live Performance, A. M. Stark and M. D. Plumbley.
