@@ -714,6 +714,7 @@
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [Ibaslogic/react-audio-player](https://github.com/Ibaslogic/react-audio-player) - A standard React audio player
+- [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [lmsutools/Code-Minifier-for-ChatGPT-Prompts](https://github.com/lmsutools/Code-Minifier-for-ChatGPT-Prompts) - 
 - [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [amaciver/AudioFiler](https://github.com/amaciver/AudioFiler) - 
@@ -1592,6 +1593,7 @@
 
 ## Jupyter Notebook 
 
+- [jrgillick/imagined-lyrics](https://github.com/jrgillick/imagined-lyrics) - 
 - [Jotade100/Wav2Chord](https://github.com/Jotade100/Wav2Chord) - CNN for chord detection
 - [emirdemirel/Chord-ScaleDetection](https://github.com/emirdemirel/Chord-ScaleDetection) - Chord-Scales Dataset created & annotated for 'automatic scale detection' task
 - [audio-is-fun/real-time-chord-detection](https://github.com/audio-is-fun/real-time-chord-detection) - Implementation of algorithm proposed in Bachelor Thesis: Design and Evaluation of a Simple Chord Detection Algorithm by Christoph Hausner.
@@ -1764,6 +1766,7 @@
 
 ## OCaml 
 
+- [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 
 ## Objective-C 
@@ -2212,6 +2215,8 @@
 
 ## Python 
 
+- [wazenmai/MIDI-BERT](https://github.com/wazenmai/MIDI-BERT) - This is the official repository for the paper, MidiBERT-Piano: Large-scale Pre-training for Symbolic Music Understanding.
+- [Dsqvival/hierarchical-structure-analysis](https://github.com/Dsqvival/hierarchical-structure-analysis) - Algorithm and Data for paper "Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music"
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [daveshap/YouTubeChapterGenerator](https://github.com/daveshap/YouTubeChapterGenerator) - Make YouTube Chapters from a downloaded Transcript
 - [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
@@ -3218,6 +3223,7 @@
 
 ## Swift 
 
+- [NSAntoine/AppIndex](https://github.com/NSAntoine/AppIndex) - Analyze & Backup applications on your device
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [37MobileTeam/iChatGPT](https://github.com/37MobileTeam/iChatGPT) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 - [jdlee022/ScaleGenius](https://github.com/jdlee022/ScaleGenius) - (iOS App) A reference guide for guitar players that displays scales on the fretboard which adjust for alternate tunings. Written in Swift.
@@ -3306,6 +3312,7 @@
 
 ## TypeScript 
 
+- [dolbyio-samples/media-app-web-solidjs-audio-visualization](https://github.com/dolbyio-samples/media-app-web-solidjs-audio-visualization) - Create a Dolby.io Frontend Application To Display Waveform With Wavesurfer.js And Interactive Elements Using Konva In SolidJS
 - [koil-music/regroovejs](https://github.com/koil-music/regroovejs) - JavaScript library wrapping the `regroove` ONNX exported model
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
@@ -3332,7 +3339,6 @@
 - [ChrisAbdo/Portfolio](https://github.com/ChrisAbdo/Portfolio) - A beautifully crafted portfolio made with Next.js, TailwindCSS, and Framer Motion
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
-- [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
@@ -3715,7 +3721,7 @@
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [googleapis/github-repo-automation](https://github.com/googleapis/github-repo-automation) - A set of tools to automate multiple GitHub repository management.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [whomwah/alfred-github-workflow](https://github.com/whomwah/alfred-github-workflow) - An Alfred 5 workflow for working with Github. Uses Deno, written in TypeScript
 - [mem-labs/mem-node](https://github.com/mem-labs/mem-node) - Official Node.js client for the Mem API
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 cleye — The intuitive & typed CLI development tool for Node.js
