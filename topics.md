@@ -1336,6 +1336,7 @@
 
 ## deep-learning 
 
+- [carlosholivan/DeepLearningMusicGeneration](https://github.com/carlosholivan/DeepLearningMusicGeneration) - State of the Art of Music Generation with Deep Learning and AI
 - [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
 - [aisu-programming/Chord-Recognition](https://github.com/aisu-programming/Chord-Recognition) - Recognize chords in songs using Bidirectional Transformer || AI Cup 2020 - Chord Recognition Competition (9th place) / 和弦辨識競賽 (第九名)
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
@@ -1649,7 +1650,7 @@
 - [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
 - [JithinAntony4/nextjs-pwa-boilerplate](https://github.com/JithinAntony4/nextjs-pwa-boilerplate) - 🔥 NextJS Boilerplate with hybrid static & server rendering, TypeScript support, route pre-fetching, PWA support, FCM integration, SendGrid integration, Twilio integration, and Google SignIn
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
-- [clerkinc/clerk-firebase-starter](https://github.com/clerkinc/clerk-firebase-starter) - Official guide on how to use Clerk.dev with Firebase
+- [clerk/clerk-firebase-starter](https://github.com/clerk/clerk-firebase-starter) - Official guide on how to use Clerk.dev with Firebase
 - [dingran/nextjs-starter-template](https://github.com/dingran/nextjs-starter-template) - Starter template for Next.js with MDX, Firebase, Chakra UI, Logflare and Stripe
 - [msaaddev/next-firebase-auth-template](https://github.com/msaaddev/next-firebase-auth-template) - ⚡️ A Next.js PWA template with firebase user authentication implemented to quickly get you started. Just fork it and use it!
 - [tjcages/lil-chat](https://github.com/tjcages/lil-chat) - an app to post on your own private wall
@@ -2013,7 +2014,6 @@
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2061,7 +2061,6 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
@@ -3334,8 +3333,8 @@
 - [bjcarlson42/chakra-nextjs-dashboard](https://github.com/bjcarlson42/chakra-nextjs-dashboard) - A responsive dashboard UI built using Chakra UI and Next.js.
 - [neg4n/next-api-og-image](https://github.com/neg4n/next-api-og-image) - :bowtie: Easy way to generate open-graph images dynamically  in HTML or React using Next.js API Routes. Suitable for serverless environment.
 - [jordicapellad3s/porfolio](https://github.com/jordicapellad3s/porfolio) - 🏠 Project website to learn Next and Chakra UI components
-- [clerkinc/clerk-nextjs-starter](https://github.com/clerkinc/clerk-nextjs-starter) - Official starter repo for Clerk and Next.js
-- [clerkinc/clerk-nextjs-examples](https://github.com/clerkinc/clerk-nextjs-examples) - Official Clerk.dev Next.js examples repository. See how you can build all kinds of forms using Clerk!
+- [clerk/clerk-nextjs-starter](https://github.com/clerk/clerk-nextjs-starter) - Official starter repo for Clerk and Next.js
+- [clerk/clerk-nextjs-examples](https://github.com/clerk/clerk-nextjs-examples) - Official Clerk.dev Next.js examples repository. See how you can build all kinds of forms using Clerk!
 - [olafsulich/fullstack-nextjs-ecommerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - Fullstack Next.js E-Commerce made with NextAuth + Prisma, Docker + TypeScript + React Query + Stripe + Tailwind Sentry and much more 🛒
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [jihyojeon/Missage](https://github.com/jihyojeon/Missage) - An assistant in your hand who improved your work ability and quality of life! Finally, your AI record manager is here. Built with Express, NextJS and MongoDB.
@@ -3668,6 +3667,10 @@
 
 ## others 
 
+- [vibertthio/neural-loops](https://github.com/vibertthio/neural-loops) - 🎶 Create sounds, notes, and music with machine learning algorithms interactively.
+- [vibertthio/beact-client](https://github.com/vibertthio/beact-client) - :dragon_face:pure client Beact
+- [oramics/sampled](https://github.com/oramics/sampled) - A collection of sampled instruments, loops and impulse responses with open licenses
+- [sander-wood/deepchoir](https://github.com/sander-wood/deepchoir) - Chord-Conditioned Melody Harmonization with Controllable Harmonicity [ICASSP 2023]
 - [jrgillick/imagined-lyrics](https://github.com/jrgillick/imagined-lyrics) - 
 - [wazenmai/MIDI-BERT](https://github.com/wazenmai/MIDI-BERT) - This is the official repository for the paper, MidiBERT-Piano: Large-scale Pre-training for Symbolic Music Understanding.
 - [Dsqvival/hierarchical-structure-analysis](https://github.com/Dsqvival/hierarchical-structure-analysis) - Algorithm and Data for paper "Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music"
@@ -4814,7 +4817,7 @@
 - [imnotjames/notion-docs-sync](https://github.com/imnotjames/notion-docs-sync) - 
 - [canerbasaran/crisp-client-automation](https://github.com/canerbasaran/crisp-client-automation) - Client Automation for Crisp Chat Basic Package
 - [subodh-malgonde/next-tailwind-uidevtools-sample](https://github.com/subodh-malgonde/next-tailwind-uidevtools-sample) - 
-- [clerkinc/clerk-redwood-starter](https://github.com/clerkinc/clerk-redwood-starter) - Example starter repo for Clerk and RedwoodJS
+- [clerk/clerk-redwood-starter](https://github.com/clerk/clerk-redwood-starter) - Example starter repo for Clerk and RedwoodJS
 - [thedevdrawer/html-to-react](https://github.com/thedevdrawer/html-to-react) - Convert and HTML Website to React
 - [enuchi/React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script) - This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the Google Wo
 - [MikeDaniel18/oh-heck-cli](https://github.com/MikeDaniel18/oh-heck-cli) - 
@@ -6243,8 +6246,8 @@
 - [neg4n/next-api-og-image](https://github.com/neg4n/next-api-og-image) - :bowtie: Easy way to generate open-graph images dynamically  in HTML or React using Next.js API Routes. Suitable for serverless environment.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [jordicapellad3s/porfolio](https://github.com/jordicapellad3s/porfolio) - 🏠 Project website to learn Next and Chakra UI components
-- [clerkinc/clerk-nextjs-starter](https://github.com/clerkinc/clerk-nextjs-starter) - Official starter repo for Clerk and Next.js
-- [clerkinc/clerk-nextjs-examples](https://github.com/clerkinc/clerk-nextjs-examples) - Official Clerk.dev Next.js examples repository. See how you can build all kinds of forms using Clerk!
+- [clerk/clerk-nextjs-starter](https://github.com/clerk/clerk-nextjs-starter) - Official starter repo for Clerk and Next.js
+- [clerk/clerk-nextjs-examples](https://github.com/clerk/clerk-nextjs-examples) - Official Clerk.dev Next.js examples repository. See how you can build all kinds of forms using Clerk!
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [akmalhisyammm/akmalhisyam.my.id](https://github.com/akmalhisyammm/akmalhisyam.my.id) - My personal site developed using Next.js and Chakra UI
 - [legitbeep/nextchakra-starter](https://github.com/legitbeep/nextchakra-starter) - ⚡Next js template filled with linting, typescript, seo, chakra-ui and optional pwa.
@@ -6284,7 +6287,7 @@
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [clerkinc/clerk-firebase-starter](https://github.com/clerkinc/clerk-firebase-starter) - Official guide on how to use Clerk.dev with Firebase
+- [clerk/clerk-firebase-starter](https://github.com/clerk/clerk-firebase-starter) - Official guide on how to use Clerk.dev with Firebase
 - [netlify-templates/kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
 - [jkcorrea/remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
 - [Mergifyio/react-crisp](https://github.com/Mergifyio/react-crisp) - React implementation for Crisp
