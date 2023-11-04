@@ -531,6 +531,7 @@
 
 ## HTML 
 
+- [oramics/sampled](https://github.com/oramics/sampled) - A collection of sampled instruments, loops and impulse responses with open licenses
 - [ibnzUK/next-chrome-starter](https://github.com/ibnzUK/next-chrome-starter) - Next.js Chrome Extension Starter example application that demonstrates how to build a Chrome extension using Next.js. It provides a foundation for developing Chrome extensions with Next.js, React and 
 - [sethkimmel3/tailgate](https://github.com/sethkimmel3/tailgate) - Client-facing generative-AI components without the fuss.
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
@@ -704,6 +705,8 @@
 
 ## JavaScript 
 
+- [vibertthio/neural-loops](https://github.com/vibertthio/neural-loops) - 🎶 Create sounds, notes, and music with machine learning algorithms interactively.
+- [vibertthio/beact-client](https://github.com/vibertthio/beact-client) - :dragon_face:pure client Beact
 - [filmgirl/simple-next-app](https://github.com/filmgirl/simple-next-app) - Deploy to GitHub Pages using the new Actions Workflow ✨
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js) - High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.
@@ -1143,7 +1146,7 @@
 - [devidw/ghrns](https://github.com/devidw/ghrns) - GitHub Repository Naming Suggestion Service: AI powered naming suggestions for your GitHub repositories
 - [jordicapellad3s/porfolio](https://github.com/jordicapellad3s/porfolio) - 🏠 Project website to learn Next and Chakra UI components
 - [FelixChenC/chakra-homepage](https://github.com/FelixChenC/chakra-homepage) - My home page using chakra and next.js
-- [clerkinc/clerk-nextjs-starter](https://github.com/clerkinc/clerk-nextjs-starter) - Official starter repo for Clerk and Next.js
+- [clerk/clerk-nextjs-starter](https://github.com/clerk/clerk-nextjs-starter) - Official starter repo for Clerk and Next.js
 - [skywinston/redwood-and-chakra-ui](https://github.com/skywinston/redwood-and-chakra-ui) - 
 - [adriatic/RADC](https://github.com/adriatic/RADC) - Redwood Applications Development Cookbook
 - [jmcmullen/redwood-custom-auth](https://github.com/jmcmullen/redwood-custom-auth) - Custom authentication with Prisma for Redwood.js
@@ -1859,6 +1862,7 @@
 
 ## Others 
 
+- [carlosholivan/DeepLearningMusicGeneration](https://github.com/carlosholivan/DeepLearningMusicGeneration) - State of the Art of Music Generation with Deep Learning and AI
 - [dritter/agnoster-like-themes](https://github.com/dritter/agnoster-like-themes) - A small collection of agnoster-like ZSH-Themes
 - [MartinEesmaa/awesome-compopt](https://github.com/MartinEesmaa/awesome-compopt) - A list of the awesome archive compressor and optimizer programs.
 - [daveshap/Open_MURPHIE](https://github.com/daveshap/Open_MURPHIE) - Multi Use Robot Platform Humanoid Intelligent Entity
@@ -2014,7 +2018,7 @@
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
-- [clerkinc/clerk-nextjs-examples](https://github.com/clerkinc/clerk-nextjs-examples) - Official Clerk.dev Next.js examples repository. See how you can build all kinds of forms using Clerk!
+- [clerk/clerk-nextjs-examples](https://github.com/clerk/clerk-nextjs-examples) - Official Clerk.dev Next.js examples repository. See how you can build all kinds of forms using Clerk!
 - [joebuhlig/alfred-obsidian-projects](https://github.com/joebuhlig/alfred-obsidian-projects) - Alfred Workflow for managing project folders and note files in Obsidian.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [argyleink/Kung-Fury-Theme](https://github.com/argyleink/Kung-Fury-Theme) - 80's dark retro theme for VS Code and Sublime Text
@@ -2215,6 +2219,7 @@
 
 ## Python 
 
+- [sander-wood/deepchoir](https://github.com/sander-wood/deepchoir) - Chord-Conditioned Melody Harmonization with Controllable Harmonicity [ICASSP 2023]
 - [wazenmai/MIDI-BERT](https://github.com/wazenmai/MIDI-BERT) - This is the official repository for the paper, MidiBERT-Piano: Large-scale Pre-training for Symbolic Music Understanding.
 - [Dsqvival/hierarchical-structure-analysis](https://github.com/Dsqvival/hierarchical-structure-analysis) - Algorithm and Data for paper "Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music"
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
@@ -3905,7 +3910,7 @@
 - [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [clerkinc/clerk-firebase-starter](https://github.com/clerkinc/clerk-firebase-starter) - Official guide on how to use Clerk.dev with Firebase
+- [clerk/clerk-firebase-starter](https://github.com/clerk/clerk-firebase-starter) - Official guide on how to use Clerk.dev with Firebase
 - [bolub/rest_api-chakra_ui-nextjs_template](https://github.com/bolub/rest_api-chakra_ui-nextjs_template) - Starter Nextjs-ChakraUI template
 - [rishiosaur/firebase-nextjs-starter](https://github.com/rishiosaur/firebase-nextjs-starter) - 🔥 A super fast lil template for getting started with Authentication, realtime Firestore data, hooks, and Chakra UI! This is my preferred stack; feel free to customize it for your own uses!
 - [jnoahjohnson/remix-redis-form](https://github.com/jnoahjohnson/remix-redis-form) - Multi-page form using Remix and Redis.
@@ -3915,7 +3920,7 @@
 - [datduyng/scriptbar-snippets](https://github.com/datduyng/scriptbar-snippets) - Useful snippets for your chrome/firefox browsers
 - [rishiosaur/perfect-next](https://github.com/rishiosaur/perfect-next) - 🌁 A perfect Next.js starter kit.
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
-- [clerkinc/clerk-redwood-starter](https://github.com/clerkinc/clerk-redwood-starter) - Example starter repo for Clerk and RedwoodJS
+- [clerk/clerk-redwood-starter](https://github.com/clerk/clerk-redwood-starter) - Example starter repo for Clerk and RedwoodJS
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [koji/react_with_TailwindCSS](https://github.com/koji/react_with_TailwindCSS) - reactjs with Tailwind CSS
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
