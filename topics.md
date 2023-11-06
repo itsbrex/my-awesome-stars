@@ -240,6 +240,8 @@
 
 ## ai 
 
+- [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - a self-hosted webui for several generative ai
+- [ScanLineDev/scanline](https://github.com/ScanLineDev/scanline) - Expert AI code reviews  Catch bugs before they hurt  Run Scanline in your CLI to find: - race conditions - logical errors - security risks - optimizations
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - Swarms is a modular framework that enables reliable, fast,  and useful multi-agent collaboration at scale to automate real-world tasks.
@@ -330,7 +332,7 @@
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, compl
-- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
+- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
@@ -459,6 +461,7 @@
 
 ## artificial-intelligence 
 
+- [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) - Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs
 - [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
 - [asigalov61/Orchestrator](https://github.com/asigalov61/Orchestrator) - Local windowed attention multi-instrumental music transformer tailored for music orchestration/instrumentation and stable music generation
 - [asigalov61/tegridy-tools](https://github.com/asigalov61/tegridy-tools) - Symbolic Music NLP Artificial Intelligence Toolkit
@@ -552,7 +555,7 @@
 
 - [MartinEesmaa/awesome-compopt](https://github.com/MartinEesmaa/awesome-compopt) - A list of the awesome archive compressor and optimizer programs.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -613,7 +616,7 @@
 
 - [MartinEesmaa/awesome-compopt](https://github.com/MartinEesmaa/awesome-compopt) - A list of the awesome archive compressor and optimizer programs.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
@@ -781,7 +784,7 @@
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
 - [dizzysaturn/soundstorm](https://github.com/dizzysaturn/soundstorm) - Soundstorm is a cutting-edge AI-powered audio manipulation application designed to provide a rich yet simplified experience for sound designers, algorithmic composers, and experimental audio enthusias
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 - [yaph/chatgpt-export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
@@ -873,7 +876,7 @@
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, compl
-- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
+- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
@@ -1030,6 +1033,7 @@
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
 - [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
+- [ShravanSunder/evergreenNotesNotion](https://github.com/ShravanSunder/evergreenNotesNotion) - Chrome extension for notion
 - [Mimieam/TabSorter2](https://github.com/Mimieam/TabSorter2) - Google Chrome Tab Management Extension - Merge, Sort, split and more :) - https://chrome.google.com/webstore/detail/tabsorter2/lmmmdnmgmgnimgcfbnomdgeldehlfafn
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [solobat/Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
@@ -1128,6 +1132,7 @@
 
 ## code-review 
 
+- [ScanLineDev/scanline](https://github.com/ScanLineDev/scanline) - Expert AI code reviews  Catch bugs before they hurt  Run Scanline in your CLI to find: - race conditions - logical errors - security risks - optimizations
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - 🔮 Codeball – AI Code Review that finds bugs and fast-tracks your code
@@ -1282,7 +1287,7 @@
 
 ## data 
 
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -1290,7 +1295,7 @@
 
 ## data-science 
 
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
@@ -1336,6 +1341,8 @@
 
 ## deep-learning 
 
+- [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) - Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs
+- [tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) - Vocal Remover using Deep Neural Networks
 - [carlosholivan/DeepLearningMusicGeneration](https://github.com/carlosholivan/DeepLearningMusicGeneration) - State of the Art of Music Generation with Deep Learning and AI
 - [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
 - [aisu-programming/Chord-Recognition](https://github.com/aisu-programming/Chord-Recognition) - Recognize chords in songs using Bidirectional Transformer || AI Cup 2020 - Chord Recognition Competition (9th place) / 和弦辨識競賽 (第九名)
@@ -1344,7 +1351,7 @@
 - [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [omerbsezer/MusicGeneration](https://github.com/omerbsezer/MusicGeneration) - Music generation with LSTM model (Keras)
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
@@ -2058,7 +2065,6 @@
 - [ohmyform/api](https://github.com/ohmyform/api) - ✏️ Free open source Application Programming Interface API for OhMyForm ⛺
 - [ohmyform/ui](https://github.com/ohmyform/ui) - ✏️ Free open source Web User Interface for OhMyForm  ⛺
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
@@ -2704,7 +2710,7 @@
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [Music-Recommendation-Engine-Project/Music-Recommendation-Engine](https://github.com/Music-Recommendation-Engine-Project/Music-Recommendation-Engine) - Music Recommendation System
 - [IndexStorm/git-rec-back](https://github.com/IndexStorm/git-rec-back) - Backend code for GitHub Recommendation Extension
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [salu133445/arranger](https://github.com/salu133445/arranger) - Official Implementation of "Towards Automatic Instrumentation by Learning to Separate Parts in Symbolic Multitrack Music" (ISMIR 2021)
 - [felipetovarhenao/midi-improviser](https://github.com/felipetovarhenao/midi-improviser) - A web application for generating polyphonic music improvisations as MIDI files.
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
@@ -3418,7 +3424,7 @@
 
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [asigalov61/tegridy-tools](https://github.com/asigalov61/tegridy-tools) - Symbolic Music NLP Artificial Intelligence Toolkit
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files. Integration with music production tools.
@@ -3625,7 +3631,7 @@
 ## open-source 
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [Bubobubobubobubo/sardine](https://github.com/Bubobubobubobubo/sardine) - Python's missing "algorave" module
@@ -3667,6 +3673,10 @@
 
 ## others 
 
+- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) - 
+- [jeroentvb/spicetify-combined-playlists](https://github.com/jeroentvb/spicetify-combined-playlists) - Spicetify custom app to create combined playlists
+- [spotify-research/llark](https://github.com/spotify-research/llark) - Code for the paper "LLark: A Multimodal Foundation Model for Music" by Josh Gardner, Simon Durand, Daniel Stoller, and Rachel Bittner.
+- [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [vibertthio/neural-loops](https://github.com/vibertthio/neural-loops) - 🎶 Create sounds, notes, and music with machine learning algorithms interactively.
 - [vibertthio/beact-client](https://github.com/vibertthio/beact-client) - :dragon_face:pure client Beact
 - [oramics/sampled](https://github.com/oramics/sampled) - A collection of sampled instruments, loops and impulse responses with open licenses
@@ -4728,7 +4738,6 @@
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
 - [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [juliomuhlbauer/julio](https://github.com/juliomuhlbauer/julio) - 
@@ -4956,7 +4965,6 @@
 - [MerkulovDaniil/NotoCourse](https://github.com/MerkulovDaniil/NotoCourse) - This template could be used for deploying your course from notion to github pages with custom domain in a minutes.
 - [arnaudjnn/notion-starter](https://github.com/arnaudjnn/notion-starter) - Blog starter template with Notion as a Healdess
 - [core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow) - Alfred Workflow to update apps via MacUpdater
-- [ShravanSunder/evergreenNotesNotion](https://github.com/ShravanSunder/evergreenNotesNotion) - Chrome extension for notion
 - [byteknacker/unichat](https://github.com/byteknacker/unichat) - Connect Slack with WeChat, and even with Line in the future!
 - [GaaraZhu/unichat](https://github.com/GaaraZhu/unichat) - Connect Slack with WeChat, and even with Line in the future!
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -5789,6 +5797,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -5836,7 +5845,7 @@
 - [dcervantes/scidle-midi-rnn](https://github.com/dcervantes/scidle-midi-rnn) - Generating MIDI music with Recurrent Neural Networks
 - [billyblu2000/AccoMontage2](https://github.com/billyblu2000/AccoMontage2) - Chord and accompaniment generator, pure python package that generate chord progression and accompaniment according to given melodies. Code for paper AccoMontage2: A Complete Harmonization and Accompan
 - [Music-Recommendation-Engine-Project/Music-Recommendation-Engine](https://github.com/Music-Recommendation-Engine-Project/Music-Recommendation-Engine) - Music Recommendation System
-- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by influence score
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
 - [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for creating seamless music loops, with play/export support.
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
@@ -6035,6 +6044,7 @@
 
 ## pytorch 
 
+- [tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) - Vocal Remover using Deep Neural Networks
 - [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing)
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
