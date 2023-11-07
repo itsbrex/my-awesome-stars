@@ -3458,7 +3458,7 @@
 - [foxt/icloud.js](https://github.com/foxt/icloud.js) - Library for accessing iCloud in Node.js
 - [JDoggen/StarkOSC](https://github.com/JDoggen/StarkOSC) - Wrapper library for osc-js to control Ableton via AbletonOSC
 - [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - An Opensource alternative to OpenAI GPTs 🧠 Your Second Brain supercharged by Generative AI 🧠  Your personal assistant on your files & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs t
 - [xiaoluoboding/vercel-metafy](https://github.com/xiaoluoboding/vercel-metafy) - Easily scrape metadata from websites as a service using Vercel.
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [arihanv/PromptGPT](https://github.com/arihanv/PromptGPT) - 
