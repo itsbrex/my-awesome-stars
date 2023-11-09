@@ -705,6 +705,7 @@
 
 ## JavaScript 
 
+- [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
 - [vibertthio/neural-loops](https://github.com/vibertthio/neural-loops) - 🎶 Create sounds, notes, and music with machine learning algorithms interactively.
 - [vibertthio/beact-client](https://github.com/vibertthio/beact-client) - :dragon_face:pure client Beact
 - [filmgirl/simple-next-app](https://github.com/filmgirl/simple-next-app) - Deploy to GitHub Pages using the new Actions Workflow ✨
@@ -2218,6 +2219,8 @@
 
 ## Python 
 
+- [voodoohop/symbolic-music-diffusion](https://github.com/voodoohop/symbolic-music-diffusion) - Symbolic Music Generation with Diffusion Models
+- [czlee/dynamite](https://github.com/czlee/dynamite) - Helper scripts for Spotify playlists
 - [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) - Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs
 - [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) - 
 - [tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) - Vocal Remover using Deep Neural Networks
@@ -2672,7 +2675,7 @@
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [eggplants/extension-manifest-converter](https://github.com/eggplants/extension-manifest-converter) - Chrome Extension Manifest V2 to V3 Converter
-- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
+- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
@@ -3234,6 +3237,7 @@
 
 ## Swift 
 
+- [doublesymmetry/SwiftAudioEx](https://github.com/doublesymmetry/SwiftAudioEx) - SwiftAudioEx is an iOS audio player written in Swift, making it simpler to work with audio playback from streams and files.
 - [NSAntoine/AppIndex](https://github.com/NSAntoine/AppIndex) - Analyze & Backup applications on your device
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [37MobileTeam/iChatGPT](https://github.com/37MobileTeam/iChatGPT) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
@@ -3323,6 +3327,8 @@
 
 ## TypeScript 
 
+- [caffco/s3-glob-sync-github-action](https://github.com/caffco/s3-glob-sync-github-action) - Sync globs to AWS S3
+- [caffco/get-audio-duration](https://github.com/caffco/get-audio-duration) - Returns duration of an audio file via ffprobe
 - [jeroentvb/spicetify-combined-playlists](https://github.com/jeroentvb/spicetify-combined-playlists) - Spicetify custom app to create combined playlists
 - [dolbyio-samples/media-app-web-solidjs-audio-visualization](https://github.com/dolbyio-samples/media-app-web-solidjs-audio-visualization) - Create a Dolby.io Frontend Application To Display Waveform With Wavesurfer.js And Interactive Elements Using Konva In SolidJS
 - [koil-music/regroovejs](https://github.com/koil-music/regroovejs) - JavaScript library wrapping the `regroove` ONNX exported model
@@ -3379,7 +3385,7 @@
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard 🌳 i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
+- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard | i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
 - [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter 💻 Next.js 13, Tauri Apps UI, Solito Expo 💪 i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Resend, Auth, Lucide CSS Radix UI, Responsive React Server, TS OR
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [johnpolacek/date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison
