@@ -224,6 +224,7 @@
 - [magenta/ddsp-vst](https://github.com/magenta/ddsp-vst) - Realtime DDSP Neural Synthesizer and Effect
 - [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [WuYiming6526/HARD](https://github.com/WuYiming6526/HARD) - Harmony-Rhythm Disentanglement audio remixer plugin
 - [Torsion-Audio/Scyclone](https://github.com/Torsion-Audio/Scyclone) - Real-time Neural Timbre Transfer
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -457,7 +458,6 @@
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [lc/subjs](https://github.com/lc/subjs) - Fetches javascript file from a list of URLS or subdomains.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
@@ -3472,7 +3472,7 @@
 - [foxt/icloud.js](https://github.com/foxt/icloud.js) - Library for accessing iCloud in Node.js
 - [JDoggen/StarkOSC](https://github.com/JDoggen/StarkOSC) - Wrapper library for osc-js to control Ableton via AbletonOSC
 - [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [xiaoluoboding/vercel-metafy](https://github.com/xiaoluoboding/vercel-metafy) - Easily scrape metadata from websites as a service using Vercel.
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [arihanv/PromptGPT](https://github.com/arihanv/PromptGPT) - 
