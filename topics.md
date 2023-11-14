@@ -461,7 +461,7 @@
 
 ## artificial-intelligence 
 
-- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, advanced asymmetrical encoding, octo-velocity and outro tokens
+- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, advanced quad encoding, octo-velocity and outro tokens
 - [asigalov61/Lars-Ulrich-Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer) - [SOTA] [339M] [88% acc] Fast full-featured drums inpainting transformer with octo-velocity
 - [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) - Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs
 - [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
@@ -3677,6 +3677,9 @@
 
 ## others 
 
+- [bastibe/python-soundfile](https://github.com/bastibe/python-soundfile) - SoundFile is an audio library based on libsndfile, CFFI, and NumPy
+- [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
+- [wch18735/Audio_File_Conversion](https://github.com/wch18735/Audio_File_Conversion) - :arrows_counterclockwise: silence deletion, wav2pcm, pcm2wav implementation
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [NolanNicholson/Looper](https://github.com/NolanNicholson/Looper) - A script for repeating music seamlessly and endlessly, designed with video game music in mind.
 - [AmberJBlue/web-audio-hub](https://github.com/AmberJBlue/web-audio-hub) - A collection of resources and projects for the Web Audio API and audio on the web in general. #Awesome-Lists 🕶️
