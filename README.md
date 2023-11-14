@@ -2225,8 +2225,11 @@
 
 ## Python 
 
+- [bastibe/python-soundfile](https://github.com/bastibe/python-soundfile) - SoundFile is an audio library based on libsndfile, CFFI, and NumPy
+- [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
+- [wch18735/Audio_File_Conversion](https://github.com/wch18735/Audio_File_Conversion) - :arrows_counterclockwise: silence deletion, wav2pcm, pcm2wav implementation
 - [NolanNicholson/Looper](https://github.com/NolanNicholson/Looper) - A script for repeating music seamlessly and endlessly, designed with video game music in mind.
-- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, advanced asymmetrical encoding, octo-velocity and outro tokens
+- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, advanced quad encoding, octo-velocity and outro tokens
 - [asigalov61/Lars-Ulrich-Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer) - [SOTA] [339M] [88% acc] Fast full-featured drums inpainting transformer with octo-velocity
 - [billyblu2000/Polydis-ARG](https://github.com/billyblu2000/Polydis-ARG) - 
 - [voodoohop/symbolic-music-diffusion](https://github.com/voodoohop/symbolic-music-diffusion) - Symbolic Music Generation with Diffusion Models
