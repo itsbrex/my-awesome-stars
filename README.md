@@ -55,7 +55,6 @@
 - [R](#r)
 - [Raku](#raku)
 - [Rich Text Format](#rich-text-format)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -192,7 +191,7 @@
 - [adamstark/Chord-Detector-and-Chromagram](https://github.com/adamstark/Chord-Detector-and-Chromagram) - A Chord Detection and Chromagram Estimation Algorithm
 - [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 - [HiFi-LoFi/FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver) - Audio convolution algorithm in C++ for real time audio processing
-- [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) - An all-round dump function library for C++ that can print any type, even user-defined types.
+- [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types.
 - [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
 - [CrushedPixel/Plugalyzer](https://github.com/CrushedPixel/Plugalyzer) - Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins
 - [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
@@ -2226,11 +2225,12 @@
 
 ## Python 
 
+- [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI) - DALI: a large Dataset of synchronised Audio, LyrIcs and vocal notes.
 - [bastibe/python-soundfile](https://github.com/bastibe/python-soundfile) - SoundFile is an audio library based on libsndfile, CFFI, and NumPy
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [wch18735/Audio_File_Conversion](https://github.com/wch18735/Audio_File_Conversion) - :arrows_counterclockwise: silence deletion, wav2pcm, pcm2wav implementation
 - [NolanNicholson/Looper](https://github.com/NolanNicholson/Looper) - A script for repeating music seamlessly and endlessly, designed with video game music in mind.
-- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, advanced quad encoding, octo-velocity and outro tokens
+- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, efficient encoding, octo-velocity, bars counters and outro tokens
 - [asigalov61/Lars-Ulrich-Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer) - [SOTA] [339M] [88% acc] Fast full-featured drums inpainting transformer with octo-velocity
 - [billyblu2000/Polydis-ARG](https://github.com/billyblu2000/Polydis-ARG) - 
 - [voodoohop/symbolic-music-diffusion](https://github.com/voodoohop/symbolic-music-diffusion) - Symbolic Music Generation with Diffusion Models
@@ -2238,7 +2238,7 @@
 - [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) - Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs
 - [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) - 
 - [tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) - Vocal Remover using Deep Neural Networks
-- [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - a self-hosted webui for several generative ai
+- [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - a self-hosted webui for 30+ generative ai
 - [spotify-research/llark](https://github.com/spotify-research/llark) - Code for the paper "LLark: A Multimodal Foundation Model for Music" by Josh Gardner, Simon Durand, Daniel Stoller, and Rachel Bittner.
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [ScanLineDev/scanline](https://github.com/ScanLineDev/scanline) - Expert AI code reviews  Catch bugs before they hurt  Run Scanline in your CLI to find: - race conditions - logical errors - security risks - optimizations
@@ -2764,7 +2764,6 @@
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [mido/mido](https://github.com/mido/mido) - MIDI Objects for Python
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [owenstanley/rekordbox-cue-points](https://github.com/owenstanley/rekordbox-cue-points) - A python script to automate setting rekordbox cue points
 - [rogeraabbccdd/Rekordbox-NowPlaying](https://github.com/rogeraabbccdd/Rekordbox-NowPlaying) - Get rekordbox now playing master track for OBS and Discord Rich Presence.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Justintime50/github-archive](https://github.com/Justintime50/github-archive) - A powerful tool to concurrently clone, pull, or fork user and org repos and gists to create a GitHub archive.
@@ -2995,10 +2994,6 @@
 
 - [luizen/ableton-live-theme-editor-web](https://github.com/luizen/ableton-live-theme-editor-web) - An online editor for Ableton Live themes
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
-
-## Roff 
-
-- [pancoaster/hum2song](https://github.com/pancoaster/hum2song) - Hum2Song: Multi-track Polyphonic Music Generation from Voice Melody Transcription with Neural Networks
 
 ## Ruby 
 
@@ -3392,7 +3387,7 @@
 - [yusufgns/crmonorepo](https://github.com/yusufgns/crmonorepo) - Fast usable build for turborepo and shadcn ui users
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Tools to organise your emails and reach inbox zero faster with the help of AI.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast.
 - [satelllte/remotion-template](https://github.com/satelllte/remotion-template) - A template for crafting programmatic videos, tailored to personal preferences.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
@@ -3558,7 +3553,7 @@
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source VST/audio plugin projects. Please contribute more links or open source your own plugins.
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
-- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [Maxvien/next-shopify-storefront](https://github.com/Maxvien/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
@@ -4072,7 +4067,7 @@
 
 ## Vue 
 
-- [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Your Ultimate Copilot on the Desktop. ChatGPTBox is a desktop app for GPT-3.5 (OpenAI API).
+- [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Cross-platform ChatGPTBox, supporting GPT-3.5 / GPT-4 API.
 - [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
