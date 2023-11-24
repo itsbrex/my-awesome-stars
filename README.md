@@ -174,7 +174,6 @@
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [TriteHexagon/Midi2ASM-Converter](https://github.com/TriteHexagon/Midi2ASM-Converter) - A simple tool to convert MIDI files into pokecrystal-based .asm music files
-- [lazydevyo/SpleetGUI](https://github.com/lazydevyo/SpleetGUI) - Spleeter GUI version
 - [carrierdown/mutateful](https://github.com/carrierdown/mutateful) - Add-on for Ableton Live that enables live coding functionality fully integrated into Live's session view.
 - [keijiro/PuppetTest](https://github.com/keijiro/PuppetTest) - An experiment in procedural dance animation
 - [Jamedjo/Raticon](https://github.com/Jamedjo/Raticon) - Turn folder icons into movie posters with imdb ratings.
@@ -195,7 +194,7 @@
 - [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
 - [CrushedPixel/Plugalyzer](https://github.com/CrushedPixel/Plugalyzer) - Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins
 - [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
-- [SoundStacks/cmajor](https://github.com/SoundStacks/cmajor) - The Cmajor public API
+- [cmajor-lang/cmajor](https://github.com/cmajor-lang/cmajor) - The Cmajor public API
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [jomarkow/Audio-to-MIDI](https://github.com/jomarkow/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
 - [ddiakopoulos/modern-midi](https://github.com/ddiakopoulos/modern-midi) - :musical_score: C++11 MIDI file & realtime io library
@@ -346,7 +345,7 @@
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [sahat/megaboilerplate](https://github.com/sahat/megaboilerplate) - Handcrafted starter projects, optimized for simplicity and ease of use.
 - [tsvensen/equalize.js](https://github.com/tsvensen/equalize.js) - The jQuery plugin for equalizing the height or width of your elements
-- [maxogden/gh-pages-template](https://github.com/maxogden/gh-pages-template) - free hosting on github! fork this to get a repo with only a gh-pages branch that is easy to edit
+- [max-mapper/gh-pages-template](https://github.com/max-mapper/gh-pages-template) - free hosting on github! fork this to get a repo with only a gh-pages branch that is easy to edit
 - [mrmrs/btns](https://github.com/mrmrs/btns) - A set of css utilities for constructing beautiful responsive buttons
 - [theshecoder/SmartSpot](https://github.com/theshecoder/SmartSpot) - A Spotify Smart Playlist Creation Web Application
 - [cache117/SmartSpot](https://github.com/cache117/SmartSpot) - Smart Spotify playlist creation
@@ -383,7 +382,7 @@
 - [abhshkdz/HackFlowy](https://github.com/abhshkdz/HackFlowy) - :notebook: Workflowy clone, built using Backbone.js & Socket.io
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
-- [maxogden/monu](https://github.com/maxogden/monu) - menubar process monitor mac app [ALPHA]
+- [max-mapper/monu](https://github.com/max-mapper/monu) - menubar process monitor mac app [ALPHA]
 
 ## Clojure 
 
@@ -750,7 +749,6 @@
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - A JSON Schema Validator that supports Draft 04, 06, 07, 2019-09, and 2020-12
 - [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - JavaScript MIDI player and synthesizer based on SoundFont2 specifications. No dependencies required.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
@@ -883,7 +881,6 @@
 - [petersalomonsen/javascriptmusic](https://github.com/petersalomonsen/javascriptmusic) - A.K.A. WebAssembly Music. Live coding music and synthesis in Javascript / AssemblyScript (WebAssembly)
 - [TooTallNate/spotify-uri](https://github.com/TooTallNate/spotify-uri) - Parse and format the various Spotify URI formats
 - [JobSavelsberg/music-structure](https://github.com/JobSavelsberg/music-structure) - A web application that extracts and visualizes music structure. Connects with the Spotify API for audio content data.
-- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [csansoon/ai-web-designer](https://github.com/csansoon/ai-web-designer) - An easy way to create and edit static websites powered by OpenAI's API
 - [ezzcodeezzlife/fileGPT](https://github.com/ezzcodeezzlife/fileGPT) - fileGPT is a powerful and easy-to-use CLI tool that allows you to interact with the OpenAI GPT-4 & GPT-3.5 model to get code completion suggestions and apply the instructions to your code directly.
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
@@ -893,7 +890,7 @@
 - [d3/d3-interpolate](https://github.com/d3/d3-interpolate) - Interpolate numbers, colors, strings, arrays, objects, whatever!
 - [zachwinter/spotify-viz](https://github.com/zachwinter/spotify-viz) - Create realtime audio-reactive visuals, powered by Spotify.
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [hturan/three-stacks](https://github.com/hturan/three-stacks) - Three-dimensional generative scalar design system component visualisation tool
 - [code-charity/dark-mode](https://github.com/code-charity/dark-mode) - Dark Mode - Chrome extension. Relax your eyes at night and day.
 - [malerba118/react-starter-cli](https://github.com/malerba118/react-starter-cli) - React app with a custom generator cli
@@ -907,7 +904,7 @@
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question
 - [segmentio/chrome-sidebar](https://github.com/segmentio/chrome-sidebar) - Easiest way to embed an iframe as a chrome extension
 - [cempehlivan/chatgpt-prompt-chrome-extension](https://github.com/cempehlivan/chatgpt-prompt-chrome-extension) - ChatGPT Prompts Chrome Extension
-- [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
+- [benf2004/AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [zopieux/spotify-now-playing-chrome-extension](https://github.com/zopieux/spotify-now-playing-chrome-extension) - Chrome extension that keeps a JSON file on the local filesystem in sync with the current song on Spotify Web.
 - [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
@@ -1725,7 +1722,7 @@
 
 ## Makefile 
 
-- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services and resources to create and distribute music.
+- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 - [luiscript/NSYNC](https://github.com/luiscript/NSYNC) - Sync your animations with MIDI clock or Ableton link (with different creative tools).
 - [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
 
@@ -1972,7 +1969,7 @@
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-- [maxogden/async-team](https://github.com/maxogden/async-team) - Documentation about how to run an async team (e.g. a remote team in different places)
+- [max-mapper/async-team](https://github.com/max-mapper/async-team) - Documentation about how to run an async team (e.g. a remote team in different places)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [crapthings/awesome-mockup-tools](https://github.com/crapthings/awesome-mockup-tools) - something useful for your ui prototyping
 - [dynaboard/dynaboard--getting-started](https://github.com/dynaboard/dynaboard--getting-started) - Dynaboard template for learning about Dynaboard... in Dynaboard!
@@ -2050,7 +2047,6 @@
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community) - Bug reports and discussion for the Rectangle Pro app
 - [runletapp/runlet](https://github.com/runletapp/runlet) - :cloud: A cloud-based job manager that integrates your devices
-- [dracula/template](https://github.com/dracula/template) - 🧛🏻‍♂️ Dark theme for Foobar
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
 - [argyleink/argyleink](https://github.com/argyleink/argyleink) - 
@@ -2130,7 +2126,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [alite/vjlxnr](https://github.com/alite/vjlxnr) - … (one more) simple VJing tool made with max/jitter/m4l …
 - [alexanderhuth/alfred-open-in-browser-workflow](https://github.com/alexanderhuth/alfred-open-in-browser-workflow) - An Alfred workflow to open the current browser tab in a different browser.
-- [kozykove/add-snippet.alfredworkflow](https://github.com/kozykove/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
+- [tastyblob/add-snippet.alfredworkflow](https://github.com/tastyblob/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
 - [stuartcryan/defaultbrowser-alfred-workflow](https://github.com/stuartcryan/defaultbrowser-alfred-workflow) - Default Browser workflow for Alfred using Kerma's DefaultBrowser Binary
 - [gravitinos/slack_themes](https://github.com/gravitinos/slack_themes) - :speech_balloon: Slack Themes :see_no_evil: A collection of themes for Slack pulled together into one easily referenced place, letting you get a taste before you copy and paste!
 - [chadanderson/alfred_quick_resize](https://github.com/chadanderson/alfred_quick_resize) - Quickly resize images on your desktop with Alfred
@@ -2230,7 +2226,7 @@
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [wch18735/Audio_File_Conversion](https://github.com/wch18735/Audio_File_Conversion) - :arrows_counterclockwise: silence deletion, wav2pcm, pcm2wav implementation
 - [NolanNicholson/Looper](https://github.com/NolanNicholson/Looper) - A script for repeating music seamlessly and endlessly, designed with video game music in mind.
-- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, efficient encoding, octo-velocity, bars counters and outro tokens
+- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] [SOTA] [92% acc] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, efficient encoding, octo-velocity and outro tokens
 - [asigalov61/Lars-Ulrich-Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer) - [SOTA] [339M] [88% acc] Fast full-featured drums inpainting transformer with octo-velocity
 - [billyblu2000/Polydis-ARG](https://github.com/billyblu2000/Polydis-ARG) - 
 - [voodoohop/symbolic-music-diffusion](https://github.com/voodoohop/symbolic-music-diffusion) - Symbolic Music Generation with Diffusion Models
@@ -2249,7 +2245,7 @@
 - [daveshap/YouTubeChapterGenerator](https://github.com/daveshap/YouTubeChapterGenerator) - Make YouTube Chapters from a downloaded Transcript
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
-- [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
+- [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - [DEPRECIATED] Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
 - [yxlllc/pc-ddsp](https://github.com/yxlllc/pc-ddsp) - Pitch Controllable DDSP Vocoders
 - [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing)
 - [Dream-High/RMVPE](https://github.com/Dream-High/RMVPE) - 
@@ -2263,7 +2259,7 @@
 - [KompleteAI/xllm-demo](https://github.com/KompleteAI/xllm-demo) - Demo project using XLLM
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
-- [asigalov61/Euterpe-X](https://github.com/asigalov61/Euterpe-X) - [SOTA] [PyTorch 2.0] [638M] [85.33% acc] Full-attention multi-instrumental music transformer for supervised music generation, optimized for speed, efficiency, and performance
+- [asigalov61/Euterpe-X](https://github.com/asigalov61/Euterpe-X) - [DEPRECIATED] [PyTorch 2.0] [638M] [85.33% acc] Full-attention multi-instrumental music transformer for supervised music generation, optimized for speed, efficiency, and performance
 - [dcervantes/scidle-midi-rnn](https://github.com/dcervantes/scidle-midi-rnn) - Generating MIDI music with Recurrent Neural Networks
 - [asigalov61/Orchestrator](https://github.com/asigalov61/Orchestrator) - Local windowed attention multi-instrumental music transformer tailored for music orchestration/instrumentation and stable music generation
 - [nateraw/huggingface-sync-action](https://github.com/nateraw/huggingface-sync-action) - GitHub action that'll sync files from a GitHub Repo with the Hugging Face Hub 🤗
@@ -3072,6 +3068,7 @@
 - [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
 - [allthemusicllc/atm-tools](https://github.com/allthemusicllc/atm-tools) - Tools for working with MIDI files - written by All the Music LLC for musicians.
 - [allthemusicllc/libatm](https://github.com/allthemusicllc/libatm) - Library for generating and working with MIDI files
+- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [thomasantony/chatgpt-term](https://github.com/thomasantony/chatgpt-term) - A terminal interface to ChatGPT
@@ -3176,6 +3173,7 @@
 - [kconner/next-js-in-docker-example](https://github.com/kconner/next-js-in-docker-example) - Next.js + Docker + Compose + Kubernetes + VS Code + TypeScript + Jest + Storybook
 - [cmer/shoestrap](https://github.com/cmer/shoestrap) - A simple alternative to Chef and Puppet to bootstrap *nix machines.
 - [ViViDboarder/shoestrap](https://github.com/ViViDboarder/shoestrap) - A simple alternative to Chef and Puppet to bootstrap *nix machines.
+- [dracula/template](https://github.com/dracula/template) - 🧛🏻‍♂️ Dark theme for Foobar
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [schollz/spotifydownload](https://github.com/schollz/spotifydownload) - A dependency-free Spotify playlist downloader that should just work
 - [traviscross/compress-video-for-web](https://github.com/traviscross/compress-video-for-web) - A simple tool to compress videos correctly for the web using ffmpeg
@@ -3337,6 +3335,7 @@
 
 ## TypeScript 
 
+- [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [drakh/acid-generator](https://github.com/drakh/acid-generator) - acid bassline generator
 - [caffco/s3-glob-sync-github-action](https://github.com/caffco/s3-glob-sync-github-action) - Sync globs to AWS S3
 - [caffco/get-audio-duration](https://github.com/caffco/get-audio-duration) - Returns duration of an audio file via ffprobe
@@ -3426,6 +3425,7 @@
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 - [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
 - [UnJavaScripter/web-midi-basics](https://github.com/UnJavaScripter/web-midi-basics) - A Web MIDI basic example
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -3585,7 +3585,7 @@
 - [simpel/little-template-maker](https://github.com/simpel/little-template-maker) - 
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
-- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
@@ -3614,7 +3614,7 @@
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - React and TypeScript Chrome extension example project for developers to create their own extensions.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Pres
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
 - [paulphys/spotify-next-auth-token-rotation](https://github.com/paulphys/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
@@ -3763,7 +3763,7 @@
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [google/link-diver](https://github.com/google/link-diver) - A feature-rich chrome extension that extracts all of the links on a page. Filter links by a regex, highlight them on the original page, and more!
 - [chriswinch/ableton-to-json](https://github.com/chriswinch/ableton-to-json) - Convert Ableton ALS file to json and back again
-- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax 📜
+- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax
 - [sillsdev/docu-notion](https://github.com/sillsdev/docu-notion) - Download Notion pages as markdown and image files, preserving hierarchy and enabling workflow properties. Works with Docusaurus.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
