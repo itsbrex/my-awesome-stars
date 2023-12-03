@@ -250,7 +250,7 @@
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast.
-- [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
+- [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [IndexStorm/git-rec-back](https://github.com/IndexStorm/git-rec-back) - Backend code for GitHub Recommendation Extension
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
@@ -522,6 +522,7 @@
 
 ## automation 
 
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a v
@@ -964,7 +965,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [datduyng/scriptbar-snippets](https://github.com/datduyng/scriptbar-snippets) - Useful snippets for your chrome/firefox browsers
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
-- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
+- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Deprecated! Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [bit2pixel/chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -1044,7 +1045,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
-- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
+- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Deprecated! Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
 - [ShravanSunder/evergreenNotesNotion](https://github.com/ShravanSunder/evergreenNotesNotion) - Chrome extension for notion
 - [Mimieam/TabSorter2](https://github.com/Mimieam/TabSorter2) - Google Chrome Tab Management Extension - Merge, Sort, split and more :) - https://chrome.google.com/webstore/detail/tabsorter2/lmmmdnmgmgnimgcfbnomdgeldehlfafn
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
@@ -2931,7 +2932,6 @@
 - [zakhenry/embedme](https://github.com/zakhenry/embedme) - Utility for embedding code snippets into markdown documents
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [motifland/markprompt](https://github.com/motifland/markprompt) - AI for customer support
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -3691,7 +3691,16 @@
 
 ## others 
 
-- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - 
+- [digital-dj-tools/dj-data-converter](https://github.com/digital-dj-tools/dj-data-converter) - A command-line app for converting data files to and from different DJ software formats.
+- [AppMachine/seratojs](https://github.com/AppMachine/seratojs) - Manage Serato Crates Programatically via NodeJS.
+- [bcollazo/dejavu](https://github.com/bcollazo/dejavu) - Audio fingerprinting and recognition in Python
+- [AppMachine/ffprobe-static](https://github.com/AppMachine/ffprobe-static) - Static binaries for ffprobe
+- [AppMachine/node-id3](https://github.com/AppMachine/node-id3) - Pure JavaScript ID3 Tag library
+- [strazzere/node-usb](https://github.com/strazzere/node-usb) - Improved USB library for Node.js
+- [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) - Mustango: Toward Controllable Text-to-Music Generation
+- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
+- [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
 - [f2l2pe/JetBrainsMonoSlashed](https://github.com/f2l2pe/JetBrainsMonoSlashed) - JetBrains Mono Slashed – the free and open-source typeface for developers, now with slashed zero
 - [moises-ai/backend-dev-position](https://github.com/moises-ai/backend-dev-position) - 
 - [felixxwu/noxive](https://github.com/felixxwu/noxive) - Landing page for my music hobby using Vue.js and Firebase
@@ -6187,7 +6196,7 @@
 - [yusufgns/crmonorepo](https://github.com/yusufgns/crmonorepo) - Fast usable build for turborepo and shadcn ui users
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
-- [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
+- [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
 - [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter and CMS ▲ Next.js 13, Tauri Apps UI, Solito Expo ▲ i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Auth, Lucide CSS Radix UI, Responsive React Server, TS OR
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -6973,7 +6982,7 @@
 - [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
 - [mickasmt/ui-colorgen](https://github.com/mickasmt/ui-colorgen) - An application designed to assist you with color configuration of shadcn/ui !
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast.
-- [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
+- [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next.js project includes Next.js 14 App router, Shadcn UI, NextAuth, Prisma, Server Actions and more.
@@ -7244,7 +7253,7 @@
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [element-plus/unplugin-element-plus](https://github.com/element-plus/unplugin-element-plus) - 🔌 Import Element Plus on demand. Support Vite, Webpack, Vue CLI, Rollup and esbuild.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
-- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
+- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Deprecated! Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -7325,7 +7334,7 @@
 - [thomasjohnkane/tailwind-alpine-chrome-extension](https://github.com/thomasjohnkane/tailwind-alpine-chrome-extension) - Starter Kit for building a Web Extension with Tailwindcss & AlpineJS
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
 - [element-plus/unplugin-element-plus](https://github.com/element-plus/unplugin-element-plus) - 🔌 Import Element Plus on demand. Support Vite, Webpack, Vue CLI, Rollup and esbuild.
-- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
+- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Deprecated! Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 
