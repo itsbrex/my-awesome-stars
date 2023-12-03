@@ -388,6 +388,7 @@
 
 ## Clojure 
 
+- [digital-dj-tools/dj-data-converter](https://github.com/digital-dj-tools/dj-data-converter) - A command-line app for converting data files to and from different DJ software formats.
 - [chr15m/dopeloop-experiments](https://github.com/chr15m/dopeloop-experiments) - Experiments for dopeloop.ai
 - [thi-ng/cgg](https://github.com/thi-ng/cgg) - Online cosine gradient generator for use w/ thi.ng/color
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -707,6 +708,9 @@
 
 ## JavaScript 
 
+- [AppMachine/seratojs](https://github.com/AppMachine/seratojs) - Manage Serato Crates Programatically via NodeJS.
+- [AppMachine/ffprobe-static](https://github.com/AppMachine/ffprobe-static) - Static binaries for ffprobe
+- [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
 - [moises-ai/backend-dev-position](https://github.com/moises-ai/backend-dev-position) - 
 - [felixxwu/noxive](https://github.com/felixxwu/noxive) - Landing page for my music hobby using Vue.js and Firebase
 - [ToDesktop/todesktop-quick-start](https://github.com/ToDesktop/todesktop-quick-start) - Clone to try ToDesktop with a simple Electron project
@@ -1267,7 +1271,7 @@
 - [dragonman225/trigger-webhook-from-notion](https://github.com/dragonman225/trigger-webhook-from-notion) - Add a button that can trigger a POST webhook in Notion.so's table.
 - [Matthew-Mallimo/remix-notion-example](https://github.com/Matthew-Mallimo/remix-notion-example) - An example on how to connect a Remix form to a Notion DB
 - [mubaidr/pixi.js](https://github.com/mubaidr/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
+- [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Deprecated! Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
 - [mubaidr/prerender-spa-plugin](https://github.com/mubaidr/prerender-spa-plugin) - Prerenders static HTML in a single-page application.
 - [mubaidr/prerenderer](https://github.com/mubaidr/prerenderer) - Fast, flexible, framework-agnostic prerendering for sites and SPAs.
 - [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
@@ -2228,7 +2232,11 @@
 
 ## Python 
 
-- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - 
+- [bcollazo/dejavu](https://github.com/bcollazo/dejavu) - Audio fingerprinting and recognition in Python
+- [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) - Mustango: Toward Controllable Text-to-Music Generation
+- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
+- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
 - [karaokenerds/python-audio-separator](https://github.com/karaokenerds/python-audio-separator) - Easy to use vocal separation on CLI or as a python package, using the amazing MDX-Net models from UVR trained by @Anjok07
 - [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI) - DALI: a large Dataset of synchronised Audio, LyrIcs and vocal notes.
@@ -3345,6 +3353,8 @@
 
 ## TypeScript 
 
+- [AppMachine/node-id3](https://github.com/AppMachine/node-id3) - Pure JavaScript ID3 Tag library
+- [strazzere/node-usb](https://github.com/strazzere/node-usb) - Improved USB library for Node.js
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [marigold-ui/marigold](https://github.com/marigold-ui/marigold) - Design System based on react-aria and Tailwind CSS
@@ -3405,7 +3415,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast.
 - [satelllte/remotion-template](https://github.com/satelllte/remotion-template) - A template for crafting programmatic videos, tailored to personal preferences.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
-- [lusatai/lusat](https://github.com/lusatai/lusat) - The Lusat TS library.
+- [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
@@ -3608,7 +3618,6 @@
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
-- [motifland/markprompt](https://github.com/motifland/markprompt) - AI for customer support
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
