@@ -263,7 +263,7 @@
 - [RoboCoachTechnologies/GPT-Synthesizer](https://github.com/RoboCoachTechnologies/GPT-Synthesizer) - Software design & development with AI
 - [simoncragg/synth-gpt](https://github.com/simoncragg/synth-gpt) - An intelligent voice assistant
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
-- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a v
+- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
@@ -525,7 +525,7 @@
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
-- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a v
+- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -3479,7 +3479,7 @@
 - [djipco/webmidi](https://github.com/djipco/webmidi) - Tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (note
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
-- [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - TypeScript `tsconfig.json` paser & paths resolver
+- [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - TypeScript `tsconfig.json` parser & paths resolver
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
 - [xom9ikk/dotenv](https://github.com/xom9ikk/dotenv) - GitHub Action to read .env file and add variables to GITHUB_ENV
@@ -3691,6 +3691,7 @@
 
 ## others 
 
+- [CesiumGS/webglreport](https://github.com/CesiumGS/webglreport) - A web page that reports a browser's WebGL capabilities, including supported extensions and implementation specific capabilities, such as the maximum number of texture units.
 - [digital-dj-tools/dj-data-converter](https://github.com/digital-dj-tools/dj-data-converter) - A command-line app for converting data files to and from different DJ software formats.
 - [AppMachine/seratojs](https://github.com/AppMachine/seratojs) - Manage Serato Crates Programatically via NodeJS.
 - [bcollazo/dejavu](https://github.com/bcollazo/dejavu) - Audio fingerprinting and recognition in Python
@@ -5903,7 +5904,7 @@
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
-- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a v
+- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
@@ -7041,7 +7042,7 @@
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
 - [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
-- [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - TypeScript `tsconfig.json` paser & paths resolver
+- [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - TypeScript `tsconfig.json` parser & paths resolver
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
