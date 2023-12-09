@@ -153,6 +153,7 @@
 
 ## C# # 
 
+- [perivar/PresetConverter](https://github.com/perivar/PresetConverter) - Convert a range of preset and solutions files into other formats for more simple conversion between DAWs
 - [monadgroup/FLParser](https://github.com/monadgroup/FLParser) - An FL Studio project file parser for .NET
 - [mbaske/ml-chord-detection](https://github.com/mbaske/ml-chord-detection) - Chord Detection with Unity ML-Agents (Audio Sensor)
 - [DataJuggler/DataTier.Net](https://github.com/DataJuggler/DataTier.Net) - DataTier.Net is an Entity Framework alternative that makes it simple to create stored procedure powered data tiers.
@@ -242,6 +243,7 @@
 - [nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all) - Official supported Python bindings for llama.cpp + gpt4all
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [cedrickchee/tch-js](https://github.com/cedrickchee/tch-js) - A JavaScript and TypeScript port of PyTorch C++ library (libtorch) - Node.js N-API bindings for libtorch.
 - [adamchainz/abledecoder](https://github.com/adamchainz/abledecoder) - decrypts Ableton DRM-protected *.aif files
@@ -533,6 +535,7 @@
 
 ## HTML 
 
+- [Computational-Cognitive-Musicology-Lab/humdrumR](https://github.com/Computational-Cognitive-Musicology-Lab/humdrumR) - A toolkit for analyzing data encoded in the humdrum format.
 - [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [oramics/sampled](https://github.com/oramics/sampled) - A collection of sampled instruments, loops and impulse responses with open licenses
 - [ibnzUK/next-chrome-starter](https://github.com/ibnzUK/next-chrome-starter) - Next.js Chrome Extension Starter example application that demonstrates how to build a Chrome extension using Next.js. It provides a foundation for developing Chrome extensions with Next.js, React and 
@@ -708,6 +711,10 @@
 
 ## JavaScript 
 
+- [mmckegg/soundbank](https://github.com/mmckegg/soundbank) - A collection of triggerable Web Audio API audio slots, supporting audio routing, midi input and value providers.
+- [mmckegg/audio-slot](https://github.com/mmckegg/audio-slot) - Web Audio API FRP wrapper for creating, routing, and triggering AudioNodes.
+- [pmmmwh/react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin) - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
+- [isaacs/tshy](https://github.com/isaacs/tshy) - 
 - [CesiumGS/webglreport](https://github.com/CesiumGS/webglreport) - A web page that reports a browser's WebGL capabilities, including supported extensions and implementation specific capabilities, such as the maximum number of texture units.
 - [AppMachine/seratojs](https://github.com/AppMachine/seratojs) - Manage Serato Crates Programatically via NodeJS.
 - [AppMachine/ffprobe-static](https://github.com/AppMachine/ffprobe-static) - Static binaries for ffprobe
@@ -896,7 +903,6 @@
 - [ezzcodeezzlife/fileGPT](https://github.com/ezzcodeezzlife/fileGPT) - fileGPT is a powerful and easy-to-use CLI tool that allows you to interact with the OpenAI GPT-4 & GPT-3.5 model to get code completion suggestions and apply the instructions to your code directly.
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - A Tailwind CSS component that shows the currently active screen (responsive breakpoint).
-- [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
 - [thlorenz/docme](https://github.com/thlorenz/docme) - Generates github compatible API documentation from your project's jsdocs and adds them to your Readme.
 - [d3/d3-interpolate](https://github.com/d3/d3-interpolate) - Interpolate numbers, colors, strings, arrays, objects, whatever!
 - [zachwinter/spotify-viz](https://github.com/zachwinter/spotify-viz) - Create realtime audio-reactive visuals, powered by Spotify.
@@ -1681,7 +1687,7 @@
 - [magenta/magenta-demos](https://github.com/magenta/magenta-demos) - Demonstrations of Magenta Models
 - [twitterdev/Twitter-API-to-Google-Sheets](https://github.com/twitterdev/Twitter-API-to-Google-Sheets) - A code sample that allows you to send a payload from the Twitter API to Google Sheets.
 - [theianchan/base-image-scaler](https://github.com/theianchan/base-image-scaler) - SDRs put a lot of work into outbound messaging to capture the attention of prospects. What if they could... Not do that work?
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
 - [ashenoy95/ml](https://github.com/ashenoy95/ml) - Machine Learning, Neural Nets, Deep Learning basics
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [neuro-team-femto/cleese](https://github.com/neuro-team-femto/cleese) - Combinatorial Expressive Speech Engine
@@ -1710,6 +1716,7 @@
 
 ## Lua 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [CUHK-CMD/Automatic-Music-Arrangement](https://github.com/CUHK-CMD/Automatic-Music-Arrangement) - 
 - [Lydorn/DeepRenderEngine](https://github.com/Lydorn/DeepRenderEngine) - A Deep Learning approach to 3D rendering
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -1872,6 +1879,9 @@
 
 ## Others 
 
+- [stacksjs/awesome-stacks](https://github.com/stacksjs/awesome-stacks) - 🎉 A curated list of awesome things related to Stacks.js.
+- [dennisrcao/MIDI-CC-To-Clip-Launch-Position](https://github.com/dennisrcao/MIDI-CC-To-Clip-Launch-Position) - Max For Live device that linearly maps any knob/fader (MIDI CC 0 - 127) across all clips  on an Ableton track
+- [Computational-Cognitive-Musicology-Lab/MCFlow](https://github.com/Computational-Cognitive-Musicology-Lab/MCFlow) - The musical corpus of flow (124 transcriptions of popular rap songs)
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [AmberJBlue/web-audio-hub](https://github.com/AmberJBlue/web-audio-hub) - A collection of resources and projects for the Web Audio API and audio on the web in general. #Awesome-Lists 🕶️
 - [drakh/polyend-play-rave-generator](https://github.com/drakh/polyend-play-rave-generator) - Plyend Play smaple pack based on Wavosaur's Rave Generator 2 VSTi
@@ -1945,6 +1955,7 @@
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 - [imaurer/awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - List of interesting resources for building and using ChatGPT plugins.
 - [pmlg/generative_music_playground](https://github.com/pmlg/generative_music_playground) - Links for music + machine learning
+- [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [trungdq88/chatgpt-prompt-templates](https://github.com/trungdq88/chatgpt-prompt-templates) - Templates for community prompts on TypingMind.com
 - [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
@@ -1955,7 +1966,7 @@
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
-- [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - The website home for https://onetab.group
+- [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - This repo just to collect user feedback.
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [aamir-sidd/GPT-4](https://github.com/aamir-sidd/GPT-4) - Brief introduction about GPT-4
@@ -2233,6 +2244,9 @@
 
 ## Python 
 
+- [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
+- [xlang-ai/instructor-embedding](https://github.com/xlang-ai/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
+- [audiomuze/tagminder](https://github.com/audiomuze/tagminder) - Import/Export tag metadata to/from audio files and a dynamically created SQLite table.  Automates tag cleanup and standardisation for your digital audio library at scale using pre-scripted SQL queries
 - [bcollazo/dejavu](https://github.com/bcollazo/dejavu) - Audio fingerprinting and recognition in Python
 - [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) - Mustango: Toward Controllable Text-to-Music Generation
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
@@ -2492,7 +2506,7 @@
 - [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
 - [RegsonDR/spotify-save-playlists-cron](https://github.com/RegsonDR/spotify-save-playlists-cron) - Save Spotify's auto-generated playlists automatically - Powered by Github Actions.
 - [gioxx/spotify-save-new-music-friday](https://github.com/gioxx/spotify-save-new-music-friday) - Save Spotify's "New Music Friday" playlist automatically - Powered by Github Actions, based on the original script by @RegsonDR.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [Flixor/AbletonTracklist](https://github.com/Flixor/AbletonTracklist) - Simple script for extracting tracklists from Ableton in Mixcloud format
 - [QosmoInc/neutone_sdk](https://github.com/QosmoInc/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [jagilley/anti-midwit-decoding](https://github.com/jagilley/anti-midwit-decoding) - 
@@ -2697,7 +2711,6 @@
 - [clementabary/sigsep-mus-eval](https://github.com/clementabary/sigsep-mus-eval) - museval - source separation evaluation tools for python
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
 - [declare-lab/flan-alpaca](https://github.com/declare-lab/flan-alpaca) - This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5.
 - [gururise/AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) - Alpaca dataset from Stanford, cleaned and curated
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
@@ -2996,6 +3009,7 @@
 
 ## R 
 
+- [Computational-Cognitive-Musicology-Lab/CoCoPops-Billboard-legacy](https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops-Billboard-legacy) - A corpus of melodic and harmonic transcriptions of popular music
 - [ingimar-eyfjord/spotify_data_analysis_R](https://github.com/ingimar-eyfjord/spotify_data_analysis_R) - 
 - [boltomli/MyShinyApps](https://github.com/boltomli/MyShinyApps) - R apps that run on shinyapps.io or RStudio Connect
 
@@ -3070,6 +3084,7 @@
 
 ## Rust 
 
+- [mmckegg/rust-loop-drop](https://github.com/mmckegg/rust-loop-drop) - [WIP] Midi-only version of Loop Drop for running on low power machines like Raspberry Pi and Beaglebone
 - [alexrodi/rust-midi-synth](https://github.com/alexrodi/rust-midi-synth) - A command-line midi synth in Rust
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) - Rust - Augmented Audio Libraries
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -3354,6 +3369,17 @@
 
 ## TypeScript 
 
+- [aabedraba/jszip-workers-r2](https://github.com/aabedraba/jszip-workers-r2) - Use jszip with Cloudflare workers and R2
+- [awohletz/electron-prisma-trpc-example](https://github.com/awohletz/electron-prisma-trpc-example) - An example repo showing how to use Electron with tRPC and Prisma
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
+- [pd4d10/debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app
+- [p32929/fjsondb](https://github.com/p32929/fjsondb) - A fast and simple JSON database for NodeJS
+- [p32929/electron-forge-typescript](https://github.com/p32929/electron-forge-typescript) - electron forge + react + typescript + tailwindcss + shadcn + usm
+- [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) - A free soundboard that looks beautiful and works
+- [Africademy/nj-temp-sass-ui-pro](https://github.com/Africademy/nj-temp-sass-ui-pro) - 
+- [tablesandwaves/tblswvs.app](https://github.com/tablesandwaves/tblswvs.app) - A Tables & Waves controller app
+- [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [AppMachine/node-id3](https://github.com/AppMachine/node-id3) - Pure JavaScript ID3 Tag library
 - [strazzere/node-usb](https://github.com/strazzere/node-usb) - Improved USB library for Node.js
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
@@ -3394,7 +3420,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
 - [iansimon/magenta-js](https://github.com/iansimon/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -3500,7 +3526,7 @@
 - [foxt/icloud.js](https://github.com/foxt/icloud.js) - Library for accessing iCloud in Node.js
 - [JDoggen/StarkOSC](https://github.com/JDoggen/StarkOSC) - Wrapper library for osc-js to control Ableton via AbletonOSC
 - [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [xiaoluoboding/vercel-metafy](https://github.com/xiaoluoboding/vercel-metafy) - Easily scrape metadata from websites as a service using Vercel.
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [arihanv/PromptGPT](https://github.com/arihanv/PromptGPT) - 
@@ -3513,7 +3539,7 @@
 - [rain-sk/synth.kitchen](https://github.com/rain-sk/synth.kitchen) - modular synth playground
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
-- [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database!
+- [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [hugofabricio/moises](https://github.com/hugofabricio/moises) - Moises Website
