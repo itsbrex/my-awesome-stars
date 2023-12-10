@@ -187,6 +187,8 @@
 
 ## C++ 
 
+- [haszari/PhraseSyncPlugins](https://github.com/haszari/PhraseSyncPlugins) - Phrase-synchable MIDI plugins for live performance
+- [iscore-pfa/ScorePfa](https://github.com/iscore-pfa/ScorePfa) - 
 - [DBraun/ChucKDesigner](https://github.com/DBraun/ChucKDesigner) - ChucK audio integration with TouchDesigner
 - [andrewrk/PyDaw](https://github.com/andrewrk/PyDaw) - python library to mess with Digital Audio Workstations. FL Studio project files (.flp) supported.
 - [RandomVertebrate/console-audioSpectra](https://github.com/RandomVertebrate/console-audioSpectra) - CLI spectral histograms of mic audio | Pitch / chord detection algorithms
@@ -686,7 +688,7 @@
 ## Java 
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [jjazzboss/JJazzLab](https://github.com/jjazzboss/JJazzLab) - A complete and open Midi-based application for automatic backing tracks generation.
+- [jjazzboss/JJazzLab](https://github.com/jjazzboss/JJazzLab) - A complete and open application for automatic backing tracks generation.
 - [sonallux/spotify-web-api](https://github.com/sonallux/spotify-web-api) - Tools for fixing and improving the official Spotify OpenAPI definition.
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [BSvER1/AbletonMidiMapper](https://github.com/BSvER1/AbletonMidiMapper) - a small utility for grabbing automation out of ableton to send to other applications over virtual midi ports
@@ -711,6 +713,10 @@
 
 ## JavaScript 
 
+- [haszari/kytaime-abletonlink](https://github.com/haszari/kytaime-abletonlink) - Ableton Link experiment with Kytaime sequencer
+- [haszari/kytaime](https://github.com/haszari/kytaime) - Browser-based MIDI and audio sequencer
+- [justinwolfe/abletone](https://github.com/justinwolfe/abletone) - fdsafdsaf
+- [aofn/Ableton-Live-Manager](https://github.com/aofn/Ableton-Live-Manager) - 
 - [mmckegg/soundbank](https://github.com/mmckegg/soundbank) - A collection of triggerable Web Audio API audio slots, supporting audio routing, midi input and value providers.
 - [mmckegg/audio-slot](https://github.com/mmckegg/audio-slot) - Web Audio API FRP wrapper for creating, routing, and triggering AudioNodes.
 - [pmmmwh/react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin) - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
@@ -2244,6 +2250,7 @@
 
 ## Python 
 
+- [Kevin0z0/Python_NetEaseMusicAPI](https://github.com/Kevin0z0/Python_NetEaseMusicAPI) - Python版的网易云音乐API，基于django3.0搭建
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [xlang-ai/instructor-embedding](https://github.com/xlang-ai/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
 - [audiomuze/tagminder](https://github.com/audiomuze/tagminder) - Import/Export tag metadata to/from audio files and a dynamically created SQLite table.  Automates tag cleanup and standardisation for your digital audio library at scale using pre-scripted SQL queries
@@ -2259,7 +2266,7 @@
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [wch18735/Audio_File_Conversion](https://github.com/wch18735/Audio_File_Conversion) - :arrows_counterclockwise: silence deletion, wav2pcm, pcm2wav implementation
 - [NolanNicholson/Looper](https://github.com/NolanNicholson/Looper) - A script for repeating music seamlessly and endlessly, designed with video game music in mind.
-- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [WIP] [SOTA] [92% acc] 1B-8k-64L-32H multi-instrumental music transformer with true full MIDI instruments range, efficient encoding, octo-velocity and outro tokens
+- [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [SOTA] [92% acc] 786M-8k-44L-32H multi-instrumental music transformer with true full MIDI instruments range, efficient encoding, octo-velocity and outro tokens
 - [asigalov61/Lars-Ulrich-Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer) - [SOTA] [339M] [88% acc] Fast full-featured drums inpainting transformer with octo-velocity
 - [billyblu2000/Polydis-ARG](https://github.com/billyblu2000/Polydis-ARG) - 
 - [voodoohop/symbolic-music-diffusion](https://github.com/voodoohop/symbolic-music-diffusion) - Symbolic Music Generation with Diffusion Models
@@ -2367,7 +2374,7 @@
 - [crowsonkb/clip-guided-diffusion](https://github.com/crowsonkb/clip-guided-diffusion) - CLIP Guided Diffusion
 - [crowsonkb/style-transfer-pytorch](https://github.com/crowsonkb/style-transfer-pytorch) - Neural style transfer in PyTorch.
 - [haoheliu/AudioLDM](https://github.com/haoheliu/AudioLDM) - AudioLDM: Generate speech, sound effects, music and beyond, with text.
-- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [hasanfirnas/symbiote](https://github.com/hasanfirnas/symbiote) - Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.
 - [Music-and-Culture-Technology-Lab/omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
@@ -2685,7 +2692,7 @@
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure sandboxed cloud environments made for AI agents and AI apps
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [gpnoel/DeepRemix](https://github.com/gpnoel/DeepRemix) - Remixing Music with Deep Learning
@@ -3369,6 +3376,7 @@
 
 ## TypeScript 
 
+- [skymethod/kv-connect-kit](https://github.com/skymethod/kv-connect-kit) - Minimal Typescript client implementing the KV Connect protocol. Access Deno KV remotely from any Javascript environment like Node, Cloudflare Workers, Bun, Deno, and the browser.
 - [aabedraba/jszip-workers-r2](https://github.com/aabedraba/jszip-workers-r2) - Use jszip with Cloudflare workers and R2
 - [awohletz/electron-prisma-trpc-example](https://github.com/awohletz/electron-prisma-trpc-example) - An example repo showing how to use Electron with tRPC and Prisma
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
