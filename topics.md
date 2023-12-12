@@ -162,6 +162,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -279,7 +280,7 @@
 - [janekb04/py2gpt](https://github.com/janekb04/py2gpt) - Convert Python code into JSON consumable by OpenAI's function API.
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
@@ -332,7 +333,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -441,7 +442,7 @@
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
 - [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -695,7 +696,7 @@
 ## azure 
 
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 
 ## babel 
@@ -797,7 +798,7 @@
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - Build, Deploy, and Scale Reliable Swarms of Autonomous Agents. Join our Community: https://discord.gg/DbjBMJTSWD
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
-- [dizzysaturn/soundstorm](https://github.com/dizzysaturn/soundstorm) - Soundstorm is a cutting-edge AI-powered audio manipulation application designed to provide a rich yet simplified experience for sound designers, algorithmic composers, and experimental audio enthusias
+- [RhythrosaLabs/soundstorm](https://github.com/RhythrosaLabs/soundstorm) - Soundstorm is a cutting-edge AI-powered audio manipulation application designed to provide a rich yet simplified experience for sound designers, algorithmic composers, and experimental audio enthusias
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [yaph/chatgpt-export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
@@ -817,7 +818,7 @@
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -836,7 +837,7 @@
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
 - [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
-- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Cross-platform ChatGPTBox, supporting GPT-3.5 / GPT-4 API.
 - [AdirthaBorgohain/intelliweb-GPT](https://github.com/AdirthaBorgohain/intelliweb-GPT) - Intelligent search engine/QA module that uses GPT models to provide accurate, relevant & recent answers from Google News/Web, & can directly answer user queries using GPT's knowledge.
 - [editor-syntax/gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use
@@ -889,7 +890,7 @@
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
@@ -1941,6 +1942,7 @@
 
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
@@ -3014,6 +3016,8 @@
 
 ## music 
 
+- [SatyrDiamond/DawVert](https://github.com/SatyrDiamond/DawVert) - DawVert - The DAW ConVERTer
+- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust
 - [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
 - [DBraun/ChucKDesigner](https://github.com/DBraun/ChucKDesigner) - ChucK audio integration with TouchDesigner
 - [FormidableLabs/react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
@@ -3197,6 +3201,7 @@
 ## mysql 
 
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
+- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -3272,7 +3277,7 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
@@ -3282,7 +3287,7 @@
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [steven-tey/extrapolate](https://github.com/steven-tey/extrapolate) - Age transformation AI app powered by Next.js, Vercel, Replicate, Upstash, and Cloudflare R2 + Workers.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
-- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot) - Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js.
@@ -3667,6 +3672,7 @@
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, organised by category
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
 - [Bubobubobubobubo/sardine](https://github.com/Bubobubobubobubo/sardine) - Python's missing "algorave" module
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
@@ -3706,6 +3712,9 @@
 
 ## others 
 
+- [ezetech/anthropic-gui](https://github.com/ezetech/anthropic-gui) - A user-friendly, feature-rich UI enhancing interaction with Anthropic's Claude AI, enabling model selection, chat saving, and improved prompt editing.
+- [sideb0ard/SoundB0ard](https://github.com/sideb0ard/SoundB0ard) - Soundb0ard Shellllllll
+- [jonathanmarmor/phase](https://github.com/jonathanmarmor/phase) - Automatic Steve Reich phasing music
 - [haszari/PhraseSyncPlugins](https://github.com/haszari/PhraseSyncPlugins) - Phrase-synchable MIDI plugins for live performance
 - [haszari/kytaime-abletonlink](https://github.com/haszari/kytaime-abletonlink) - Ableton Link experiment with Kytaime sequencer
 - [haszari/kytaime](https://github.com/haszari/kytaime) - Browser-based MIDI and audio sequencer
@@ -4435,7 +4444,7 @@
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
-- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [ifyour/code-var](https://github.com/ifyour/code-var) - 🐬 No more headaches with variable naming
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
 - [nuxtbase/nuxt3-starter](https://github.com/nuxtbase/nuxt3-starter) - 💚 A Better Nuxt 3 Starter Template，generate by nuxi.
@@ -5875,6 +5884,17 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [shorwood/gptsh](https://github.com/shorwood/gptsh) - GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
 
+## privacy 
+
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
+- [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Make pseudonymous Git commits over Tor
+- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+- [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution) - ISP Data Pollution to Protect Private Browsing History with Obfuscation
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
+
 ## programming 
 
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -5926,6 +5946,7 @@
 
 ## python 
 
+- [SatyrDiamond/DawVert](https://github.com/SatyrDiamond/DawVert) - DawVert - The DAW ConVERTer
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
@@ -6259,7 +6280,7 @@
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
-- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [yaseenmustapha/nextjs13-app](https://github.com/yaseenmustapha/nextjs13-app) - Full-stack Next.js 13 application. Uses React 18 client & server components, TypeScript, Prisma ORM, Railway PostgreSQL database, NextAuth.js OAuth 2.0 authentication, OpenAI API GPT-3.5-Turbo, and St
 - [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
@@ -6594,6 +6615,7 @@
 
 ## rust 
 
+- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) - Rust - Augmented Audio Libraries
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
@@ -7040,6 +7062,7 @@
 - [jokull/python-ts-graphql-demo](https://github.com/jokull/python-ts-graphql-demo) - Demo project to demonstrate how an asyncio Python project with SQLAlchemy and Strawberry can have a great typed DX on the frontend via codegen and TypeScript React hooks.
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
+- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
