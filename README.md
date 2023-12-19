@@ -720,6 +720,7 @@
 
 ## JavaScript 
 
+- [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [mirableio/chat-history](https://github.com/mirableio/chat-history) - ChatGPT history exploration
 - [FedericoDiMarzo/GravityDrumMachine](https://github.com/FedericoDiMarzo/GravityDrumMachine) - A web application developed in Javascript,  that implements a polyrhythmic drum machine, based on the Web Audio Api. It provides a physical based sound generation system that lets the user play with g
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
@@ -2381,7 +2382,6 @@
 - [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [aida-ugent/SkillGPT](https://github.com/aida-ugent/SkillGPT) - 
 - [aida-ugent/dnb-autodj](https://github.com/aida-ugent/dnb-autodj) - 
 - [mir-aidj/EDM-subgenre-classifier](https://github.com/mir-aidj/EDM-subgenre-classifier) - Code for "Deep Learning Based EDM Subgenre Classification using Mel-Spectrogram and Tempogram Features" arXiv:2110.08862, 2021.
@@ -3213,6 +3213,7 @@
 - [skymethod/denoflare-docs](https://github.com/skymethod/denoflare-docs) - 
 - [f2l2pe/JetBrainsMonoSlashed](https://github.com/f2l2pe/JetBrainsMonoSlashed) - JetBrains Mono Slashed – the free and open-source typeface for developers, now with slashed zero
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [ProfessorManhattan/prettier-config-sexy-mode](https://github.com/ProfessorManhattan/prettier-config-sexy-mode) - Simplifies configuring Prettier by bundling plugins and configuring them in a single shareable configuration
 - [TheSoundOfAIOSR/project_common](https://github.com/TheSoundOfAIOSR/project_common) - Common environment for all groups to connect to other groups with a relative path
 - [davidfstr/Python-in-Mac-App-Store](https://github.com/davidfstr/Python-in-Mac-App-Store) - Barebones Python app that can be submitted to the Mac App Store.
