@@ -720,6 +720,7 @@
 
 ## JavaScript 
 
+- [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [mirableio/chat-history](https://github.com/mirableio/chat-history) - ChatGPT history exploration
 - [FedericoDiMarzo/GravityDrumMachine](https://github.com/FedericoDiMarzo/GravityDrumMachine) - A web application developed in Javascript,  that implements a polyrhythmic drum machine, based on the Web Audio Api. It provides a physical based sound generation system that lets the user play with g
@@ -2268,6 +2269,7 @@
 
 ## Python 
 
+- [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
 - [mwicat/uploadsvc-flask](https://github.com/mwicat/uploadsvc-flask) - Service for quick and easy file upload when you need it - flask version
 - [mwicat/alscli](https://github.com/mwicat/alscli) - Toolset for Ableton Live Set (als) files
 - [BangaWanga/als_rw](https://github.com/BangaWanga/als_rw) - 
@@ -2567,7 +2569,7 @@
 - [toaco/carry](https://github.com/toaco/carry) - Python ETL(Extract-Transform-Load) tool / Data migration tool
 - [echonest/discogs-xml2db](https://github.com/echonest/discogs-xml2db) - Import the discogs monthly XML dumps into a database (fork of http://code.google.com/p/discogs-sql-importer/)
 - [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [moises-ai/maestro-worker-python](https://github.com/moises-ai/maestro-worker-python) - 
 - [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [flipcoder/midimech](https://github.com/flipcoder/midimech) - 🎼  Isomorphic musical layout engine for LinnStrument and Launchpad X, with DAW/Synthesia visualizer
@@ -2732,6 +2734,7 @@
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [gpnoel/DeepRemix](https://github.com/gpnoel/DeepRemix) - Remixing Music with Deep Learning
@@ -3518,7 +3521,7 @@
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [johnpolacek/date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
-- [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next.js project includes Next.js 14 App router, Shadcn UI, NextAuth, Prisma, Server Actions and more.
+- [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next.js project includes Next.js 14 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions and more.
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [diego3g/flowly](https://github.com/diego3g/flowly) - Flowly helps you document your event driven architecture across your team.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -3684,7 +3687,6 @@
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [jonathanzxu/keyless-ai-content-generation](https://github.com/jonathanzxu/keyless-ai-content-generation) - A Jasper alternative open source with ChatGPT, made keyless by Window.AI
 - [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - gpt4all and llama typescript bindings
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [gannonh/openai-api-next-starter](https://github.com/gannonh/openai-api-next-starter) - OpenAI Next.js starter project
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [johnnesky/beepbox](https://github.com/johnnesky/beepbox) - An online tool for sketching and sharing instrumental melodies.
@@ -3773,7 +3775,7 @@
 - [supabase/examples-archive](https://github.com/supabase/examples-archive) - Supabase Examples Archive
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
-- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
 - [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
@@ -3843,7 +3845,7 @@
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
