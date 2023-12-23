@@ -459,6 +459,7 @@
 
 ## Go 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [adrianrudnik/ablegram](https://github.com/adrianrudnik/ablegram) - Effortlessly search through your Ableton project files.
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
@@ -543,6 +544,7 @@
 
 ## HTML 
 
+- [snap-research/HyperHuman](https://github.com/snap-research/HyperHuman) - Github Repo for "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion"
 - [Erisa/simple-r2-form](https://github.com/Erisa/simple-r2-form) - 
 - [Computational-Cognitive-Musicology-Lab/humdrumR](https://github.com/Computational-Cognitive-Musicology-Lab/humdrumR) - A toolkit for analyzing data encoded in the humdrum format.
 - [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
@@ -720,6 +722,9 @@
 
 ## JavaScript 
 
+- [soundcut/decode-audio-data-fast](https://github.com/soundcut/decode-audio-data-fast) - Decode audio data asynchronously, in the browser using Base​Audio​Context​.decode​Audio​Data(), as fast as possible.
+- [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
+- [widget-/spotify-auto-playlist](https://github.com/widget-/spotify-auto-playlist) - Automatically add any new songs from a list of artists to a given playlist.
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [mirableio/chat-history](https://github.com/mirableio/chat-history) - ChatGPT history exploration
@@ -1632,6 +1637,7 @@
 
 ## Jupyter Notebook 
 
+- [teticio/audio-diffusion](https://github.com/teticio/audio-diffusion) - Apply diffusion models using the new Hugging Face diffusers package to synthesize music instead of images.
 - [asigalov61/Algorithmic-Accompaniment-Generator](https://github.com/asigalov61/Algorithmic-Accompaniment-Generator) - Algorithmic accompaniment generator
 - [maxfrenzel/SampleVAE](https://github.com/maxfrenzel/SampleVAE) - Multi-purpose tool for sound design and music production implemented in TensorFlow.
 - [jrgillick/imagined-lyrics](https://github.com/jrgillick/imagined-lyrics) - 
@@ -2269,6 +2275,17 @@
 
 ## Python 
 
+- [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
+- [JohnSnowLabs/nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages  The fastest and most accurate way to solve text problems.
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
+- [KAIST-MACLab/PyTSMod](https://github.com/KAIST-MACLab/PyTSMod) - An open-source Python library for audio time-scale modification.
+- [sudosilico/sample-diffusion](https://github.com/sudosilico/sample-diffusion) - A Python library and CLI for generating audio samples using Harmonai Dance Diffusion models.
+- [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe (whisper) and translate (gpt) voice into LRC file. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
+- [SimonIT/spotifylyrics](https://github.com/SimonIT/spotifylyrics) - Fetches and displays lyrics to currently playing song in Spotify, Tidal and VLC.
+- [ZainNasrullah/music-artist-classification-crnn](https://github.com/ZainNasrullah/music-artist-classification-crnn) - Supplementary material for IJCNN paper "Musical Artist Classification with Convolutoinal Recurrent Neural Networks"
+- [whatihavedone/lrc_fetcher](https://github.com/whatihavedone/lrc_fetcher) - Generates .lrc files for your music library
 - [zqevans/audio-diffusion](https://github.com/zqevans/audio-diffusion) - 
 - [zqevans/audio-local-transformers](https://github.com/zqevans/audio-local-transformers) - Experimental implementations of local attention-based audio transformers and autoencoders
 - [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
@@ -3432,6 +3449,9 @@
 
 ## TypeScript 
 
+- [vignshwarar/AI-Employe](https://github.com/vignshwarar/AI-Employe) - GPT-4 Vision Powered most reliable browser automation to gain hours back every week.
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
@@ -3560,7 +3580,7 @@
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -3938,7 +3958,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu) - :rainbow: An animated and accessible command menu
-- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
+- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [bkper/clasp-types](https://github.com/bkper/clasp-types) - A d.ts generator for clasp projects
