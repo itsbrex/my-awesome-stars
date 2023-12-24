@@ -680,7 +680,6 @@
 - [trappar/bitwig-api-stubs](https://github.com/trappar/bitwig-api-stubs) - Method stubs for Bitwig's javascript api
 - [coopermj/LoveableSpammer](https://github.com/coopermj/LoveableSpammer) - A script to easily send html emails with attachments
 - [ttscoff/KeyBindings](https://github.com/ttscoff/KeyBindings) - DefaultKeybindings.dict for Mac OS X
-- [cryptostorm-dev/cstorm_fishycerts.vuln.party](https://github.com/cryptostorm-dev/cstorm_fishycerts.vuln.party) - The Repository Formerly Known As Fishycerts, vuln.party is a place to study & share SSL certificates & other CA-based crypto-buffonery for fun and... more fun. Also for Science!
 - [YePpHa/YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more
 - [ttscoff/cheaters](https://github.com/ttscoff/cheaters) - Customizable cheat sheet system for OS X
 
@@ -2296,7 +2295,6 @@
 - [Gabeiscool420/SoundSage---LLM-Audio-Processing](https://github.com/Gabeiscool420/SoundSage---LLM-Audio-Processing) - Open source Python program for automating gain staging. part 1 of a series for automating audio processing tasks, end goal is to create a full set of tools for an AI to use for automating Audio proces
 - [kyegomez/SimpleMamba](https://github.com/kyegomez/SimpleMamba) - Implementation of a modular, high-performance, and simplistic mamba for high-speed applications
 - [patrickkidd/pkmidicron](https://github.com/patrickkidd/pkmidicron) - PKMidiCron is an app that listens to midi messages and can fire off programs, scripts, or other midi messages. This is modeled after the “cron” unix utility. It also comes with a very good midi simula
-- [ChrisP3D/OSC-Audio-to-Ableton](https://github.com/ChrisP3D/OSC-Audio-to-Ableton) - A proof of concept system designed to send OSC messages over a closed network from a mobile device. Messages simply trigger key presses mapped to clips inside an Ableton Project
 - [marcelo-lara/midi-artnet](https://github.com/marcelo-lara/midi-artnet) - My implementation to connect Ableton Live to ArtNet  lights
 - [marcoppasini/musika](https://github.com/marcoppasini/musika) - Fast Infinite Waveform Music Generation
 - [HumanSignal/label-studio-converter](https://github.com/HumanSignal/label-studio-converter) - Tools for converting Label Studio annotations into common dataset formats
@@ -3423,7 +3421,7 @@
 - [andersfischernielsen/Traktor-Transition-Finder](https://github.com/andersfischernielsen/Traktor-Transition-Finder) - A tool for automatically finding the next song(s) to play when DJing using Traktor Pro.
 - [bencmbrook/bpm](https://github.com/bencmbrook/bpm) - A lightweight beats-per-minute tapper for the Mac status bar.
 - [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
-- [benzguo/MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift
+- [vprtwn/MusicKit](https://github.com/vprtwn/MusicKit) - A framework for composing and transforming music in Swift
 - [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 - [mortenjust/droptogif](https://github.com/mortenjust/droptogif) - Zero-click animated Gifs
 - [X140Yu/Switcher](https://github.com/X140Yu/Switcher) - An OS X App which helps you easily switch AppleID in App Store & iTunes App.
@@ -3449,7 +3447,7 @@
 
 ## TypeScript 
 
-- [vignshwarar/AI-Employe](https://github.com/vignshwarar/AI-Employe) - GPT-4 Vision Powered most reliable browser automation to gain hours back every week.
+- [vignshwarar/AI-Employe](https://github.com/vignshwarar/AI-Employe) - Create browser automation as if you were teaching a human using GPT-4 Vision – by far, the most reliable AI first automation available.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
@@ -3761,7 +3759,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
 - [paulphys/spotify-next-auth-token-rotation](https://github.com/paulphys/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
 - [matthewwong525/linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) - Host your second brain for free with Next.JS and Tailwind v3
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [operandinc/operand-chrome-extension](https://github.com/operandinc/operand-chrome-extension) - Official chrome extension for operand.ai
