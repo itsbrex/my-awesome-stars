@@ -1533,7 +1533,6 @@
 - [textAngular/textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 - [knockout/knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
-- [23/resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
 - [reapp/reapp](https://github.com/reapp/reapp) - [deprecated!] Make hybrid mobile apps with power
 - [fzaninotto/uptime](https://github.com/fzaninotto/uptime) - A remote monitoring application using Node.js, MongoDB, and Twitter Bootstrap.
 - [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
@@ -1820,7 +1819,7 @@
 - [atomicbird/momcom](https://github.com/atomicbird/momcom) - Experimental Core Data model compiler
 - [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all rela
 - [yepher/CoreDataUtility](https://github.com/yepher/CoreDataUtility) - An OSX application that simplifies development and debugging of CoreData enabled applications.
-- [nenosllc/iCloudDocumentSync](https://github.com/nenosllc/iCloudDocumentSync) - Integrate iCloud into iOS document projects with one-line code methods. Sync, upload, manage, and remove documents from iCloud quickly and easily. Helps to make iCloud "just work" for developers too.
+- [nenosinc/iCloudDocumentSync](https://github.com/nenosinc/iCloudDocumentSync) - Integrate iCloud into iOS document projects with one-line code methods. Sync, upload, manage, and remove documents from iCloud quickly and easily. Helps to make iCloud "just work" for developers too.
 - [sbooth/Max](https://github.com/sbooth/Max) - An audio converter and CD ripper
 - [kylekingcdn/music-library-exporter](https://github.com/kylekingcdn/music-library-exporter) - A lightweight macOS app used to automatically generate (and customize) an Apple Music/iTunes Music Library XML file.
 - [milgra/macaudiokeepalive](https://github.com/milgra/macaudiokeepalive) - Audio Port Keepalive for MacOS
