@@ -844,7 +844,7 @@
 - [bigmistqke/ableton.js](https://github.com/bigmistqke/ableton.js) - 
 - [descriptinc/web-audio-js](https://github.com/descriptinc/web-audio-js) - Pure JS implementation of the Web Audio API
 - [AvneeshSarwate/Ableton-p5](https://github.com/AvneeshSarwate/Ableton-p5) - Connecting Ableton Live to p5.js via External Instrument and Web Midi
-- [kabirsingh2004/JUGNU-MUSIC](https://github.com/kabirsingh2004/JUGNU-MUSIC) - An advanced Music Bot, with Button interactivity, Best Filters , Best UI , Own bot channel supported , based on Distube.JS and Discord.JS
+- [kabirsingh2004/JUGNU-MUSIC](https://github.com/kabirsingh2004/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
 - [limhenry/spotify-refresh-token-generator](https://github.com/limhenry/spotify-refresh-token-generator) - A web app to generate Spotify Refresh Token
 - [metrasynth/mt1](https://github.com/metrasynth/mt1) - Metrasynth MT-1
 - [echonest/ArtistX](https://github.com/echonest/ArtistX) - Explore the song attributes for an artist
@@ -2264,7 +2264,6 @@
 
 - [theos/logos](https://github.com/theos/logos) - Preprocessor that simplifies Objective-C hooking.
 - [oldtechaa/SeekMIDI](https://github.com/oldtechaa/SeekMIDI) - SeekMIDI, a simple multi-channel graphical MIDI sequencer.
-- [wwweather/ai-codes](https://github.com/wwweather/ai-codes) - AI codes.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [aparks517/convert-websters](https://github.com/aparks517/convert-websters) - Convert Webster's Unabridged Dictionary from Project Gutenberg to OSX dictionary
 
@@ -3727,7 +3726,7 @@
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A Caching and Debugging Proxy Server for LLM Users and A Multi-LLM Client Library
 - [simpel/little-template-maker](https://github.com/simpel/little-template-maker) - 
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
-- [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Postgres, Mailing, I18N, Docker.
+- [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
