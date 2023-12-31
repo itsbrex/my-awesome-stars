@@ -88,7 +88,6 @@
 - [jneug/osx-script-stuff](https://github.com/jneug/osx-script-stuff) - Various scripts I use to automate my mac
 - [kotfu/marked-bonus-pack](https://github.com/kotfu/marked-bonus-pack) - Scripts, commands, and services that make the Marked app for macOS more useful
 - [sanderdatema/Tune2Spotify](https://github.com/sanderdatema/Tune2Spotify) - Applescript that searches selected songs in iTunes in Spotify, puts them in an iTunes playlist when found and creates a Spotify link list of those songs
-- [sabberworm/iTunes-Playlist-Selector.alfredworkflow](https://github.com/sabberworm/iTunes-Playlist-Selector.alfredworkflow) - Allows one to quickly jump to the desired iTunes playlist without playing it
 - [theriex/itsip](https://github.com/theriex/itsip) - iTunes Situational Playlist Generator (Applescript)
 - [unforswearing/dued](https://github.com/unforswearing/dued) - An Alfred extension and system service for formatted dates on macos
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
@@ -458,6 +457,7 @@
 
 ## Go 
 
+- [go-skynet/model-gallery](https://github.com/go-skynet/model-gallery) - :card_file_box: a curated collection of models ready-to-use with LocalAI
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [adrianrudnik/ablegram](https://github.com/adrianrudnik/ablegram) - Effortlessly search through your Ableton project files.
@@ -721,6 +721,7 @@
 
 ## JavaScript 
 
+- [shiehn/SignalsAndSorcery](https://github.com/shiehn/SignalsAndSorcery) - A VueJS, WebAudioApi powered audio sample arrangement tool.
 - [soundcut/decode-audio-data-fast](https://github.com/soundcut/decode-audio-data-fast) - Decode audio data asynchronously, in the browser using Base​Audio​Context​.decode​Audio​Data(), as fast as possible.
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [widget-/spotify-auto-playlist](https://github.com/widget-/spotify-auto-playlist) - Automatically add any new songs from a list of artists to a given playlist.
@@ -1514,6 +1515,7 @@
 - [devinargenta/spotify-top-songs-react](https://github.com/devinargenta/spotify-top-songs-react) - a spotify "top songs" search app
 - [loverajoel/magicplaylist](https://github.com/loverajoel/magicplaylist) - Get the playlist of your dreams based on a song
 - [MeoMix/StreamusChromeExtension](https://github.com/MeoMix/StreamusChromeExtension) - A YouTube video player as a Google Chrome extension
+- [sabberworm/iTunes-Playlist-Selector.alfredworkflow](https://github.com/sabberworm/iTunes-Playlist-Selector.alfredworkflow) - Allows one to quickly jump to the desired iTunes playlist without playing it
 - [Kuresov/iTunesInspect](https://github.com/Kuresov/iTunesInspect) - Compares your iTunes Library.xml file with a nested folder of music files to report media missing from your library.
 - [mlakkadshaw/DeadSimpleScreeSharing-OSE](https://github.com/mlakkadshaw/DeadSimpleScreeSharing-OSE) - A simple screen sharing app written in node.js that allows you to share you screen with anyone right from your browser
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -1761,6 +1763,7 @@
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
+- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 
 ## Makefile 
 
@@ -1774,6 +1777,8 @@
 
 ## Max 
 
+- [sfc-computational-creativity-lab/x-remix](https://github.com/sfc-computational-creativity-lab/x-remix) - Automatic Remix with AI and audio source separation
+- [sfc-computational-creativity-lab/x-sampling-GAN](https://github.com/sfc-computational-creativity-lab/x-sampling-GAN) - x-sampling: real-time sample sound transforming with Generative Adversarial Networks
 - [hugofloresgarcia/unloop](https://github.com/hugofloresgarcia/unloop) - a co-creative looper that uses generative modeling to **not** repeat itself.
 - [d3n7/riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion
 - [koil-music/regroove-m4l](https://github.com/koil-music/regroove-m4l) - Regroove is a Max for Live device that generates expressive drum rhythms using a learned understanding of groove ♬
@@ -1903,6 +1908,7 @@
 
 ## Others 
 
+- [achimkoh/neural-xy-pad](https://github.com/achimkoh/neural-xy-pad) - a Max4Live XY pad controlled by SketchRNN
 - [ericvtheg/makid-public](https://github.com/ericvtheg/makid-public) - Tracking releases and issues for MAKID. MAKID is integrated Ableton music management software.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [stacksjs/awesome-stacks](https://github.com/stacksjs/awesome-stacks) - 🎉 A curated list of awesome things related to Stacks.js.
@@ -2269,6 +2275,18 @@
 
 ## Python 
 
+- [QwenLM/Qwen-Audio](https://github.com/QwenLM/Qwen-Audio) - The official repo of Qwen-Audio (通义千问-Audio) chat & pretrained large audio language model proposed by Alibaba Cloud.
+- [okio-ai/nendo-example-apps](https://github.com/okio-ai/nendo-example-apps) - Examples of apps built with Nendo, the AI Audio Tool Suite
+- [okio-ai/nendo_plugin_quantize_core](https://github.com/okio-ai/nendo_plugin_quantize_core) - Nendo Plugin for audio quantization with grid detection and time-stretching
+- [okio-ai/nendo_plugin_fx_core](https://github.com/okio-ai/nendo_plugin_fx_core) - NendoFX: Use common audio effects out of the box.
+- [okio-ai/nendo_plugin_stemify_demucs](https://github.com/okio-ai/nendo_plugin_stemify_demucs) - Nendo Plugin for Music Source Separation.
+- [okio-ai/nendo_plugin_vampnet](https://github.com/okio-ai/nendo_plugin_vampnet) - Nendo Plugin for VampNet: Music Generation via Masked Acoustic Token Modeling.
+- [okio-ai/nendo_plugin_loopify](https://github.com/okio-ai/nendo_plugin_loopify) - Nendo plugin for automatic audio loop extraction.
+- [okio-ai/nendo_plugin_classify_core](https://github.com/okio-ai/nendo_plugin_classify_core) - Nendo plugin for automatic music information retrieval.
+- [okio-ai/nendo_plugin_musicgen](https://github.com/okio-ai/nendo_plugin_musicgen) - Nendo plugin for MusicGen: A state-of-the-art controllable text-to-music model (by Meta Research)
+- [okio-ai/nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite
+- [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
+- [mjhydri/BeatNet](https://github.com/mjhydri/BeatNet) - BeatNet is state-of-the-art (Real-Time) and Offline joint music beat, downbeat, tempo, and meter tracking system using CRNN and particle filtering.  (ISMIR 2021's paper implementation).
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
@@ -2441,7 +2459,7 @@
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
+- [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [lucasnfe/adl-piano-midi](https://github.com/lucasnfe/adl-piano-midi) - A dataset of piano midi files organized by genres, sub-genres and artists.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [Hannibal046/nanoRWKV](https://github.com/Hannibal046/nanoRWKV) - The nanoGPT-style implementation of RWKV Language Model - an RNN with GPT-level LLM performance.
@@ -3576,7 +3594,7 @@
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -4069,7 +4087,6 @@
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
