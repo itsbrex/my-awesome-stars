@@ -546,6 +546,7 @@
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [sortoite/openAISpeechToDatabase](https://github.com/sortoite/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
@@ -1089,6 +1090,7 @@
 
 ## cli 
 
+- [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [B0ney/xmodits-cli](https://github.com/B0ney/xmodits-cli) - Command line version of xmodits - A tool to rip samples from tracker modules.
 - [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - A universal converter for singing voice projects which is cross-platform and multi-lingual
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
@@ -1353,6 +1355,7 @@
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
@@ -1921,6 +1924,7 @@
 
 ## go 
 
+- [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [Banbury-inc/Athena](https://github.com/Banbury-inc/Athena) - The project covers various aspects, from machine learning advancements to decentralized file sharing, and aims to transform the accessibility and management of files while contributing to the progress
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [proxoar/talk](https://github.com/proxoar/talk) - Talk with ChatGPT using your VOICE
@@ -2830,6 +2834,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [Ludwiggle/GRUMIDI](https://github.com/Ludwiggle/GRUMIDI) - Recurrent Neural Network for generative MIDI music
 - [glefundes/audio-class](https://github.com/glefundes/audio-class) - Web-based tool for straight-forward class annotation of audio files
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [spags093/spotify_song_data](https://github.com/spags093/spotify_song_data) - Part 1: Analysis of Spotify song data that uses Machine Learning to determine what features make a "hit" song on Spotify.
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
 - [asteroid-team/torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.
@@ -3802,6 +3807,10 @@
 
 ## others 
 
+- [razeghi71/burf](https://github.com/razeghi71/burf) - TUI for google cloud storage (GCS)
+- [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
+- [krisograbek/autogen-obs](https://github.com/krisograbek/autogen-obs) - 
+- [balakhonoff/awesome-subgraphs](https://github.com/balakhonoff/awesome-subgraphs) - A curated list of awesome resources related to The Graph powered subgraph development.
 - [fvucemilo/beth-stack](https://github.com/fvucemilo/beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
 - [kristianfreeman/what-is-this-code](https://github.com/kristianfreeman/what-is-this-code) - Example project built with Cloudflare Workers and Workers AI showing how to use the codellama model with Cloudflare's AI SDK
 - [Sample-Offline/ableton-under-the-hood](https://github.com/Sample-Offline/ableton-under-the-hood) - Some commands, tips, tools, and other magics for working with Ableton... everywhere except inside the DAW.
@@ -5322,7 +5331,7 @@
 - [ptrkstr/AbletonLiveClyphXExamples](https://github.com/ptrkstr/AbletonLiveClyphXExamples) - Examples of ClyphX commands
 - [colinsullivan/Jnana](https://github.com/colinsullivan/Jnana) - "Jnana" is a generative musical accompaniment system integrated into Ableton Live.
 - [ContentMine/quickscrape](https://github.com/ContentMine/quickscrape) - A scraping command line tool for the modern web
-- [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper) - 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
+- [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper) - 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡
 - [nathancahill/Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
 - [Jolaolu/react-instant](https://github.com/Jolaolu/react-instant) - Repository for my React-Algolia InstantSearch article
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
