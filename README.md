@@ -460,6 +460,7 @@
 
 ## Go 
 
+- [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [go-skynet/model-gallery](https://github.com/go-skynet/model-gallery) - :card_file_box: a curated collection of models ready-to-use with LocalAI
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
@@ -1362,7 +1363,7 @@
 - [nomadinteractive/screenshot-tracker](https://github.com/nomadinteractive/screenshot-tracker) - Capture and track of full length web page screenshots
 - [colinsullivan/Jnana](https://github.com/colinsullivan/Jnana) - "Jnana" is a generative musical accompaniment system integrated into Ableton Live.
 - [ContentMine/quickscrape](https://github.com/ContentMine/quickscrape) - A scraping command line tool for the modern web
-- [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper) - 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
+- [nelsonic/github-scraper](https://github.com/nelsonic/github-scraper) - 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡
 - [Jolaolu/react-instant](https://github.com/Jolaolu/react-instant) - Repository for my React-Algolia InstantSearch article
 - [mk-pmb/node-ableton-live-locators](https://github.com/mk-pmb/node-ableton-live-locators) - A way to extract the stuff you've typed into live: Notes, info text, the names of markers, etc.
 - [monzo/file-cleaner](https://github.com/monzo/file-cleaner) - 
@@ -2287,6 +2288,9 @@
 
 ## Python 
 
+- [razeghi71/burf](https://github.com/razeghi71/burf) - TUI for google cloud storage (GCS)
+- [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
+- [krisograbek/autogen-obs](https://github.com/krisograbek/autogen-obs) - 
 - [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - :sound: Play and Record Sound with Python :snake:
 - [lilacai/lilac](https://github.com/lilacai/lilac) - Curate better data for LLMs
 - [deforum-art/deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) - 
@@ -3480,6 +3484,7 @@
 
 ## TypeScript 
 
+- [balakhonoff/awesome-subgraphs](https://github.com/balakhonoff/awesome-subgraphs) - A curated list of awesome resources related to The Graph powered subgraph development.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [JacobLinCool/sdxl-api](https://github.com/JacobLinCool/sdxl-api) - SDXL API provides a seamless interface for image generation and retrieval using Stable Diffusion XL integrated with Cloudflare AI Workers. This API allows users to generate and manage images in a high
 - [atomicals/atomicals-js](https://github.com/atomicals/atomicals-js) - Atomicals CLI and Javascript Library
