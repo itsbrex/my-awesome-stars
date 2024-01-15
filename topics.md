@@ -132,6 +132,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [mongoose](#mongoose)
@@ -3087,6 +3088,13 @@
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
+## microsoft 
+
+- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
+- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 ## mobile 
 
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
@@ -3643,6 +3651,7 @@
 
 ## nodejs 
 
+- [supersoniko/hono-api-starter](https://github.com/supersoniko/hono-api-starter) - Modern DX friendly starter for Node.js/Hono APIs with the focus on simplicity and robustness.
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [MellKam/soundify](https://github.com/MellKam/soundify) - Seamless integration with the Spotify API using Node.js, Deno, and client-side JavaScript. 🎧
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -3845,6 +3854,8 @@
 
 ## others 
 
+- [honojs/create-hono](https://github.com/honojs/create-hono) - CLI for creating a Hono app
+- [supersoniko/aws-secrets-dotenv](https://github.com/supersoniko/aws-secrets-dotenv) - Easily manage your environment variables on AWS with .env
 - [Lomusire/gpt4-unlimited-phin](https://github.com/Lomusire/gpt4-unlimited-phin) - Unleash the power of GPT-4 on Phind with this Chrome extension for unlimited AI-driven web searches.
 - [sarchak/gpthistory](https://github.com/sarchak/gpthistory) - A python command line tool to help you search your chatgpt conversation history.
 - [team-openpm/workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs
@@ -5220,7 +5231,6 @@
 - [jckw/remix-ts-tailwind-radix-stitches-starter](https://github.com/jckw/remix-ts-tailwind-radix-stitches-starter) - A simple starter using Remix, TypeScript, Radix UI, Stitches, and (soon) Tailwind.
 - [itsMapleLeaf/remix-tailwind](https://github.com/itsMapleLeaf/remix-tailwind) - Use TailwindCSS with Remix without an extra build step!
 - [dmc21/playing-with-next](https://github.com/dmc21/playing-with-next) - Serverless App using Nextjs and firebase tools. I used firebase auth and firestore for store the data. Also I´m used NextUI library for the UI application and Formik for form validation
-- [anirudha4/next-auth-template](https://github.com/anirudha4/next-auth-template) - A nextjs template with google authentication which uses next-auth for authentication and nextui as the UI component library
 - [Uvacoder/davdev-gallery-nextui](https://github.com/Uvacoder/davdev-gallery-nextui) - 
 - [AlexandreFPGoncalves/Nextui-Library](https://github.com/AlexandreFPGoncalves/Nextui-Library) - 
 - [MasterKrab/link-preview](https://github.com/MasterKrab/link-preview) - Link preview made in NextJS and NextUI
@@ -7307,6 +7317,7 @@
 
 ## typescript 
 
+- [supersoniko/hono-api-starter](https://github.com/supersoniko/hono-api-starter) - Modern DX friendly starter for Node.js/Hono APIs with the focus on simplicity and robustness.
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [MellKam/soundify](https://github.com/MellKam/soundify) - Seamless integration with the Spotify API using Node.js, Deno, and client-side JavaScript. 🎧
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
