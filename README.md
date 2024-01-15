@@ -1296,7 +1296,6 @@
 - [vercel/reactions](https://github.com/vercel/reactions) - Next.js Incremental Static Regeneration Demo
 - [racmathafidz/racmathafidz.com](https://github.com/racmathafidz/racmathafidz.com) - My personal website to show my portfolio:wave:
 - [dmc21/playing-with-next](https://github.com/dmc21/playing-with-next) - Serverless App using Nextjs and firebase tools. I used firebase auth and firestore for store the data. Also I´m used NextUI library for the UI application and Formik for form validation
-- [anirudha4/next-auth-template](https://github.com/anirudha4/next-auth-template) - A nextjs template with google authentication which uses next-auth for authentication and nextui as the UI component library
 - [laroybafi/my-website](https://github.com/laroybafi/my-website) - This is my personal website resume and portfolio built by NextJS and NextUI
 - [Uvacoder/davdev-gallery-nextui](https://github.com/Uvacoder/davdev-gallery-nextui) - 
 - [Jaybhade/nextui-demo](https://github.com/Jaybhade/nextui-demo) - 
@@ -3508,6 +3507,9 @@
 
 ## TypeScript 
 
+- [honojs/create-hono](https://github.com/honojs/create-hono) - CLI for creating a Hono app
+- [supersoniko/aws-secrets-dotenv](https://github.com/supersoniko/aws-secrets-dotenv) - Easily manage your environment variables on AWS with .env
+- [supersoniko/hono-api-starter](https://github.com/supersoniko/hono-api-starter) - Modern DX friendly starter for Node.js/Hono APIs with the focus on simplicity and robustness.
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [team-openpm/workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
