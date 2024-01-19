@@ -968,7 +968,7 @@
 - [zopieux/spotify-now-playing-chrome-extension](https://github.com/zopieux/spotify-now-playing-chrome-extension) - Chrome extension that keeps a JSON file on the local filesystem in sync with the current song on Spotify Web.
 - [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
-- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
+- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
@@ -1209,7 +1209,6 @@
 - [skywinston/redwood-and-chakra-ui](https://github.com/skywinston/redwood-and-chakra-ui) - 
 - [adriatic/RADC](https://github.com/adriatic/RADC) - Redwood Applications Development Cookbook
 - [jmcmullen/redwood-custom-auth](https://github.com/jmcmullen/redwood-custom-auth) - Custom authentication with Prisma for Redwood.js
-- [Terris/redwood-stripe-example](https://github.com/Terris/redwood-stripe-example) - An example Stripe implementation with RedwoodJS
 - [redwoodjs/example-store-stripe](https://github.com/redwoodjs/example-store-stripe) - Redwood Example Store with Stripe Checkout Integration
 - [jamezmca/holy-sheet](https://github.com/jamezmca/holy-sheet) - next.js RESTapi to google sheets
 - [VLabStudio/Tutorials](https://github.com/VLabStudio/Tutorials) - All of the smaller projects I have done in tutorials / project files
@@ -1710,7 +1709,7 @@
 - [dakshtrehan/AI-Music-Generation](https://github.com/dakshtrehan/AI-Music-Generation) - Predicting Music pieces using LSTMs. MIDI files are used to generate and predict musical tones.
 - [aishoot/AI_Music_Composition](https://github.com/aishoot/AI_Music_Composition) - Do you think that AI can write songs for us? The project is just the music generator with the power of AI.
 - [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - 
-- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries. Awesome LLM ?
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [towenwolf/genre-classification](https://github.com/towenwolf/genre-classification) - Genre classification using machine learning
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -2303,6 +2302,8 @@
 
 ## Python 
 
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent evals and observability
+- [kevinpiac/hookify](https://github.com/kevinpiac/hookify) - Python script that automatically generates hook functions for given objc Header.h file. Ideal for reverse engineering iOS apps.
 - [banjtheman/chataws](https://github.com/banjtheman/chataws) - A ChatGPT plugin that allows users to create websites and Lambda functions using ChatGPT
 - [turian/inverse-audio-synthesis](https://github.com/turian/inverse-audio-synthesis) - Inverse audio synthesis
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
@@ -2744,7 +2745,7 @@
 - [mrdjtools/AttributeTagger](https://github.com/mrdjtools/AttributeTagger) - This is a publicly available version of the attribute tagger I created using ChatGPT 4. The tagger cross-references Spotify's metadata with tracks located in a specific folder and automatically assign
 - [MartinDeadly/Music-Maker](https://github.com/MartinDeadly/Music-Maker) - ChatGPT is working with me to generate midi files
 - [mazzzystar/teach-show-consult](https://github.com/mazzzystar/teach-show-consult) - Teach ChatGPT the Alda music programming language, show it some superb code, and consult with it to compose a melody.
-- [sortoite/openAISpeechToDatabase](https://github.com/sortoite/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
+- [legendsort/openAISpeechToDatabase](https://github.com/legendsort/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
 - [Praytic/chatgpt-notion-auto-tagging](https://github.com/Praytic/chatgpt-notion-auto-tagging) - Notion & ChatGPT integration to auto-tag and categorise web pages
 - [jbesomi/browserGPT](https://github.com/jbesomi/browserGPT) - An open-source autonomous browser agent
 - [sean1832/SumGPT](https://github.com/sean1832/SumGPT) - Bulk summarization of documents using ChatGPT API
@@ -2842,7 +2843,7 @@
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
-- [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+- [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [clementabary/server](https://github.com/clementabary/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [clementabary/sigsep-mus-eval](https://github.com/clementabary/sigsep-mus-eval) - museval - source separation evaluation tools for python
@@ -3651,11 +3652,11 @@
 - [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().
 - [jokull/python-ts-graphql-demo](https://github.com/jokull/python-ts-graphql-demo) - Demo project to demonstrate how an asyncio Python project with SQLAlchemy and Strawberry can have a great typed DX on the frontend via codegen and TypeScript React hooks.
 - [midival/core](https://github.com/midival/core) - 
-- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
+- [imgly-labs/background-removal-js](https://github.com/imgly-labs/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [Morioh-Lab/is-bot](https://github.com/Morioh-Lab/is-bot) - Detect user-agent is a bot/spider/crawler
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [FlowiseAI/FlowiseEmbedReact](https://github.com/FlowiseAI/FlowiseEmbedReact) - 
 - [FlowiseAI/FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed) - 
@@ -3672,7 +3673,7 @@
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating WebAudio code
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
@@ -3690,7 +3691,7 @@
 - [natemoo-re/ultraflag](https://github.com/natemoo-re/ultraflag) - &lt;1kB CLI flag parser
 - [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml) - 
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-- [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
+- [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - An elegant and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia and UnoCSS. 一个优雅且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia 和 UnoCSS。
 - [steveluc/elec](https://github.com/steveluc/elec) - electron, typescript and webpack
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [thereplicants/ableton-package-manager](https://github.com/thereplicants/ableton-package-manager) - apm is a package manager for the Ableton Live DAW to manage Max for Live dependencies and Node for Max patches. Created by @vine77.
@@ -4036,7 +4037,7 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-- [vercel-labs/nextgram](https://github.com/vercel-labs/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
+- [vercel/nextgram](https://github.com/vercel/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [soyalumno/aws_v4_signer_gas](https://github.com/soyalumno/aws_v4_signer_gas) - GASからAmazonのSP-APIを実行するための署名を作成する
