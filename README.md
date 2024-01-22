@@ -812,7 +812,7 @@
 - [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - JavaScript MIDI player and synthesizer based on SoundFont2 specifications. No dependencies required.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [qwolilowp/Z_TENNOT_IU](https://github.com/qwolilowp/Z_TENNOT_IU) - harmonic table note layout, Euler Tonnetz, Browser GUI, WebMIDI Interface, Sequencer
-- [acidatm/tram](https://github.com/acidatm/tram) - Tram21 is a typographic drumcomputer.
+- [softboydev/tram](https://github.com/softboydev/tram) - "tram" is short for "typographic rythm automation machine" is a typographic midi sequencer
 - [hundredrabbits/Pilot](https://github.com/hundredrabbits/Pilot) - Orca's best friend.
 - [dohyeon5626/github-recent-repo-extension](https://github.com/dohyeon5626/github-recent-repo-extension) - Take a look at the repositories you've seen recently.
 - [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
@@ -2160,7 +2160,6 @@
 - [tjluoma/lockscreen](https://github.com/tjluoma/lockscreen) - How to lock your Mac with a keyboard shortcut
 - [polarity/polarity-music-tools](https://github.com/polarity/polarity-music-tools) - 🔥 Bitwig presets by polarity for you to use. Every week new stuff for bitwig & popular vsts.
 - [peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity) - Blockchain and Identity
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [rfletcher/Evernote-URI-Handler](https://github.com/rfletcher/Evernote-URI-Handler) - A simple custom URI handler for Evernote.
 - [psyrendust/alfred-workflows](https://github.com/psyrendust/alfred-workflows) - My Alfred Workflows
@@ -3365,6 +3364,7 @@
 - [dotphiles/dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
 - [Pym/alfred-workflow-desktop-todo](https://github.com/Pym/alfred-workflow-desktop-todo) - Desktop Todo allows you to create/delete empty items on your desktop from Alfred.
 - [tjluoma/dropbox-pause-unpause](https://github.com/tjluoma/dropbox-pause-unpause) - A shell script to programmatically "pause" and "unpause" Dropbox on Mac OS X
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [adilbekm/bash_backup](https://github.com/adilbekm/bash_backup) - Bash script to backup files on Mac to iCloud drive
 - [emcrisostomo/Time-Machine-Cleanup](https://github.com/emcrisostomo/Time-Machine-Cleanup) - Zsh script to clean up Time Machine backups and reduce its size
@@ -3665,7 +3665,7 @@
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open source alternative to  OpenAI Assistants API
 - [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
 - [UnJavaScripter/web-midi-basics](https://github.com/UnJavaScripter/web-midi-basics) - A Web MIDI basic example
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
