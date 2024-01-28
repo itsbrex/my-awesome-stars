@@ -547,6 +547,7 @@
 
 ## HTML 
 
+- [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [kristianfreeman/what-is-this-code](https://github.com/kristianfreeman/what-is-this-code) - Example project built with Cloudflare Workers and Workers AI showing how to use the codellama model with Cloudflare's AI SDK
 - [snap-research/HyperHuman](https://github.com/snap-research/HyperHuman) - Github Repo for "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion"
 - [Erisa/simple-r2-form](https://github.com/Erisa/simple-r2-form) - 
@@ -2316,7 +2317,6 @@
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
 - [ShelbyJenkins/LLM-OpenAPI-minifier](https://github.com/ShelbyJenkins/LLM-OpenAPI-minifier) - Making openapi spec swagger documents friendly for GPT and other LLMs.
-- [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [Globe-Engineer/globot](https://github.com/Globe-Engineer/globot) - Globot is an agent that controls your browser using playwright and GPT-4V.
 - [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
@@ -4080,7 +4080,7 @@
 - [zlwaterfield/refined-zapier](https://github.com/zlwaterfield/refined-zapier) - Open-source browser extension to 10x Zapier's UX
 - [abstractalgo/react-browser-extension](https://github.com/abstractalgo/react-browser-extension) - starter repo for building web browser extensions (MV3) with React v18 and Typescript
 - [yamadashy/google-sheets-tabs-on-top](https://github.com/yamadashy/google-sheets-tabs-on-top) - Chrome extension. Move Google Sheets tabs on top.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [47ng/chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [alampros/react-confetti](https://github.com/alampros/react-confetti) - Confetti without the cleanup.
@@ -4163,7 +4163,7 @@
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can "truly" self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [williamluke4/Nitro](https://github.com/williamluke4/Nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
@@ -4263,7 +4263,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal is a push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [meiblorn/ngx-fullpage](https://github.com/meiblorn/ngx-fullpage) - Angular 2 fullPage.js port library
+- [vsfedorenko/ngx-fullpage](https://github.com/vsfedorenko/ngx-fullpage) - Angular 2 fullPage.js port library
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
