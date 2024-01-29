@@ -124,7 +124,6 @@
 - [Rezonality/zing](https://github.com/Rezonality/zing) - Audio Integration Library
 - [sprymix/metamagic.json](https://github.com/sprymix/metamagic.json) - An ultra-fast Python implementation of a JSON encoder
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [bwhitman/amy](https://github.com/bwhitman/amy) - AMY - the Additive Music synthesizer librarY
 - [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
@@ -247,6 +246,7 @@
 - [craigsapp/midifile](https://github.com/craigsapp/midifile) - C++ classes for reading/writing Standard MIDI Files
 - [nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all) - Official supported Python bindings for llama.cpp + gpt4all
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
 - [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
@@ -2284,7 +2284,7 @@
 - [a-dg/codebox-snippets](https://github.com/a-dg/codebox-snippets) - PHP, Taco, WordPress, jQuery, MySQL, and CSS snippets in a CodeBox library
 - [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search
 - [dingyi/Alfred-Workflows](https://github.com/dingyi/Alfred-Workflows) - Alfred's Workflows, Themes, etc.
-- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
+- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [tylerhall/HomeAway](https://github.com/tylerhall/HomeAway) - A collection of PHP scripts I use for controlling my house via GeoHooks.io
 - [wealthbot-io/wealthbot](https://github.com/wealthbot-io/wealthbot) - Use wealthbot.io to easily setup your own wealth management platform ⛺
 - [cargomedia/osx-setup](https://github.com/cargomedia/osx-setup) - UNMAINTAINED - Setup OS X
@@ -2302,6 +2302,7 @@
 
 ## Python 
 
+- [vaibhavnayel/Audio-to-MIDI-converter](https://github.com/vaibhavnayel/Audio-to-MIDI-converter) - Program to detect pitch from wav files and write in time quantized MIDI
 - [svsdval/video2midi](https://github.com/svsdval/video2midi) - youtube synthesia video to midi
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent evals and observability
 - [kevinpiac/hookify](https://github.com/kevinpiac/hookify) - Python script that automatically generates hook functions for given objc Header.h file. Ideal for reverse engineering iOS apps.
@@ -3667,7 +3668,7 @@
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open source alternative to  OpenAI Assistants API
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The Open Source AI Assistant Framework & API
 - [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
 - [UnJavaScripter/web-midi-basics](https://github.com/UnJavaScripter/web-midi-basics) - A Web MIDI basic example
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
