@@ -1657,6 +1657,7 @@
 
 ## Jupyter Notebook 
 
+- [Shanti-27/Computer_Vision_Project](https://github.com/Shanti-27/Computer_Vision_Project) - 
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [mulab-mir/song-describer-dataset](https://github.com/mulab-mir/song-describer-dataset) - The Song Describer dataset is an evaluation dataset made of ~1.1k captions for 706 permissively licensed music recordings.
@@ -1710,7 +1711,7 @@
 - [dakshtrehan/AI-Music-Generation](https://github.com/dakshtrehan/AI-Music-Generation) - Predicting Music pieces using LSTMs. MIDI files are used to generate and predict musical tones.
 - [aishoot/AI_Music_Composition](https://github.com/aishoot/AI_Music_Composition) - Do you think that AI can write songs for us? The project is just the music generator with the power of AI.
 - [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - 
-- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Model" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [towenwolf/genre-classification](https://github.com/towenwolf/genre-classification) - Genre classification using machine learning
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -1930,6 +1931,8 @@
 
 ## Others 
 
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [Yusiissy/SonicVisionLM](https://github.com/Yusiissy/SonicVisionLM) - 
 - [JWLMT88/abelton-skin-creator](https://github.com/JWLMT88/abelton-skin-creator) - Make your own Custom Skins for Abelton with just a few clicks.
 - [reasoning-survey/Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - ✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models
 - [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst) - GPT-Analyst: A GPT for GPT analysis and reverse engineering
@@ -2305,6 +2308,7 @@
 
 ## Python 
 
+- [ceebeel/Template-Py310-CA-CI-CD](https://github.com/ceebeel/Template-Py310-CA-CI-CD) - Template Python - Clean Architecture - CI/CD (Ruff - Pyright - PyTest)
 - [goodtimes-code/osc2laser](https://github.com/goodtimes-code/osc2laser) - Create stunning lasershows by live control or timeline automation using OSC messages
 - [vaibhavnayel/Audio-to-MIDI-converter](https://github.com/vaibhavnayel/Audio-to-MIDI-converter) - Program to detect pitch from wav files and write in time quantized MIDI
 - [svsdval/video2midi](https://github.com/svsdval/video2midi) - youtube synthesia video to midi
@@ -3950,7 +3954,7 @@
 - [abhijithvijayan/wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webextension Manifest Generator that you specify `manifest.json` properties to appear only in specific browsers and environment
 - [saasify-sh/puppeteer-serverless](https://github.com/saasify-sh/puppeteer-serverless) - Puppeteer for both serverless functions and development.
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
-- [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
+- [open-source-labs/Reactime](https://github.com/open-source-labs/Reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [Jarred-Sumner/bun-livereload](https://github.com/Jarred-Sumner/bun-livereload) - Wrap a function with bun-livereload to automatically reload any imports inside the function the next time it is called
 - [jacob-ebey/remix-bun-testing](https://github.com/jacob-ebey/remix-bun-testing) - 
