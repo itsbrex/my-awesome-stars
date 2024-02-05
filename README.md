@@ -1935,6 +1935,7 @@
 
 ## Others 
 
+- [mixo-marcus/DJXML](https://github.com/mixo-marcus/DJXML) - DJXML is an open format to import & export between DJ Software
 - [EmulationAI/awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) - Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [Yusiissy/SonicVisionLM](https://github.com/Yusiissy/SonicVisionLM) - 
@@ -3258,7 +3259,7 @@
 
 ## Rust 
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 - [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [kalynbeach/wave_tools](https://github.com/kalynbeach/wave_tools) - Experimental audio and music production tools
 - [PolyMeilex/OxiSynth](https://github.com/PolyMeilex/OxiSynth) - Pure rust soundfont synthesizer
@@ -3638,7 +3639,7 @@
 - [ruucm/shadergradient](https://github.com/ruucm/shadergradient) - 
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [trpc/examples-next-prisma-websockets-starter](https://github.com/trpc/examples-next-prisma-websockets-starter) - 🏓 tRPC Next.js WebSocket Starter
-- [mkosir/trpc-fe-boilerplate](https://github.com/mkosir/trpc-fe-boilerplate) - ⚒️ Minimal tRPC frontend Nextjs boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
+- [mkosir/trpc-fe-boilerplate-next](https://github.com/mkosir/trpc-fe-boilerplate-next) - ⚒️ Minimal tRPC frontend Nextjs boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
 - [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [nathan20021/react-chord-detection](https://github.com/nathan20021/react-chord-detection) - 
