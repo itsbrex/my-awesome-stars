@@ -1633,6 +1633,7 @@
 - [meanjs/mean](https://github.com/meanjs/mean) - MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js -
 - [tisho/framer-templates](https://github.com/tisho/framer-templates) - Presentation templates for your Framer.js prototypes.
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+- [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 - [reapp/hacker-news-app](https://github.com/reapp/hacker-news-app) - Hacker News Reader demo app built on Reapp http://hn.reapp.io
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [mauricecruz/chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
@@ -2253,6 +2254,7 @@
 
 ## PHP 
 
+- [ssigwart/aws-high-availability-s3](https://github.com/ssigwart/aws-high-availability-s3) - High availability utils for AWS S3.
 - [RouninMedia/Obfuscate-Deobfuscate](https://github.com/RouninMedia/Obfuscate-Deobfuscate) - A simple obfuscation which works both server-side in PHP and client-side in Javascript
 - [Noise-Labs/chords-dataset](https://github.com/Noise-Labs/chords-dataset) - automaticlly chord midi & wav files generator
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -2314,6 +2316,7 @@
 
 ## Python 
 
+- [tefra/xsdata](https://github.com/tefra/xsdata) - Naive XML & JSON Bindings for python
 - [asigalov61/B-CLassi](https://github.com/asigalov61/B-CLassi) - Full-featured binary MIDI classifier implemented in TensorFlow
 - [drscotthawley/midi-player](https://github.com/drscotthawley/midi-player) - Python launcher of animated MIDI player by @cifkao & @magenta
 - [supersational/JAMMIN-GPT](https://github.com/supersational/JAMMIN-GPT) - Ableton MIDI-Clip generation using GPT-4
@@ -3260,7 +3263,7 @@
 ## Rust 
 
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
-- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
 - [kalynbeach/wave_tools](https://github.com/kalynbeach/wave_tools) - Experimental audio and music production tools
 - [PolyMeilex/OxiSynth](https://github.com/PolyMeilex/OxiSynth) - Pure rust soundfont synthesizer
 - [B0ney/xmodits-cli](https://github.com/B0ney/xmodits-cli) - Command line version of xmodits - A tool to rip samples from tracker modules.
@@ -3566,6 +3569,8 @@
 
 ## TypeScript 
 
+- [ssigwart/vscode-trailing-whitespace-fixer](https://github.com/ssigwart/vscode-trailing-whitespace-fixer) - VSCode extension to clean up trailing whitespace.
+- [technovangelist/airenamer](https://github.com/technovangelist/airenamer) - 
 - [SaltyAom/elysia-supabase-example](https://github.com/SaltyAom/elysia-supabase-example) - Example of using Elysia with Supabase
 - [prompt-native/prompt-ide](https://github.com/prompt-native/prompt-ide) - A vscode extension for designing AIGC applications.
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
