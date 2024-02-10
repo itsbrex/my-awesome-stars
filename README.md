@@ -465,6 +465,7 @@
 
 ## Go 
 
+- [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [lukaszraczylo/graphql-monitoring-proxy](https://github.com/lukaszraczylo/graphql-monitoring-proxy) - Graphql Monitoring Proxy adding monitoring, cache, read-only mode and role based rate limiting
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [go-skynet/model-gallery](https://github.com/go-skynet/model-gallery) - :card_file_box: a curated collection of models ready-to-use with LocalAI
@@ -735,10 +736,12 @@
 
 ## JavaScript 
 
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [scil/reliable-debundle](https://github.com/scil/reliable-debundle) - :card_file_box: A javascript debundler. Takes a Browserify or Webpack bundle and recreates the initial, pre-bundled source.
 - [i-infra/GetPost](https://github.com/i-infra/GetPost) - Cloudflare Worker KISS pastebin and imagebin. Tinker with ease. Deploy your own for free. Public domain code.
 - [scil/mdsplit-js](https://github.com/scil/mdsplit-js) - 
 - [enginestein/Reversecord](https://github.com/enginestein/Reversecord) - A repository containing reverse engineered discord code
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [vibertthio/beact](https://github.com/vibertthio/beact) - :guitar::art: DJ and VJ all by yourself in seconds !
 - [jagilley/pylectron](https://github.com/jagilley/pylectron) - An electron.js GUI wrapper for arbitrary Python scripts
 - [reedkavner/gif-viz](https://github.com/reedkavner/gif-viz) - 
@@ -2326,6 +2329,8 @@
 
 ## Python 
 
+- [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema even if the introspection is disabled
+- [timedomain-tech/Timedomain-Ai-Singer-Extension](https://github.com/timedomain-tech/Timedomain-Ai-Singer-Extension) - Timedomain-Ai-Singer omniverse插件
 - [simonw/llm-mistral](https://github.com/simonw/llm-mistral) - LLM plugin providing access to Mistral models using the Mistral API
 - [simonw/llm-plugin](https://github.com/simonw/llm-plugin) - A cookiecutter template for building plugins for LLM
 - [simonw/llm-embed-onnx](https://github.com/simonw/llm-embed-onnx) - Run embedding models using ONNX
@@ -2338,7 +2343,6 @@
 - [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
 - [deepseek-ai/DeepSeek-MoE](https://github.com/deepseek-ai/DeepSeek-MoE) - 
-- [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
 - [tomshafer/karpathy-gpt](https://github.com/tomshafer/karpathy-gpt) - A small PyTorch GPT implementation following Andrej Karpathy's lecture on YouTube.
 - [ps1899/YouTube-Transcript-Summarizer](https://github.com/ps1899/YouTube-Transcript-Summarizer) - Chrome Extension which makes a request to a Backend REST API to perform NLP and respond with a summarized version of a YouTube transcript.
@@ -3644,7 +3648,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [qcz/vscode-text-power-tools](https://github.com/qcz/vscode-text-power-tools) - Text Power Tools extension for VS Code
 - [Erisa/multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings
