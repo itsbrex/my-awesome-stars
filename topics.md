@@ -567,6 +567,7 @@
 
 ## automation 
 
+- [safdar-azeem/auto-commit-master](https://github.com/safdar-azeem/auto-commit-master) - Generate commit messages automatically
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [vignshwarar/AI-Employe](https://github.com/vignshwarar/AI-Employe) - Create browser automation as if you were teaching a human using GPT-4 Vision.
@@ -1144,6 +1145,7 @@
 
 ## cli 
 
+- [kazhala/InquirerPy](https://github.com/kazhala/InquirerPy) - :snake: Python port of Inquirer.js (A collection of common interactive command-line user interfaces)
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1935,6 +1937,7 @@
 
 ## git 
 
+- [safdar-azeem/auto-commit-master](https://github.com/safdar-azeem/auto-commit-master) - Generate commit messages automatically
 - [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
@@ -1964,6 +1967,7 @@
 
 ## github 
 
+- [safdar-azeem/auto-commit-master](https://github.com/safdar-azeem/auto-commit-master) - Generate commit messages automatically
 - [itsbrex/git-goin](https://github.com/itsbrex/git-goin) - A Chrome + Orion extension to clone and open any repo in your default editor ✨
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
@@ -2394,6 +2398,7 @@
 
 ## http 
 
+- [narfindustries/http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -2476,6 +2481,7 @@
 
 ## javascript 
 
+- [safdar-azeem/auto-commit-master](https://github.com/safdar-azeem/auto-commit-master) - Generate commit messages automatically
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - :tv: Extract the YouTube video ID from a string or URL.
@@ -3970,6 +3976,9 @@
 
 ## others 
 
+- [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel
+- [kazhala/s3fm](https://github.com/kazhala/s3fm) - 
+- [smlxl/storage-layout-extractor](https://github.com/smlxl/storage-layout-extractor) - A tool that performs extraction of storage layouts based on EVM bytecode.
 - [timedomain-tech/Timedomain-Ai-Singer-Extension](https://github.com/timedomain-tech/Timedomain-Ai-Singer-Extension) - Timedomain-Ai-Singer omniverse插件
 - [EezyQuote/vscode-component-generator](https://github.com/EezyQuote/vscode-component-generator) - Generates files and folders in vscode for common components
 - [i-infra/GetPost](https://github.com/i-infra/GetPost) - Cloudflare Worker KISS pastebin and imagebin. Tinker with ease. Deploy your own for free. Public domain code.
@@ -4838,7 +4847,7 @@
 - [StanfordASL/ALPaCA](https://github.com/StanfordASL/ALPaCA) - Code for "Meta-Learning Priors for Efficient Online Bayesian Regression" by James Harrison, Apoorva Sharma, and Marco Pavone
 - [gururise/AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) - Alpaca dataset from Stanford, cleaned and curated
 - [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [volca/markdown-preview](https://github.com/volca/markdown-preview) - Markdown Preview Plus -- Enables Chrome to render markdown files as HTML
 - [Peter-Schorn/SpotifyAPIExampleApp](https://github.com/Peter-Schorn/SpotifyAPIExampleApp) - An Example App that demonstrates the usage of SpotifyAPI.
 - [segmentio/chrome-sidebar](https://github.com/segmentio/chrome-sidebar) - Easiest way to embed an iframe as a chrome extension
@@ -6366,6 +6375,7 @@
 
 ## python 
 
+- [kazhala/InquirerPy](https://github.com/kazhala/InquirerPy) - :snake: Python port of Inquirer.js (A collection of common interactive command-line user interfaces)
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
@@ -7536,6 +7546,7 @@
 
 ## typescript 
 
+- [safdar-azeem/auto-commit-master](https://github.com/safdar-azeem/auto-commit-master) - Generate commit messages automatically
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
