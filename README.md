@@ -736,6 +736,8 @@
 
 ## JavaScript 
 
+- [strdr4605/symlink-config](https://github.com/strdr4605/symlink-config) - A tool to symlink your project config files to root
+- [ccnnde/commitlint-config-git-commit-emoji](https://github.com/ccnnde/commitlint-config-git-commit-emoji) - Shareable commitlint config for the VS Code extension git-commit-plugin with emoji enabled
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [scil/reliable-debundle](https://github.com/scil/reliable-debundle) - :card_file_box: A javascript debundler. Takes a Browserify or Webpack bundle and recreates the initial, pre-bundled source.
 - [i-infra/GetPost](https://github.com/i-infra/GetPost) - Cloudflare Worker KISS pastebin and imagebin. Tinker with ease. Deploy your own for free. Public domain code.
@@ -1670,11 +1672,11 @@
 
 ## Jupyter Notebook 
 
+- [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel
 - [sony/DiffRoll](https://github.com/sony/DiffRoll) - PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model
 - [jagilley/fft-embeddings](https://github.com/jagilley/fft-embeddings) - Boost embeddings performance with signal processing in the frequency domain
 - [Shanti-27/Computer_Vision_Project](https://github.com/Shanti-27/Computer_Vision_Project) - 
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [mulab-mir/song-describer-dataset](https://github.com/mulab-mir/song-describer-dataset) - The Song Describer dataset is an evaluation dataset made of ~1.1k captions for 706 permissively licensed music recordings.
 - [moiseshorta/MelSpecVAE](https://github.com/moiseshorta/MelSpecVAE) - Variational Autoencoder in the mel-spectrogram domain for one-shot audio synthesis
@@ -2157,6 +2159,7 @@
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community) - Bug reports and discussion for the Rectangle Pro app
 - [runletapp/runlet](https://github.com/runletapp/runlet) - :cloud: A cloud-based job manager that integrates your devices
+- [dracula/template](https://github.com/dracula/template) - 🧛🏻‍♂️ Dark theme for Foobar
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
 - [argyleink/argyleink](https://github.com/argyleink/argyleink) - 
@@ -2385,6 +2388,7 @@
 - [svsdval/video2midi](https://github.com/svsdval/video2midi) - youtube synthesia video to midi
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent evals and observability
 - [kevinpiac/hookify](https://github.com/kevinpiac/hookify) - Python script that automatically generates hook functions for given objc Header.h file. Ideal for reverse engineering iOS apps.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [banjtheman/chataws](https://github.com/banjtheman/chataws) - A ChatGPT plugin that allows users to create websites and Lambda functions using ChatGPT
 - [turian/inverse-audio-synthesis](https://github.com/turian/inverse-audio-synthesis) - Inverse audio synthesis
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
@@ -2401,7 +2405,7 @@
 - [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
 - [kyegomez/zeta](https://github.com/kyegomez/zeta) - Build high-performance AI models with modular building blocks
-- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - 
+- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.
 - [soos3d/python-parallel-processing](https://github.com/soos3d/python-parallel-processing) - This repository holds a simple example of parallel processing in Python using mpi4py
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
 - [razeghi71/burf](https://github.com/razeghi71/burf) - TUI for google cloud storage (GCS)
@@ -3390,6 +3394,7 @@
 
 ## Shell 
 
+- [LangLangBart/gh-find-code](https://github.com/LangLangBart/gh-find-code) - GitHub code searching with 'fzf'
 - [technovangelist/matts-shell-scripts](https://github.com/technovangelist/matts-shell-scripts) - 
 - [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
@@ -3447,7 +3452,6 @@
 - [kconner/next-js-in-docker-example](https://github.com/kconner/next-js-in-docker-example) - Next.js + Docker + Compose + Kubernetes + VS Code + TypeScript + Jest + Storybook
 - [cmer/shoestrap](https://github.com/cmer/shoestrap) - A simple alternative to Chef and Puppet to bootstrap *nix machines.
 - [ViViDboarder/shoestrap](https://github.com/ViViDboarder/shoestrap) - A simple alternative to Chef and Puppet to bootstrap *nix machines.
-- [dracula/template](https://github.com/dracula/template) - 🧛🏻‍♂️ Dark theme for Foobar
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [schollz/spotifydownload](https://github.com/schollz/spotifydownload) - A dependency-free Spotify playlist downloader that should just work
 - [traviscross/compress-video-for-web](https://github.com/traviscross/compress-video-for-web) - A simple tool to compress videos correctly for the web using ffmpeg
@@ -3522,6 +3526,7 @@
 
 ## Swift 
 
+- [0xdevalias/reminders-cli](https://github.com/0xdevalias/reminders-cli) - A simple CLI for interacting with macOS reminders
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
 - [doublesymmetry/SwiftAudioEx](https://github.com/doublesymmetry/SwiftAudioEx) - SwiftAudioEx is an iOS audio player written in Swift, making it simpler to work with audio playback from streams and files.
