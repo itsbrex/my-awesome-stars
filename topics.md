@@ -43,6 +43,7 @@
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
+- [config](#config)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
@@ -247,6 +248,7 @@
 
 ## ai 
 
+- [fabriceb/GMailAIReplier](https://github.com/fabriceb/GMailAIReplier) - Your GMail AI secretary 🤖📝 An AI that drafts replies to your emails. Compatible with Google Mail personal and business version, uses OpenAI GPT4's API. All the code is run within a Google Sheet, using
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
@@ -254,7 +256,7 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent evals and observability
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -353,7 +355,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, Op
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -428,6 +430,7 @@
 
 ## angular 
 
+- [ccnnde/commitlint-config-git-commit-emoji](https://github.com/ccnnde/commitlint-config-git-commit-emoji) - Shareable commitlint config for the VS Code extension git-commit-plugin with emoji enabled
 - [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
@@ -454,6 +457,7 @@
 
 ## api 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [akshgpt7/youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library of the YouTube Data API.
 - [MellKam/soundify](https://github.com/MellKam/soundify) - Lightweight integration with the Spotify Web API for modern Javascript runtimes 🎧
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
@@ -476,7 +480,6 @@
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, 
 - [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -747,6 +750,7 @@
 
 ## aws 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [banjtheman/chataws](https://github.com/banjtheman/chataws) - A ChatGPT plugin that allows users to create websites and Lambda functions using ChatGPT
 - [ighoshsubho/NotionAutomation](https://github.com/ighoshsubho/NotionAutomation) - Notion Automation using Serverless and Notion API
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
@@ -757,7 +761,7 @@
 ## azure 
 
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, Op
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 
 ## babel 
@@ -779,6 +783,7 @@
 
 ## bash 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [iyarivky/debash](https://github.com/iyarivky/debash) - DeBash is a online tool that aims to deobfuscate bash scripts using JavaScript
@@ -856,12 +861,14 @@
 
 ## chatgpt 
 
+- [transitive-bullshit/chatgpt-well-known-plugin-finder](https://github.com/transitive-bullshit/chatgpt-well-known-plugin-finder) - Checks Alexa's top 1M websites for the presence of OpenAI's new .well-known/ai-plugin.json files
+- [dannyp777/ChatGPT-AI-Plugin-Manifest-Lists](https://github.com/dannyp777/ChatGPT-AI-Plugin-Manifest-Lists) - A collection of links to ChatGPT/AI "*/.well-known/ai-plugin.json", "*/.well-known/openapi.json" and "*/.well-known/openapi.yaml" manifest files
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
 - [icebaker/nano-bots-api](https://github.com/icebaker/nano-bots-api) - HTTP API for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral A
 - [banjtheman/chataws](https://github.com/banjtheman/chataws) - A ChatGPT plugin that allows users to create websites and Lambda functions using ChatGPT
 - [0xdevalias/chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [Globe-Engineer/globot](https://github.com/Globe-Engineer/globot) - Globot is an agent that controls your browser using playwright and GPT-4V.
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
@@ -971,7 +978,7 @@
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, Op
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
@@ -1285,6 +1292,10 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 
+## config 
+
+- [strdr4605/symlink-config](https://github.com/strdr4605/symlink-config) - A tool to symlink your project config files to root
+
 ## covid-19 
 
 - [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot) - My personal Telegram bot made in Python. It has several features and it's based on Pyrogram.
@@ -1471,6 +1482,7 @@
 
 ## deep-learning 
 
+- [siddsax/XML-CNN](https://github.com/siddsax/XML-CNN) - Pytorch implementation of the paper Deep learning for extreme multi-label text classification
 - [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
 - [tomshafer/karpathy-gpt](https://github.com/tomshafer/karpathy-gpt) - A small PyTorch GPT implementation following Andrej Karpathy's lecture on YouTube.
 - [carlosholivan/music-composition-api](https://github.com/carlosholivan/music-composition-api) - This module contains models an API for music generation with state-of-the-art models.
@@ -1612,6 +1624,7 @@
 
 ## devops 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -1640,8 +1653,9 @@
 
 ## docker 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [carlosholivan/music-composition-api](https://github.com/carlosholivan/music-composition-api) - This module contains models an API for music generation with state-of-the-art models.
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
 - [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
@@ -1742,6 +1756,7 @@
 
 ## emoji 
 
+- [ccnnde/commitlint-config-git-commit-emoji](https://github.com/ccnnde/commitlint-config-git-commit-emoji) - Shareable commitlint config for the VS Code extension git-commit-plugin with emoji enabled
 - [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
@@ -1929,6 +1944,7 @@
 
 ## gh-extension 
 
+- [LangLangBart/gh-find-code](https://github.com/LangLangBart/gh-find-code) - GitHub code searching with 'fzf'
 - [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
@@ -1942,6 +1958,8 @@
 
 ## git 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
+- [ccnnde/commitlint-config-git-commit-emoji](https://github.com/ccnnde/commitlint-config-git-commit-emoji) - Shareable commitlint config for the VS Code extension git-commit-plugin with emoji enabled
 - [safdar-azeem/auto-commit-master](https://github.com/safdar-azeem/auto-commit-master) - Generate commit messages automatically
 - [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
@@ -1972,6 +1990,7 @@
 
 ## github 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [safdar-azeem/auto-commit-master](https://github.com/safdar-azeem/auto-commit-master) - Generate commit messages automatically
 - [itsbrex/git-goin](https://github.com/itsbrex/git-goin) - A Chrome + Orion extension to clone and open any repo in your default editor ✨
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
@@ -2095,7 +2114,7 @@
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, Op
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
@@ -2167,6 +2186,7 @@
 
 ## hacktoberfest 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [octokit/oauth-app.js](https://github.com/octokit/oauth-app.js) - GitHub OAuth toolset for Node.js
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -2797,6 +2817,7 @@
 
 ## kubernetes 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
@@ -2860,6 +2881,7 @@
 
 ## linux 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [steinbergmedia/vst3sdk](https://github.com/steinbergmedia/vst3sdk) - VST 3 Plug-In SDK
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
@@ -3445,6 +3467,7 @@
 
 ## mysql 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -3742,6 +3765,7 @@
 
 ## node 
 
+- [strdr4605/symlink-config](https://github.com/strdr4605/symlink-config) - A tool to symlink your project config files to root
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [simoncragg/synth-gpt](https://github.com/simoncragg/synth-gpt) - An intelligent voice assistant
@@ -3884,6 +3908,7 @@
 
 ## npm 
 
+- [strdr4605/symlink-config](https://github.com/strdr4605/symlink-config) - A tool to symlink your project config files to root
 - [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - :tv: Extract the YouTube video ID from a string or URL.
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
@@ -3981,6 +4006,14 @@
 
 ## others 
 
+- [AKclown/js-to-ts](https://github.com/AKclown/js-to-ts) - The vscode plugin converts  js/json/swagger/api  to typescript declaration
+- [tjx666/vscode-archive](https://github.com/tjx666/vscode-archive) - compress/decompress for .zip, .vsix, .crx(v3), .asar, .tgz, .gzip, .br, .tar
+- [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Generator for Apple's HideMyEmail service. Generate multiple iCloud emails with ease!
+- [CircleCI-Public/debug-gpt](https://github.com/CircleCI-Public/debug-gpt) - AI Powered Devtools Extension
+- [foyer-work/merlin-node](https://github.com/foyer-work/merlin-node) - Merlin SDK Provides A Unified API To Interact With 20+ LLM Models.
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
+- [0xdevalias/reminders-cli](https://github.com/0xdevalias/reminders-cli) - A simple CLI for interacting with macOS reminders
+- [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
 - [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
 - [simonw/llm-llama-cpp](https://github.com/simonw/llm-llama-cpp) - LLM plugin for running models using llama.cpp
@@ -4066,7 +4099,7 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [reasoning-survey/Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - ✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models
 - [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst) - GPT-Analyst: A GPT for GPT analysis and reverse engineering
-- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - 
+- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.
 - [Fuzzy-Search/chat-with-page](https://github.com/Fuzzy-Search/chat-with-page) - Chrome extension to chat with page using local LLM (llama, mistral 7B, etc)
 - [coolvision/autolicious](https://github.com/coolvision/autolicious) - 
 - [yusukebe/service-worker-magic](https://github.com/yusukebe/service-worker-magic) - Server and Browser code are really the same. It's magic.
@@ -6277,6 +6310,7 @@
 
 ## perl 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [oldtechaa/SeekMIDI](https://github.com/oldtechaa/SeekMIDI) - SeekMIDI, a simple multi-channel graphical MIDI sequencer.
 
 ## php 
@@ -6298,6 +6332,7 @@
 
 ## postgresql 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
@@ -7115,7 +7150,7 @@
 ## rust 
 
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [B0ney/xmodits-cli](https://github.com/B0ney/xmodits-cli) - Command line version of xmodits - A tool to rip samples from tracker modules.
 - [B0ney/xmodits-py](https://github.com/B0ney/xmodits-py) - xmodits python library
 - [magnusrodseth/gpt-feeder](https://github.com/magnusrodseth/gpt-feeder) - 🦀 A command-line application that scans the entire codebase, and produces one string consisting of all filenames and file contents that you want included.
@@ -7221,7 +7256,7 @@
 
 ## server 
 
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for playlists, crates and a web/mobile frontend
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -7525,6 +7560,7 @@
 
 ## terraform 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
