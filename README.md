@@ -788,7 +788,7 @@
 - [CesiumGS/webglreport](https://github.com/CesiumGS/webglreport) - A web page that reports a browser's WebGL capabilities, including supported extensions and implementation specific capabilities, such as the maximum number of texture units.
 - [AppMachine/seratojs](https://github.com/AppMachine/seratojs) - Manage Serato Crates Programatically via NodeJS.
 - [AppMachine/ffprobe-static](https://github.com/AppMachine/ffprobe-static) - Static binaries for ffprobe
-- [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [moises-ai/backend-dev-position](https://github.com/moises-ai/backend-dev-position) - 
 - [felixxwu/noxive](https://github.com/felixxwu/noxive) - Landing page for my music hobby using Vue.js and Firebase
 - [ToDesktop/todesktop-quick-start](https://github.com/ToDesktop/todesktop-quick-start) - Clone to try ToDesktop with a simple Electron project
@@ -2680,7 +2680,6 @@
 - [StefanHeng/Symbolic-Music-Generation](https://github.com/StefanHeng/Symbolic-Music-Generation) - Symbolic music generation taking inspiration from NLP and human composition process
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [yunlong10/LaunchpadGPT](https://github.com/yunlong10/LaunchpadGPT) - Repo for ICMC 2023 paper: LaunchpadGPT: Language Model as Music Visualization Designer on Launchpad
 - [jeffreyjohnens/MetaMIDIDataset](https://github.com/jeffreyjohnens/MetaMIDIDataset) - 
 - [alexanderattar/dsp](https://github.com/alexanderattar/dsp) - Digital Signal Processing - Audio Effects: A collection of Python scripts
@@ -3521,7 +3520,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
 - [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you?
 - [rossrobino/gpt](https://github.com/rossrobino/gpt) - Custom ChatGPT wrapper
 - [rossrobino/blog](https://github.com/rossrobino/blog) - My blog
@@ -3838,6 +3837,7 @@
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
 - [steveluc/elec](https://github.com/steveluc/elec) - electron, typescript and webpack
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [thereplicants/ableton-package-manager](https://github.com/thereplicants/ableton-package-manager) - apm is a package manager for the Ableton Live DAW to manage Max for Live dependencies and Node for Max patches. Created by @vine77.
 - [spotify/basic-pitch-ts](https://github.com/spotify/basic-pitch-ts) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection.
