@@ -4240,7 +4240,7 @@
 - [strazzere/node-usb](https://github.com/strazzere/node-usb) - Improved USB library for Node.js
 - [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) - Mustango: Toward Controllable Text-to-Music Generation
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
-- [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
 - [f2l2pe/JetBrainsMonoSlashed](https://github.com/f2l2pe/JetBrainsMonoSlashed) - JetBrains Mono Slashed – the free and open-source typeface for developers, now with slashed zero
 - [moises-ai/backend-dev-position](https://github.com/moises-ai/backend-dev-position) - 
@@ -7261,7 +7261,7 @@
 
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown..
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
