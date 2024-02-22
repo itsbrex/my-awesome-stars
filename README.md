@@ -232,7 +232,7 @@
 - [magenta/ddsp-vst](https://github.com/magenta/ddsp-vst) - Realtime DDSP Neural Synthesizer and Effect
 - [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [WuYiming6526/HARD](https://github.com/WuYiming6526/HARD) - Harmony-Rhythm Disentanglement audio remixer plugin
 - [Torsion-Audio/Scyclone](https://github.com/Torsion-Audio/Scyclone) - Real-time Neural Timbre Transfer
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -2344,6 +2344,7 @@
 
 ## Python 
 
+- [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Generator for Apple's HideMyEmail service. Generate multiple iCloud emails with ease!
 - [siddsax/XML-CNN](https://github.com/siddsax/XML-CNN) - Pytorch implementation of the paper Deep learning for extreme multi-label text classification
@@ -2674,7 +2675,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [lyramakesmusic/musicgen-demucs-gradio](https://github.com/lyramakesmusic/musicgen-demucs-gradio) - A gradio UI for running a GPT prompt enhancer, musicgen, and demucs on one screen
-- [AutonomousResearchGroup/autocoder](https://github.com/AutonomousResearchGroup/autocoder) - Code that basically writes itself
+- [JoinTheAlliance/autocoder](https://github.com/JoinTheAlliance/autocoder) - Code that basically writes itself
 - [EleutherAI/aria](https://github.com/EleutherAI/aria) - 
 - [StefanHeng/Symbolic-Music-Generation](https://github.com/StefanHeng/Symbolic-Music-Generation) - Symbolic music generation taking inspiration from NLP and human composition process
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -3689,7 +3690,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [qcz/vscode-text-power-tools](https://github.com/qcz/vscode-text-power-tools) - Text Power Tools extension for VS Code
 - [Erisa/multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings
