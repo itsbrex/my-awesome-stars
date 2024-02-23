@@ -2730,7 +2730,7 @@
 - [PlayVoice/so-vits-svc-5.0](https://github.com/PlayVoice/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
 - [skorokithakis/jsane](https://github.com/skorokithakis/jsane) - A saner way to traverse JSON in Python
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
-- [henrymaas/AudioSlicer](https://github.com/henrymaas/AudioSlicer) - Audio Slicer that uses silence detection to split .wav audio files into several .wav samples.
+- [henrymaas/AudioSlicer](https://github.com/henrymaas/AudioSlicer) - Audio Slicer that uses silence detection to split .wav audio files into multiple .wav samples.
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
@@ -2878,7 +2878,7 @@
 - [coreylowman/rl_simply](https://github.com/coreylowman/rl_simply) - Simple pytorch implementations of RL algorithms
 - [SilasMarvin/bdemr](https://github.com/SilasMarvin/bdemr) - Been There Done That With an Enhanced Memory and Recall
 - [SilasMarvin/Episodic-Reinforcement-Learning-With-Associative-Memory-Example](https://github.com/SilasMarvin/Episodic-Reinforcement-Learning-With-Associative-Memory-Example) - This is an example of Episodic Reinforcement Learning With Associative Memory using Google's Jax library with OpenAI's Cart Pole Environment
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [chrisdonahue/LakhNES](https://github.com/chrisdonahue/LakhNES) - Generate 8-bit chiptunes with deep learning
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - A TensorFlow implementation of DeepMind's WaveNet paper
@@ -3520,7 +3520,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you?
 - [rossrobino/gpt](https://github.com/rossrobino/gpt) - Custom ChatGPT wrapper
 - [rossrobino/blog](https://github.com/rossrobino/blog) - My blog
@@ -3636,6 +3636,7 @@
 
 ## TypeScript 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [mathysth/bun-prisma-hono-inversify](https://github.com/mathysth/bun-prisma-hono-inversify) - startup kit for Zod OpenAPI, prisma, inversify, bun, sentry, swagger
 - [AKclown/js-to-ts](https://github.com/AKclown/js-to-ts) - The vscode plugin converts  js/json/swagger/api  to typescript declaration
 - [tjx666/vscode-archive](https://github.com/tjx666/vscode-archive) - compress/decompress for .zip, .vsix, .crx(v3), .asar, .tgz, .gzip, .br, .tar
@@ -3690,7 +3691,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [qcz/vscode-text-power-tools](https://github.com/qcz/vscode-text-power-tools) - Text Power Tools extension for VS Code
 - [Erisa/multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings
