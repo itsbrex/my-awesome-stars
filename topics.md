@@ -249,6 +249,7 @@
 
 ## ai 
 
+- [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [fabriceb/GMailAIReplier](https://github.com/fabriceb/GMailAIReplier) - Your GMail AI secretary 🤖📝 An AI that drafts replies to your emails. Compatible with Google Mail personal and business version, uses OpenAI GPT4's API. All the code is run within a Google Sheet, using
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -260,11 +261,11 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
-- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
+- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [Gabeiscool420/SoundSage---LLM-Audio-Processing](https://github.com/Gabeiscool420/SoundSage---LLM-Audio-Processing) - Open source Python program for automating gain staging. part 1 of a series for automating audio processing tasks, end goal is to create a full set of tools for an AI to use for automating Audio proces
 - [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
 - [heathbm/Dynamic-Directory-Organizer-GPT](https://github.com/heathbm/Dynamic-Directory-Organizer-GPT) - .NET 8 Hack project submission, using AI. Use this app to chat with AI to organize files interactively. Adjust until satisfied, then select a destination for the newly structured files to be copied to
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [ScanLineDev/scanline](https://github.com/ScanLineDev/scanline) - Expert AI code reviews  Catch bugs before they hurt  Run Scanline in your CLI to find: - race conditions - logical errors - security risks - optimizations
@@ -464,7 +465,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [akshgpt7/youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library of the YouTube Data API.
 - [MellKam/soundify](https://github.com/MellKam/soundify) - 🎧 Lightweight integration with the Spotify Web API for modern Javascript runtimes
-- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
+- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
@@ -781,7 +782,6 @@
 
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
-- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
@@ -877,9 +877,9 @@
 - [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [Globe-Engineer/globot](https://github.com/Globe-Engineer/globot) - Globot is an agent that controls your browser using playwright and GPT-4V.
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
-- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
+- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [Gabeiscool420/SoundSage---LLM-Audio-Processing](https://github.com/Gabeiscool420/SoundSage---LLM-Audio-Processing) - Open source Python program for automating gain staging. part 1 of a series for automating audio processing tasks, end goal is to create a full set of tools for an AI to use for automating Audio proces
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
 - [heathbm/Dynamic-Directory-Organizer-GPT](https://github.com/heathbm/Dynamic-Directory-Organizer-GPT) - .NET 8 Hack project submission, using AI. Use this app to chat with AI to organize files interactively. Adjust until satisfied, then select a destination for the newly structured files to be copied to
 - [mirableio/chat-history](https://github.com/mirableio/chat-history) - ChatGPT history exploration
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
@@ -1924,6 +1924,7 @@
 
 ## frontend 
 
+- [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
@@ -2124,7 +2125,7 @@
 
 ## google 
 
-- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
+- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plug
@@ -2882,7 +2883,6 @@
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - 📝 HTML to React parser.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
-- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax
 - [tanaikech/ImgApp](https://github.com/tanaikech/ImgApp) - This is a library of image tools for Google Apps Script.
 - [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) - This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 - [tanaikech/ProjectApp2](https://github.com/tanaikech/ProjectApp2) - This is a GAS project library for Google Apps Script (GAS). This library can be used for the projects of both standalone script type and container-bound script type.
@@ -3244,7 +3244,7 @@
 
 ## microsoft 
 
-- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro, and AutoGen, enabling it both to engage in conversations and to execute computing tasks on local devices.
+- [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -3535,7 +3535,7 @@
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [ibnzUK/next-chrome-starter](https://github.com/ibnzUK/next-chrome-starter) - Next.js Chrome Extension Starter example application that demonstrates how to build a Chrome extension using Next.js. It provides a foundation for developing Chrome extensions with Next.js, React and 
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
@@ -4254,7 +4254,7 @@
 - [ToDesktop/todesktop-quick-start](https://github.com/ToDesktop/todesktop-quick-start) - Clone to try ToDesktop with a simple Electron project
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [alexrodi/rust-midi-synth](https://github.com/alexrodi/rust-midi-synth) - A command-line midi synth in Rust
-- [karaokenerds/python-audio-separator](https://github.com/karaokenerds/python-audio-separator) - Easy to use vocal separation on CLI or as a python package, using the amazing MDX-Net models from UVR trained by @Anjok07
+- [karaokenerds/python-audio-separator](https://github.com/karaokenerds/python-audio-separator) - Easy to use vocal separation from CLI or as a python package, using a variety of amazing models (primarily trained by @Anjok07 as part of UVR)
 - [bastibe/python-soundfile](https://github.com/bastibe/python-soundfile) - SoundFile is an audio library based on libsndfile, CFFI, and NumPy
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [wch18735/Audio_File_Conversion](https://github.com/wch18735/Audio_File_Conversion) - :arrows_counterclockwise: silence deletion, wav2pcm, pcm2wav implementation
@@ -4393,7 +4393,7 @@
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
 - [Torsion-Audio/Scyclone-AI](https://github.com/Torsion-Audio/Scyclone-AI) - Create presets for  Scyclone: a Real-time Neural Timbre Transfer Plug-in
-- [SoundStacks/cmajor](https://github.com/SoundStacks/cmajor) - The Cmajor public API
+- [cmajor-lang/cmajor](https://github.com/cmajor-lang/cmajor) - The Cmajor public API
 - [RafayKhattak/YoutubeGPT](https://github.com/RafayKhattak/YoutubeGPT) - YoutubeGPT is a web application powered by OpenAI's Whisper model for speech recognition and GPT-3 for text summarization. It extracts transcriptions from YouTube videos and provides users with concis
 - [jcvasquezc/DisVoice](https://github.com/jcvasquezc/DisVoice) - feature extraction from speech signals
 - [theos/logos](https://github.com/theos/logos) - Preprocessor that simplifies Objective-C hooking.
@@ -4722,7 +4722,7 @@
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
 - [slavingia/push-to-do](https://github.com/slavingia/push-to-do) - Push voice to-dos to Notion
 - [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Cognitive Functions for AI Souls
+- [opensouls/soul-engine](https://github.com/opensouls/soul-engine) - The platform for creating, debugging, and deploying AI souls
 - [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [d3n7/riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion
@@ -4886,7 +4886,7 @@
 - [Jervis2049/vite-plugin-crx-mv3](https://github.com/Jervis2049/vite-plugin-crx-mv3) - Build a Chrome Extension with Vite⚡
 - [lastmile-ai/llama-retrieval-plugin](https://github.com/lastmile-ai/llama-retrieval-plugin) - LLaMa retrieval plugin script using OpenAI's retrieval plugin
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [thlorenz/docme](https://github.com/thlorenz/docme) - Generates github compatible API documentation from your project's jsdocs and adds them to your Readme.
@@ -6313,7 +6313,7 @@
 
 ## package-manager 
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -6454,7 +6454,7 @@
 - [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
 - [tefra/xsdata](https://github.com/tefra/xsdata) - Naive XML & JSON Bindings for python
 - [BeastByteAI/falcon](https://github.com/BeastByteAI/falcon) - A lightweight AutoML library.
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [salu133445/mmt](https://github.com/salu133445/mmt) - Official Implementation of "Multitrack Music Transformer" (ICASSP 2023)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
@@ -6780,6 +6780,7 @@
 
 ## react 
 
+- [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
