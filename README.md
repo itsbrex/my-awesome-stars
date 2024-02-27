@@ -452,7 +452,6 @@
 
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [lannonbr/vsce-action](https://github.com/lannonbr/vsce-action) - A GitHub Action to automate deploying VS Code extensions
-- [alertbox/devcontainers-try-bun](https://github.com/alertbox/devcontainers-try-bun) - Bun, all-in-one JS runtime and its prerequisites starter project template for use with VS Code Remote - Containers and GitHub Codespaces, ideal for Windows
 
 ## Elm 
 
@@ -740,7 +739,7 @@
 - [joeferner/node-bplist-creator](https://github.com/joeferner/node-bplist-creator) - Binary Mac OS X Plist (property list) creator.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown..
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [quoid/InjectJS](https://github.com/quoid/InjectJS) - A simple, open-source, userscript editor for Safari
 - [strdr4605/symlink-config](https://github.com/strdr4605/symlink-config) - A tool to symlink your project config files to root
@@ -1107,7 +1106,7 @@
 - [MoizAhmedd/youtube-video-search](https://github.com/MoizAhmedd/youtube-video-search) - An extension that lets you search for words in a youtube video, and seeks to that timestamp
 - [feikerwu/quicklink](https://github.com/feikerwu/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [Pondorasti/nextjs-chrome-extension](https://github.com/Pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
-- [thomaswangio/next-chrome](https://github.com/thomaswangio/next-chrome) - Next.js / Chrome extension starter template
+- [thomaswangoverflow/next-chrome](https://github.com/thomaswangoverflow/next-chrome) - Next.js / Chrome extension starter template
 - [barrywire/next-nextui](https://github.com/barrywire/next-nextui) - A Next.js NextUI template set up for success
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
 - [mzaien/mzaien-cli](https://github.com/mzaien/mzaien-cli) - Know me via cli 😁
@@ -1607,7 +1606,6 @@
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [mgcrea/angular-strap](https://github.com/mgcrea/angular-strap) - AngularJS 1.2+ native directives for Bootstrap 3.
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
-- [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
@@ -2140,6 +2138,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
+- [alertbox/try-bun](https://github.com/alertbox/try-bun) - Start a dev container and get to developing a variety of JavaScript-based (or TypeScript) web apps and services.
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
 - [clerk/clerk-nextjs-examples](https://github.com/clerk/clerk-nextjs-examples) - Official Clerk.dev Next.js examples repository. See how you can build all kinds of forms using Clerk!
 - [joebuhlig/alfred-obsidian-projects](https://github.com/joebuhlig/alfred-obsidian-projects) - Alfred Workflow for managing project folders and note files in Obsidian.
@@ -2243,6 +2242,7 @@
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [joshnh/CSS-Snippets](https://github.com/joshnh/CSS-Snippets) - A set of custom CSS snippets for Sublime Text
 - [joshnh/HTML-Snippets](https://github.com/joshnh/HTML-Snippets) - A set of custom HTML snippets for Sublime Text
+- [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [alite/vjlxnr](https://github.com/alite/vjlxnr) - … (one more) simple VJing tool made with max/jitter/m4l …
 - [alexanderhuth/alfred-open-in-browser-workflow](https://github.com/alexanderhuth/alfred-open-in-browser-workflow) - An Alfred workflow to open the current browser tab in a different browser.
@@ -3019,7 +3019,7 @@
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [LuChengTHU/dpm-solver](https://github.com/LuChengTHU/dpm-solver) - Official code for "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps" (Neurips 2022 Oral)
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
