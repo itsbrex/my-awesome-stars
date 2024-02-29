@@ -266,7 +266,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [Gabeiscool420/SoundSage---LLM-Audio-Processing](https://github.com/Gabeiscool420/SoundSage---LLM-Audio-Processing) - Open source Python program for automating gain staging. part 1 of a series for automating audio processing tasks, end goal is to create a full set of tools for an AI to use for automating Audio proces
 - [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
 - [heathbm/Dynamic-Directory-Organizer-GPT](https://github.com/heathbm/Dynamic-Directory-Organizer-GPT) - .NET 8 Hack project submission, using AI. Use this app to chat with AI to organize files interactively. Adjust until satisfied, then select a destination for the newly structured files to be copied to
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [ScanLineDev/scanline](https://github.com/ScanLineDev/scanline) - Expert AI code reviews  Catch bugs before they hurt  Run Scanline in your CLI to find: - race conditions - logical errors - security risks - optimizations
@@ -880,7 +880,7 @@
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [Gabeiscool420/SoundSage---LLM-Audio-Processing](https://github.com/Gabeiscool420/SoundSage---LLM-Audio-Processing) - Open source Python program for automating gain staging. part 1 of a series for automating audio processing tasks, end goal is to create a full set of tools for an AI to use for automating Audio proces
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
 - [heathbm/Dynamic-Directory-Organizer-GPT](https://github.com/heathbm/Dynamic-Directory-Organizer-GPT) - .NET 8 Hack project submission, using AI. Use this app to chat with AI to organize files interactively. Adjust until satisfied, then select a destination for the newly structured files to be copied to
 - [mirableio/chat-history](https://github.com/mirableio/chat-history) - ChatGPT history exploration
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
@@ -2055,6 +2055,8 @@
 
 ## go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [Banbury-inc/Athena](https://github.com/Banbury-inc/Athena) - The project covers various aspects, from machine learning advancements to decentralized file sharing, and aims to transform the accessibility and management of files while contributing to the progress
@@ -2084,6 +2086,8 @@
 
 ## golang 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [proxoar/talk](https://github.com/proxoar/talk) - Talk with ChatGPT using your VOICE
@@ -2800,6 +2804,7 @@
 
 ## json 
 
+- [gregsdennis/json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
@@ -3536,7 +3541,7 @@
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [ibnzUK/next-chrome-starter](https://github.com/ibnzUK/next-chrome-starter) - Next.js Chrome Extension Starter example application that demonstrates how to build a Chrome extension using Next.js. It provides a foundation for developing Chrome extensions with Next.js, React and 
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
@@ -4026,6 +4031,12 @@
 
 ## others 
 
+- [atom/node-keytar](https://github.com/atom/node-keytar) - Native Password Node Module
+- [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
+- [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
+- [bra1nDump/ai-task-vscode](https://github.com/bra1nDump/ai-task-vscode) - LLM multi file edits within vscode
+- [coderofsalvation/npm-collect](https://github.com/coderofsalvation/npm-collect) - automatically update package.json according to installed/linked modules in node_modules
+- [coolvision/awf](https://github.com/coolvision/awf) - 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
@@ -7571,6 +7582,7 @@
 
 ## terminal 
 
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
