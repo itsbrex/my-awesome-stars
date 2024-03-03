@@ -59,6 +59,7 @@
 - [SCSS](#scss)
 - [Sass](#sass)
 - [Scala](#scala)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Stylus](#stylus)
@@ -114,9 +115,11 @@
 
 ## C 
 
+- [dlvandenberg/tree-sitter-angular](https://github.com/dlvandenberg/tree-sitter-angular) - Tree Sitter Grammar for Angular
 - [elf-audio/mzgl](https://github.com/elf-audio/mzgl) - a cross-platform application library and a collection of other useful of libraries.
 - [sideb0ard/SoundB0ard](https://github.com/sideb0ard/SoundB0ard) - Soundb0ard Shellllllll
 - [judyqiu1996/Chord-detection](https://github.com/judyqiu1996/Chord-detection) - Detected chords in a piece of music made of instruments, e.g. piano and guitar, by using Maximum Likelihood Method and FFT.
+- [cmajor-lang/cmajor](https://github.com/cmajor-lang/cmajor) - The Cmajor public API
 - [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
 - [mhroth/tinyosc](https://github.com/mhroth/tinyosc) - A minimal Open Sound Control (OSC) library written in vanilla C.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -206,7 +209,6 @@
 - [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
 - [CrushedPixel/Plugalyzer](https://github.com/CrushedPixel/Plugalyzer) - Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins
 - [echonest/synchdata](https://github.com/echonest/synchdata) - Synchronize analysis data to a corresponding waveform using synchstring
-- [cmajor-lang/cmajor](https://github.com/cmajor-lang/cmajor) - The Cmajor public API
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [jomarkow/Audio-to-MIDI](https://github.com/jomarkow/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
 - [ddiakopoulos/modern-midi](https://github.com/ddiakopoulos/modern-midi) - :musical_score: C++11 MIDI file & realtime io library
@@ -384,7 +386,6 @@
 - [tasdikrahman/plino](https://github.com/tasdikrahman/plino) - Flask based spam filtering system built on top of https://github.com/prodicus/spammy
 - [zurb/foundation-apps](https://github.com/zurb/foundation-apps) - The first front-end framework created for developing fully responsive web apps.
 - [ttscoff/MarkedCustomStyles](https://github.com/ttscoff/MarkedCustomStyles) - Custom Style Repository for Marked2.app
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [DevTips/Artists-Theme](https://github.com/DevTips/Artists-Theme) - 🌄 A free Jekyll Theme developed by the DevTips Community
 - [thewirelessguy/cornerstone](https://github.com/thewirelessguy/cornerstone) - Cornerstone is a WordPress starter theme based on the Zurb Foundation Responsive Framework. Cornerstone aims to provide a lightweight starter theme that is responsive and SEO friendly that web designe
@@ -1114,7 +1115,7 @@
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
 - [MoizAhmedd/youtube-video-search](https://github.com/MoizAhmedd/youtube-video-search) - An extension that lets you search for words in a youtube video, and seeks to that timestamp
 - [feikerwu/quicklink](https://github.com/feikerwu/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
-- [Pondorasti/nextjs-chrome-extension](https://github.com/Pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
+- [pondorasti/nextjs-chrome-extension](https://github.com/pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
 - [thomaswangoverflow/next-chrome](https://github.com/thomaswangoverflow/next-chrome) - Next.js / Chrome extension starter template
 - [barrywire/next-nextui](https://github.com/barrywire/next-nextui) - A Next.js NextUI template set up for success
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
@@ -1229,14 +1230,12 @@
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
-- [SoFriendly/2fhey](https://github.com/SoFriendly/2fhey) - 
 - [bjcarlson42/chakra-nextjs-dashboard](https://github.com/bjcarlson42/chakra-nextjs-dashboard) - A responsive dashboard UI built using Chakra UI and Next.js.
 - [rounaksingh1694/13bhai-frontend](https://github.com/rounaksingh1694/13bhai-frontend) - 
 - [rounaksingh1694/13bhai-backend](https://github.com/rounaksingh1694/13bhai-backend) - 
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [charles-clerk-dev/new-wave-stack](https://github.com/charles-clerk-dev/new-wave-stack) - Custom Remix stack using Clerk for authentication and full user management.
 - [devidw/ghrns](https://github.com/devidw/ghrns) - GitHub Repository Naming Suggestion Service: AI powered naming suggestions for your GitHub repositories
-- [jordicapellad3s/porfolio](https://github.com/jordicapellad3s/porfolio) - 🏠 Project website to learn Next and Chakra UI components
 - [FelixChenC/chakra-homepage](https://github.com/FelixChenC/chakra-homepage) - My home page using chakra and next.js
 - [clerk/clerk-nextjs-starter](https://github.com/clerk/clerk-nextjs-starter) - Official starter repo for Clerk and Next.js
 - [skywinston/redwood-and-chakra-ui](https://github.com/skywinston/redwood-and-chakra-ui) - 
@@ -1960,6 +1959,9 @@
 
 ## Others 
 
+- [conduktor/conduktor-platform](https://github.com/conduktor/conduktor-platform) - Streamline Apache Kafka with Conduktor Platform. 🚀
+- [sderosiaux/every-single-day-i-tldr](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
+- [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - 
 - [ProfSynapse/Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR) - 
 - [dannyp777/ChatGPT-AI-Plugin-Manifest-Lists](https://github.com/dannyp777/ChatGPT-AI-Plugin-Manifest-Lists) - A collection of links to ChatGPT/AI "*/.well-known/ai-plugin.json", "*/.well-known/openapi.json" and "*/.well-known/openapi.yaml" manifest files
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
@@ -3314,6 +3316,7 @@
 - [ttscoff/vitag](https://github.com/ttscoff/vitag) - 
 - [jlund/spotify-export](https://github.com/jlund/spotify-export) - A simple Ruby utility that uses Spotify's Web API to export a playlist as plain text
 - [mateomurphy/beatport](https://github.com/mateomurphy/beatport) - Ruby gem to access the Beatport API
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
 - [bassnode/Echotunes](https://github.com/bassnode/Echotunes) - Echonest + iTunes = Sweet Playlists
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -3417,8 +3420,14 @@
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [lizepeng/app.io](https://github.com/lizepeng/app.io) - This application shows how to build scalable web application with Play Framework, Cassandra, Elastic Search, Bootstrap and Angular.js. By including cassandra and elasticsearch, app.io achieved non-blo
 
+## Scheme 
+
+- [11bit/zed-extension-graphql](https://github.com/11bit/zed-extension-graphql) - GraphQL support for Zed editor
+
 ## Shell 
 
+- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
+- [mise-plugins/registry](https://github.com/mise-plugins/registry) - Convenience shortname repository for mise plugins
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [LangLangBart/gh-find-code](https://github.com/LangLangBart/gh-find-code) - GitHub code searching with 'fzf'
 - [technovangelist/matts-shell-scripts](https://github.com/technovangelist/matts-shell-scripts) - 
@@ -3595,6 +3604,7 @@
 - [andrewcb/plink](https://github.com/andrewcb/plink) - An AudioUnit-based music programming environment for macOS
 - [Primer-Archive/primer-ios](https://github.com/Primer-Archive/primer-ios) - 
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
+- [SoFriendly/2fhey](https://github.com/SoFriendly/2fhey) - 
 - [n0shake/clocker](https://github.com/n0shake/clocker) - ⏲  macOS app to plan and organize through timezones.
 - [ionic-team/capacitor-remix-templates](https://github.com/ionic-team/capacitor-remix-templates) - Build native iOS, Android, and Web apps with Capacitor and Remix.run 💿
 - [rknightuk/TrackerZapper](https://github.com/rknightuk/TrackerZapper) - Menubar app to remove link tracking parameters automatically
@@ -3648,6 +3658,9 @@
 
 ## TypeScript 
 
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [gusper/SongTxt-vscode](https://github.com/gusper/SongTxt-vscode) - Visual Studio Code extension that adds support for editing text files for songs including lyrics, chords, guitar tablature, etc.
+- [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [bra1nDump/ai-task-vscode](https://github.com/bra1nDump/ai-task-vscode) - LLM multi file edits within vscode
 - [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) - The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
@@ -3826,7 +3839,7 @@
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The Open Source AI Assistant Framework & API
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 Run AI-agents with an API
 - [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
 - [UnJavaScripter/web-midi-basics](https://github.com/UnJavaScripter/web-midi-basics) - A Web MIDI basic example
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -4381,7 +4394,6 @@
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app build with Node, NextJS, MongoDB, Docker and Kubernetes.
-- [fdxs-alt/form-creator](https://github.com/fdxs-alt/form-creator) - Nextjs app allowing user to create custom forms like those at Google Forms.
 - [yomorun/react-cursor-chat](https://github.com/yomorun/react-cursor-chat) - &lt;CursorChat /&gt; React Component helps bring Figma's Cursor Chat to your web applications in less than 3 minutes, making real-time collaboration anywhere.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -4405,7 +4417,7 @@
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [alexmarqs/my-reminders-serverless-api](https://github.com/alexmarqs/my-reminders-serverless-api) - ⏰ Personal reminders built with Vercel API Serverless Functions (Notion as CMS + Twilio)
 - [minime89-maker/next.js-notion-blog](https://github.com/minime89-maker/next.js-notion-blog) - 💫  Blog build with Next.js, Notion's API, Tailwind CSS and Vercel
-- [hosso/notion-custom-domain](https://github.com/hosso/notion-custom-domain) - 📝 Custom domains for your public Notion pages
+- [hosso/notion-custom-domain](https://github.com/hosso/notion-custom-domain) - Custom domains for your Notion pages
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [tamu-datathon-org/portal](https://github.com/tamu-datathon-org/portal) - Shows activities and events for TAMU Datathon
