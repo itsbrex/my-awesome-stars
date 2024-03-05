@@ -2359,6 +2359,7 @@
 
 ## Python 
 
+- [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [ericpesto/ai-sample-generator](https://github.com/ericpesto/ai-sample-generator) - Create .wav audio samples with text-to-sound generative AI
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
@@ -2982,7 +2983,7 @@
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - A command-line tool for effortlessly organizing and renaming your music files based on metadata
-- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read audio and music meta data and duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave and AIFF files with python 2 or 3
+- [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
@@ -3434,6 +3435,8 @@
 
 ## Shell 
 
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [mise-plugins/mise-poetry](https://github.com/mise-plugins/mise-poetry) - Poetry plugin for the rtx version manager
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [mise-plugins/registry](https://github.com/mise-plugins/registry) - Convenience shortname repository for mise plugins
@@ -3818,7 +3821,7 @@
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
-- [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter and CMS ▲ Next.js 13, Tauri Apps UI, Solito Expo ▲ i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Auth, Lucide CSS Radix UI, Responsive React Server, TS OR
+- [blefnk/reliverse](https://github.com/blefnk/reliverse) - Incremental Turborepo Starter and CMS ▲ Next.js 14, Tauri Apps UI, Solito Expo ▲ i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Auth, Lucide CSS Radix UI, Responsive React Server, TS OR
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [johnpolacek/date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison
