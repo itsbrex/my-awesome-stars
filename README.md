@@ -563,6 +563,7 @@
 
 ## HTML 
 
+- [JonathanFly/chirp-studio](https://github.com/JonathanFly/chirp-studio) - Audio Visualizer for Suno's Chirp website
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [technovangelist/ollama-node](https://github.com/technovangelist/ollama-node) - 
 - [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
@@ -746,6 +747,7 @@
 
 ## JavaScript 
 
+- [diffus3/ComfyUI-extensions](https://github.com/diffus3/ComfyUI-extensions) - 
 - [huchenlei/sd-webui-api-payload-display](https://github.com/huchenlei/sd-webui-api-payload-display) - Display the corresponding API payload after each generation on WebUI
 - [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
 - [coolvision/awf](https://github.com/coolvision/awf) - 
@@ -2359,6 +2361,9 @@
 
 ## Python 
 
+- [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
+- [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
+- [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffusion custom nodes
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [ericpesto/ai-sample-generator](https://github.com/ericpesto/ai-sample-generator) - Create .wav audio samples with text-to-sound generative AI
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
@@ -3435,6 +3440,7 @@
 
 ## Shell 
 
+- [nicolodiamante/keyave](https://github.com/nicolodiamante/keyave) - How to master your passwords using iCloud Keychain.
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [mise-plugins/mise-poetry](https://github.com/mise-plugins/mise-poetry) - Poetry plugin for the rtx version manager
@@ -3670,6 +3676,10 @@
 
 ## TypeScript 
 
+- [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS.
+- [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
+- [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
+- [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -3734,7 +3744,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [qcz/vscode-text-power-tools](https://github.com/qcz/vscode-text-power-tools) - Text Power Tools extension for VS Code
 - [Erisa/multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings
@@ -4046,7 +4056,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
 - [paulphys/spotify-next-auth-token-rotation](https://github.com/paulphys/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [matthewwong525/linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) - Host your second brain for free with Next.JS and Tailwind v3
 - [operandinc/operand-chrome-extension](https://github.com/operandinc/operand-chrome-extension) - Official chrome extension for operand.ai
 - [WebDev-Studios/notion-page-to-html](https://github.com/WebDev-Studios/notion-page-to-html) - NodeJS tool to convert public Notion pages to HTML from page ID
