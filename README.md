@@ -1897,7 +1897,7 @@
 - [AnthoPakPak/FastFinder](https://github.com/AnthoPakPak/FastFinder) - Bring up your Finder on any Space with a shortcut - Compatible with MacOS (confirmed up to Ventura). TotalFinder Visor replacement
 - [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [TalkingData/YourView](https://github.com/TalkingData/YourView) - YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
-- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [LiveEnhancementSuite/LESforMacOS](https://github.com/LiveEnhancementSuite/LESforMacOS) - Ableton Live, supercharged (on macOS)
 - [IGRSoft/LockMeNow](https://github.com/IGRSoft/LockMeNow) - Lock your mac
 - [charlieroberts/midiStroke](https://github.com/charlieroberts/midiStroke) - MIDI to Keystroke Macro convertor for OS X
@@ -2361,6 +2361,9 @@
 
 ## Python 
 
+- [hubertsiuzdak/snac](https://github.com/hubertsiuzdak/snac) - Multi-Scale Neural Audio Codec (SNAC) compresses audio into discrete codes at a low bitrate
+- [oobabooga/llm-tools](https://github.com/oobabooga/llm-tools) - Various scripts for working with local LLMs
+- [simonw/ttok](https://github.com/simonw/ttok) - Count and truncate text based on tokens
 - [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
 - [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes
@@ -4077,7 +4080,7 @@
 - [zckly/create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - TypeScript `tsconfig.json` parser & paths resolver
-- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
+- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [NodeSecure/npm-registry-sdk](https://github.com/NodeSecure/npm-registry-sdk) - Node.js SDK to fetch data from the npm API.
 - [privatenumber/generate-batched-pr-manifest](https://github.com/privatenumber/generate-batched-pr-manifest) - Generate a manifest of all the PRs included in a batched PR
 - [privatenumber/snap-tweet](https://github.com/privatenumber/snap-tweet) - Snap a screenshot of a tweet 📸
