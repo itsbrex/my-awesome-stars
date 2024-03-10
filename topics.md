@@ -805,6 +805,7 @@
 
 ## bash 
 
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
@@ -1523,6 +1524,7 @@
 
 ## deep-learning 
 
+- [hubertsiuzdak/snac](https://github.com/hubertsiuzdak/snac) - Multi-Scale Neural Audio Codec (SNAC) compresses audio into discrete codes at a low bitrate
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [siddsax/XML-CNN](https://github.com/siddsax/XML-CNN) - Pytorch implementation of the paper Deep learning for extreme multi-label text classification
 - [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
@@ -2656,7 +2658,7 @@
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
-- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
+- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [maximecb/noisecraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis.
 - [foobar404/wave.js](https://github.com/foobar404/wave.js) - Audio visualizer library for javascript. Create dynamic animations that react to an audio file or audio stream.
 - [preziotte/party-mode](https://github.com/preziotte/party-mode) - An experimental music visualizer using d3.js and the web audio api.
@@ -3201,7 +3203,7 @@
 - [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [LiveEnhancementSuite/LESforMacOS](https://github.com/LiveEnhancementSuite/LESforMacOS) - Ableton Live, supercharged (on macOS)
 - [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It) - A macOS GUI for youtube-dl
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
@@ -3923,7 +3925,7 @@
 - [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://bit.ly/n-install | bash
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
-- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
+- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -4035,7 +4037,7 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [krevis/MIDIApps](https://github.com/krevis/MIDIApps) - MIDI apps for Mac OS X: MIDI Monitor and SysEx Librarian.
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [rahulsend89/Shortcut](https://github.com/rahulsend89/Shortcut) - Mac Shotcut Application
@@ -4103,6 +4105,16 @@
 
 ## others 
 
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [alajmo/dashgrid](https://github.com/alajmo/dashgrid) - :honeybee: A pure javascript high performance grid
+- [MusicLang/musiclang](https://github.com/MusicLang/musiclang) - 
+- [MusicLang/musiclang_predict](https://github.com/MusicLang/musiclang_predict) - AI Prediction api of the MusicLang package
+- [oobabooga/llm-tools](https://github.com/oobabooga/llm-tools) - Various scripts for working with local LLMs
+- [simonw/ttok](https://github.com/simonw/ttok) - Count and truncate text based on tokens
 - [benvan/sandboxd](https://github.com/benvan/sandboxd) - speeds up your bashrc by running (slow) setup commands on the fly
 - [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
 - [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
@@ -5649,7 +5661,6 @@
 - [mathix420/notion-charts](https://github.com/mathix420/notion-charts) - Create stunning charts for your notion.so databases
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [MerkulovDaniil/NotoCourse](https://github.com/MerkulovDaniil/NotoCourse) - This template could be used for deploying your course from notion to github pages with custom domain in a minutes.
-- [arnaudjnn/notion-starter](https://github.com/arnaudjnn/notion-starter) - Blog starter template with Notion as a Healdess
 - [core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow) - Alfred Workflow to update apps via MacUpdater
 - [byteknacker/unichat](https://github.com/byteknacker/unichat) - Connect Slack with WeChat, and even with Line in the future!
 - [GaaraZhu/unichat](https://github.com/GaaraZhu/unichat) - Connect Slack with WeChat, and even with Line in the future!
@@ -6477,6 +6488,7 @@
 
 ## powershell 
 
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [shorwood/gptsh](https://github.com/shorwood/gptsh) - GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
@@ -6488,7 +6500,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Make pseudonymous Git commits over Tor
-- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution) - ISP Data Pollution to Protect Private Browsing History with Obfuscation
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
@@ -6547,6 +6559,7 @@
 
 ## python 
 
+- [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [ericpesto/ai-sample-generator](https://github.com/ericpesto/ai-sample-generator) - Create .wav audio samples with text-to-sound generative AI
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
@@ -6691,7 +6704,7 @@
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
@@ -7667,7 +7680,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -7843,7 +7856,7 @@
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
 - [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
 - [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - TypeScript `tsconfig.json` parser & paths resolver
-- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
+- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Next.js project starter. Configured with tailwindcss and shadcn-ui
