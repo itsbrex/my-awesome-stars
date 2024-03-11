@@ -224,7 +224,6 @@
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [c4dm/nnls-chroma](https://github.com/c4dm/nnls-chroma) - A Vamp plugin library for harmony and chord extraction.
 - [luiscript/react-native-ableton-link](https://github.com/luiscript/react-native-ableton-link) - Ableton Link for React Native
-- [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [zhlynn/zsign](https://github.com/zhlynn/zsign) - Maybe it is the most quickly codesign alternative for iOS12+,  cross-platform ( macOS, Linux , Windows ), more features.
 - [vroomai/vst](https://github.com/vroomai/vst) - 🎹 Generate sounds from words. Directly in your DAW.
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
@@ -254,7 +253,7 @@
 - [nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all) - Official supported Python bindings for llama.cpp + gpt4all
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [cedrickchee/tch-js](https://github.com/cedrickchee/tch-js) - A JavaScript and TypeScript port of PyTorch C++ library (libtorch) - Node.js N-API bindings for libtorch.
@@ -446,6 +445,7 @@
 
 ## Dart 
 
+- [anasfik/openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
 - [romikavinda/app_integrity_checker](https://github.com/romikavinda/app_integrity_checker) - Flutter plugin to verify the integrity of the app and detect if it has been tampered at run time.
 - [vishalxl/nostr_console](https://github.com/vishalxl/nostr_console) - Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
 - [adventures-in/notion_gdocs_integration](https://github.com/adventures-in/notion_gdocs_integration) - Integrating Google Docs/Slides/Sheets and Notion.
@@ -454,7 +454,6 @@
 
 ## Dockerfile 
 
-- [okio-ai/nendo-platform](https://github.com/okio-ai/nendo-platform) - Nendo is an open source platform for AI-driven audio management, intelligence, and generation.
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [lannonbr/vsce-action](https://github.com/lannonbr/vsce-action) - A GitHub Action to automate deploying VS Code extensions
 
@@ -469,6 +468,7 @@
 
 ## Go 
 
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Cloud Runtime for AI Agents
@@ -563,6 +563,8 @@
 
 ## HTML 
 
+- [Sba-Stuff/text-to-midi-flask-based-app](https://github.com/Sba-Stuff/text-to-midi-flask-based-app) - James Skripchuk's code to convert text to midi. I am going to convert this into flask based app. It uses NLTK to read files, then convert to sentences, then words and then turn those words into an awe
+- [shuntaka9576/pages-adoc-with-swagger](https://github.com/shuntaka9576/pages-adoc-with-swagger) - 
 - [JonathanFly/chirp-studio](https://github.com/JonathanFly/chirp-studio) - Audio Visualizer for Suno's Chirp website
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [technovangelist/ollama-node](https://github.com/technovangelist/ollama-node) - 
@@ -747,6 +749,10 @@
 
 ## JavaScript 
 
+- [Megus/audio-visualizer-2](https://github.com/Megus/audio-visualizer-2) - 
+- [Megus/virtual-megus](https://github.com/Megus/virtual-megus) - Virtual Megus: a generative music experiment
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+- [alajmo/dashgrid](https://github.com/alajmo/dashgrid) - :honeybee: A pure javascript high performance grid
 - [diffus3/ComfyUI-extensions](https://github.com/diffus3/ComfyUI-extensions) - 
 - [huchenlei/sd-webui-api-payload-display](https://github.com/huchenlei/sd-webui-api-payload-display) - Display the corresponding API payload after each generation on WebUI
 - [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
@@ -896,6 +902,7 @@
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [arihanv/PromptGPT-Ext](https://github.com/arihanv/PromptGPT-Ext) - 
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
+- [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [PFython/pyscript-local-runtime](https://github.com/PFython/pyscript-local-runtime) - 
 - [magenta/drumbot](https://github.com/magenta/drumbot) - Play real-time music with a machine learning drummer that drums based on your melody.
 - [rocktimsaikia/spotify-rtoken-cli](https://github.com/rocktimsaikia/spotify-rtoken-cli) - Generate Spotify refresh_token right from terminal
@@ -1688,6 +1695,8 @@
 
 ## Jupyter Notebook 
 
+- [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel
 - [sony/DiffRoll](https://github.com/sony/DiffRoll) - PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model
@@ -1825,7 +1834,7 @@
 
 ## Makefile 
 
-- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
+- [okio-ai/nendo-platform](https://github.com/okio-ai/nendo-platform) - Nendo is an open source platform for AI-driven audio management, intelligence, and generation.
 - [luiscript/NSYNC](https://github.com/luiscript/NSYNC) - Sync your animations with MIDI clock or Ableton link (with different creative tools).
 - [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
 
@@ -2036,6 +2045,7 @@
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
+- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 - [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 - [skibumstevo/FileNameShortener-AppleScript](https://github.com/skibumstevo/FileNameShortener-AppleScript) - Intelligently shortens filenames exceeding 143 characters in length (Synology exFAT eCryptfs safe)
@@ -2361,6 +2371,16 @@
 
 ## Python 
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [zelaki/DreamSound](https://github.com/zelaki/DreamSound) - Code for Investigating Personalization Methods in Text to Music Generation
+- [eigenpunk/ComfyUI-audio](https://github.com/eigenpunk/ComfyUI-audio) - some generative audio tools for ComfyUI
+- [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
+- [hf-lin/ChatMusician](https://github.com/hf-lin/ChatMusician) - 
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
+- [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
+- [MusicLang/musiclang](https://github.com/MusicLang/musiclang) - 
+- [MusicLang/musiclang_predict](https://github.com/MusicLang/musiclang_predict) - AI Prediction api of the MusicLang package
 - [hubertsiuzdak/snac](https://github.com/hubertsiuzdak/snac) - Multi-Scale Neural Audio Codec (SNAC) compresses audio into discrete codes at a low bitrate
 - [oobabooga/llm-tools](https://github.com/oobabooga/llm-tools) - Various scripts for working with local LLMs
 - [simonw/ttok](https://github.com/simonw/ttok) - Count and truncate text based on tokens
@@ -2515,7 +2535,7 @@
 - [Kevin0z0/Python_NetEaseMusicAPI](https://github.com/Kevin0z0/Python_NetEaseMusicAPI) - Python版的网易云音乐API，基于django3.0搭建
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [xlang-ai/instructor-embedding](https://github.com/xlang-ai/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
-- [audiomuze/tagminder](https://github.com/audiomuze/tagminder) - Import/Export tag metadata to/from audio files and a dynamically created SQLite table.  Automates tag cleanup, enrichment and standardisation for your digital audio library at scale using pre-scripted
+- [audiomuze/tagminder](https://github.com/audiomuze/tagminder) - Import/Export tag metadata to/from audio files and a dynamically created SQLite table.  Automates incremental tag cleanup, enrichment and standardisation for your digital audio library at scale using 
 - [bcollazo/dejavu](https://github.com/bcollazo/dejavu) - Audio fingerprinting and recognition in Python
 - [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) - Mustango: Toward Controllable Text-to-Music Generation
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
@@ -3443,6 +3463,7 @@
 
 ## Shell 
 
+- [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) - Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [benvan/sandboxd](https://github.com/benvan/sandboxd) - speeds up your bashrc by running (slow) setup commands on the fly
 - [nicolodiamante/keyave](https://github.com/nicolodiamante/keyave) - How to master your passwords using iCloud Keychain.
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
@@ -3680,6 +3701,7 @@
 
 ## TypeScript 
 
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS.
 - [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
@@ -4450,7 +4472,6 @@
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [tamu-datathon-org/portal](https://github.com/tamu-datathon-org/portal) - Shows activities and events for TAMU Datathon
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
-- [arnaudjnn/notion-starter](https://github.com/arnaudjnn/notion-starter) - Blog starter template with Notion as a Healdess
 - [ShravanSunder/evergreenNotesNotion](https://github.com/ShravanSunder/evergreenNotesNotion) - Chrome extension for notion
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
