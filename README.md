@@ -1983,6 +1983,7 @@
 
 ## Others 
 
+- [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [GiantSteps/drum-pattern-datasets](https://github.com/GiantSteps/drum-pattern-datasets) - This repository holds datasets of polyphonic drum patterns used in the creation of Electronic Dance Music.
 - [GiantSteps/simple-song-maker](https://github.com/GiantSteps/simple-song-maker) - (pop song generator in pd)
 - [conduktor/conduktor-platform](https://github.com/conduktor/conduktor-platform) - Streamline Apache Kafka with Conduktor Platform. 🚀
@@ -2382,6 +2383,9 @@
 
 ## Python 
 
+- [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models, arxiv 2023 / CVPR 2024
+- [diontimmer/Sample-Diffusion-ComfyUI-Extension](https://github.com/diontimmer/Sample-Diffusion-ComfyUI-Extension) - Generate audio using ComfyUI and dance diffusion models.
+- [Stanford-TML/EDGE](https://github.com/Stanford-TML/EDGE) - Official PyTorch Implementation of EDGE (CVPR 2023)
 - [Ableton/maxdevtools](https://github.com/Ableton/maxdevtools) - 
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [steveefemsc/Flask-AppBuilder](https://github.com/steveefemsc/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
@@ -3661,7 +3665,7 @@
 - [mattt/OpenAI](https://github.com/mattt/OpenAI) - A Swift client for the OpenAI API.
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
 - [mhamilt/Audio-Unit-V3-Templates](https://github.com/mhamilt/Audio-Unit-V3-Templates) - A collection of templates for creating Audio Unit V3 in Xcode
-- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
+- [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
@@ -3722,6 +3726,7 @@
 
 ## TypeScript 
 
+- [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
 - [cezaraugusto/babel-preset-modern-browser-extension](https://github.com/cezaraugusto/babel-preset-modern-browser-extension) - Babel preset used for creating browser extensions. Supports React and TypeScript.
 - [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - 🧩 Create cross-browser extensions with no build configuration.
 - [steveefemsc/twinny](https://github.com/steveefemsc/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
@@ -3810,7 +3815,7 @@
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [pd4d10/debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app
 - [p32929/fjsondb](https://github.com/p32929/fjsondb) - A fast and simple JSON database for NodeJS
-- [p32929/electron-forge-typescript](https://github.com/p32929/electron-forge-typescript) - electron forge + react + typescript + tailwindcss + shadcn + usm
+- [p32929/electron-shadcn-typescript](https://github.com/p32929/electron-shadcn-typescript) - electron + react + typescript + tailwindcss + shadcn
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) - A free soundboard that looks beautiful and works
 - [Africademy/nj-temp-sass-ui-pro](https://github.com/Africademy/nj-temp-sass-ui-pro) - 
 - [tablesandwaves/tblswvs.app](https://github.com/tablesandwaves/tblswvs.app) - A Tables & Waves controller app
@@ -3916,7 +3921,7 @@
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 Run AI-agents with an API
+- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
 - [UnJavaScripter/web-midi-basics](https://github.com/UnJavaScripter/web-midi-basics) - A Web MIDI basic example
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -4318,7 +4323,7 @@
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [ottomated/openapi-typescript](https://github.com/ottomated/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [ottomated/noft](https://github.com/ottomated/noft) - Chrome extension to block NFT profiles on Twitter
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [mattcroat/digital-garden](https://github.com/mattcroat/digital-garden) - :seedling: Digital garden using Next.js and MDX
