@@ -458,7 +458,7 @@
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [Microwawe/mamba-ui](https://github.com/Microwawe/mamba-ui) - Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
@@ -2475,7 +2475,7 @@
 - [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
 - [awssat/tailwindo](https://github.com/awssat/tailwindo) - 🔌  Convert Bootstrap CSS code to Tailwind CSS code
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [neg4n/next-api-og-image](https://github.com/neg4n/next-api-og-image) - :bowtie: Easy way to generate open-graph images dynamically  in HTML or React using Next.js API Routes. Suitable for serverless environment.
 - [VLabStudio/Tutorials](https://github.com/VLabStudio/Tutorials) - All of the smaller projects I have done in tutorials / project files
@@ -2723,7 +2723,7 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -3983,7 +3983,7 @@
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [shorwood/gptsh](https://github.com/shorwood/gptsh) - GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [saurabhdaware/projectman](https://github.com/saurabhdaware/projectman) - ProjectMan is a command line tool to easily save/open your favorite projects right from command line. `pm add` to add projects and `pm open` to open them from anywhere you want🦸
@@ -7093,7 +7093,7 @@
 - [huv1k/nextjs-auth-prisma](https://github.com/huv1k/nextjs-auth-prisma) - Full-stack boilerplate template.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [abstractalgo/react-browser-extension](https://github.com/abstractalgo/react-browser-extension) - starter repo for building web browser extensions (MV3) with React v18 and Typescript
 - [christiangenco/react-tailwind-chrome-extension](https://github.com/christiangenco/react-tailwind-chrome-extension) - Chrome extension to automatically translate Tailwind UI HTML to React-friendly JSX.
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
@@ -7640,6 +7640,7 @@
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit x Tailwind CSS x Storybook x Nhost x Turborepo (pnpm)
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
@@ -7984,7 +7985,7 @@
 - [bkper/clasp-types](https://github.com/bkper/clasp-types) - A d.ts generator for clasp projects
 - [transitive-bullshit/functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [huv1k/nextjs-auth-prisma](https://github.com/huv1k/nextjs-auth-prisma) - Full-stack boilerplate template.
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [abstractalgo/react-browser-extension](https://github.com/abstractalgo/react-browser-extension) - starter repo for building web browser extensions (MV3) with React v18 and Typescript
@@ -8126,7 +8127,7 @@
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
@@ -8188,7 +8189,7 @@
 - [peterpeterparker/stylo](https://github.com/peterpeterparker/stylo) - Another kind of rich text editor
 - [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 
 ## web-development 
 
