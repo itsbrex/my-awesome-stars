@@ -4323,7 +4323,7 @@
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [ottomated/openapi-typescript](https://github.com/ottomated/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [ottomated/noft](https://github.com/ottomated/noft) - Chrome extension to block NFT profiles on Twitter
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface.
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [mattcroat/digital-garden](https://github.com/mattcroat/digital-garden) - :seedling: Digital garden using Next.js and MDX
