@@ -39,6 +39,7 @@
 - [Less](#less)
 - [Liquid](#liquid)
 - [Lua](#lua)
+- [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
@@ -191,6 +192,7 @@
 
 ## C++ 
 
+- [StrangeLoopsAudio/gRainbow](https://github.com/StrangeLoopsAudio/gRainbow) - A synthesizer that uses pitch detection to choose candidates for granular synthesis or sampling.
 - [atom/node-keytar](https://github.com/atom/node-keytar) - Native Password Node Module
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
@@ -1829,6 +1831,10 @@
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [mpeterv/luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
 
+## MATLAB 
+
+- [HackAudio/textbookcode](https://github.com/HackAudio/textbookcode) - Code from Hack Audio Textbook
+
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -2385,6 +2391,8 @@
 
 ## Python 
 
+- [oxygen-dioxide/dvfile](https://github.com/oxygen-dioxide/dvfile) - A python library for reading and writing deepvocal dv file
+- [avaer/sam-blip2](https://github.com/avaer/sam-blip2) - 
 - [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models, arxiv 2023 / CVPR 2024
 - [diontimmer/Sample-Diffusion-ComfyUI-Extension](https://github.com/diontimmer/Sample-Diffusion-ComfyUI-Extension) - Generate audio using ComfyUI and dance diffusion models.
 - [Stanford-TML/EDGE](https://github.com/Stanford-TML/EDGE) - Official PyTorch Implementation of EDGE (CVPR 2023)
@@ -2476,7 +2484,7 @@
 - [goodtimes-code/osc2laser](https://github.com/goodtimes-code/osc2laser) - Create stunning lasershows by live control or timeline automation using OSC messages
 - [vaibhavnayel/Audio-to-MIDI-converter](https://github.com/vaibhavnayel/Audio-to-MIDI-converter) - Program to detect pitch from wav files and write in time quantized MIDI
 - [svsdval/video2midi](https://github.com/svsdval/video2midi) - youtube synthesia video to midi
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent evals and observability
+- [AgentOps-AI/agentops-py](https://github.com/AgentOps-AI/agentops-py) - Python SDK for agent evals and observability
 - [kevinpiac/hookify](https://github.com/kevinpiac/hookify) - Python script that automatically generates hook functions for given objc Header.h file. Ideal for reverse engineering iOS apps.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [banjtheman/chataws](https://github.com/banjtheman/chataws) - A ChatGPT plugin that allows users to create websites and Lambda functions using ChatGPT
@@ -2788,7 +2796,7 @@
 - [AetherSonata/GPTmidi-UI](https://github.com/AetherSonata/GPTmidi-UI) - simple UI for generating midi through ChatGPT and other LLMs
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming
 - [SwayamSahoo11742/Scopul](https://github.com/SwayamSahoo11742/Scopul) - A python package to extract information from MIDI files
 - [johnnygreco/midiGPT](https://github.com/johnnygreco/midiGPT) - 🎹 midiGPT: a decoder-only transformer model for music generation
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
@@ -3729,6 +3737,10 @@
 
 ## TypeScript 
 
+- [KTVAnywhere/KTVAnywhere](https://github.com/KTVAnywhere/KTVAnywhere) - NUS SOC Orbital 2022 project, Tan Ming Wei and Yew Wei Quan
+- [NicolasPois01/ShapeSymphony](https://github.com/NicolasPois01/ShapeSymphony) - 
+- [caleb-sideras/MusicGPT](https://github.com/caleb-sideras/MusicGPT) - Discuss various technical aspects about a song w/ MusicGPT Pro & Lite.
+- [jjeangal/ETHDenver-InTheLoop](https://github.com/jjeangal/ETHDenver-InTheLoop) - 
 - [dotansimha/graphql-code-generator-community](https://github.com/dotansimha/graphql-code-generator-community) - 
 - [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
 - [cezaraugusto/babel-preset-modern-browser-extension](https://github.com/cezaraugusto/babel-preset-modern-browser-extension) - Babel preset used for creating browser extensions. Supports React and TypeScript.
