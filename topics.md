@@ -271,7 +271,7 @@
 - [JepriCreations/commitollama](https://github.com/JepriCreations/commitollama) - AI Commits with ollama VS Extension.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent evals and observability
+- [AgentOps-AI/agentops-py](https://github.com/AgentOps-AI/agentops-py) - Python SDK for agent evals and observability
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
@@ -952,7 +952,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [gajosu/chat-gpt-rest-api](https://github.com/gajosu/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
-- [kimtth/azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
@@ -2308,7 +2307,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
@@ -3374,6 +3373,7 @@
 
 ## music 
 
+- [oxygen-dioxide/dvfile](https://github.com/oxygen-dioxide/dvfile) - A python library for reading and writing deepvocal dv file
 - [Megus/virtual-megus](https://github.com/Megus/virtual-megus) - Virtual Megus: a generative music experiment
 - [ericpesto/ai-sample-generator](https://github.com/ericpesto/ai-sample-generator) - Create .wav audio samples with text-to-sound generative AI
 - [gusper/SongTxt-vscode](https://github.com/gusper/SongTxt-vscode) - Visual Studio Code extension that adds support for editing text files for songs including lyrics, chords, guitar tablature, etc.
@@ -4138,6 +4138,13 @@
 
 ## others 
 
+- [StrangeLoopsAudio/gRainbow](https://github.com/StrangeLoopsAudio/gRainbow) - A synthesizer that uses pitch detection to choose candidates for granular synthesis or sampling.
+- [KTVAnywhere/KTVAnywhere](https://github.com/KTVAnywhere/KTVAnywhere) - NUS SOC Orbital 2022 project, Tan Ming Wei and Yew Wei Quan
+- [HackAudio/textbookcode](https://github.com/HackAudio/textbookcode) - Code from Hack Audio Textbook
+- [NicolasPois01/ShapeSymphony](https://github.com/NicolasPois01/ShapeSymphony) - 
+- [caleb-sideras/MusicGPT](https://github.com/caleb-sideras/MusicGPT) - Discuss various technical aspects about a song w/ MusicGPT Pro & Lite.
+- [avaer/sam-blip2](https://github.com/avaer/sam-blip2) - 
+- [jjeangal/ETHDenver-InTheLoop](https://github.com/jjeangal/ETHDenver-InTheLoop) - 
 - [dotansimha/graphql-code-generator-community](https://github.com/dotansimha/graphql-code-generator-community) - 
 - [mutoo/webpack-sourcemap-unpacker](https://github.com/mutoo/webpack-sourcemap-unpacker) - Unpack the sourcemaps generated by Webpack to a project folder
 - [tehryanx/sourcemapper](https://github.com/tehryanx/sourcemapper) - Reconstruct javascript from a sourcemap in bash
@@ -6623,6 +6630,7 @@
 
 ## python 
 
+- [oxygen-dioxide/dvfile](https://github.com/oxygen-dioxide/dvfile) - A python library for reading and writing deepvocal dv file
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [Sba-Stuff/text-to-midi-flask-based-app](https://github.com/Sba-Stuff/text-to-midi-flask-based-app) - James Skripchuk's code to convert text to midi. I am going to convert this into flask based app. It uses NLTK to read files, then convert to sentences, then words and then turn those words into an awe
 - [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
