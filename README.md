@@ -767,7 +767,7 @@
 - [huchenlei/sd-webui-api-payload-display](https://github.com/huchenlei/sd-webui-api-payload-display) - Display the corresponding API payload after each generation on WebUI
 - [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
 - [coolvision/awf](https://github.com/coolvision/awf) - 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
 - [joeferner/node-bplist-creator](https://github.com/joeferner/node-bplist-creator) - Binary Mac OS X Plist (property list) creator.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
@@ -2029,7 +2029,6 @@
 - [dritter/agnoster-like-themes](https://github.com/dritter/agnoster-like-themes) - A small collection of agnoster-like ZSH-Themes
 - [MartinEesmaa/awesome-compopt](https://github.com/MartinEesmaa/awesome-compopt) - A list of the awesome archive compressor and optimizer programs.
 - [daveshap/Open_MURPHIE](https://github.com/daveshap/Open_MURPHIE) - Multi Use Robot Platform Humanoid Intelligent Entity
-- [DmitryRyumin/ICASSP-2023-Papers](https://github.com/DmitryRyumin/ICASSP-2023-Papers) - ICASSP 2023 Papers: A complete collection of influential and exciting research papers from the ICASSP 2023 conference. Explore the latest advancements in acoustics, speech and signal processing. Code 
 - [DivMagicCom/DivMagic](https://github.com/DivMagicCom/DivMagic) - Copy design from any website as CSS or Tailwind CSS components
 - [Yuan-ManX/ai-audio-datasets](https://github.com/Yuan-ManX/ai-audio-datasets) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -2039,6 +2038,7 @@
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [magic-research/magic-avatar](https://github.com/magic-research/magic-avatar) - MagicAvatar: Multimodal Avatar Generation and Animation
 - [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -2601,6 +2601,7 @@
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
 - [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - [DEPRECIATED] Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
+- [DmitryRyumin/ICASSP-2023-24-Papers](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) - ICASSP 2023-2024 Papers: A complete collection of influential and exciting research papers from the ICASSP 2023-24 conferences. Explore the latest advancements in acoustics, speech and signal processi
 - [yxlllc/pc-ddsp](https://github.com/yxlllc/pc-ddsp) - Pitch Controllable DDSP Vocoders
 - [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing)
 - [Dream-High/RMVPE](https://github.com/Dream-High/RMVPE) - 
@@ -2901,7 +2902,7 @@
 - [ideoforms/pylive](https://github.com/ideoforms/pylive) - Query and control Ableton Live from Python
 - [CoryWBoris/AbletonAutoColor](https://github.com/CoryWBoris/AbletonAutoColor) - Automatic Color Assignment Based On Name In Ableton Live
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [BlaCkinkGJ/catch-me-if-you-can](https://github.com/BlaCkinkGJ/catch-me-if-you-can) - plagiarism detector
@@ -3515,7 +3516,6 @@
 - [f2l2pe/JetBrainsMonoSlashed](https://github.com/f2l2pe/JetBrainsMonoSlashed) - JetBrains Mono Slashed – the free and open-source typeface for developers, now with slashed zero
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ProfessorManhattan/prettier-config-sexy-mode](https://github.com/ProfessorManhattan/prettier-config-sexy-mode) - Simplifies configuring Prettier by bundling plugins and configuring them in a single shareable configuration
 - [TheSoundOfAIOSR/project_common](https://github.com/TheSoundOfAIOSR/project_common) - Common environment for all groups to connect to other groups with a relative path
 - [davidfstr/Python-in-Mac-App-Store](https://github.com/davidfstr/Python-in-Mac-App-Store) - Barebones Python app that can be submitted to the Mac App Store.
@@ -3877,7 +3877,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
 - [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
 - [iansimon/magenta-js](https://github.com/iansimon/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -4095,7 +4095,7 @@
 - [xiaoluoboding/chrome-ext-mv3-starter](https://github.com/xiaoluoboding/chrome-ext-mv3-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [vercel-labs/edge-data-latency](https://github.com/vercel-labs/edge-data-latency) - Visualize the latency of databases at the Edge.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A simple library to build RAG + Reasoning + Function calling Agents + LLM Proxy + Tracing + Logging
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS library based on the Stanford DSP paper. Create and compose efficient prompts using prompt signatures. Reasoning + Function Calling, RAG and more.
 - [simpel/little-template-maker](https://github.com/simpel/little-template-maker) - 
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
