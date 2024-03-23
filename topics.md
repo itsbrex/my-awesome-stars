@@ -271,7 +271,7 @@
 - [JepriCreations/commitollama](https://github.com/JepriCreations/commitollama) - AI Commits with ollama VS Extension.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [AgentOps-AI/agentops-py](https://github.com/AgentOps-AI/agentops-py) - Python SDK for agent evals and observability
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent evals and observability
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
@@ -362,7 +362,7 @@
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,400 downloads.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
-- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS library based on the Stanford DSP paper. Create and compose efficient prompts using prompt signatures. Reasoning + Function Calling, RAG and more.
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question
 - [benf2004/AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -2596,7 +2596,7 @@
 - [safdar-azeem/auto-commit-master](https://github.com/safdar-azeem/auto-commit-master) - Generate commit messages automatically
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
-- [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - :tv: Extract the YouTube video ID from a string or URL.
+- [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - 📺 Extract the YouTube video ID from a string or URL.
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
 - [RouninMedia/Obfuscate-Deobfuscate](https://github.com/RouninMedia/Obfuscate-Deobfuscate) - A simple obfuscation which works both server-side in PHP and client-side in Javascript
 - [iyarivky/debash](https://github.com/iyarivky/debash) - DeBash is a online tool that aims to deobfuscate bash scripts using JavaScript
@@ -2666,7 +2666,7 @@
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS library based on the Stanford DSP paper. Create and compose efficient prompts using prompt signatures. Reasoning + Function Calling, RAG and more.
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 - [aholachek/bundle-wizard](https://github.com/aholachek/bundle-wizard) - Magically easy insight into the JavaScript loaded by a web app
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
@@ -3370,6 +3370,8 @@
 
 ## music 
 
+- [SuperKogito/spafe](https://github.com/SuperKogito/spafe) - :sound: spafe: Simplified Python Audio Features Extraction
+- [AldaronLau/twang](https://github.com/AldaronLau/twang) - Library for pure Rust advanced audio synthesis.
 - [oxygen-dioxide/dvfile](https://github.com/oxygen-dioxide/dvfile) - A python library for reading and writing deepvocal dv file
 - [Megus/virtual-megus](https://github.com/Megus/virtual-megus) - Virtual Megus: a generative music experiment
 - [ericpesto/ai-sample-generator](https://github.com/ericpesto/ai-sample-generator) - Create .wav audio samples with text-to-sound generative AI
@@ -3949,7 +3951,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS library based on the Stanford DSP paper. Create and compose efficient prompts using prompt signatures. Reasoning + Function Calling, RAG and more.
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://bit.ly/n-install | bash
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -4034,7 +4036,7 @@
 ## npm 
 
 - [strdr4605/symlink-config](https://github.com/strdr4605/symlink-config) - A tool to symlink your project config files to root
-- [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - :tv: Extract the YouTube video ID from a string or URL.
+- [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - 📺 Extract the YouTube video ID from a string or URL.
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - 📝 HTML to React parser.
@@ -4135,6 +4137,15 @@
 
 ## others 
 
+- [ryanschiang/claude-export](https://github.com/ryanschiang/claude-export) - Browser script to share and export Anthropic Claude chat logs to Markdown, JSON, or as Image (PNG)
+- [artseyio/artsey](https://github.com/artseyio/artsey) - Website and general info files that are available online. This is mostly documentation and information related to artsey
+- [eefano/strudel-songs-collection](https://github.com/eefano/strudel-songs-collection) - Songs created with Strudel, the live coding music tool
+- [felixroos/rhythmical](https://github.com/felixroos/rhythmical) - a language to parse and manipulate musical rhythms with javascript
+- [progressive-instruments/phrasa](https://github.com/progressive-instruments/phrasa) - A Language for Making Music
+- [amsehili/auditok](https://github.com/amsehili/auditok) - An audio/acoustic activity detection and audio segmentation tool
+- [ambv/aiotone](https://github.com/ambv/aiotone) - A demo of using AsyncIO for music sequencing
+- [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [SakanaAI/evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge) - Official repository of Evolutionary Optimization of Model Merging Recipes
 - [e-lie/renardo](https://github.com/e-lie/renardo) - Livecoding music with simple Python code (Modernized FoxDot Fork)
 - [StrangeLoopsAudio/gRainbow](https://github.com/StrangeLoopsAudio/gRainbow) - A synthesizer that uses pitch detection to choose candidates for granular synthesis or sampling.
@@ -6629,6 +6640,7 @@
 
 ## python 
 
+- [SuperKogito/spafe](https://github.com/SuperKogito/spafe) - :sound: spafe: Simplified Python Audio Features Extraction
 - [oxygen-dioxide/dvfile](https://github.com/oxygen-dioxide/dvfile) - A python library for reading and writing deepvocal dv file
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [Sba-Stuff/text-to-midi-flask-based-app](https://github.com/Sba-Stuff/text-to-midi-flask-based-app) - James Skripchuk's code to convert text to midi. I am going to convert this into flask based app. It uses NLTK to read files, then convert to sentences, then words and then turn those words into an awe
@@ -7912,7 +7924,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS library based on the Stanford DSP paper. Create and compose efficient prompts using prompt signatures. Reasoning + Function Calling, RAG and more.
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
