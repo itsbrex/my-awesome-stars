@@ -42,6 +42,7 @@
 - [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Max](#max)
 - [Mustache](#mustache)
@@ -471,6 +472,7 @@
 
 ## Go 
 
+- [saucam/airflow-runner](https://github.com/saucam/airflow-runner) - 
 - [steveefemsc/traefik](https://github.com/steveefemsc/traefik) - The Cloud Native Application Proxy
 - [steveefemsc/cert-manager](https://github.com/steveefemsc/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
@@ -1706,6 +1708,7 @@
 
 ## Jupyter Notebook 
 
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
@@ -1854,6 +1857,10 @@
 - [okio-ai/nendo-platform](https://github.com/okio-ai/nendo-platform) - Nendo is an open source platform for AI-driven audio management, intelligence, and generation.
 - [luiscript/NSYNC](https://github.com/luiscript/NSYNC) - Sync your animations with MIDI clock or Ableton link (with different creative tools).
 - [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
+
+## Markdown 
+
+- [gokayfem/awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures) - Famous Vision Language Models and Their Architectures
 
 ## Mathematica 
 
@@ -2411,7 +2418,6 @@
 - [steveefemsc/Flask-AppBuilder](https://github.com/steveefemsc/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - DeepSeek-VL: Towards Real-World Vision-Language Understanding
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
-- [gokayfem/awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures) - Famous Vision Language Models and Their Architectures
 - [gokayfem/ComfyUI_VLM_nodes](https://github.com/gokayfem/ComfyUI_VLM_nodes) - Custom ComfyUI nodes for Vision Language Models, Large Language Models, Image to Music, Text to Music, Consistent and Random Creative Prompt Generation
 - [Skuldur/Classical-Piano-Composer](https://github.com/Skuldur/Classical-Piano-Composer) - 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
@@ -3651,6 +3657,7 @@
 
 ## Swift 
 
+- [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [0xdevalias/reminders-cli](https://github.com/0xdevalias/reminders-cli) - A simple CLI for interacting with macOS reminders
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
@@ -3914,8 +3921,8 @@
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
-- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - Incremental Turborepo Starter and CMS ▲ Next.js 14, Tauri Apps UI, Solito Expo ▲ i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Auth, Lucide CSS Radix UI, Responsive React Server, TS OR
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ⭐ Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS
+- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏗️ Incremental Turborepo Starter and CMS ▲ Next.js 14, Tauri Apps UI, Solito Expo ▲ i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Auth, Lucide CSS Radix UI, Responsive React Server, TS
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [johnpolacek/date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison
