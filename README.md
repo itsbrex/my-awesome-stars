@@ -45,6 +45,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Max](#max)
+- [Mojo](#mojo)
 - [Mustache](#mustache)
 - [NewLisp](#newlisp)
 - [OCaml](#ocaml)
@@ -966,7 +967,6 @@
 - [steven-tey/nextjs-boilerplate-69](https://github.com/steven-tey/nextjs-boilerplate-69) - 
 - [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
 - [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
-- [editor-syntax/gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use
 - [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
 - [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
 - [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
@@ -1900,6 +1900,10 @@
 - [cskonopka/GBE](https://github.com/cskonopka/GBE) - generative breakpoint envelope for Ableton & MaxMSP
 - [victor-shepardson/feedbacker](https://github.com/victor-shepardson/feedbacker) - a max for live software instrument/effect
 
+## Mojo 
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## Mustache 
 
 - [steveefemsc/swagger-codegen](https://github.com/steveefemsc/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -2002,6 +2006,7 @@
 
 ## Others 
 
+- [jxzhangjhu/Awesome-LLM-Prompt-Optimization](https://github.com/jxzhangjhu/Awesome-LLM-Prompt-Optimization) - Awesome-LLM-Prompt-Optimization: a curated list of advanced prompt optimization and tuning methods in Large Language Models
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [GiantSteps/drum-pattern-datasets](https://github.com/GiantSteps/drum-pattern-datasets) - This repository holds datasets of polyphonic drum patterns used in the creation of Electronic Dance Music.
 - [GiantSteps/simple-song-maker](https://github.com/GiantSteps/simple-song-maker) - (pop song generator in pd)
@@ -2049,7 +2054,6 @@
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [magic-research/magic-avatar](https://github.com/magic-research/magic-avatar) - MagicAvatar: Multimodal Avatar Generation and Animation
 - [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -2402,6 +2406,8 @@
 
 ## Python 
 
+- [cambridgeltl/ClaPS](https://github.com/cambridgeltl/ClaPS) - Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning (Zhou et al.; EMNLP 2023 Findings)
+- [ewels/rich-codex](https://github.com/ewels/rich-codex) - Create rich code images for your docs.
 - [artseyio/artsey](https://github.com/artseyio/artsey) - Website and general info files that are available online. This is mostly documentation and information related to artsey
 - [SuperKogito/spafe](https://github.com/SuperKogito/spafe) - :sound: spafe: Simplified Python Audio Features Extraction
 - [amsehili/auditok](https://github.com/amsehili/auditok) - An audio/acoustic activity detection and audio segmentation tool
@@ -2954,7 +2960,6 @@
 - [baguettemusique/ableton_user_actions](https://github.com/baguettemusique/ableton_user_actions) - This is my ExampleActions.py file where I develop User Actions for ClyphXPro with Ableton 10
 - [NikkDusky/ableton-11-discord-presence](https://github.com/NikkDusky/ableton-11-discord-presence) - Ableton Live Suite 11 Discord Presence
 - [ntn98/AbletonLiveAutoExporter](https://github.com/ntn98/AbletonLiveAutoExporter) - A simple python script that allows you to export multiple Abeton Live sets automatically
-- [hamoid/ableton-live-preset-report](https://github.com/hamoid/ableton-live-preset-report) - A python script that prints out details from preset files
 - [valsteen/ableton_log](https://github.com/valsteen/ableton_log) - Proof of concept to generate release notes from different versions of ableton projects
 - [hamiltonkibbe/PyAbleton](https://github.com/hamiltonkibbe/PyAbleton) - A Python Library for creating and editing Ableton Live instrument patches
 - [shamharoth/AbletonPushColours](https://github.com/shamharoth/AbletonPushColours) - Modified Push Scripts for Hooktheory Colour Coding
@@ -3434,7 +3439,7 @@
 - [B0ney/xmodits-py](https://github.com/B0ney/xmodits-py) - xmodits python library
 - [magnusrodseth/gpt-feeder](https://github.com/magnusrodseth/gpt-feeder) - 🦀 A command-line application that scans the entire codebase, and produces one string consisting of all filenames and file contents that you want included.
 - [blankenshipz/clerk](https://github.com/blankenshipz/clerk) - LLM based file organizer
-- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust
+- [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [mmckegg/rust-loop-drop](https://github.com/mmckegg/rust-loop-drop) - [WIP] Midi-only version of Loop Drop for running on low power machines like Raspberry Pi and Beaglebone
 - [alexrodi/rust-midi-synth](https://github.com/alexrodi/rust-midi-synth) - A command-line midi synth in Rust
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) - Rust - Augmented Audio Libraries
@@ -4048,7 +4053,7 @@
 - [steven-tey/extrapolate](https://github.com/steven-tey/extrapolate) - Age transformation AI app powered by Next.js, Vercel, Replicate, Upstash, and Cloudflare R2 + Workers.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by the newest LLMs. Bundling AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art LLMs. Bundling AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
 - [opensouls/soul-engine](https://github.com/opensouls/soul-engine) - The platform for creating, debugging, and deploying AI souls
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
