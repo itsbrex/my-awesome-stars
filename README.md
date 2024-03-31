@@ -473,6 +473,7 @@
 
 ## Go 
 
+- [Treblle/treblle-cli](https://github.com/Treblle/treblle-cli) - 
 - [saucam/airflow-runner](https://github.com/saucam/airflow-runner) - 
 - [steveefemsc/traefik](https://github.com/steveefemsc/traefik) - The Cloud Native Application Proxy
 - [steveefemsc/cert-manager](https://github.com/steveefemsc/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -969,7 +970,6 @@
 - [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
 - [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
 - [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
-- [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript.
 - [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
@@ -1708,6 +1708,7 @@
 
 ## Jupyter Notebook 
 
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
@@ -2007,6 +2008,7 @@
 
 ## Others 
 
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [jxzhangjhu/Awesome-LLM-Prompt-Optimization](https://github.com/jxzhangjhu/Awesome-LLM-Prompt-Optimization) - Awesome-LLM-Prompt-Optimization: a curated list of advanced prompt optimization and tuning methods in Large Language Models
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [GiantSteps/drum-pattern-datasets](https://github.com/GiantSteps/drum-pattern-datasets) - This repository holds datasets of polyphonic drum patterns used in the creation of Electronic Dance Music.
@@ -2407,6 +2409,9 @@
 
 ## Python 
 
+- [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
+- [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️
+- [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [cambridgeltl/ClaPS](https://github.com/cambridgeltl/ClaPS) - Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning (Zhou et al.; EMNLP 2023 Findings)
 - [ewels/rich-codex](https://github.com/ewels/rich-codex) - Create rich code images for your docs.
 - [artseyio/artsey](https://github.com/artseyio/artsey) - Website and general info files that are available online. This is mostly documentation and information related to artsey
@@ -3453,6 +3458,7 @@
 - [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper for Ableton Link
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust.
+- [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [clintburgos/ableton-git](https://github.com/clintburgos/ableton-git) - wrapper for git that ensures the best settings for versioning Ableton Live projects
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -3761,6 +3767,7 @@
 
 ## TypeScript 
 
+- [arihanv/Shush](https://github.com/arihanv/Shush) - Shush is an app that deploys a WhisperV3 model with Flash Attention v2 on Modal and makes requests to it via a NextJS app
 - [codehz/bun_python](https://github.com/codehz/bun_python) - Ported from deno_python
 - [KTVAnywhere/KTVAnywhere](https://github.com/KTVAnywhere/KTVAnywhere) - NUS SOC Orbital 2022 project, Tan Ming Wei and Yew Wei Quan
 - [NicolasPois01/ShapeSymphony](https://github.com/NicolasPois01/ShapeSymphony) - 
@@ -3789,7 +3796,7 @@
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
-- [mathysth/bun-prisma-hono-inversify](https://github.com/mathysth/bun-prisma-hono-inversify) - startup kit for Zod OpenAPI, prisma, inversify, bun, sentry, swagger
+- [mathysth/bun-prisma-hono-inversify](https://github.com/mathysth/bun-prisma-hono-inversify) - This project has been completely rewritten and is available here: https://github.com/ae-creator/CosmosJS/tree/main
 - [AKclown/js-to-ts](https://github.com/AKclown/js-to-ts) - The vscode plugin converts  js/json/swagger/api  to typescript declaration
 - [tjx666/vscode-archive](https://github.com/tjx666/vscode-archive) - compress/decompress for .zip, .vsix, .crx(v3), .asar, .tgz, .gzip, .br, .tar
 - [CircleCI-Public/debug-gpt](https://github.com/CircleCI-Public/debug-gpt) - AI Powered Devtools Extension
