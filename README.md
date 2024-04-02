@@ -1710,7 +1710,6 @@
 ## Jupyter Notebook 
 
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
@@ -1727,6 +1726,7 @@
 - [asigalov61/Algorithmic-Accompaniment-Generator](https://github.com/asigalov61/Algorithmic-Accompaniment-Generator) - Algorithmic accompaniment generator
 - [maxfrenzel/SampleVAE](https://github.com/maxfrenzel/SampleVAE) - Multi-purpose tool for sound design and music production implemented in TensorFlow.
 - [jrgillick/imagined-lyrics](https://github.com/jrgillick/imagined-lyrics) - 
+- [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
 - [Jotade100/Wav2Chord](https://github.com/Jotade100/Wav2Chord) - CNN for chord detection
 - [emirdemirel/Chord-ScaleDetection](https://github.com/emirdemirel/Chord-ScaleDetection) - Chord-Scales Dataset created & annotated for 'automatic scale detection' task
 - [audio-is-fun/real-time-chord-detection](https://github.com/audio-is-fun/real-time-chord-detection) - Implementation of algorithm proposed in Bachelor Thesis: Design and Evaluation of a Simple Chord Detection Algorithm by Christoph Hausner.
@@ -2410,12 +2410,14 @@
 
 ## Python 
 
+- [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [lucsorel/py2puml](https://github.com/lucsorel/py2puml) - Generate PlantUML class diagrams to document your Python application.
 - [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
 - [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [cambridgeltl/ClaPS](https://github.com/cambridgeltl/ClaPS) - Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning (Zhou et al.; EMNLP 2023 Findings)
 - [ewels/rich-codex](https://github.com/ewels/rich-codex) - Create rich code images for your docs.
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [artseyio/artsey](https://github.com/artseyio/artsey) - Website and general info files that are available online. This is mostly documentation and information related to artsey
 - [SuperKogito/spafe](https://github.com/SuperKogito/spafe) - :sound: spafe: Simplified Python Audio Features Extraction
 - [amsehili/auditok](https://github.com/amsehili/auditok) - An audio/acoustic activity detection and audio segmentation tool
@@ -2588,7 +2590,7 @@
 - [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - A universal converter for singing voice projects which is cross-platform and multi-lingual
 - [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
 - [NSUSpray/LiveAPI_MakeDoc](https://github.com/NSUSpray/LiveAPI_MakeDoc) - This script generates Live API documentation in XML format, based on realtime inspection of the Live module.
-- [Banbury-inc/Athena](https://github.com/Banbury-inc/Athena) - The project covers various aspects, from machine learning advancements to decentralized file sharing, and aims to transform the accessibility and management of files while contributing to the progress
+- [Banbury-inc/NeuraNet](https://github.com/Banbury-inc/NeuraNet) - The project covers various aspects, from machine learning advancements to decentralized file sharing, and aims to transform the accessibility and management of files while contributing to the progress
 - [bmcfee/crema](https://github.com/bmcfee/crema) - convolutional and recurrent estimators for music analysis
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [dodiku/MixingBear](https://github.com/dodiku/MixingBear) - Package for automatic beat-mixing of music files in Python 🐻🎚
@@ -2629,7 +2631,6 @@
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [daveshap/YouTubeChapterGenerator](https://github.com/daveshap/YouTubeChapterGenerator) - Make YouTube Chapters from a downloaded Transcript
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
-- [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
 - [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - [DEPRECIATED] Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
 - [DmitryRyumin/ICASSP-2023-24-Papers](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) - ICASSP 2023-2024 Papers: A complete collection of influential and exciting research papers from the ICASSP 2023-24 conferences. Explore the latest advancements in acoustics, speech and signal processi
 - [yxlllc/pc-ddsp](https://github.com/yxlllc/pc-ddsp) - Pitch Controllable DDSP Vocoders
@@ -3071,7 +3072,7 @@
 - [asigalov61/Los-Angeles-Music-Composer](https://github.com/asigalov61/Los-Angeles-Music-Composer) - Local windowed attention multi-instrumental music transformer for supervised music generation
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
+- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - A command-line tool for effortlessly organizing and renaming your music files based on metadata
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -3155,7 +3156,7 @@
 - [mayankdaruka/Omelia](https://github.com/mayankdaruka/Omelia) - Chrome extension built using JavaScript and HTML/CSS that modifies a Google spreadsheet using voice commands recorded by user. Built NLP model from scratch and created Flask RESTful API utilizing Goog
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [canonical-web-and-design/csv-to-google-spreadsheet](https://github.com/canonical-web-and-design/csv-to-google-spreadsheet) - GitHub Action to import a CSV file into a Google Spreadsheet
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [Pancham1603/SpotiPyDownloader](https://github.com/Pancham1603/SpotiPyDownloader) - Downloads Spotify playlist and returns zip file as Google Drive link. Supports instant individual downloads too!
@@ -3769,6 +3770,7 @@
 
 ## TypeScript 
 
+- [warrenday/graphql-network-inspector](https://github.com/warrenday/graphql-network-inspector) - A better network inspector for viewing and debugging GraphQL requests.
 - [arihanv/Shush](https://github.com/arihanv/Shush) - Shush is an app that deploys a WhisperV3 model with Flash Attention v2 on Modal and makes requests to it via a NextJS app
 - [codehz/bun_python](https://github.com/codehz/bun_python) - Ported from deno_python
 - [KTVAnywhere/KTVAnywhere](https://github.com/KTVAnywhere/KTVAnywhere) - NUS SOC Orbital 2022 project, Tan Ming Wei and Yew Wei Quan
@@ -4297,7 +4299,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [whomwah/alfred-github-workflow](https://github.com/whomwah/alfred-github-workflow) - An Alfred 5 workflow for working with Github. Uses Deno, written in TypeScript
 - [mem-labs/mem-node](https://github.com/mem-labs/mem-node) - Official Node.js client for the Mem API
-- [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 cleye — The intuitive & typed CLI development tool for Node.js
+- [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 Strongly typed CLI development for Node.js
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
