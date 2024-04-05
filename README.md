@@ -582,7 +582,7 @@
 - [technovangelist/ollama-node](https://github.com/technovangelist/ollama-node) - 
 - [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [kristianfreeman/what-is-this-code](https://github.com/kristianfreeman/what-is-this-code) - Example project built with Cloudflare Workers and Workers AI showing how to use the codellama model with Cloudflare's AI SDK
-- [snap-research/HyperHuman](https://github.com/snap-research/HyperHuman) - Github Repo for "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion"
+- [snap-research/HyperHuman](https://github.com/snap-research/HyperHuman) - [ICLR 2024] Github Repo for "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion"
 - [Erisa/simple-r2-form](https://github.com/Erisa/simple-r2-form) - 
 - [Computational-Cognitive-Musicology-Lab/humdrumR](https://github.com/Computational-Cognitive-Musicology-Lab/humdrumR) - A toolkit for analyzing data encoded in the humdrum format.
 - [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) - Code examples that accompany the MDN Web Docs pages relating to Web Audio.
@@ -2419,6 +2419,10 @@
 
 ## Python 
 
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala: Autonomous DAta (Labeling) Agent framework
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
 - [Rainbow-Dreamer/sf2_loader](https://github.com/Rainbow-Dreamer/sf2_loader) - This is an easy-to-use soundfonts loader, player and audio renderer in python
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [lucsorel/py2puml](https://github.com/lucsorel/py2puml) - Generate PlantUML class diagrams to document your Python application.
@@ -4141,7 +4145,7 @@
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
-- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,400 downloads.
+- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [xiaoluoboding/chrome-ext-mv3-starter](https://github.com/xiaoluoboding/chrome-ext-mv3-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
@@ -4632,6 +4636,7 @@
 
 ## Vue 
 
+- [StarfleetAI/bridge](https://github.com/StarfleetAI/bridge) - 🤖 Bridge — Autonomous AI Agents IDE / Runtime: Become ×100-anyone with your own agency!
 - [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Cross-platform ChatGPTBox, supporting GPT/ DALL-E/Gemini API.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
