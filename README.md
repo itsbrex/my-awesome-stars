@@ -770,6 +770,8 @@
 
 ## JavaScript 
 
+- [umayr/magenta](https://github.com/umayr/magenta) - Generate flexible REST endpoints and controllers from Mongoose models in your Restify app
+- [dikshantrajput/skip-yt-ad](https://github.com/dikshantrajput/skip-yt-ad) - The YouTube Skipper Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your vid
 - [patrik-csak/auto-terminal-profile](https://github.com/patrik-csak/auto-terminal-profile) - 🧑‍💻 Automatic dark / light mode for macOS Terminal
 - [ryanschiang/claude-export](https://github.com/ryanschiang/claude-export) - Browser script to share and export Anthropic Claude chat logs to Markdown, JSON, or as Image (PNG)
 - [eefano/strudel-songs-collection](https://github.com/eefano/strudel-songs-collection) - Songs created with Strudel, the live coding music tool
@@ -785,7 +787,7 @@
 - [huchenlei/sd-webui-api-payload-display](https://github.com/huchenlei/sd-webui-api-payload-display) - Display the corresponding API payload after each generation on WebUI
 - [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
 - [coolvision/awf](https://github.com/coolvision/awf) - 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
 - [joeferner/node-bplist-creator](https://github.com/joeferner/node-bplist-creator) - Binary Mac OS X Plist (property list) creator.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
@@ -2428,6 +2430,7 @@
 
 ## Python 
 
+- [jljl1337/svc-toolkit](https://github.com/jljl1337/svc-toolkit) - A self-contained singing voice conversion application
 - [mikez/spotify-folders](https://github.com/mikez/spotify-folders) - Get your Spotify folder hierarchy with playlists into JSON.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
@@ -3810,6 +3813,7 @@
 
 ## TypeScript 
 
+- [PerryRylance/microtonal-cyclic-polyrhythm-generator](https://github.com/PerryRylance/microtonal-cyclic-polyrhythm-generator) - Generate polyrhythms from a scale, with support for microtonal pitches
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [2fd/xhtml](https://github.com/2fd/xhtml) - filter and sanitization command line for HTML
 - [denoland/denobyexample](https://github.com/denoland/denobyexample) - Deno by example - short examples showcasing how to use Deno
