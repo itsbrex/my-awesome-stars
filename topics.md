@@ -3687,6 +3687,7 @@
 
 ## nextjs 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [loclv/bun-monorepo](https://github.com/loclv/bun-monorepo) - bun-monorepo + Elysia.js + Next.js + React Native Expo + Drizzle ORM
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
@@ -4186,6 +4187,7 @@
 
 ## others 
 
+- [ngxson/hobby-audio-features-extractor](https://github.com/ngxson/hobby-audio-features-extractor) - 
 - [adactio/TheSession-data](https://github.com/adactio/TheSession-data) - Data dumps from thesession.org
 - [erl-j/enfusion](https://github.com/erl-j/enfusion) - 
 - [erl-j/neural-music-instrument-cloning-web-supplement](https://github.com/erl-j/neural-music-instrument-cloning-web-supplement) - 
@@ -5478,7 +5480,6 @@
 - [theianchan/base-image-scaler](https://github.com/theianchan/base-image-scaler) - SDRs put a lot of work into outbound messaging to capture the attention of prospects. What if they could... Not do that work?
 - [barrywire/next-nextui](https://github.com/barrywire/next-nextui) - A Next.js NextUI template set up for success
 - [abunaum/nextui-dashboard](https://github.com/abunaum/nextui-dashboard) - Dashboard sample using NextUI and NextJS
-- [DiiiaZoTe/dropzone-nextui](https://github.com/DiiiaZoTe/dropzone-nextui) - 
 - [mzaien/mzaien-cli](https://github.com/mzaien/mzaien-cli) - Know me via cli 😁
 - [mzaien/Next-libs](https://github.com/mzaien/Next-libs) - A template to create next.js libraries
 - [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
@@ -7086,6 +7087,7 @@
 
 ## react 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
@@ -7979,6 +7981,7 @@
 
 ## typescript 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [loclv/bun-monorepo](https://github.com/loclv/bun-monorepo) - bun-monorepo + Elysia.js + Next.js + React Native Expo + Drizzle ORM
 - [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
