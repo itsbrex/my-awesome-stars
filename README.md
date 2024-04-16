@@ -2434,6 +2434,7 @@
 
 ## Python 
 
+- [ngxson/hobby-audio-features-extractor](https://github.com/ngxson/hobby-audio-features-extractor) - 
 - [erl-j/enfusion](https://github.com/erl-j/enfusion) - 
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 - [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇
@@ -3821,6 +3822,7 @@
 
 ## TypeScript 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [PerryRylance/microtonal-cyclic-polyrhythm-generator](https://github.com/PerryRylance/microtonal-cyclic-polyrhythm-generator) - Generate polyrhythms from a scale, with support for microtonal pitches
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [2fd/xhtml](https://github.com/2fd/xhtml) - filter and sanitization command line for HTML
@@ -4386,7 +4388,6 @@
 - [sci-barite/sylph](https://github.com/sci-barite/sylph) - Sylph is a Chrome Extension that sifts data from a few popular websites, and sends it to a web app done in Google Apps Script, which in turn sends it to a Google Sheet.
 - [abunaum/nextui-dashboard](https://github.com/abunaum/nextui-dashboard) - Dashboard sample using NextUI and NextJS
 - [PatrickNiyogitare28/super-vite](https://github.com/PatrickNiyogitare28/super-vite) - ⚡ A vite react typescript boilerplate with pre-configured sass, redux-tool-kit, tailwind, eslint, prettier & jest, i18n internalization,  Dockerfile... built in cli coming soon ⚒️
-- [DiiiaZoTe/dropzone-nextui](https://github.com/DiiiaZoTe/dropzone-nextui) - 
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
