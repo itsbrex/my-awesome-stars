@@ -2030,7 +2030,6 @@
 ## Others 
 
 - [adactio/TheSession-data](https://github.com/adactio/TheSession-data) - Data dumps from thesession.org
-- [2fd/swc-plugin-allow-importing-ts-extensions](https://github.com/2fd/swc-plugin-allow-importing-ts-extensions) - SWC Plugin for allowImportingTsExtensions tsconfg
 - [liusongxiang/Large-Audio-Models](https://github.com/liusongxiang/Large-Audio-Models) - Keep track of big models in audio domain, including speech, singing, music etc.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [jxzhangjhu/Awesome-LLM-Prompt-Optimization](https://github.com/jxzhangjhu/Awesome-LLM-Prompt-Optimization) - Awesome-LLM-Prompt-Optimization: a curated list of advanced prompt optimization and tuning methods in Large Language Models
@@ -2073,7 +2072,7 @@
 - [MartinEesmaa/awesome-compopt](https://github.com/MartinEesmaa/awesome-compopt) - A list of the awesome archive compressor and optimizer programs.
 - [daveshap/Open_MURPHIE](https://github.com/daveshap/Open_MURPHIE) - Multi Use Robot Platform Humanoid Intelligent Entity
 - [DivMagicCom/DivMagic](https://github.com/DivMagicCom/DivMagic) - Copy design from any website as CSS or Tailwind CSS components
-- [Yuan-ManX/ai-audio-datasets](https://github.com/Yuan-ManX/ai-audio-datasets) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
+- [Yuan-ManX/ai-audio-datasets](https://github.com/Yuan-ManX/ai-audio-datasets) - AI Audio Datasets 🎵. A list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, 
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [affige/genmusic_demo_list](https://github.com/affige/genmusic_demo_list) - a list of demo websites for automatic music generation research
@@ -2434,10 +2433,11 @@
 
 ## Python 
 
+- [allenhung1025/LoopTest](https://github.com/allenhung1025/LoopTest) - Official repo of ISMIR-21 publication, “A Benchmarking Initiative for Audio-domain Music Generation using the FreeSound Loop Dataset”.
 - [ngxson/hobby-audio-features-extractor](https://github.com/ngxson/hobby-audio-features-extractor) - 
 - [erl-j/enfusion](https://github.com/erl-j/enfusion) - 
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.
 - [jljl1337/svc-toolkit](https://github.com/jljl1337/svc-toolkit) - A self-contained singing voice conversion application
 - [mikez/spotify-folders](https://github.com/mikez/spotify-folders) - Get your Spotify folder hierarchy with playlists into JSON.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
@@ -3825,6 +3825,7 @@
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [PerryRylance/microtonal-cyclic-polyrhythm-generator](https://github.com/PerryRylance/microtonal-cyclic-polyrhythm-generator) - Generate polyrhythms from a scale, with support for microtonal pitches
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [2fd/swc-plugin-allow-importing-ts-extensions](https://github.com/2fd/swc-plugin-allow-importing-ts-extensions) - SWC Plugin for allowImportingTsExtensions tsconfg
 - [2fd/xhtml](https://github.com/2fd/xhtml) - filter and sanitization command line for HTML
 - [denoland/denobyexample](https://github.com/denoland/denobyexample) - Deno by example - short examples showcasing how to use Deno
 - [Winter/create-gist](https://github.com/Winter/create-gist) - Upload your code to Gist with ease
@@ -3897,7 +3898,7 @@
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [team-openpm/workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [MellKam/soundify](https://github.com/MellKam/soundify) - 🎧 Lightweight integration with the Spotify Web API for modern Javascript runtimes
 - [Fuzzy-Search/chat-with-page](https://github.com/Fuzzy-Search/chat-with-page) - Chrome extension to chat with page using local LLM (llama, mistral 7B, etc)
@@ -4003,7 +4004,7 @@
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ⭐ Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS
-- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 🏗️ Incremental Turborepo Starter and CMS ▲ Next.js 14, Tauri Apps UI, Solito Expo ▲ i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Auth, Lucide CSS Radix UI, Responsive React Server, TS
+- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏗️ Incremental Turborepo Starter and CMS ▲ Next.js 14, Tauri Apps UI, Solito Expo ▲ i18n, Stripe, Shadcn, Tailwind, Drizzle Zod Trpc, TypeScript, Auth, Lucide CSS Radix UI, Responsive React Server, TS
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [johnpolacek/date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison
@@ -4225,7 +4226,7 @@
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - React and TypeScript Chrome extension example project for developers to create their own extensions.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [paulphys/spotify-next-auth-token-rotation](https://github.com/paulphys/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
