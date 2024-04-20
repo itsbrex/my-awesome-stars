@@ -100,6 +100,7 @@
 - [gulp](#gulp)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
@@ -2287,6 +2288,10 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
+## hacking-tools 
+
+- [hasanfirnas/symbiote](https://github.com/hasanfirnas/symbiote) - Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.
+
 ## hacktoberfest 
 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -4187,6 +4192,7 @@
 
 ## others 
 
+- [hissincn/suno-ai](https://github.com/hissincn/suno-ai) - Creat high quality songs from suno.ai by Javascript API.
 - [gimlet-ai/tddGPT](https://github.com/gimlet-ai/tddGPT) - AutoGPT for Web App Development
 - [minzwon/musicfm](https://github.com/minzwon/musicfm) - 
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -7515,6 +7521,7 @@
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust.
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
 - [allthemusicllc/libatm](https://github.com/allthemusicllc/libatm) - Library for generating and working with MIDI files
