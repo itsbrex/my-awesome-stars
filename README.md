@@ -34,7 +34,6 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Kaitai Struct](#kaitai-struct)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Liquid](#liquid)
@@ -752,6 +751,7 @@
 - [BSvER1/AbletonMidiMapper](https://github.com/BSvER1/AbletonMidiMapper) - a small utility for grabbing automation out of ableton to send to other applications over virtual midi ports
 - [mattmcwaters/AbletonExporter](https://github.com/mattmcwaters/AbletonExporter) - Automatically Stems out a project grouped by colors given by user.
 - [Glamdring/computoser](https://github.com/Glamdring/computoser) - Algorithm for music composition
+- [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
 - [datmt/NO-CACHE-BROWSER](https://github.com/datmt/NO-CACHE-BROWSER) - We developers hate cache. Cache must die. Try these browsers instead
 - [thuannv/HeartsFlying](https://github.com/thuannv/HeartsFlying) - Hearts fly from bottom to top like Bigo Live when play stream.
 - [Deep-Symmetry/beat-link](https://github.com/Deep-Symmetry/beat-link) - Java library for synchronizing and communicating with Pioneer DJ Link equipment
@@ -975,6 +975,7 @@
 - [alecchendev/spotify-refresh-token](https://github.com/alecchendev/spotify-refresh-token) - A simple site for developers to easily get their own refresh token for Spotify's API.
 - [eupston/midi-mason](https://github.com/eupston/midi-mason) - A Web Application for generating midi drums using Google Magenta AI, creating, and sharing beats. The Site is live here: https://midi-mason.herokuapp.com/
 - [kitchWWW/myActualWebsite](https://github.com/kitchWWW/myActualWebsite) - Wow I never made one for this and this is arguably the one thing I am most proud of as it hosts all my other projects. Whoop.
+- [kitchWWW/sounds.pink](https://github.com/kitchWWW/sounds.pink) - turn motion into midi
 - [darobin/notion-backup](https://github.com/darobin/notion-backup) - Simple command to backup a Notion workspace
 - [SethuSenthil/Copy-for-ChatGPT](https://github.com/SethuSenthil/Copy-for-ChatGPT) - Extention to bring a copy button for ChatGPT
 - [Plato-solutions/Impressionist](https://github.com/Plato-solutions/Impressionist) - Impressionist is a JavaScript library that allows you to scrape data in less time.
@@ -1820,10 +1821,6 @@
 - [ashenoy95/ml](https://github.com/ashenoy95/ml) - Machine Learning, Neural Nets, Deep Learning basics
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [neuro-team-femto/cleese](https://github.com/neuro-team-femto/cleese) - Combinatorial Expressive Speech Engine
-
-## Kaitai Struct 
-
-- [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
 
 ## Kotlin 
 
@@ -2751,7 +2748,7 @@
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
-- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
+- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [RafayKhattak/YoutubeGPT](https://github.com/RafayKhattak/YoutubeGPT) - YoutubeGPT is a web application powered by OpenAI's Whisper model for speech recognition and GPT-3 for text summarization. It extracts transcriptions from YouTube videos and provides users with concis
@@ -2974,7 +2971,6 @@
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [Yudhister1/AI-Composer-for-Machine-Learning-](https://github.com/Yudhister1/AI-Composer-for-Machine-Learning-) - LSTM recurrent neural network over a dataset of MIDI files
 - [asigalov61/RecoMIDI](https://github.com/asigalov61/RecoMIDI) - Dead simple, precise and super-efficient MIDI music recommendation system implementation [Algo+AI]
-- [kitchWWW/sounds.pink](https://github.com/kitchWWW/sounds.pink) - turn motion into midi
 - [mebusy/notes](https://github.com/mebusy/notes) - my dev notes
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
 - [guyyariv/AI-Beat-Maker](https://github.com/guyyariv/AI-Beat-Maker) - Generate beats out of given samples
