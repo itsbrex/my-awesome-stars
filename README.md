@@ -44,6 +44,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Max](#max)
+- [Mercury](#mercury)
 - [Mojo](#mojo)
 - [Mustache](#mustache)
 - [NewLisp](#newlisp)
@@ -51,6 +52,7 @@
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
+- [PEG.js](#peg.js)
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
@@ -79,6 +81,7 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [XSLT](#xslt)
 - [Zig](#zig)
 
 ## AppleScript 
@@ -110,6 +113,7 @@
 
 ## Batchfile 
 
+- [deffcolony/ai-toolbox](https://github.com/deffcolony/ai-toolbox) - AI-Toolbox provides a collection of automation scripts and tools to streamline your AI workflows.
 - [Sxela/WarpFusion](https://github.com/Sxela/WarpFusion) - WarpFusion
 - [tcbtcb/ClyphX_Pro](https://github.com/tcbtcb/ClyphX_Pro) - My personal bindings and mappings for my Platform M+
 
@@ -119,6 +123,32 @@
 
 ## C 
 
+- [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output
+- [andrewrk/libgroove](https://github.com/andrewrk/libgroove) - streaming audio processing library
+- [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
+- [chirlu/soxr](https://github.com/chirlu/soxr) - The SoX resampler library
+- [tyilo/insert_dylib](https://github.com/tyilo/insert_dylib) - Command line utility for inserting a dylib load command into a Mach-O binary
+- [namin/metasolfeggio](https://github.com/namin/metasolfeggio) - computer-aided harmony and counterpoint
+- [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
+- [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
+- [libsndfile/libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data.
+- [schellingb/TinySoundFont](https://github.com/schellingb/TinySoundFont) - SoundFont2 synthesizer library in a single C/C++ file
+- [armink/struct2json](https://github.com/armink/struct2json) - A fast convert library between the JSON and C structure. Implement structure serialization and deserialization for C. | C 结构体与 JSON 快速互转库，快速实现 C 结构体的序列化及反序列化
+- [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
+- [rswier/c4](https://github.com/rswier/c4) - C in four functions
+- [rdebath/Brainfuck](https://github.com/rdebath/Brainfuck) - Brainfuck torture test. Brainfuck interpreters and compilers to C, V. VIM syntax file for brainf*ck. Fast JIT Assembly, JIT C running, Perl, Python, php, Ruby, lua, go, awk, neko, PS1, bash, ook, trol
+- [ekmett/jitplusplus](https://github.com/ekmett/jitplusplus) - a tracing jit for c++ based on tracing and compiling from x86-64 assembly to x86-64 assembly
+- [hellerve/cj](https://github.com/hellerve/cj) - [WIP] A simple x86 JIT framework for C
+- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
+- [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
+- [csound/csound](https://github.com/csound/csound) - Main repository for Csound
+- [libsndfile/libsamplerate](https://github.com/libsndfile/libsamplerate) - An audio Sample Rate Conversion library
+- [c4dm/qm-dsp](https://github.com/c4dm/qm-dsp) - A C++ library of functions for DSP and Music Informatics purposes. Used by the QM Vamp Plugins amongst other things.
+- [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+- [rsms/compis](https://github.com/rsms/compis) - Contemporary systems programming language in the spirit of C
+- [wiseman/py-webrtcvad](https://github.com/wiseman/py-webrtcvad) - Python interface to the WebRTC Voice Activity Detector
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
+- [acids-ircam/ddsp_pytorch](https://github.com/acids-ircam/ddsp_pytorch) - Implementation of Differentiable Digital Signal Processing (DDSP) in Pytorch
 - [dbry/slac](https://github.com/dbry/slac) - Simple Lossless Audio Compressor
 - [marcoevang/camilladsp-setrate](https://github.com/marcoevang/camilladsp-setrate) - Automatic sample rate switcher for CamillaDSP
 - [dlvandenberg/tree-sitter-angular](https://github.com/dlvandenberg/tree-sitter-angular) - Tree Sitter Grammar for Angular
@@ -160,6 +190,13 @@
 
 ## C# # 
 
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement lea
+- [liufeigit/MessagePack-CSharp](https://github.com/liufeigit/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+- [aerror2/ILSpy-For-MacOSX](https://github.com/aerror2/ILSpy-For-MacOSX) - ILSpy  for Mac OS X ,Linux and any mono supported  platform
+- [mono/CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages
+- [anydream/il2cpp](https://github.com/anydream/il2cpp) - A MSIL/C# to C++ converter. Faster than CoreCLR with low memory overhead.(已弃坑.C#是个好语言,然而.NET不是一个干净的平台)
+- [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
+- [stakira/OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 - [rottytooth/Velato](https://github.com/rottytooth/Velato) - Velato language - write code with music
 - [gregsdennis/json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
 - [heathbm/Dynamic-Directory-Organizer-GPT](https://github.com/heathbm/Dynamic-Directory-Organizer-GPT) - .NET 8 Hack project submission, using AI. Use this app to chat with AI to organize files interactively. Adjust until satisfied, then select a destination for the newly structured files to be copied to
@@ -197,6 +234,41 @@
 
 ## C++ 
 
+- [asantoni/libaudiodecoder](https://github.com/asantoni/libaudiodecoder) - The Cross-Platform Audio Decoder API
+- [musescore/sftools](https://github.com/musescore/sftools) - Tools for sound font files
+- [thestk/rtaudio](https://github.com/thestk/rtaudio) - A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO
+- [Reinvent-Archived-Projects/mxml](https://github.com/Reinvent-Archived-Projects/mxml) - MusicXML parsing and layout library
+- [MTG/gaia](https://github.com/MTG/gaia) - C++ library  to apply similarity measures and classiﬁcations on the results of audio analysis, including Python bindings. Together with Essentia it can be used to compute high-level descriptions of mu
+- [sevagh/pitch-detection](https://github.com/sevagh/pitch-detection) - autocorrelation-based O(NlogN) pitch detection
+- [tobefuturer/app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib
+- [googlecreativelab/open-nsynth-super](https://github.com/googlecreativelab/open-nsynth-super) - Open NSynth Super is an experimental physical interface for the NSynth algorithm
+- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
+- [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [thestk/stk](https://github.com/thestk/stk) - The Synthesis ToolKit in C++ (STK) is a set of open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
+- [everdrone/libsnd](https://github.com/everdrone/libsnd) - Digital Signal Processing Library and Audio Toolbox for the Modern Synthesist.
+- [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
+- [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
+- [dermesser/libsocket](https://github.com/dermesser/libsocket) - The ultimate socket library for C and C++, supporting TCP, UDP and Unix sockets (DGRAM and STREAM) on Linux, FreeBSD, Solaris. See also my uvco library for a refreshed version!
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+- [breakfastquay/rubberband](https://github.com/breakfastquay/rubberband) - Official mirror of Rubber Band Library, an audio time-stretching and pitch-shifting library.
+- [rism-digital/verovio](https://github.com/rism-digital/verovio) - 🎵 Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (JavaScript, Python)
+- [audeering/opensmile](https://github.com/audeering/opensmile) - The Munich Open-Source Large-Scale Multimedia Feature Extractor
+- [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
+- [HiFi-LoFi/AudioFFT](https://github.com/HiFi-LoFi/AudioFFT) - 1D real data FFT in C++ for usage e.g. in real time audio applications
+- [adamstark/Gist](https://github.com/adamstark/Gist) - A C++ Library for Audio Analysis
+- [anthonix/ffts](https://github.com/anthonix/ffts) - The Fastest Fourier Transform in the South
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
+- [deeuu/loudness](https://github.com/deeuu/loudness) - Audio library for modelling loudness
+- [vinniefalco/DSPFilters](https://github.com/vinniefalco/DSPFilters) - A Collection of Useful C++ Classes for Digital Signal Processing
+- [prajna-lang/prajna](https://github.com/prajna-lang/prajna) - a program language for AI infrastructure
+- [berndporr/iir1](https://github.com/berndporr/iir1) - DSP IIR realtime filter library written in C++
+- [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
+- [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
+- [sevagh/demucs.cpp](https://github.com/sevagh/demucs.cpp) - C++17 port of Demucs v4 Hybrid Transformer (4-source, 6-source, fine-tuned) with ggml and Eigen3
+- [ibsh/libKeyFinder](https://github.com/ibsh/libKeyFinder) - Musical key detection for digital audio, GPL v3
+- [deezer/deezer-chromaprint](https://github.com/deezer/deezer-chromaprint) - A stand-alone, x86 and x64 compatible, Windows version, of the chromaprint audio library.
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [LabSound/LabSound](https://github.com/LabSound/LabSound) - :microscope: :speaker: graph-based audio engine
 - [itsbrex/gpt4all](https://github.com/itsbrex/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [LLNL/SAMRAI](https://github.com/LLNL/SAMRAI) - Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development
@@ -322,6 +394,7 @@
 
 ## CSS 
 
+- [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 - [sony/creativeai](https://github.com/sony/creativeai) - 
 - [fvucemilo/beth-stack](https://github.com/fvucemilo/beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
 - [lablab-ai/webgpu-llm-chrome-extension-starter](https://github.com/lablab-ai/webgpu-llm-chrome-extension-starter) - WebLLM Chrome Extension Starter Pack.
@@ -415,6 +488,7 @@
 
 ## Clojure 
 
+- [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
 - [digital-dj-tools/dj-data-converter](https://github.com/digital-dj-tools/dj-data-converter) - A command-line app for converting data files to and from different DJ software formats.
 - [chr15m/dopeloop-experiments](https://github.com/chr15m/dopeloop-experiments) - Experiments for dopeloop.ai
 - [thi-ng/cgg](https://github.com/thi-ng/cgg) - Online cosine gradient generator for use w/ thi.ng/color
@@ -482,6 +556,8 @@
 
 ## Go 
 
+- [sammcj/llamalink](https://github.com/sammcj/llamalink) - Link you Ollama models to LM-Studio
+- [timiskhakov/music](https://github.com/timiskhakov/music) - From making a beep to performing a "guitar" cover
 - [bjma/spotify-filesys](https://github.com/bjma/spotify-filesys) - UNIX-like filesystem CLI for Spotify libraries
 - [gqlgo/operationname](https://github.com/gqlgo/operationname) - print operation name in your GraphQL query files
 - [Treblle/treblle-cli](https://github.com/Treblle/treblle-cli) - 
@@ -583,6 +659,10 @@
 
 ## HTML 
 
+- [libaudioverse/libaudioverse](https://github.com/libaudioverse/libaudioverse) - A library for realtime audio synthesis with 3D and environmental audio support
+- [danyalimran93/Music-Genre-Classification](https://github.com/danyalimran93/Music-Genre-Classification) - Classifying English Music (.mp3) files using Music Information Retrieval (MIR), Digital/Audio Signal Processing (DIP) and Machine Learning (ML) Strategies
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [ttscoff/hookapp](https://github.com/ttscoff/hookapp) - 
 - [julian6077/covercraft](https://github.com/julian6077/covercraft) - 
 - [Sba-Stuff/text-to-midi-flask-based-app](https://github.com/Sba-Stuff/text-to-midi-flask-based-app) - James Skripchuk's code to convert text to midi. I am going to convert this into flask based app. It uses NLTK to read files, then convert to sentences, then words and then turn those words into an awe
@@ -742,6 +822,8 @@
 
 ## Java 
 
+- [cbarthauer/chordcommand](https://github.com/cbarthauer/chordcommand) - ChordCommand is a domain specific language for manipulating chords using standard music symbols (e.g. CM7, Dm7, Gdom7, DbM7, CM7, etc.).
+- [graetz23/JWave](https://github.com/graetz23/JWave) - A Discrete Fourier Transform (DFT), a Fast Wavelet Transform (FWT), and a Wavelet Packet Transform (WPT) algorithm in 1-D, 2-D, and 3-D using normalized orthogonal (orthonormal) Haar, Coiflet, Daubech
 - [jd-wrapper/jd-cli](https://github.com/jd-wrapper/jd-cli) - JD-CLI, a standalone command line Java sources from CLASS files
 - [google/rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
 - [steveefemsc/db2rest](https://github.com/steveefemsc/db2rest) - No Code REST Data API for Databases.
@@ -775,6 +857,21 @@
 
 ## JavaScript 
 
+- [nfroidure/midiplayer](https://github.com/nfroidure/midiplayer) - Play MIDI file right in your browser with the WebMIDIAPI
+- [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+- [liufeigit/MIDI.js](https://github.com/liufeigit/MIDI.js) - Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Dr
+- [mscuthbert/midicube](https://github.com/mscuthbert/midicube) - MIDI-apps with soundfonts and players on the web. Built off of mudcube/MIDI.js (abandonware) but in ES6 etc.
+- [Okazari/Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
+- [SymphoniaIO/web-musicxml-editor](https://github.com/SymphoniaIO/web-musicxml-editor) - Online notation editor with basic MusicXML support. Uses VexFlow for notation engraving.
+- [hxxft/lynx-native](https://github.com/hxxft/lynx-native) - Run native apps for iOS and Android using JavaScript.
+- [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
+- [vesoft-inc/github-statistics](https://github.com/vesoft-inc/github-statistics) - A react static app for displaying github repo statistics like Star History, Fork History and more.
+- [higuma/web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - .wav/.ogg/.mp3 recorder with Web Audio API
+- [ai/audio-recorder-polyfill](https://github.com/ai/audio-recorder-polyfill) - MediaRecorder polyfill to record audio in Edge and Safari
+- [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
+- [tornqvist/bpm-detective](https://github.com/tornqvist/bpm-detective) - Detects the BPM of a song or audio sample
+- [0xfe/vexwarp](https://github.com/0xfe/vexwarp) - Audio Time Stretching and Pitch Shifting
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [Marak/JSONloops](https://github.com/Marak/JSONloops) - JSONloops is a real-time, multiuser audio sequencer for node.js and the browser.
 - [publicsamples/Roland-Jupiter-4](https://github.com/publicsamples/Roland-Jupiter-4) - Sample Library
 - [itsbrex/installable-framer](https://github.com/itsbrex/installable-framer) - Use Framer components in your React project
@@ -1733,6 +1830,22 @@
 
 ## Jupyter Notebook 
 
+- [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+- [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
+- [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+- [jonnor/machinehearing](https://github.com/jonnor/machinehearing) - Machine Learning applied to sound
+- [musikalkemist/AudioSignalProcessingForML](https://github.com/musikalkemist/AudioSignalProcessingForML) - Code and slides of my YouTube series called "Audio Signal Proessing for Machine Learning"
+- [zafarrafii/REPET-Matlab](https://github.com/zafarrafii/REPET-Matlab) - REPeating Pattern Extraction Technique (REPET) in Matlab for audio source separation: original REPET, REPET extended, adaptive REPET, REPET-SIM, REPET-SIM online
+- [zafarrafii/REPET-Python](https://github.com/zafarrafii/REPET-Python) - REPeating Pattern Extraction Technique (REPET) in Python for audio source separation: original REPET, REPET extended, adaptive REPET, REPET-SIM, online REPET-SIM
+- [miguelfs/worlds_simplest_instrument_classifier](https://github.com/miguelfs/worlds_simplest_instrument_classifier) - The world's simplest instrument classifier, using Constant-Q Transform and Logistic Regression.
+- [tky823/audio_source_separation](https://github.com/tky823/audio_source_separation) - An implementation of audio source separation tools.
+- [RetroCirce/Music-SketchNet](https://github.com/RetroCirce/Music-SketchNet) - ISMIR 2020 Paper repo: Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm
+- [MTG/compIAM](https://github.com/MTG/compIAM) - Common tools for the computational analysis of Indian Art Music
+- [keunwoochoi/dl4mir](https://github.com/keunwoochoi/dl4mir) - Deep learning for MIR
+- [feldberlin/timething](https://github.com/feldberlin/timething) - Timething is a library for aligning text transcripts with their audio recordings.
+- [jackmcarthur/musical-key-finder](https://github.com/jackmcarthur/musical-key-finder) - A python project that uses several standard/otherwise very common libraries to determine the key that a song (an .mp3) is in, i.e. F major or C# minor, with annotations and some examples.
+- [daniilrobnikov/vits2](https://github.com/daniilrobnikov/vits2) - VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design
+- [caiomiyashiro/music_and_science](https://github.com/caiomiyashiro/music_and_science) - Music analytics notebooks + future generative sounds techniques using ML
 - [jeffgreenca/laughr](https://github.com/jeffgreenca/laughr) - Recurrent neural network audio manipulation tool to mute "laugh track" audio segments found commonly in sitcoms.
 - [ylacombe/musicgen-dreamboothing](https://github.com/ylacombe/musicgen-dreamboothing) - Fine-tune your own MusicGen with LoRA
 - [huggingface/optimum-neuron](https://github.com/huggingface/optimum-neuron) - Easy, fast and very cheap training and inference on AWS Trainium and Inferentia chips.
@@ -1835,6 +1948,7 @@
 
 ## Kotlin 
 
+- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [Onuchin-Artem/k-Loops](https://github.com/Onuchin-Artem/k-Loops) - Live coding system for controlling Ableton Live written in Kotlin
 - [fsynthlib/fsynth](https://github.com/fsynthlib/fsynth) - Music synthesizer, written for fun and to learn stuff
@@ -1850,6 +1964,8 @@
 
 ## Lua 
 
+- [cvondrick/soundnet](https://github.com/cvondrick/soundnet) - SoundNet: Learning Sound Representations from Unlabeled Video. NIPS 2016
+- [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [CUHK-CMD/Automatic-Music-Arrangement](https://github.com/CUHK-CMD/Automatic-Music-Arrangement) - 
 - [Lydorn/DeepRenderEngine](https://github.com/Lydorn/DeepRenderEngine) - A Deep Learning approach to 3D rendering
@@ -1865,6 +1981,9 @@
 
 ## MATLAB 
 
+- [HaizhaoYang/SynLab](https://github.com/HaizhaoYang/SynLab) - 1D synchrosqueezed wave packet transforms (SSWPT):    Analyzing instantaneous properties (instantaneous frequencies, phases and amplitudes) of non-linear oscillatory signals in a superposition. 2D syn
+- [KyleZhang1118/Voice-Separation-and-Enhancement](https://github.com/KyleZhang1118/Voice-Separation-and-Enhancement) - A framework for quick testing and comparing multi-channel speech enhancement and separation methods, such as DSB, MVDR, LCMV, GEVD beamforming and ICA, FastICA, IVA, AuxIVA, OverIVA, ILRMA, FastMNMF.
+- [SomeshGanesh94/Tempo-beat-and-downbeat-estimation-for-electronic-dance-music](https://github.com/SomeshGanesh94/Tempo-beat-and-downbeat-estimation-for-electronic-dance-music) - This project aims to estimate the tempo (in BPM or beats per minute), the locations of the beats and downbeats of a song in the genre of electronic dance music using some feature extraction and autoco
 - [HackAudio/textbookcode](https://github.com/HackAudio/textbookcode) - Code from Hack Audio Textbook
 
 ## MDX 
@@ -1928,6 +2047,10 @@
 - [cskonopka/GBE](https://github.com/cskonopka/GBE) - generative breakpoint envelope for Ableton & MaxMSP
 - [victor-shepardson/feedbacker](https://github.com/victor-shepardson/feedbacker) - a max for live software instrument/effect
 
+## Mercury 
+
+- [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
 ## Mojo 
 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -1951,6 +2074,11 @@
 
 ## Objective-C 
 
+- [syedhali/EZAudio](https://github.com/syedhali/EZAudio) - An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
+- [AloneMonkey/MacReverse](https://github.com/AloneMonkey/MacReverse) - MacReverse Tools and Demo
+- [alexzielenski/optool](https://github.com/alexzielenski/optool) - Command Line Tool for interacting with MachO binaries on OSX/iOS
+- [DeVaukz/MachO-Kit](https://github.com/DeVaukz/MachO-Kit) - A C/Objective-C library for parsing Mach-O files.
+- [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [ronw/siplca-segmentation](https://github.com/ronw/siplca-segmentation) - Music structure segmentation based on shift-invariant probabilistic latent component analysis of chroma
 - [cemolcay/MIDISequencerAUv3](https://github.com/cemolcay/MIDISequencerAUv3) - A great start point for making AUv3 MIDI sequencer apps.
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
@@ -2039,6 +2167,20 @@
 
 ## Others 
 
+- [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+- [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+- [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
+- [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
+- [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
+- [ultimate-guitar/Tabdown](https://github.com/ultimate-guitar/Tabdown) - Tabdown is an open mark-up language for text tabs & chords.
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
+- [vahidk/EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
+- [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
+- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
+- [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
+- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
+- [arlosefj/github_interest](https://github.com/arlosefj/github_interest) - interest repositories
 - [sagesolar/Corpus-of-Taylor-Swift](https://github.com/sagesolar/Corpus-of-Taylor-Swift) - This is a dataset consisting of all song lyric words found on all of Taylor Swift's studio albums (up to and including TTPD), as well as a selection of other songs written by her.
 - [Stability-AI/stable-audio-demo](https://github.com/Stability-AI/stable-audio-demo) - 
 - [adactio/TheSession-data](https://github.com/adactio/TheSession-data) - Data dumps from thesession.org
@@ -2378,8 +2520,13 @@
 - [marmat/sketch-interpolate-paths](https://github.com/marmat/sketch-interpolate-paths) - A Sketch plugin for a step-wise transformation of one path into another.
 - [clickysteve/alfred-remote-workflows](https://github.com/clickysteve/alfred-remote-workflows) - Alfred Remote workflows
 
+## PEG.js 
+
+- [fps/asciichanges](https://github.com/fps/asciichanges) - A simple language describing chord progressions (changes) for tunes in ASCII text
+
 ## PHP 
 
+- [akashrchandran/spotify-lyrics-api](https://github.com/akashrchandran/spotify-lyrics-api) - A Rest API for fetching lyrics from Spotify which is powered by Musixmatch. Commandline version is available at akashrchandran/syrics.
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
 - [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting informat
 - [ssigwart/aws-high-availability-s3](https://github.com/ssigwart/aws-high-availability-s3) - High availability utils for AWS S3.
@@ -2445,6 +2592,110 @@
 
 ## Python 
 
+- [NyaMisty/ipatool-py](https://github.com/NyaMisty/ipatool-py) - IPATool-py: download ipa easily
+- [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
+- [tf-coreml/tf-coreml](https://github.com/tf-coreml/tf-coreml) - TensorFlow to CoreML Converter
+- [apacha/MusicScoreClassifier](https://github.com/apacha/MusicScoreClassifier) - A python script that trains a model that can learn to distinguish between music scores and arbitrary content.
+- [fedden/Machine_Learning_VST_Programmers](https://github.com/fedden/Machine_Learning_VST_Programmers) - Objective testing to find the best automatic Synthesiser programmers - GAs, MLPs, RNNs, CNNs and more...
+- [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
+- [drscotthawley/panotti](https://github.com/drscotthawley/panotti) - A multi-channel neural network audio classifier using Keras
+- [pytorch/audio](https://github.com/pytorch/audio) - Data manipulation and transformation for audio signal processing, powered by PyTorch
+- [micah5/pyAudioClassification](https://github.com/micah5/pyAudioClassification) - 🎶 dead simple audio classification
+- [IBM/MAX-Audio-Classifier](https://github.com/IBM/MAX-Audio-Classifier) - Identify sounds in short audio clips
+- [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) - A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.
+- [pandolia/tinyc](https://github.com/pandolia/tinyc) - https://pandolia.net/tinyc/
+- [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
+- [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
+- [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) - 
+- [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) - 
+- [qiuqiangkong/piano_transcription_inference](https://github.com/qiuqiangkong/piano_transcription_inference) - 
+- [seiichiinoue/odcnn](https://github.com/seiichiinoue/odcnn) - implementation of improved musical onset detection with cnn
+- [rohitma38/cnn-onset-detection](https://github.com/rohitma38/cnn-onset-detection) - 
+- [ronggong/musical-onset-efficient](https://github.com/ronggong/musical-onset-efficient) - Supplementary information and code for the paper: An efficient deep learning model for musical onset detection
+- [jarovaisanen/DrumOnsetDetectionCNN](https://github.com/jarovaisanen/DrumOnsetDetectionCNN) - Audio data preprocessing and Convolutional Neural Network training algorithm for detecting drum onsets from polyphonic music.
+- [vivjay30/pychorus](https://github.com/vivjay30/pychorus) - Python module for detecting musical choruses
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [grrrr/nsgt](https://github.com/grrrr/nsgt) - Non Stationary Gabor Transform (NSGT), Python implementation
+- [PyWavelets/pywt](https://github.com/PyWavelets/pywt) - PyWavelets - Wavelet Transforms in Python
+- [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
+- [facebookresearch/svoice](https://github.com/facebookresearch/svoice) - We provide a PyTorch implementation of the paper Voice Separation with an Unknown Number of Multiple Speakers In which, we present a new method for separating a mixed audio sequence, in which multiple
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
+- [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
+- [andabi/music-source-separation](https://github.com/andabi/music-source-separation) - Deep neural networks for separating singing voice from music written in TensorFlow
+- [helenacuesta/multif0-estimation-polyvocals](https://github.com/helenacuesta/multif0-estimation-polyvocals) - Code for ISMIR 2020 paper: "Multiple F0 Estimation in Vocal Ensembles using Convolutional Neural Networks"
+- [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python
+- [tyiannak/deep_audio_features](https://github.com/tyiannak/deep_audio_features) - Pytorch implementation of deep audio embedding calculation
+- [orchidas/Chord-Recognition](https://github.com/orchidas/Chord-Recognition) - Automatic chord recognition with PCP (Pitch Class Profile)
+- [nnsvs/nnsvs](https://github.com/nnsvs/nnsvs) - Neural network-based singing voice synthesis library for research
+- [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code
+- [MoonInTheRiver/NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Learning the Beauty in Songs: Neural Singing Voice Beautifier; ACL 2022 (Main conference); Official code
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
+- [nussl/nussl](https://github.com/nussl/nussl) - A flexible source separation library in Python
+- [tky823/ssspy](https://github.com/tky823/ssspy) - A Python toolkit for sound source separation.
+- [bspaans/python-mingus](https://github.com/bspaans/python-mingus) - Mingus is a music package for Python
+- [maxrmorrison/torchcrepe](https://github.com/maxrmorrison/torchcrepe) - Pytorch implementation of the CREPE pitch tracker
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+- [matajoh/fourier_feature_nets](https://github.com/matajoh/fourier_feature_nets) - Supplemental learning materials for "Fourier Feature Networks and Neural Volume Rendering"
+- [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
+- [csteinmetz1/auraloss](https://github.com/csteinmetz1/auraloss) - Collection of audio-focused loss functions in PyTorch
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
+- [yoyololicon/pytorch-NMF](https://github.com/yoyololicon/pytorch-NMF) - A pytorch package for non-negative matrix factorization.
+- [fakufaku/torchiva](https://github.com/fakufaku/torchiva) - Blind source separation with independent vector analysis family of algorithm in torch
+- [Audio-WestlakeU/FullSubNet](https://github.com/Audio-WestlakeU/FullSubNet) - PyTorch implementation of "FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement."
+- [santi-pdp/segan](https://github.com/santi-pdp/segan) - Speech Enhancement Generative Adversarial Network in TensorFlow
+- [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) - Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causa
+- [haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement](https://github.com/haoxiangsnr/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) - A minimum unofficial implementation of the "A Convolutional Recurrent Neural Network for Real-Time Speech Enhancement" (CRN) using PyTorch
+- [ktonal/mimikit](https://github.com/ktonal/mimikit) - Music Modeling Kit
+- [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
+- [serp-ai/ai-text-to-audio-latent-diffusion](https://github.com/serp-ai/ai-text-to-audio-latent-diffusion) - text-to-audio-latent-diffusion
+- [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
+- [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
+- [amanteur/BandSplitRNN-PyTorch](https://github.com/amanteur/BandSplitRNN-PyTorch) - Unofficial PyTorch implementation of Music Source Separation with Band-split RNN
+- [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation
+- [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
+- [adobe-research/MetaAF](https://github.com/adobe-research/MetaAF) - Control adaptive filters with neural networks.
+- [echocatzh/MTFAA-Net](https://github.com/echocatzh/MTFAA-Net) - Multi-Scale Temporal Frequency Convolutional Network With Axial Attention for Speech Enhancement
+- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
+- [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [musikalkemist/DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython) - Code and slides for the "Deep Learning (For Audio) With Python" course on TheSoundOfAI Youtube channel.
+- [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System
+- [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs
+- [RetroCirce/Zero_Shot_Audio_Source_Separation](https://github.com/RetroCirce/Zero_Shot_Audio_Source_Separation) - The official code repo for "Zero-shot Audio Source Separation through Query-based Learning from Weakly-labeled Data", in AAAI 2022
+- [magenta/ddsp](https://github.com/magenta/ddsp) - DDSP: Differentiable Digital Signal Processing
+- [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
+- [Kikyo-16/A-unified-model-for-zero-shot-musical-source-separation-transcription-and-synthesis](https://github.com/Kikyo-16/A-unified-model-for-zero-shot-musical-source-separation-transcription-and-synthesis) - 
+- [jason9693/MusicTransformer-pytorch](https://github.com/jason9693/MusicTransformer-pytorch) - implementation of music transformer with pytorch (ICLR2019)
+- [asteroid-team/asteroid-filterbanks](https://github.com/asteroid-team/asteroid-filterbanks) - Asteroid's filterbanks :rocket:
+- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+- [f90/Wave-U-Net](https://github.com/f90/Wave-U-Net) - Implementation of the Wave-U-Net for audio source separation
+- [VinAIResearch/WaveDiff](https://github.com/VinAIResearch/WaveDiff) - Official Pytorch Implementation of the paper: Wavelet Diffusion Models are fast and scalable Image Generators (CVPR'23)
+- [johnwmillr/LyricsGenius](https://github.com/johnwmillr/LyricsGenius) - Download song lyrics and metadata from Genius.com 🎶🎤
+- [MontrealCorpusTools/Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Command line utility for forced alignment using Kaldi
+- [mozilla/DSAlign](https://github.com/mozilla/DSAlign) - DeepSpeech based forced alignment tool
+- [SwagLyrics/autosynch](https://github.com/SwagLyrics/autosynch) - Automated lyrics-to-audio alignment using syllabic nuclei detection. Developed during Google Summer of Code 2019.
+- [jianfch/stable-ts](https://github.com/jianfch/stable-ts) - Transcription, forced alignment, and audio indexing with OpenAI's Whisper
+- [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
+- [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
+- [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [jayg996/BTC-ISMIR19](https://github.com/jayg996/BTC-ISMIR19) - "A Bi-Directional Transformer for Musical Chord Recognition" accepted on ISMIR2019
+- [mathigatti/midi2voice](https://github.com/mathigatti/midi2voice) - Singing synthesis from MIDI file
+- [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+- [VITA-Group/AsViT](https://github.com/VITA-Group/AsViT) - [ICLR 2022] "As-ViT: Auto-scaling Vision Transformers without Training" by Wuyang Chen, Wei Huang, Xianzhi Du, Xiaodan Song, Zhangyang Wang, Denny Zhou
+- [markie-dev/keyFinder](https://github.com/markie-dev/keyFinder) - Python script to download and find the key to any song on YouTube
+- [deezer/cover_song_detection](https://github.com/deezer/cover_song_detection) - Tools to run experiments around large scale cover detection.
+- [f90/Wave-U-Net-Pytorch](https://github.com/f90/Wave-U-Net-Pytorch) - Improved Wave-U-Net implemented in Pytorch
+- [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
+- [echonest/pyechonest](https://github.com/echonest/pyechonest) - Python client for the Echo Nest API
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
+- [hendriks73/tempo-cnn](https://github.com/hendriks73/tempo-cnn) - Framework for estimating temporal properties of music tracks.
+- [josiah-wolf-oberholtzer/discograph](https://github.com/josiah-wolf-oberholtzer/discograph) - Social Graphing for the Discogs Database
+- [asigalov61/POP-Melody-Transformer](https://github.com/asigalov61/POP-Melody-Transformer) - Fantastic and very fast performance POP music melody arrangement/extraction transformer
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [ttm/mass](https://github.com/ttm/mass) - MASS (Music and Audio in Sample Sequences) is a mathematical and computational framework relating musical elements to PCM audio samples
 - [ttm/music](https://github.com/ttm/music) - music is a python package for making sounds and music
@@ -3514,6 +3765,10 @@
 
 ## Rust 
 
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [MeadowlarkDAW/rootvg](https://github.com/MeadowlarkDAW/rootvg) - A 2D vector graphics library optimized for GUIs, written in Rust and wgpu
 - [MeadowlarkDAW/creek](https://github.com/MeadowlarkDAW/creek) - Realtime disk streaming IO for audio
 - [JosephLai241/nomad](https://github.com/JosephLai241/nomad) - 🌳 The customizable next gen tree command with Git integration and TUI.
@@ -3614,6 +3869,8 @@
 
 ## Shell 
 
+- [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
+- [wuqiong/FFmpeg-iOS-build-script](https://github.com/wuqiong/FFmpeg-iOS-build-script) - Shell script to build FFmpeg for iOS
 - [tehryanx/sourcemapper](https://github.com/tehryanx/sourcemapper) - Reconstruct javascript from a sourcemap in bash
 - [josharmenta/Live9Installer](https://github.com/josharmenta/Live9Installer) - This is an installer script for Ableton Live 9 Standard and Suite to enable multi-user mode with Sassafras Licensing.
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) - Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
@@ -3758,6 +4015,10 @@
 
 ## Swift 
 
+- [xmartlabs/Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
+- [vadymmarkov/Beethoven](https://github.com/vadymmarkov/Beethoven) - :guitar: A maestro of pitch detection.
+- [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
+- [kewlbear/YoutubeDL](https://github.com/kewlbear/YoutubeDL) - An iOS app using youtube-dl Python module with PythonKit Swift package
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
@@ -3852,12 +4113,20 @@
 
 ## TeX 
 
+- [wangshub/dotfile](https://github.com/wangshub/dotfile) - 🌹 🏘 🌱 My terminal looks like a garden.
+- [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 - [ttm/versinus](https://github.com/ttm/versinus) - Versinus: a visualization method for time-evolving networks
 - [ilaria-manco/multimodal-ml-music](https://github.com/ilaria-manco/multimodal-ml-music) - List of academic resources on Multimodal ML for Music
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 
 ## TypeScript 
 
+- [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by PhonicScore.com.
+- [MTG/essentia.js](https://github.com/MTG/essentia.js) - JavaScript library for music/audio analysis and processing powered by Essentia WebAssembly
+- [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
+- [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [technovangelist/videoprojects](https://github.com/technovangelist/videoprojects) - 
 - [ijc8/scorecard](https://github.com/ijc8/scorecard) - Tiny, self-contained generative music programs as QR codes
 - [rajput-hemant/react-template-vite](https://github.com/rajput-hemant/react-template-vite) - A Minimal ⚛️ React Starter Template with Vite, TailwindCSS, and Typescript pre-configured with ESLint, Prettier and Husky.
 - [marcosrjjunior/hono-boilerplate](https://github.com/marcosrjjunior/hono-boilerplate) - 📝 hono boilerplate to run a typescript server using node, bun...
@@ -3902,7 +4171,7 @@
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
-- [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
+- [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [gusper/SongTxt-vscode](https://github.com/gusper/SongTxt-vscode) - Visual Studio Code extension that adds support for editing text files for songs including lyrics, chords, guitar tablature, etc.
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
@@ -4725,6 +4994,7 @@
 
 ## Vue 
 
+- [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [StarfleetAI/bridge](https://github.com/StarfleetAI/bridge) - 🤖 Bridge — Autonomous AI Agents IDE / Runtime: Become ×100-anyone with your own agency!
 - [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Cross-platform ChatGPTBox, supporting GPT/ DALL-E/Gemini API.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
@@ -4751,6 +5021,10 @@
 ## WebAssembly 
 
 - [WebAssembly/wasi-threads](https://github.com/WebAssembly/wasi-threads) - 
+
+## XSLT 
+
+- [w3c/musicxml](https://github.com/w3c/musicxml) - MusicXML specification
 
 ## Zig 
 
