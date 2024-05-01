@@ -234,6 +234,7 @@
 
 ## C++ 
 
+- [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [asantoni/libaudiodecoder](https://github.com/asantoni/libaudiodecoder) - The Cross-Platform Audio Decoder API
 - [musescore/sftools](https://github.com/musescore/sftools) - Tools for sound font files
 - [thestk/rtaudio](https://github.com/thestk/rtaudio) - A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO
@@ -436,6 +437,7 @@
 - [lyket-dev/notion-embed](https://github.com/lyket-dev/notion-embed) - Copy and deploy this repo to easily create embeddable Lyket Notion widget
 - [awesome-arjun11/splitune](https://github.com/awesome-arjun11/splitune) - Electron + Python based desktop app for deezer's spleeter, a tool for separating vocals and instruments in a song.
 - [smakosh/unnamed-css-framework](https://github.com/smakosh/unnamed-css-framework) - A simple colorful CSS framework
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [FaCuZ/torrentmedia](https://github.com/FaCuZ/torrentmedia) - Fully-featured desktop WebTorrent client
 - [ajainvivek/P2PDrop](https://github.com/ajainvivek/P2PDrop) - P2PDrop will allow you to share files between peers powered by WebRTC
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
@@ -816,6 +818,7 @@
 
 ## Haskell 
 
+- [mtolly/onyx](https://github.com/mtolly/onyx) - Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games
 - [elaforge/karya](https://github.com/elaforge/karya) - music sequencer and generalized notation
 - [Euterpea/Euterpea2](https://github.com/Euterpea/Euterpea2) - Euterpea version 2
 - [meck/alfred-footman](https://github.com/meck/alfred-footman) - A library for writing script filters for Alfred in Haskell
@@ -838,6 +841,7 @@
 - [mattmcwaters/AbletonExporter](https://github.com/mattmcwaters/AbletonExporter) - Automatically Stems out a project grouped by colors given by user.
 - [Glamdring/computoser](https://github.com/Glamdring/computoser) - Algorithm for music composition
 - [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [datmt/NO-CACHE-BROWSER](https://github.com/datmt/NO-CACHE-BROWSER) - We developers hate cache. Cache must die. Try these browsers instead
 - [thuannv/HeartsFlying](https://github.com/thuannv/HeartsFlying) - Hearts fly from bottom to top like Bigo Live when play stream.
 - [Deep-Symmetry/beat-link](https://github.com/Deep-Symmetry/beat-link) - Java library for synchronizing and communicating with Pioneer DJ Link equipment
@@ -857,6 +861,8 @@
 
 ## JavaScript 
 
+- [resonatecoop/audio-process-queue](https://github.com/resonatecoop/audio-process-queue) - Audio processing queue
+- [resonatecoop/stream](https://github.com/resonatecoop/stream) - Monorepo for Resonate Coop player
 - [nfroidure/midiplayer](https://github.com/nfroidure/midiplayer) - Play MIDI file right in your browser with the WebMIDIAPI
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [liufeigit/MIDI.js](https://github.com/liufeigit/MIDI.js) - Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Dr
@@ -1235,8 +1241,8 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [alyssaxuu/motionity](https://github.com/alyssaxuu/motionity) - The web-based motion graphics editor for everyone 📽
-- [sindresorhus/active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
-- [sindresorhus/active-win](https://github.com/sindresorhus/active-win) - Get metadata about the active window (title, id, bounds, owner, etc)
+- [sindresorhus/windows-cli](https://github.com/sindresorhus/windows-cli) - Get metadata about the active window (title, id, bounds, owner, URL, etc)
+- [sindresorhus/get-windows](https://github.com/sindresorhus/get-windows) - Get metadata about the active window and open windows (title, id, bounds, owner, etc)
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [jefersondaniel/dom-form-serializer](https://github.com/jefersondaniel/dom-form-serializer) - Serialize forms fields into a JSON representation
@@ -1379,7 +1385,6 @@
 - [vivaxy/alfred-open-in-vscode](https://github.com/vivaxy/alfred-open-in-vscode) - Alfred workflow to open in VSCode
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
-- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [bjcarlson42/chakra-nextjs-dashboard](https://github.com/bjcarlson42/chakra-nextjs-dashboard) - A responsive dashboard UI built using Chakra UI and Next.js.
 - [rounaksingh1694/13bhai-frontend](https://github.com/rounaksingh1694/13bhai-frontend) - 
 - [rounaksingh1694/13bhai-backend](https://github.com/rounaksingh1694/13bhai-backend) - 
@@ -1648,7 +1653,6 @@
 - [ceyko/spotify-smartlist](https://github.com/ceyko/spotify-smartlist) - Spotify app to play a playlist in approximate popularity order.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [zurb/siphon-media-query](https://github.com/zurb/siphon-media-query) - Extract media query-specific rules from CSS.
-- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [jasonrudolph/launchbar-emoji-lookup](https://github.com/jasonrudolph/launchbar-emoji-lookup) - LaunchBar action to find the perfect emoji by name or keyword 🔎
 - [alec-chernicki/palettable](https://github.com/alec-chernicki/palettable) - Create color palettes using the knowledge of millions of designers.
@@ -1830,6 +1834,7 @@
 
 ## Jupyter Notebook 
 
+- [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
@@ -1883,7 +1888,7 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [Anil-matcha/Notion-to-Chatbot](https://github.com/Anil-matcha/Notion-to-Chatbot) - Chat with any Notion document.   Easily input the document content you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, including Gemini
 - [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 - [Zentra94/ai-cinema-engine](https://github.com/Zentra94/ai-cinema-engine) - AI video maker
 - [webpolis/midigpt](https://github.com/webpolis/midigpt) - Playing around with MIDI and LLM
@@ -2167,6 +2172,7 @@
 
 ## Others 
 
+- [julian-parker/stemgen](https://github.com/julian-parker/stemgen) - Examples for ICASSP2024 paper "StemGen: A music generation model that listens"
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
@@ -2551,6 +2557,7 @@
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [cmall/LocalHomePage](https://github.com/cmall/LocalHomePage) - A Local Home Page for OSX Web Development
 - [Mte90/Wordmove-Tools](https://github.com/Mte90/Wordmove-Tools) - Tools for a better experience with WordMove!
+- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [rinatkhaziev/sane-html-newsletters](https://github.com/rinatkhaziev/sane-html-newsletters) - WordPress plugin to convert regular HTML/CSS WP template into HTML with inline CSS that email clients understand.
 - [peter-sharp/html-pages-to-wp-pages](https://github.com/peter-sharp/html-pages-to-wp-pages) - ( Alpha ) converts html pages to wordpress pages ( page post type )
 - [wp-plugins/cms2cms-html-to-wp-convertor](https://github.com/wp-plugins/cms2cms-html-to-wp-convertor) - WordPress.org Plugin Mirror
@@ -2592,6 +2599,17 @@
 
 ## Python 
 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+- [zhaozhipeng1997/demucs_ascend910_pytorch](https://github.com/zhaozhipeng1997/demucs_ascend910_pytorch) - 
+- [OwlAIProject/Owl](https://github.com/OwlAIProject/Owl) - A personal wearable AI that runs locally
+- [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
+- [aresponses/aresponses](https://github.com/aresponses/aresponses) - Asyncio http mocking. Similar to the responses library used for 'requests'
+- [joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
+- [ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer](https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer) - Timbre Enhanced Multi modal Music Style Transfer
+- [bytedance/GR-1](https://github.com/bytedance/GR-1) - Code for "Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation"
+- [juankysoriano/gpt-producer](https://github.com/juankysoriano/gpt-producer) - 
 - [NyaMisty/ipatool-py](https://github.com/NyaMisty/ipatool-py) - IPATool-py: download ipa easily
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [tf-coreml/tf-coreml](https://github.com/tf-coreml/tf-coreml) - TensorFlow to CoreML Converter
@@ -3846,7 +3864,6 @@
 - [shuffle-dev/maxmaxmax](https://github.com/shuffle-dev/maxmaxmax) - Add the two best Tailwind CSS features to Bootstrap and Bulma!
 - [ciar4n/Izmir](https://github.com/ciar4n/Izmir) - Izmir - An image hover mini CSS library
 - [Shpigford/plylst](https://github.com/Shpigford/plylst) - Smart playlists for Spotify! Stop relying on fancy pants algorithms to organize your library and instead build playlists the way you want.
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [OneSignal/OneSignal-WordPress-Plugin](https://github.com/OneSignal/OneSignal-WordPress-Plugin) - OneSignal is a free push notification service for web and mobile apps. This plugin makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
 - [leemunroe/grunt-email-workflow](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
@@ -3869,6 +3886,7 @@
 
 ## Shell 
 
+- [sigsep/sigsep-mus-io](https://github.com/sigsep/sigsep-mus-io) - Tools to convert sigsep mus dataset from STEMS &lt;-&gt; WAV
 - [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
 - [wuqiong/FFmpeg-iOS-build-script](https://github.com/wuqiong/FFmpeg-iOS-build-script) - Shell script to build FFmpeg for iOS
 - [tehryanx/sourcemapper](https://github.com/tehryanx/sourcemapper) - Reconstruct javascript from a sourcemap in bash
@@ -4015,6 +4033,7 @@
 
 ## Swift 
 
+- [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
 - [xmartlabs/Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [vadymmarkov/Beethoven](https://github.com/vadymmarkov/Beethoven) - :guitar: A maestro of pitch detection.
 - [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
@@ -4068,7 +4087,7 @@
 - [n0shake/clocker](https://github.com/n0shake/clocker) - ⏲  macOS app to plan and organize through timezones.
 - [ionic-team/capacitor-remix-templates](https://github.com/ionic-team/capacitor-remix-templates) - Build native iOS, Android, and Web apps with Capacitor and Remix.run 💿
 - [rknightuk/TrackerZapper](https://github.com/rknightuk/TrackerZapper) - Menubar app to remove link tracking parameters automatically
-- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+- [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [godbout/AlfredWorkflowUpdater](https://github.com/godbout/AlfredWorkflowUpdater) - add a background updater for your Alfred Workflow in under a minute ⏲️
@@ -4121,6 +4140,8 @@
 
 ## TypeScript 
 
+- [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
+- [resonatecoop/stream-app](https://github.com/resonatecoop/stream-app) - A mobile app for playing music on Resonate, an open source music streaming co-op. This is repository is in maintenance mode, while actively developing this repository: https://github.com/resonatecoop/
 - [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by PhonicScore.com.
 - [MTG/essentia.js](https://github.com/MTG/essentia.js) - JavaScript library for music/audio analysis and processing powered by Essentia WebAssembly
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
@@ -4160,7 +4181,7 @@
 - [dotansimha/graphql-code-generator-community](https://github.com/dotansimha/graphql-code-generator-community) - 
 - [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
 - [cezaraugusto/babel-preset-modern-browser-extension](https://github.com/cezaraugusto/babel-preset-modern-browser-extension) - Babel preset used for creating browser extensions. Supports React and TypeScript.
-- [cezaraugusto/extension](https://github.com/cezaraugusto/extension) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [steveefemsc/twinny](https://github.com/steveefemsc/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
 - [steveefemsc/activepieces](https://github.com/steveefemsc/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
@@ -4341,7 +4362,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [Morioh-Lab/is-bot](https://github.com/Morioh-Lab/is-bot) - Detect user-agent is a bot/spider/crawler
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [FlowiseAI/FlowiseEmbedReact](https://github.com/FlowiseAI/FlowiseEmbedReact) - 
@@ -4994,6 +5015,7 @@
 
 ## Vue 
 
+- [sigsep/open-unmix-demo-electron](https://github.com/sigsep/open-unmix-demo-electron) - desktop source separation demo player
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [StarfleetAI/bridge](https://github.com/StarfleetAI/bridge) - 🤖 Bridge — Autonomous AI Agents IDE / Runtime: Become ×100-anyone with your own agency!
 - [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Cross-platform ChatGPTBox, supporting GPT/ DALL-E/Gemini API.
