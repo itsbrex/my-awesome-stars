@@ -451,7 +451,7 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [LabSound/LabSound](https://github.com/LabSound/LabSound) - :microscope: :speaker: graph-based audio engine
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [elf-audio/mzgl](https://github.com/elf-audio/mzgl) - a cross-platform application library and a collection of other useful of libraries.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
@@ -496,6 +496,7 @@
 
 ## api 
 
+- [wapmorgan/OpenApiGenerator](https://github.com/wapmorgan/OpenApiGenerator) - OpenApi configuration generator directly from PHP code (PhpDoc and php type hints). Can be used with a large monolithic backend
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -624,6 +625,7 @@
 
 ## automation 
 
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [deffcolony/ai-toolbox](https://github.com/deffcolony/ai-toolbox) - AI-Toolbox provides a collection of automation scripts and tools to streamline your AI workflows.
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [Zeeshanahmad4/AI-YouTube-Flow](https://github.com/Zeeshanahmad4/AI-YouTube-Flow) - AI YouTube Flow: 🤖🎥 Streamlining Your YouTube Experience with Advanced AI-Driven Content Management and Automation 🚀.
@@ -1166,7 +1168,7 @@
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [ibnzUK/next-chrome-starter](https://github.com/ibnzUK/next-chrome-starter) - Next.js Chrome Extension Starter example application that demonstrates how to build a Chrome extension using Next.js. It provides a foundation for developing Chrome extensions with Next.js, React and 
 - [plsankar/colorhunter](https://github.com/plsankar/colorhunter) - Chrome Extenstion to export the color palette of a website in a single click.
@@ -1531,6 +1533,7 @@
 
 ## cybersecurity 
 
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -2399,6 +2402,7 @@
 
 ## hacking 
 
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -2423,7 +2427,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [octokit/oauth-app.js](https://github.com/octokit/oauth-app.js) - GitHub OAuth toolset for Node.js
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
@@ -2693,7 +2697,7 @@
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [nicolodiamante/keyave](https://github.com/nicolodiamante/keyave) - How to master your passwords using iCloud Keychain.
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [romikavinda/app_integrity_checker](https://github.com/romikavinda/app_integrity_checker) - Flutter plugin to verify the integrity of the app and detect if it has been tampered at run time.
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [elf-audio/mzgl](https://github.com/elf-audio/mzgl) - a cross-platform application library and a collection of other useful of libraries.
@@ -4385,7 +4389,7 @@
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [kyegomez/SimpleMamba](https://github.com/kyegomez/SimpleMamba) - Implementation of a modular, high-performance, and simplistic mamba for high-speed applications
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -4427,6 +4431,7 @@
 
 ## osint 
 
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) - Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [osintambition/Awesome-Browser-Extensions-for-OSINT](https://github.com/osintambition/Awesome-Browser-Extensions-for-OSINT) - A collection of awesome browser extension useful for OSINT along with their use case.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -4436,6 +4441,9 @@
 
 ## others 
 
+- [aws-samples/song-identification-on-aws](https://github.com/aws-samples/song-identification-on-aws) - A song fingerprinting example that works with streaming media and stored media files
+- [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
+- [juankysoriano/human-music](https://github.com/juankysoriano/human-music) - A Generative Music System based on Cellular Automata
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [zhaozhipeng1997/demucs_ascend910_pytorch](https://github.com/zhaozhipeng1997/demucs_ascend910_pytorch) - 
@@ -5616,7 +5624,7 @@
 - [adamschwartz/playground](https://github.com/adamschwartz/playground) - 
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
-- [vercel-labs/edge-data-latency](https://github.com/vercel-labs/edge-data-latency) - Visualize the latency of databases at the Edge.
+- [vercel-labs/function-database-latency](https://github.com/vercel-labs/function-database-latency) - Visualize the latency of databases from Vercel Functions.
 - [clementabary/sigsep-mus-eval](https://github.com/clementabary/sigsep-mus-eval) - museval - source separation evaluation tools for python
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [malerba118/react-starter-cli](https://github.com/malerba118/react-starter-cli) - React app with a custom generator cli
@@ -7046,6 +7054,7 @@
 
 ## pentesting 
 
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
 
@@ -7395,7 +7404,7 @@
 - [mevimo/youbit](https://github.com/mevimo/youbit) - Host any type of file on YouTube
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever) - 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
-- [Jeff53978/LinkGen](https://github.com/Jeff53978/LinkGen) - An Open Source Account Generator Bot!
+- [jeff9014223/LinkGen](https://github.com/jeff9014223/LinkGen) - An Open Source Account Generator Bot!
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
 - [echo724/notion2medium](https://github.com/echo724/notion2medium) - Simple command that publishes Notion Page to Medium.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -7582,7 +7591,7 @@
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -7933,6 +7942,7 @@
 
 ## rest-api 
 
+- [sgraaf/openapi-scraper](https://github.com/sgraaf/openapi-scraper) - Track changes to RESTful APIs by git scraping their OpenAPI descriptions
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
@@ -8070,6 +8080,7 @@
 
 ## security 
 
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema even if the introspection is disabled
@@ -8521,7 +8532,7 @@
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [akshgpt7/youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library of the YouTube Data API.
