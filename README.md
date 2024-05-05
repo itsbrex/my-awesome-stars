@@ -862,6 +862,7 @@
 
 ## JavaScript 
 
+- [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts) - Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 - [timqian/gql-generator](https://github.com/timqian/gql-generator) - Generate queries from graphql schema, used for writing api test.
 - [resonatecoop/audio-process-queue](https://github.com/resonatecoop/audio-process-queue) - Audio processing queue
 - [resonatecoop/stream](https://github.com/resonatecoop/stream) - Monorepo for Resonate Coop player
@@ -2604,6 +2605,10 @@
 
 ## Python 
 
+- [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
+- [light-and-ray/sd-webui-lama-cleaner-masked-content](https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content) - Use lama cleaner before inpainting inside stable-diffusion-webui
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source backend for building stateful AI apps
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) - 
 - [aws-samples/song-identification-on-aws](https://github.com/aws-samples/song-identification-on-aws) - A song fingerprinting example that works with streaming media and stored media files
@@ -3793,6 +3798,10 @@
 
 ## Rust 
 
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
+- [CarterFendley/fast-dep](https://github.com/CarterFendley/fast-dep) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
@@ -4151,6 +4160,7 @@
 
 ## TypeScript 
 
+- [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [juankysoriano/human-music](https://github.com/juankysoriano/human-music) - A Generative Music System based on Cellular Automata
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
 - [resonatecoop/stream-app](https://github.com/resonatecoop/stream-app) - A mobile app for playing music on Resonate, an open source music streaming co-op. This is repository is in maintenance mode, while actively developing this repository: https://github.com/resonatecoop/
