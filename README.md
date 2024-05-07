@@ -267,7 +267,7 @@
 - [berndporr/iir1](https://github.com/berndporr/iir1) - DSP IIR realtime filter library written in C++
 - [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
-- [sevagh/demucs.cpp](https://github.com/sevagh/demucs.cpp) - C++17 port of Demucs v4 Hybrid Transformer (4-source, 6-source, fine-tuned) with ggml and Eigen3
+- [sevagh/demucs.cpp](https://github.com/sevagh/demucs.cpp) - C++17 port of Demucs v3 (hybrid) and v4 (hybrid transformer) models with ggml and Eigen3
 - [ibsh/libKeyFinder](https://github.com/ibsh/libKeyFinder) - Musical key detection for digital audio, GPL v3
 - [deezer/deezer-chromaprint](https://github.com/deezer/deezer-chromaprint) - A stand-alone, x86 and x64 compatible, Windows version, of the chromaprint audio library.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
@@ -558,6 +558,8 @@
 
 ## Go 
 
+- [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
+- [erdos-one/r2](https://github.com/erdos-one/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
 - [sammcj/llamalink](https://github.com/sammcj/llamalink) - Link you Ollama models to LM-Studio
 - [timiskhakov/music](https://github.com/timiskhakov/music) - From making a beep to performing a "guitar" cover
@@ -862,6 +864,9 @@
 
 ## JavaScript 
 
+- [meleyal/generative-music-with-javascript](https://github.com/meleyal/generative-music-with-javascript) - A guide to creating generative music with JavaScript
+- [conzaw/cloudflare-r2-desktop](https://github.com/conzaw/cloudflare-r2-desktop) - A cloudflare r2 bucket explorer desktop app.
+- [0xSalik/R2-Worker-API](https://github.com/0xSalik/R2-Worker-API) - Client-side app for Cloudflare R2 bucket using Cloudflare workers.
 - [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts) - Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 - [timqian/gql-generator](https://github.com/timqian/gql-generator) - Generate queries from graphql schema, used for writing api test.
 - [resonatecoop/audio-process-queue](https://github.com/resonatecoop/audio-process-queue) - Audio processing queue
@@ -880,7 +885,6 @@
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
 - [tornqvist/bpm-detective](https://github.com/tornqvist/bpm-detective) - Detects the BPM of a song or audio sample
 - [0xfe/vexwarp](https://github.com/0xfe/vexwarp) - Audio Time Stretching and Pitch Shifting
-- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [Marak/JSONloops](https://github.com/Marak/JSONloops) - JSONloops is a real-time, multiuser audio sequencer for node.js and the browser.
 - [publicsamples/Roland-Jupiter-4](https://github.com/publicsamples/Roland-Jupiter-4) - Sample Library
 - [itsbrex/installable-framer](https://github.com/itsbrex/installable-framer) - Use Framer components in your React project
@@ -2191,6 +2195,7 @@
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [arlosefj/github_interest](https://github.com/arlosefj/github_interest) - interest repositories
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [sagesolar/Corpus-of-Taylor-Swift](https://github.com/sagesolar/Corpus-of-Taylor-Swift) - This is a dataset consisting of all song lyric words found on all of Taylor Swift's studio albums (up to and including TTPD), as well as a selection of other songs written by her.
 - [Stability-AI/stable-audio-demo](https://github.com/Stability-AI/stable-audio-demo) - 
 - [adactio/TheSession-data](https://github.com/adactio/TheSession-data) - Data dumps from thesession.org
@@ -2605,6 +2610,12 @@
 
 ## Python 
 
+- [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This Discord chatbot is incredibly versatile. Powered incredibly fast Groq API
+- [DoMusic/Hybrid-Net](https://github.com/DoMusic/Hybrid-Net) - Real-time audio source separation, generate lyrics, chords, beat.
+- [bzamecnik/midi2audio](https://github.com/bzamecnik/midi2audio) - Play and synthesize MIDI to audio - easy to use Python/CLI API to FluidSynth.
+- [harupong/ytpodgen](https://github.com/harupong/ytpodgen) - command line tool to turn YouTube live streams into podcasts
+- [MTG/essentia-replicate-demos](https://github.com/MTG/essentia-replicate-demos) - Demos of Essentia models hosted on Replicate.com
+- [run-llama/llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [light-and-ray/sd-webui-lama-cleaner-masked-content](https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content) - Use lama cleaner before inpainting inside stable-diffusion-webui
@@ -4032,6 +4043,7 @@
 
 ## Svelte 
 
+- [AbePlays/file-drop](https://github.com/AbePlays/file-drop) - Seamless file upload experience!
 - [itsbrex/open-webui](https://github.com/itsbrex/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you?
@@ -4160,6 +4172,17 @@
 
 ## TypeScript 
 
+- [DeabLabs/cannoli](https://github.com/DeabLabs/cannoli) - Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor.
+- [janklimo/robin-pro-worker](https://github.com/janklimo/robin-pro-worker) - Cloudflare Worker for returning objects from R2, falling back to S3. Save 💸 on egress fees.
+- [dromzeh/api.dromzeh.dev](https://github.com/dromzeh/api.dromzeh.dev) - Hono Backend for dromzeh.dev, including post fetching from r2, ratelimiting, kv post viewcount
+- [gabrielsenadev/audioinsight](https://github.com/gabrielsenadev/audioinsight) - AudioInsight is a web application that processes audio and generates transcriptions, summaries, titles, and allows users to ask questions about the related audio.
+- [SRX9/Litoco-AI](https://github.com/SRX9/Litoco-AI) - (Cloudflare AI Challenge) Generate Social Media Content from Links
+- [vishalonlyy/Cloudflare-R2](https://github.com/vishalonlyy/Cloudflare-R2) - Effortlessly upload images to your Cloudflare R2 server with the Cloudflare-R2-Uploader package. Simplify your integration process with pre-built features . Rapidly enhance your project's image handli
+- [pew/cloudflare-workers-browser-rendering](https://github.com/pew/cloudflare-workers-browser-rendering) - Take a screenshot of a website using the Cloudflare Workers Browser Rendering API
+- [nodejs/release-cloudflare-worker](https://github.com/nodejs/release-cloudflare-worker) - Infra for serving Node.js downloads and documentation.
+- [jahir9991/sveltekit-cloudflare-fullstack](https://github.com/jahir9991/sveltekit-cloudflare-fullstack) - sveltekit edge  fullstack graphql with  api  crud + pages + worker + D1(with drizzle orm) + (supabase-postgres+ drizzle) +       (neon-postgres+ drizzle)   +  kv  crud + R2+  remote-proxy
+- [MNThomson/containerflare](https://github.com/MNThomson/containerflare) - 🔥 Cloudflare (Workers + R2) edge container image repository
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [juankysoriano/human-music](https://github.com/juankysoriano/human-music) - A Generative Music System based on Cellular Automata
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
@@ -4360,7 +4383,7 @@
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ⭐ Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS
+- [blefnk/relivator](https://github.com/blefnk/relivator) - ⭐ Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS
 - [blefnk/reliverse](https://github.com/blefnk/reliverse) - Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with vari
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -4730,6 +4753,7 @@
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [google/link-diver](https://github.com/google/link-diver) - A feature-rich chrome extension that extracts all of the links on a page. Filter links by a regex, highlight them on the original page, and more!
 - [chriswinch/ableton-to-json](https://github.com/chriswinch/ableton-to-json) - Convert Ableton ALS file to json and back again
+- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax
 - [sillsdev/docu-notion](https://github.com/sillsdev/docu-notion) - Download Notion pages as markdown and image files, preserving hierarchy and enabling workflow properties. Works with Docusaurus.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
@@ -4779,7 +4803,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [harshhhdev/kmenu](https://github.com/harshhhdev/kmenu) - :rainbow: An animated and accessible command menu
-- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
+- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright,📋 React Hook Form,◽From the 🐻  BearSt
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [bkper/clasp-types](https://github.com/bkper/clasp-types) - A d.ts generator for clasp projects
