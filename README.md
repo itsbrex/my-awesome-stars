@@ -235,6 +235,7 @@
 
 ## C++ 
 
+- [rorywalsh/cabbage](https://github.com/rorywalsh/cabbage) - Framework for developing audio plugins with the Csound programming language.
 - [yeeking/ai-enhanced-audio-book](https://github.com/yeeking/ai-enhanced-audio-book) - A repository of AI-enhanced audio plugins written using C++, JUCE, libtorch, RTNeural and other libraries. Supports my book
 - [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A cross platform note level midi decoding library with lightening speed, based on minimidi.
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
@@ -561,6 +562,7 @@
 
 ## Go 
 
+- [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
 - [erdos-one/r2](https://github.com/erdos-one/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
@@ -867,6 +869,8 @@
 
 ## JavaScript 
 
+- [webonnx/wonnx-wasm-example](https://github.com/webonnx/wonnx-wasm-example) - Example of using WONNX on the web
+- [hookdeck/hookdeck-vercel](https://github.com/hookdeck/hookdeck-vercel) - Authenticate, delay, filter, queue, throttle, and retry asynchronous HTTP requests (e.g., webhooks) made to a Vercel application via a middleware integration with Hookdeck
 - [meleyal/generative-music-with-javascript](https://github.com/meleyal/generative-music-with-javascript) - A guide to creating generative music with JavaScript
 - [conzaw/cloudflare-r2-desktop](https://github.com/conzaw/cloudflare-r2-desktop) - A cloudflare r2 bucket explorer desktop app.
 - [0xSalik/R2-Worker-API](https://github.com/0xSalik/R2-Worker-API) - Client-side app for Cloudflare R2 bucket using Cloudflare workers.
@@ -2613,6 +2617,7 @@
 
 ## Python 
 
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [pstirparo/machofile](https://github.com/pstirparo/machofile) - machofile is a module to parse Mach-O binary files
 - [Adphi/AbletonMidiExport](https://github.com/Adphi/AbletonMidiExport) - 
 - [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This Discord chatbot is incredibly versatile. Powered incredibly fast Groq API
@@ -3814,6 +3819,7 @@
 
 ## Rust 
 
+- [itsbrex/wonnx](https://github.com/itsbrex/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
@@ -4070,6 +4076,7 @@
 
 ## Swift 
 
+- [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models
 - [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
 - [xmartlabs/Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [vadymmarkov/Beethoven](https://github.com/vadymmarkov/Beethoven) - :guitar: A maestro of pitch detection.
@@ -4177,6 +4184,9 @@
 
 ## TypeScript 
 
+- [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
+- [bromso/jonasbroms-www](https://github.com/bromso/jonasbroms-www) - Jonas Bröms official website built with Turborepo, Nextjs, React, Shadcn/UI, TailwindCSS, Framer Motion & AcernityUI. Hosted on Vercel.
+- [kaarthik108/ohno](https://github.com/kaarthik108/ohno) - ohno - a lightning-fast AI chatbot built with the Hono.js framework, React, and Tailwind CSS
 - [evanpurkhiser/prolink-tools](https://github.com/evanpurkhiser/prolink-tools) - User friendly tools for accessing and using PRO DJ LINK information.
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples and guides for using the E2B API
 - [DeabLabs/cannoli](https://github.com/DeabLabs/cannoli) - Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor.
