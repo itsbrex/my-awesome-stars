@@ -146,6 +146,7 @@
 - [libsndfile/libsamplerate](https://github.com/libsndfile/libsamplerate) - An audio Sample Rate Conversion library
 - [c4dm/qm-dsp](https://github.com/c4dm/qm-dsp) - A C++ library of functions for DSP and Music Informatics purposes. Used by the QM Vamp Plugins amongst other things.
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+- [anthonix/ffts](https://github.com/anthonix/ffts) - The Fastest Fourier Transform in the South
 - [rsms/compis](https://github.com/rsms/compis) - Contemporary systems programming language in the spirit of C
 - [wiseman/py-webrtcvad](https://github.com/wiseman/py-webrtcvad) - Python interface to the WebRTC Voice Activity Detector
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
@@ -264,7 +265,6 @@
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 - [HiFi-LoFi/AudioFFT](https://github.com/HiFi-LoFi/AudioFFT) - 1D real data FFT in C++ for usage e.g. in real time audio applications
 - [adamstark/Gist](https://github.com/adamstark/Gist) - A C++ Library for Audio Analysis
-- [anthonix/ffts](https://github.com/anthonix/ffts) - The Fastest Fourier Transform in the South
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [deeuu/loudness](https://github.com/deeuu/loudness) - Audio library for modelling loudness
 - [vinniefalco/DSPFilters](https://github.com/vinniefalco/DSPFilters) - A Collection of Useful C++ Classes for Digital Signal Processing
@@ -400,6 +400,7 @@
 
 ## CSS 
 
+- [kishikawakatsumi/WebTranslator](https://github.com/kishikawakatsumi/WebTranslator) - Safari web extension for DeepL translate.
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 - [sony/creativeai](https://github.com/sony/creativeai) - 
 - [fvucemilo/beth-stack](https://github.com/fvucemilo/beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
@@ -875,6 +876,7 @@
 
 ## JavaScript 
 
+- [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [IonicaBizau/json2md](https://github.com/IonicaBizau/json2md) - :pushpin: A JSON to Markdown converter.
 - [elwerene/libreoffice-convert](https://github.com/elwerene/libreoffice-convert) - 
@@ -1993,6 +1995,7 @@
 
 ## Lua 
 
+- [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) - 
 - [cvondrick/soundnet](https://github.com/cvondrick/soundnet) - SoundNet: Learning Sound Representations from Unlabeled Video. NIPS 2016
 - [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -2183,7 +2186,6 @@
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [mittsh/CocoaAsyncSocket](https://github.com/mittsh/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS
 - [mittsh/RestKit](https://github.com/mittsh/RestKit) - RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
-- [phranck/CCNStatusItem](https://github.com/phranck/CCNStatusItem) - CCNStatusItem is a subclass of NSObject to act as a custom view for NSStatusItem. It supports a customizable statusItemWindow handling any viewController for presenting the content.
 - [button/DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
 - [MacGapProject/MacGap2](https://github.com/MacGapProject/MacGap2) - MacGap 2
 - [MacGapProject/MacGap1](https://github.com/MacGapProject/MacGap1) - Desktop WebKit wrapper for HTML/CSS/JS applications.
@@ -2196,6 +2198,8 @@
 
 ## Others 
 
+- [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
+- [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [sgraaf/openapi-scraper](https://github.com/sgraaf/openapi-scraper) - Track changes to RESTful APIs by git scraping their OpenAPI descriptions
 - [julian-parker/stemgen](https://github.com/julian-parker/stemgen) - Examples for ICASSP2024 paper "StemGen: A music generation model that listens"
@@ -2452,7 +2456,7 @@
 - [stefanbuck/jumpcat](https://github.com/stefanbuck/jumpcat) - A command palette for GitHub (browser extension)
 - [samuelspagl/alfred_ffmpeg](https://github.com/samuelspagl/alfred_ffmpeg) - A small Alfred Workflow for the ffmpeg library.
 - [Mimieam/TabSorter2](https://github.com/Mimieam/TabSorter2) - Google Chrome Tab Management Extension - Merge, Sort, split and more :) - https://chrome.google.com/webstore/detail/tabsorter2/lmmmdnmgmgnimgcfbnomdgeldehlfafn
-- [AleoHQ/welcome](https://github.com/AleoHQ/welcome) - Welcome to Aleo. Where Applications Become Zero-Knowledge
+- [AleoHQ/welcome](https://github.com/AleoHQ/welcome) - 👋 Welcome to Provable! Zero-Knowledge is Finally Here 🚀
 - [scraggo/Random-Music-Generators](https://github.com/scraggo/Random-Music-Generators) - Random chord, melody, and rhythm generators with MIDI output
 - [ttsreadit/ttsreadit](https://github.com/ttsreadit/ttsreadit) - TTS Websites Reader Chrome extension
 - [cyrta/awesome-speech-enhancement](https://github.com/cyrta/awesome-speech-enhancement) - A curated list of awesome Speech Enhancement papers, libraries, datasets, and other resources.
@@ -2522,7 +2526,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [alite/vjlxnr](https://github.com/alite/vjlxnr) - … (one more) simple VJing tool made with max/jitter/m4l …
 - [alexanderhuth/alfred-open-in-browser-workflow](https://github.com/alexanderhuth/alfred-open-in-browser-workflow) - An Alfred workflow to open the current browser tab in a different browser.
-- [tastyblob/add-snippet.alfredworkflow](https://github.com/tastyblob/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
+- [thepigeonoftime/add-snippet.alfredworkflow](https://github.com/thepigeonoftime/add-snippet.alfredworkflow) - Add new Alfred Snippet using ## keyword: snippet
 - [stuartcryan/defaultbrowser-alfred-workflow](https://github.com/stuartcryan/defaultbrowser-alfred-workflow) - Default Browser workflow for Alfred using Kerma's DefaultBrowser Binary
 - [gravitinos/slack_themes](https://github.com/gravitinos/slack_themes) - :speech_balloon: Slack Themes :see_no_evil: A collection of themes for Slack pulled together into one easily referenced place, letting you get a taste before you copy and paste!
 - [chadanderson/alfred_quick_resize](https://github.com/chadanderson/alfred_quick_resize) - Quickly resize images on your desktop with Alfred
@@ -2628,6 +2632,10 @@
 
 ## Python 
 
+- [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
+- [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
+- [yuma-m/pychord](https://github.com/yuma-m/pychord) - Python library to handle musical chords.
+- [cdjkim/audiocaps](https://github.com/cdjkim/audiocaps) - 🔊 Repository for our NAACL-HLT 2019 paper: AudioCaps
 - [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - 
 - [snowflakedb/snowflake-cli](https://github.com/snowflakedb/snowflake-cli) - Snowflake CLI is an open-source command-line tool explicitly designed for developer-centric workloads in addition to SQL operations.
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs
@@ -2862,6 +2870,7 @@
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [Vchitect/Latte](https://github.com/Vchitect/Latte) - Latte: Latent Diffusion Transformer for Video Generation.
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [xenova/sponsorblock-ml](https://github.com/xenova/sponsorblock-ml) - Automatically detect in-video YouTube sponsorships, self/unpaid promotions, and interaction reminders.
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
@@ -3056,7 +3065,7 @@
 - [asigalov61/Orchestrator](https://github.com/asigalov61/Orchestrator) - Local windowed attention multi-instrumental music transformer tailored for music orchestration/instrumentation and stable music generation
 - [nateraw/huggingface-sync-action](https://github.com/nateraw/huggingface-sync-action) - GitHub action that'll sync files from a GitHub Repo with the Hugging Face Hub 🤗
 - [hallatore/stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) - Enables use of ChatGPT directly from the UI
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Orchestrate Swarms of Agents From Any Framework Like OpenAI, Langchain, and Etc for Real World Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - Orchestrate Swarms of Agents From Any Framework Like OpenAI, Langchain, and Etc for Business Operation Automation. Join our Community: https://discord.gg/DbjBMJTSWD
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [music-x-lab/Self-Supervised-Metrical-Structure](https://github.com/music-x-lab/Self-Supervised-Metrical-Structure) - 
@@ -4206,6 +4215,7 @@
 
 ## TypeScript 
 
+- [j3lte/govee-lan-controller](https://github.com/j3lte/govee-lan-controller) - Control your Govee lights
 - [tchowd/proposal-generator](https://github.com/tchowd/proposal-generator) - 
 - [noook/spotify-client](https://github.com/noook/spotify-client) - A fully-typed client for Spotify API, compatible in a browser and node.
 - [MohammadAhmerMalick/next-js-with-typescript-eslint-airbnb-prettier-husky-and-lint-staged](https://github.com/MohammadAhmerMalick/next-js-with-typescript-eslint-airbnb-prettier-husky-and-lint-staged) - Next.Js with Typescript, ESLint, Airbnb, Prettier, Husky and Lint Staged
@@ -4286,7 +4296,6 @@
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [gusper/SongTxt-vscode](https://github.com/gusper/SongTxt-vscode) - Visual Studio Code extension that adds support for editing text files for songs including lyrics, chords, guitar tablature, etc.
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [bra1nDump/ai-task-vscode](https://github.com/bra1nDump/ai-task-vscode) - LLM multi file edits within vscode
@@ -4966,7 +4975,7 @@
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
@@ -5108,6 +5117,8 @@
 
 ## Vue 
 
+- [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
+- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
 - [sigsep/open-unmix-demo-electron](https://github.com/sigsep/open-unmix-demo-electron) - desktop source separation demo player
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [StarfleetAI/bridge](https://github.com/StarfleetAI/bridge) - 🤖 Bridge — Autonomous AI Agents IDE / Runtime: Become ×100-anyone with your own agency!
