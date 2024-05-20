@@ -3626,7 +3626,7 @@
 - [NinjadenMu/AI_Music_Composer](https://github.com/NinjadenMu/AI_Music_Composer) - Takes a Midi file as input and then uses Markov Chains to generate a piece of music based on the input.
 - [ritvikvinod/BeatIt](https://github.com/ritvikvinod/BeatIt) - An artificial intelligence application to generate chords for acapella vocal melodies given as input using Python. Incorporated a Hidden Markov Model to keep track of chord transitions and melody obse
 - [DamiPayne/AI-Music-Composer](https://github.com/DamiPayne/AI-Music-Composer) - A project that trains a LSTM recurrent neural network over a data-set of MIDI files.
-- [ldrolez/clyphx-live11](https://github.com/ldrolez/clyphx-live11) - ClyphX advanced macros and scripting for Ableton Live 11 and 10
+- [ldrolez/clyphx-live11](https://github.com/ldrolez/clyphx-live11) - ClyphX advanced macros and scripting for Ableton Live 12, 11 and 10
 - [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
 - [kevin-funderburg/alfred-school-bookmarks](https://github.com/kevin-funderburg/alfred-school-bookmarks) - How I use Alfred to get to all the important stuff for school in a flash.
 - [mr-pennyworth/alfred-clipboard-ocr](https://github.com/mr-pennyworth/alfred-clipboard-ocr) - Make images in Alfred's clipboard history searchable by their text content
