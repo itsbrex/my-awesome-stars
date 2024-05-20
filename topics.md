@@ -6516,7 +6516,7 @@
 - [samuelspagl/alfred_ffmpeg](https://github.com/samuelspagl/alfred_ffmpeg) - A small Alfred Workflow for the ffmpeg library.
 - [Hyra/Spotify-Boilerplate](https://github.com/Hyra/Spotify-Boilerplate) - Boilerplate app to kickstart your Spotify Apps
 - [michael-jan/key-repeat](https://github.com/michael-jan/key-repeat) - A lightweight beat repeat sampler. Available in VST and AU formats.
-- [ldrolez/clyphx-live11](https://github.com/ldrolez/clyphx-live11) - ClyphX advanced macros and scripting for Ableton Live 11 and 10
+- [ldrolez/clyphx-live11](https://github.com/ldrolez/clyphx-live11) - ClyphX advanced macros and scripting for Ableton Live 12, 11 and 10
 - [squatto/alfred-imessage-2fa](https://github.com/squatto/alfred-imessage-2fa) - iMessage 2FA Workflow for Alfred
 - [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
 - [mr-pennyworth/alfred-clipboard-ocr](https://github.com/mr-pennyworth/alfred-clipboard-ocr) - Make images in Alfred's clipboard history searchable by their text content
