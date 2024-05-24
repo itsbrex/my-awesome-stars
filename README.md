@@ -173,7 +173,6 @@
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [MLXXXp/midi2tones](https://github.com/MLXXXp/midi2tones) - Fork of MIDITONES - Convert MIDI files to a simplified time-ordered sequence of note commands
-- [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [g-zi/CDJ_Clock](https://github.com/g-zi/CDJ_Clock) - CDJ Clock is the missing link between Pioneers Pro DJ Link and Ableton Live. CDJ Clock generates MIDI beat clock from Pioneers Pro DJ Link. With CDJ Clock anything what understands MIDI Beat Clock can
 - [PhoenicisOrg/winecx](https://github.com/PhoenicisOrg/winecx) - Codeweavers modified wine version. This repository is just a mirror of https://media.codeweavers.com/pub/crossover/source/
 - [trifox/Spack-O-Mat-FFGL-Plugins](https://github.com/trifox/Spack-O-Mat-FFGL-Plugins) - Spack-O-Mat FFGL Plugin Collection for Resolume 6.0
@@ -372,6 +371,7 @@
 - [Boscillator/auger](https://github.com/Boscillator/auger) - LoFi hold music VST
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - One music sequencer for all major platforms, desktop and mobile
+- [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 - [WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automated scene switcher for OBS Studio
@@ -1124,7 +1124,7 @@
 - [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
 - [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
 - [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
-- [elmsln/unbundled-webcomponents](https://github.com/elmsln/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
+- [haxtheweb/unbundled-webcomponents](https://github.com/haxtheweb/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript.
 - [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
@@ -3852,6 +3852,7 @@
 
 ## Rust 
 
+- [dioxus-community/dioxus-radio](https://github.com/dioxus-community/dioxus-radio) - Fully-typed global state management with a topics subscription system for Dioxus 🧬
 - [itsbrex/wonnx](https://github.com/itsbrex/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
@@ -4218,6 +4219,7 @@
 
 ## TypeScript 
 
+- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [j3lte/govee-lan-controller](https://github.com/j3lte/govee-lan-controller) - Control your Govee lights
 - [tchowd/proposal-generator](https://github.com/tchowd/proposal-generator) - 
 - [noook/spotify-client](https://github.com/noook/spotify-client) - A fully-typed client for Spotify API, compatible in a browser and node.
@@ -4237,7 +4239,7 @@
 - [DeabLabs/cannoli](https://github.com/DeabLabs/cannoli) - Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor.
 - [janklimo/robin-pro-worker](https://github.com/janklimo/robin-pro-worker) - Cloudflare Worker for returning objects from R2, falling back to S3. Save 💸 on egress fees.
 - [dromzeh/api.dromzeh.dev](https://github.com/dromzeh/api.dromzeh.dev) - Hono Backend for dromzeh.dev, including post fetching from r2, ratelimiting, kv post viewcount
-- [gabrielsenadev/audioinsight](https://github.com/gabrielsenadev/audioinsight) - AudioInsight is a web application that processes audio and generates transcriptions, summaries, titles, and allows users to ask questions about the related audio.
+- [gabrielsenadev/audioinsight](https://github.com/gabrielsenadev/audioinsight) - AudioInsight is a web application that processes audio, generates transcriptions, and allows users to ask questions about the related audio.
 - [SRX9/Litoco-AI](https://github.com/SRX9/Litoco-AI) - (Cloudflare AI Challenge) Generate Social Media Content from Links
 - [vishalonlyy/Cloudflare-R2](https://github.com/vishalonlyy/Cloudflare-R2) - Effortlessly upload images to your Cloudflare R2 server with the Cloudflare-R2-Uploader package. Simplify your integration process with pre-built features . Rapidly enhance your project's image handli
 - [pew/cloudflare-workers-browser-rendering](https://github.com/pew/cloudflare-workers-browser-rendering) - Take a screenshot of a website using the Cloudflare Workers Browser Rendering API
