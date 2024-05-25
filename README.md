@@ -672,6 +672,7 @@
 
 ## HCL 
 
+- [bfbarkhouse/hashistack-secure-infra-workflow](https://github.com/bfbarkhouse/hashistack-secure-infra-workflow) - 
 - [replay-software/bump](https://github.com/replay-software/bump) - An automated pipeline for releasing apps with Sparkle
 
 ## HTML 
@@ -877,6 +878,8 @@
 
 ## JavaScript 
 
+- [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [artdecocode/expensive](https://github.com/artdecocode/expensive) - Node.js CLI tool to register and manage domains on namecheap.com
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
@@ -2022,7 +2025,7 @@
 
 ## MDX 
 
-- [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
+- [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡 GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
@@ -2634,6 +2637,7 @@
 
 ## Python 
 
+- [descriptinc/melgan-neurips](https://github.com/descriptinc/melgan-neurips) - GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis
 - [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [yuma-m/pychord](https://github.com/yuma-m/pychord) - Python library to handle musical chords.
@@ -2784,7 +2788,7 @@
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [ttm/mass](https://github.com/ttm/mass) - MASS (Music and Audio in Sample Sequences) is a mathematical and computational framework relating musical elements to PCM audio samples
 - [ttm/music](https://github.com/ttm/music) - music is a python package for making sounds and music
-- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo AI: Synthesize & clone voices in English, Russian & Chinese, real-time speech recognition, deepfake face & lips animation, face swap with one photo, change video by text prompts, segmentation, a
+- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo CE: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, TTS. Open Source, Local & Free.
 - [ijc8/lambdaw](https://github.com/ijc8/lambdaw) - Generative music in the DAW timeline
 - [JonathanFly/bark-installer](https://github.com/JonathanFly/bark-installer) - One click installer scripts for Bark Infinity
 - [JonathanFly/faster-whisper-livestream-translator](https://github.com/JonathanFly/faster-whisper-livestream-translator) - faster-whisper livestream translation, OBS noise reduction, dual language subtitles
@@ -2803,7 +2807,7 @@
 - [ngxson/hobby-audio-features-extractor](https://github.com/ngxson/hobby-audio-features-extractor) - 
 - [erl-j/enfusion](https://github.com/erl-j/enfusion) - 
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - I provide suno API, no deployment is required.It 's convenient to use. 需要 suno API的可以看看这里👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.需要 suno API的可以看看这里👇
 - [jljl1337/svc-toolkit](https://github.com/jljl1337/svc-toolkit) - A self-contained singing voice conversion application
 - [mikez/spotify-folders](https://github.com/mikez/spotify-folders) - Get your Spotify folder hierarchy with playlists into JSON.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
@@ -3305,7 +3309,6 @@
 - [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - [EMNLP 2023] The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning
 - [kaistAI/SelFee](https://github.com/kaistAI/SelFee) - Official codebase for "SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation"
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -3852,6 +3855,7 @@
 
 ## Rust 
 
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [dioxus-community/dioxus-radio](https://github.com/dioxus-community/dioxus-radio) - Fully-typed global state management with a topics subscription system for Dioxus 🧬
 - [itsbrex/wonnx](https://github.com/itsbrex/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
@@ -3895,6 +3899,7 @@
 - [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper for Ableton Link
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) - A music theory guide written in Rust.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [clintburgos/ableton-git](https://github.com/clintburgos/ableton-git) - wrapper for git that ensures the best settings for versioning Ableton Live projects
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
@@ -4231,7 +4236,7 @@
 - [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
 - [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
+- [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper
 - [bromso/jonasbroms-www](https://github.com/bromso/jonasbroms-www) - Jonas Bröms official website built with Turborepo, Nextjs, React, Shadcn/UI, TailwindCSS, Framer Motion & AcernityUI. Hosted on Vercel.
 - [kaarthik108/ohno](https://github.com/kaarthik108/ohno) - ohno - a lightning-fast AI chatbot built with the Hono.js framework, React, and Tailwind CSS
 - [evanpurkhiser/prolink-tools](https://github.com/evanpurkhiser/prolink-tools) - User friendly tools for accessing and using PRO DJ LINK information.
