@@ -157,7 +157,7 @@
 - [elf-audio/mzgl](https://github.com/elf-audio/mzgl) - a cross-platform application library and a collection of other useful of libraries.
 - [sideb0ard/SoundB0ard](https://github.com/sideb0ard/SoundB0ard) - Soundb0ard Shellllllll
 - [judyqiu1996/Chord-detection](https://github.com/judyqiu1996/Chord-detection) - Detected chords in a piece of music made of instruments, e.g. piano and guitar, by using Maximum Likelihood Method and FFT.
-- [cmajor-lang/cmajor](https://github.com/cmajor-lang/cmajor) - The Cmajor public API
+- [cmajor-lang/cmajor](https://github.com/cmajor-lang/cmajor) - The Cmajor public repository
 - [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
 - [mhroth/tinyosc](https://github.com/mhroth/tinyosc) - A minimal Open Sound Control (OSC) library written in vanilla C.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -878,6 +878,8 @@
 
 ## JavaScript 
 
+- [zachblume/autospec](https://github.com/zachblume/autospec) - Open-source agent that generates E2E tests for your web app
+- [hasura/sphinx-graphiql](https://github.com/hasura/sphinx-graphiql) - Sphinx plugin that adds a GraphiQL directive so that you can embed an interactive GraphQL query explorer in your docs
 - [anvilco/graphql-introspection-tools](https://github.com/anvilco/graphql-introspection-tools) - A library to query and manipulate GraphQL Introspection Query results in some useful ways.
 - [zya/degrees-and-modifiers](https://github.com/zya/degrees-and-modifiers) - Ableton Live MIDI Generator Chords Device
 - [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
@@ -1429,7 +1431,6 @@
 - [redwoodjs/example-store-stripe](https://github.com/redwoodjs/example-store-stripe) - Redwood Example Store with Stripe Checkout Integration
 - [jamezmca/holy-sheet](https://github.com/jamezmca/holy-sheet) - next.js RESTapi to google sheets
 - [VLabStudio/Tutorials](https://github.com/VLabStudio/Tutorials) - All of the smaller projects I have done in tutorials / project files
-- [web3templates/nextly-template](https://github.com/web3templates/nextly-template) - Nextly Landing Page Template built with Next.js & TailwindCSS
 - [sarmadgardezi/Google-Spreadsheet-Formulas](https://github.com/sarmadgardezi/Google-Spreadsheet-Formulas) - How to add formulas to Google Spreadsheet using Google Apps Script - Sarmad Gardezi
 - [darwinphi/nextjs-auth](https://github.com/darwinphi/nextjs-auth) - Sample demo using NextAuth.js and JWT in Next.js
 - [jamesonchan/spotify-soundtrack](https://github.com/jamesonchan/spotify-soundtrack) - next-middleware/JWT/nextauth/spotifyApi/tailwind/recoil
@@ -2639,13 +2640,15 @@
 
 ## Python 
 
+- [ryanwaldorf/generate_temp_table_sql](https://github.com/ryanwaldorf/generate_temp_table_sql) - This package takes a CSV and generates SQL statements to create a temp table and insert the data within it into the temp table.  Good when you need to move data between warehouses for ad hoc analysis 
+- [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [gudgud96/MR-MT3](https://github.com/gudgud96/MR-MT3) - MR-MT3: Memory Retaining Multi-Track Music Transcription to Mitigate Instrument Leakage
 - [descriptinc/melgan-neurips](https://github.com/descriptinc/melgan-neurips) - GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis
 - [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [yuma-m/pychord](https://github.com/yuma-m/pychord) - Python library to handle musical chords.
 - [cdjkim/audiocaps](https://github.com/cdjkim/audiocaps) - 🔊 Repository for our NAACL-HLT 2019 paper: AudioCaps
-- [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - 
+- [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirem
 - [snowflakedb/snowflake-cli](https://github.com/snowflakedb/snowflake-cli) - Snowflake CLI is an open-source command-line tool explicitly designed for developer-centric workloads in addition to SQL operations.
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs
 - [dieharders/ai-text-server](https://github.com/dieharders/ai-text-server) - 🍺 Obrew Server: A local & private Ai inference engine.
@@ -2669,7 +2672,7 @@
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [light-and-ray/sd-webui-lama-cleaner-masked-content](https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content) - Use lama cleaner before inpainting inside stable-diffusion-webui
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source backend for building stateful AI apps
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with memory, RAG, tools and tasks.                  ~ Supabase for building AI agents.
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) - 
 - [aws-samples/song-identification-on-aws](https://github.com/aws-samples/song-identification-on-aws) - A song fingerprinting example that works with streaming media and stored media files
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -2830,7 +2833,7 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala: Autonomous DAta (Labeling) Agent framework
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [Rainbow-Dreamer/sf2_loader](https://github.com/Rainbow-Dreamer/sf2_loader) - This is an easy-to-use soundfonts loader, player and audio renderer in python
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [lucsorel/py2puml](https://github.com/lucsorel/py2puml) - Generate PlantUML class diagrams to document your Python application.
@@ -2908,7 +2911,7 @@
 - [markusstraub/mdsplit](https://github.com/markusstraub/mdsplit) - mdsplit is a python command line tool to split markdown files into chapters at a given heading level
 - [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
-- [deepseek-ai/DeepSeek-MoE](https://github.com/deepseek-ai/DeepSeek-MoE) - 
+- [deepseek-ai/DeepSeek-MoE](https://github.com/deepseek-ai/DeepSeek-MoE) - DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models
 - [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
 - [tomshafer/karpathy-gpt](https://github.com/tomshafer/karpathy-gpt) - A small PyTorch GPT implementation following Andrej Karpathy's lecture on YouTube.
 - [ps1899/YouTube-Transcript-Summarizer](https://github.com/ps1899/YouTube-Transcript-Summarizer) - Chrome Extension which makes a request to a Backend REST API to perform NLP and respond with a summarized version of a YouTube transcript.
@@ -3045,7 +3048,7 @@
 - [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) - 
 - [tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) - Vocal Remover using Deep Neural Networks
 - [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - a self-hosted webui for 30+ generative ai
-- [spotify-research/llark](https://github.com/spotify-research/llark) - Code for the paper "LLark: A Multimodal Foundation Model for Music" by Josh Gardner, Simon Durand, Daniel Stoller, and Rachel Bittner.
+- [spotify-research/llark](https://github.com/spotify-research/llark) - Code for the paper "LLark: A Multimodal Instruction-Following Language Model for Music" by Josh Gardner, Simon Durand, Daniel Stoller, and Rachel Bittner.
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [ScanLineDev/scanline](https://github.com/ScanLineDev/scanline) - Expert AI code reviews  Catch bugs before they hurt  Run Scanline in your CLI to find: - race conditions - logical errors - security risks - optimizations
 - [sander-wood/deepchoir](https://github.com/sander-wood/deepchoir) - Chord-Conditioned Melody Harmonization with Controllable Harmonicity [ICASSP 2023]
@@ -3877,7 +3880,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [jdx/demand](https://github.com/jdx/demand) - prompt library for rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-- [AldaronLau/twang](https://github.com/AldaronLau/twang) - Library for pure Rust advanced audio synthesis.
+- [NibbleRealm/twang](https://github.com/NibbleRealm/twang) - Library for pure Rust advanced audio synthesis.
 - [smlxl/storage-layout-extractor](https://github.com/smlxl/storage-layout-extractor) - A tool that performs extraction of storage layouts based on EVM bytecode.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -4227,6 +4230,12 @@
 
 ## TypeScript 
 
+- [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
+- [Blazity/next-maintenance-mode](https://github.com/Blazity/next-maintenance-mode) - 🛠️ The intuitive cost-efficient middleware for effortless maintenance mode toggling. Supported by multiple configuration options and a straightforward API. Ready to integrate with your Next.js app dir
+- [Blazity/commerce-cli](https://github.com/Blazity/commerce-cli) - 
+- [Blazity/next-news](https://github.com/Blazity/next-news) - 
+- [Blazity/hygraph-app-starter](https://github.com/Blazity/hygraph-app-starter) - 
+- [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
 - [CDThomas/graphql-json-to-sdl](https://github.com/CDThomas/graphql-json-to-sdl) - A command line utility for converting a JSON GraphQL schema to GraphQL SDL
 - [zya/litellmjs](https://github.com/zya/litellmjs) - JavaScript implementation of LiteLLM.
 - [The-SaaS-Factory/frontend-saas-boilerplate-react-apollo-graphql-TS](https://github.com/The-SaaS-Factory/frontend-saas-boilerplate-react-apollo-graphql-TS) - Professional boilerplate to develop SaaS in a weekend with a powerful and scalable stack. - React Graphql - Apollo - Clerk - Tailwind CSS, TypeScript
@@ -4436,7 +4445,7 @@
 - [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
 - [iansimon/magenta-js](https://github.com/iansimon/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [panayotsky-dev/MobileShopView](https://github.com/panayotsky-dev/MobileShopView) - Interview Task with Next,React,TailwindCSS,Context,framer-motion,TS
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
@@ -4940,6 +4949,7 @@
 - [svenpetermanec/pwa-frontend](https://github.com/svenpetermanec/pwa-frontend) - A social media service for sharing and messaging, built with React, Redux, TypeScript, Chakra UI and Socket.IO
 - [Lukazovic/nextjs-with-chakra-ui-boilerplate](https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate) - Next.js with Chakra UI boilerplate. PWA ready with storybook and tests configured.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [web3templates/nextly-template](https://github.com/web3templates/nextly-template) - Nextly Landing Page Template built with Next.js & TailwindCSS
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
 - [agcty/nextjs-advanced-starter](https://github.com/agcty/nextjs-advanced-starter) - Use Tailwind CSS, ESLint, Prettier & absolute imports instantly. Easily extendable zero-config template for pros and beginners.
 - [rocketseat-education/ignite-reactjs-auth-backend](https://github.com/rocketseat-education/ignite-reactjs-auth-backend) - 
