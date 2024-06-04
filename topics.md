@@ -302,7 +302,7 @@
 - [JepriCreations/commitollama](https://github.com/JepriCreations/commitollama) - AI Commits with ollama VS Extension.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
@@ -1861,6 +1861,7 @@
 
 ## discord 
 
+- [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [enginestein/Reversecord](https://github.com/enginestein/Reversecord) - A repository containing reverse engineered discord code
 - [Uo1428/ALL-IN-ONE-Discord-Bot-](https://github.com/Uo1428/ALL-IN-ONE-Discord-Bot-) - An advance discord bot with 500+ commands
@@ -2011,7 +2012,7 @@
 ## emoji 
 
 - [ccnnde/commitlint-config-git-commit-emoji](https://github.com/ccnnde/commitlint-config-git-commit-emoji) - Shareable commitlint config for the VS Code extension git-commit-plugin with emoji enabled
-- [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
+- [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec. [  📦👌🐛📖🚀🤖 ‼️]
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
 - [lambtron/emojipacks](https://github.com/lambtron/emojipacks) - CLI to bulk upload emojis to your Slack
@@ -2234,7 +2235,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [ccnnde/commitlint-config-git-commit-emoji](https://github.com/ccnnde/commitlint-config-git-commit-emoji) - Shareable commitlint config for the VS Code extension git-commit-plugin with emoji enabled
-- [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
+- [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec. [  📦👌🐛📖🚀🤖 ‼️]
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
@@ -3340,7 +3341,7 @@
 - [simonw/llm-plugin](https://github.com/simonw/llm-plugin) - A cookiecutter template for building plugins for LLM
 - [icebaker/nano-bots-api](https://github.com/icebaker/nano-bots-api) - HTTP API for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral A
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [i10mm/gpt-arxiv-fetcher](https://github.com/i10mm/gpt-arxiv-fetcher) - Revolutionize your research with our GitHub repository, where GPT meets arXiv API for seamless access and analysis of the latest academic papers!
 - [Globe-Engineer/globot](https://github.com/Globe-Engineer/globot) - Globot is an agent that controls your browser using playwright and GPT-4V.
@@ -3727,6 +3728,7 @@
 
 ## markdown 
 
+- [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
