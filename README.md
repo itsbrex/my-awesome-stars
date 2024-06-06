@@ -881,6 +881,8 @@
 
 ## JavaScript 
 
+- [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [zachblume/autospec](https://github.com/zachblume/autospec) - Open-source AI agent that autonomously QAs and generates E2E test specs for your web app (GPT-4o + Playwright)
 - [hasura/sphinx-graphiql](https://github.com/hasura/sphinx-graphiql) - Sphinx plugin that adds a GraphiQL directive so that you can embed an interactive GraphQL query explorer in your docs
@@ -1871,6 +1873,7 @@
 
 - [ebai101/splorganizer](https://github.com/ebai101/splorganizer) - more useful organization for Splice sample libraries
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
+- [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
 - [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa) - Developer APIs to Accelerate LLM Projects
 - [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
@@ -2658,7 +2661,6 @@
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [gudgud96/MR-MT3](https://github.com/gudgud96/MR-MT3) - MR-MT3: Memory Retaining Multi-Track Music Transcription to Mitigate Instrument Leakage
 - [descriptinc/melgan-neurips](https://github.com/descriptinc/melgan-neurips) - GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis
-- [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [yuma-m/pychord](https://github.com/yuma-m/pychord) - Python library to handle musical chords.
 - [cdjkim/audiocaps](https://github.com/cdjkim/audiocaps) - 🔊 Repository for our NAACL-HLT 2019 paper: AudioCaps
@@ -3872,6 +3874,7 @@
 
 ## Rust 
 
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [dioxus-community/dioxus-radio](https://github.com/dioxus-community/dioxus-radio) - Fully-typed global state management with a topics subscription system for Dioxus 🧬
 - [itsbrex/wonnx](https://github.com/itsbrex/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
@@ -4247,7 +4250,6 @@
 - [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data.
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [Blazity/next-maintenance-mode](https://github.com/Blazity/next-maintenance-mode) - 🛠️ The intuitive cost-efficient middleware for effortless maintenance mode toggling. Supported by multiple configuration options and a straightforward API. Ready to integrate with your Next.js app dir
-- [Blazity/commerce-cli](https://github.com/Blazity/commerce-cli) - 
 - [Blazity/next-news](https://github.com/Blazity/next-news) - 
 - [Blazity/hygraph-app-starter](https://github.com/Blazity/hygraph-app-starter) - 
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
@@ -4670,7 +4672,7 @@
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
-- [xiaoluoboding/chrome-ext-mv3-starter](https://github.com/xiaoluoboding/chrome-ext-mv3-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
+- [xiaoluoboding/chrome-ext-starter](https://github.com/xiaoluoboding/chrome-ext-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [simpel/little-template-maker](https://github.com/simpel/little-template-maker) - 
