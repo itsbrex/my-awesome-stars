@@ -304,6 +304,7 @@
 - [jomarkow/Audio-to-MIDI](https://github.com/jomarkow/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
 - [ddiakopoulos/modern-midi](https://github.com/ddiakopoulos/modern-midi) - :musical_score: C++11 MIDI file & realtime io library
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [sandormatyi/Sequoia](https://github.com/sandormatyi/Sequoia) - 808-style MIDI sequencer built around a Teensy LC board
 - [rafalcieslak/harmonySEQ](https://github.com/rafalcieslak/harmonySEQ) - MIDI sequencer designed for live performances
@@ -583,7 +584,7 @@
 - [saucam/airflow-runner](https://github.com/saucam/airflow-runner) - 
 - [steveefemsc/traefik](https://github.com/steveefemsc/traefik) - The Cloud Native Application Proxy
 - [steveefemsc/cert-manager](https://github.com/steveefemsc/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
@@ -2301,7 +2302,6 @@
 - [Metalesaek/flowisejson](https://github.com/Metalesaek/flowisejson) - flowise with json data
 - [jasonwcfan/awesome-rag](https://github.com/jasonwcfan/awesome-rag) - A repository of awesome open source projects to set up your own AI powered knowledge base
 - [polywrap/awesome-polywrap](https://github.com/polywrap/awesome-polywrap) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [arisona/m4l_devices](https://github.com/arisona/m4l_devices) - 
 - [iamwillrost/ableton-live-metronome-app](https://github.com/iamwillrost/ableton-live-metronome-app) - an apple watch application that uses ableton link metronome bpm and sync data from live and causes the watch to vibrate or pulse in time on the wrist.
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
@@ -2654,6 +2654,7 @@
 
 ## Python 
 
+- [geo-martino/musify](https://github.com/geo-martino/musify) - A Swiss Army knife for music library management. Helps you to manage your local and music streaming service libraries.
 - [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser
 - [alesfil/liveset](https://github.com/alesfil/liveset) - 
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
@@ -2882,7 +2883,7 @@
 - [eigenpunk/ComfyUI-audio](https://github.com/eigenpunk/ComfyUI-audio) - some generative audio tools for ComfyUI
 - [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
 - [hf-lin/ChatMusician](https://github.com/hf-lin/ChatMusician) - 
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen1.5 & Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
 - [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [MusicLang/musiclang](https://github.com/MusicLang/musiclang) - 
@@ -3053,7 +3054,7 @@
 - [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI) - DALI: a large Dataset of synchronised Audio, LyrIcs and vocal notes.
 - [bastibe/python-soundfile](https://github.com/bastibe/python-soundfile) - SoundFile is an audio library based on libsndfile, CFFI, and NumPy
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
-- [wch18735/Audio_File_Conversion](https://github.com/wch18735/Audio_File_Conversion) - :arrows_counterclockwise: silence deletion, wav2pcm, pcm2wav implementation
+- [wch18735/audio-file-converter-capston-design](https://github.com/wch18735/audio-file-converter-capston-design) - :arrows_counterclockwise: silence deletion, wav2pcm, pcm2wav implementation
 - [NolanNicholson/Looper](https://github.com/NolanNicholson/Looper) - A script for repeating music seamlessly and endlessly, designed with video game music in mind.
 - [asigalov61/Giant-Music-Transformer](https://github.com/asigalov61/Giant-Music-Transformer) - [SOTA] [92% acc] 786M-8k-44L-32H multi-instrumental music transformer with true full MIDI instruments range, efficient encoding, octo-velocity and outro tokens
 - [asigalov61/Lars-Ulrich-Transformer](https://github.com/asigalov61/Lars-Ulrich-Transformer) - [DEPRECIATED] [339M] [88% acc] Fast full-featured drums inpainting transformer with octo-velocity
@@ -4245,6 +4246,8 @@
 
 ## TypeScript 
 
+- [ascpixi/splicedd](https://github.com/ascpixi/splicedd) - 🔊 A custom frontend for the Splice sample library
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [lgrammel/modelfusion-ollama-nextjs-starter](https://github.com/lgrammel/modelfusion-ollama-nextjs-starter) - Starter examples for using Next.js and the Vercel AI SDK with Ollama and ModelFusion.
 - [10Nates/ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - A simple to use Ollama autocompletion engine with options exposed and streaming functionality
 - [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data.
