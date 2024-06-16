@@ -247,6 +247,7 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -299,7 +300,7 @@
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) - The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [fabriceb/GMailAIReplier](https://github.com/fabriceb/GMailAIReplier) - Your GMail AI secretary 🤖📝 An AI that drafts replies to your emails. Compatible with Google Mail personal and business version, uses OpenAI GPT4's API. All the code is run within a Google Sheet, using
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -354,7 +355,7 @@
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
@@ -397,7 +398,7 @@
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -538,7 +539,7 @@
 - [janekb04/py2gpt](https://github.com/janekb04/py2gpt) - Convert Python code into JSON consumable by OpenAI's function API.
 - [AHGGG/poe-node-api](https://github.com/AHGGG/poe-node-api) - A reverse engineered Node.js client for Quora's Poe.
 - [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [Peter-Schorn/SpotifyAPI](https://github.com/Peter-Schorn/SpotifyAPI) - A Swift library for the Spotify web API. Supports all endpoints.
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
@@ -549,7 +550,7 @@
 - [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -1003,7 +1004,7 @@
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [transitive-bullshit/chatgpt-well-known-plugin-finder](https://github.com/transitive-bullshit/chatgpt-well-known-plugin-finder) - Checks Alexa's top 1M websites for the presence of OpenAI's new .well-known/ai-plugin.json files
 - [dannyp777/ChatGPT-AI-Plugin-Manifest-Lists](https://github.com/dannyp777/ChatGPT-AI-Plugin-Manifest-Lists) - A collection of links to ChatGPT/AI "*/.well-known/ai-plugin.json", "*/.well-known/openapi.json" and "*/.well-known/openapi.yaml" manifest files
@@ -1049,7 +1050,7 @@
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
@@ -1104,7 +1105,6 @@
 - [Ozennefr/GPPPT](https://github.com/Ozennefr/GPPPT) - A simple one file python script that executes AI processes defined in YML.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
-- [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 - [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -1207,6 +1207,7 @@
 
 ## chrome-extension 
 
+- [alexzvn/amber](https://github.com/alexzvn/amber) - Amber is a toolchain allow to build browser extension with ease
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
@@ -1339,7 +1340,7 @@
 - [eggplants/extension-manifest-converter](https://github.com/eggplants/extension-manifest-converter) - Chrome Extension Manifest V2 to V3 Converter
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
-- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [itsbrex/vercel-env-create](https://github.com/itsbrex/vercel-env-create) - Auto-generate and maintain your project's .env files
 - [HiDeoo/vercel-env-push](https://github.com/HiDeoo/vercel-env-push) - The missing Vercel CLI command to push environment variables from .env files.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -1666,7 +1667,7 @@
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [dosyago/sirdb](https://github.com/dosyago/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [toaco/carry](https://github.com/toaco/carry) - Python ETL(Extract-Transform-Load) tool / Data migration tool
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
@@ -1908,7 +1909,7 @@
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
 - [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2171,8 +2172,9 @@
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
@@ -2196,7 +2198,7 @@
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
@@ -2343,7 +2345,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
 - [kakengloh/tsk](https://github.com/kakengloh/tsk) - Lightweight terminal task app written in Go (Golang)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -2380,7 +2382,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [xeoncross/macappshell](https://github.com/xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
@@ -2417,7 +2419,7 @@
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
@@ -2463,7 +2465,7 @@
 - [VienDinhCom/next-shopify-storefront](https://github.com/VienDinhCom/next-shopify-storefront) - 🛍  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [graphlatte/graphlatte](https://github.com/graphlatte/graphlatte) - Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -2716,7 +2718,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - 📝 HTML to React parser.
@@ -2822,7 +2824,7 @@
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [rryam/MusadoraKit](https://github.com/rryam/MusadoraKit) - The ultimate companion to MusicKit.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
@@ -2931,7 +2933,7 @@
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
 - [vcync/modV](https://github.com/vcync/modV) - modular audio visualisation powered by JavaScript
 - [pqml/midibus.js](https://github.com/pqml/midibus.js) - :bus::dash::notes: Web MIDI API wrapper based on themidibus
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [bepitulaz/generative-music](https://github.com/bepitulaz/generative-music) - The code from my single: A New Life
@@ -2960,7 +2962,7 @@
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [aholachek/bundle-wizard](https://github.com/aholachek/bundle-wizard) - Magically easy insight into the JavaScript loaded by a web app
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
@@ -3351,7 +3353,7 @@
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [foyer-work/merlin-node](https://github.com/foyer-work/merlin-node) - Merlin SDK Provides A Unified API To Interact With 20+ LLM Models.
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
@@ -3394,7 +3396,7 @@
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
 - [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
 - [jagilley/autodrummer](https://github.com/jagilley/autodrummer) - A text-to-audio model for generating text-conditioned drum beats
 - [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
@@ -3414,7 +3416,7 @@
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure cloud runtime for AI apps & AI agents. Fully open-source.
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [declare-lab/flan-alpaca](https://github.com/declare-lab/flan-alpaca) - This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5.
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
@@ -3463,7 +3465,7 @@
 - [fabston/little-snitch-blocklist](https://github.com/fabston/little-snitch-blocklist) - 🛡 A malicious URL blocklist that protects you from advertisements, malwares, spams, statistics & trackers on both web browsing and applications.
 - [edanchenkov/MenuTube](https://github.com/edanchenkov/MenuTube) - Catch YouTube into your macOS menu bar! 🦄
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [SoloUnity/macos-apps-and-enhancements](https://github.com/SoloUnity/macos-apps-and-enhancements) - Awesome apps for macOS
 - [jereze/alfred-salesforce](https://github.com/jereze/alfred-salesforce) - Search in Salesforce from your Mac (Alfred worklow)
 - [cemolcay/MusicTheory](https://github.com/cemolcay/MusicTheory) - Universal music theory library for iOS, iPadOS, macOS, tvOS and watchOS in Swift
@@ -3670,7 +3672,7 @@
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [iffy/electron-updater-example](https://github.com/iffy/electron-updater-example) - A complete example showing how to use `electron-updater`
 - [rossmoody/Assembl](https://github.com/rossmoody/Assembl) - An effortless window manager for macOS
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [dkarter/alfred-magic-link](https://github.com/dkarter/alfred-magic-link) - Magically insert links into markdown using Alfred
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
@@ -4029,7 +4031,7 @@
 - [ricardomatias/playa](https://github.com/ricardomatias/playa) - A framework for musical composition. It allows creating custom music algorithms, musical phrases, percussion rhythms, harmonic sequences and more.
 - [ricardomatias/ableton-live](https://github.com/ricardomatias/ableton-live) - A library for communicating with Live via WebSockets, works both in NodeJS and in the Browser.
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - A command-line tool for effortlessly organizing and renaming your music files based on metadata
-- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
+- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata in MP3, M4A, OGG, OPUS, FLAC, WMA, Wave and AIFF formats
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [mir-dataset-loaders/mirdata](https://github.com/mir-dataset-loaders/mirdata) - Python library for working with Music Information Retrieval datasets
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - MIDI / symbolic music tokenizers for Deep Learning models 🎶
@@ -4202,8 +4204,8 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-starter](https://github.com/blefnk/relivator-nextjs-starter) - Next.js 14 Store, Landing, Admin, Dashboard ▲ i18n Stripe Shadcn Tailwind Drizzle Zod Trpc TypeScript Clerk NexAuth, Lucide CSS Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS 
-- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with vari
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 💜 Next.js 14 Store, Landing, Admin, Dashboard ▲ i18n Stripe Shadcn Tailwind Drizzle Zod Trpc TypeScript Clerk NexAuth, Lucide CSS Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon T
+- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with va
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
@@ -4445,7 +4447,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - TypeScript `tsconfig.json` parser & paths resolver
-- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
 - [xom9ikk/dotenv](https://github.com/xom9ikk/dotenv) - GitHub Action to read .env file and add variables to GITHUB_ENV
 - [ebidel/try-puppeteer](https://github.com/ebidel/try-puppeteer) - Run Puppeteer code in the cloud
@@ -4502,7 +4504,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 - [zachwinter/spotify-auth-express](https://github.com/zachwinter/spotify-auth-express) - Plug-and-play Spotify OAUTH flow for Express.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://bit.ly/n-install | bash
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
@@ -4513,7 +4515,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [juliangruber/browser-run](https://github.com/juliangruber/browser-run) - Run code inside a browser from the command line
 - [luqmanoop/sync-dotenv](https://github.com/luqmanoop/sync-dotenv) - Keep your .env in sync with .env.example
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [DanielTerletzkiy/chat-gtp-assistant](https://github.com/DanielTerletzkiy/chat-gtp-assistant) - nodejs script that enables continuous conversation with voice recognition and tts speaker responses
 - [ArekSredzki/electron-release-server](https://github.com/ArekSredzki/electron-release-server) - A fully featured, self-hosted release server for electron applications, compatible with auto-updater.
@@ -4620,7 +4622,7 @@
 - [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all rela
 - [nenosinc/iCloudDocumentSync](https://github.com/nenosinc/iCloudDocumentSync) - Integrate iCloud into iOS document projects with one-line code methods. Sync, upload, manage, and remove documents from iCloud quickly and easily. Helps to make iCloud "just work" for developers too.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [krevis/MIDIApps](https://github.com/krevis/MIDIApps) - MIDI apps for Mac OS X: MIDI Monitor and SysEx Librarian.
@@ -4640,7 +4642,7 @@
 - [resonatecoop/stream-app](https://github.com/resonatecoop/stream-app) - A mobile app for playing music on Resonate, an open source music streaming co-op. This is repository is in maintenance mode, while actively developing this repository: https://github.com/resonatecoop/
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
@@ -5179,7 +5181,7 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [reasoning-survey/Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - ✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models
 - [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst) - GPT-Analyst: A GPT for GPT analysis and reverse engineering
-- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.
+- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
 - [Fuzzy-Search/chat-with-page](https://github.com/Fuzzy-Search/chat-with-page) - Chrome extension to chat with page using local LLM (llama, mistral 7B, etc)
 - [coolvision/autolicious](https://github.com/coolvision/autolicious) - 
 - [yusukebe/service-worker-magic](https://github.com/yusukebe/service-worker-magic) - Server and Browser code are really the same. It's magic.
@@ -5931,7 +5933,7 @@
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [seungheondoh/music-text-representation](https://github.com/seungheondoh/music-text-representation) - Toward Universal Text-to-Music-Retrieval (TTMR) [ICASSP23]
 - [gudgud96/syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital.
-- [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
+- [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
 - [hturan/three-stacks](https://github.com/hturan/three-stacks) - Three-dimensional generative scalar design system component visualisation tool
@@ -7404,7 +7406,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [yaseenmustapha/nextjs14-app](https://github.com/yaseenmustapha/nextjs14-app) - Full-stack Next.js 14 application. Uses React 18 client & server components, TypeScript, Prisma ORM, Railway PostgreSQL database, NextAuth.js OAuth 2.0 authentication, OpenAI API GPT-3.5-Turbo, and St
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
@@ -7430,7 +7432,7 @@
 
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [chr15m/gitnonymous](https://github.com/chr15m/gitnonymous) - Make pseudonymous Git commits over Tor
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
@@ -7699,7 +7701,7 @@
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - A command-line tool for effortlessly organizing and renaming your music files based on metadata
-- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata, duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave, AIFF and a few more
+- [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata in MP3, M4A, OGG, OPUS, FLAC, WMA, Wave and AIFF formats
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [VarunPatelius/Py-iMessenger](https://github.com/VarunPatelius/Py-iMessenger) - Py-iMessenger is a chatbot that works with iMessage to execute commands using text messages.
@@ -7795,7 +7797,7 @@
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [Flixor/AbletonTracklist](https://github.com/Flixor/AbletonTracklist) - Simple script for extracting tracklists from Ableton in Mixcloud format
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort free video editing!
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analyze and rendering
 - [akashrchandran/syrics](https://github.com/akashrchandran/syrics) - A command line tool to fetch lyrics from spotify and save it to lrc file. It can fetch both synced and unsynced lyrics from spotify.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [amitkan1995/Vision](https://github.com/amitkan1995/Vision) - A smart attendance system to monitor attendance and update it to excel sheet. A version 2.0 of Fack-Reck (https://github.com/amitkan1995/Face-Reck) with an improved UI and now support Google Sheet Upd
@@ -7976,7 +7978,7 @@
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
-- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with vari
+- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with va
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -7990,7 +7992,7 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [alecchendev/spotify-refresh-token](https://github.com/alecchendev/spotify-refresh-token) - A simple site for developers to easily get their own refresh token for Spotify's API.
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -8302,7 +8304,6 @@
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [j471n/next-hulu](https://github.com/j471n/next-hulu) - This web app is a clone of Hulu, a streaming service for movies and television shows. It utilizes the themoviedb API to retrieve data for the content that is displayed in the application. However, the
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -8447,7 +8448,7 @@
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema even if the introspection is disabled
 - [fabston/little-snitch-blocklist](https://github.com/fabston/little-snitch-blocklist) - 🛡 A malicious URL blocklist that protects you from advertisements, malwares, spams, statistics & trackers on both web browsing and applications.
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -8899,6 +8900,7 @@
 
 ## typescript 
 
+- [alexzvn/amber](https://github.com/alexzvn/amber) - Amber is a toolchain allow to build browser extension with ease
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [lalitdotdev/watchtowerai](https://github.com/lalitdotdev/watchtowerai) - An AI-powered web application leveraging Next.js 14 and TensorFlow.js for real-time object detection. Utilizing Tensorflow model for accurate detection, webcam integration for live video streams, and 
 - [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
@@ -8972,7 +8974,7 @@
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -9000,7 +9002,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
-- [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
+- [ax-llm/ax](https://github.com/ax-llm/ax) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
@@ -9021,7 +9023,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Next.js project starter. Configured with tailwindcss and shadcn-ui
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
@@ -9202,7 +9204,7 @@
 
 ## visual-studio-code 
 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
@@ -9423,6 +9425,11 @@
 - [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
 - [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
+
+## zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
