@@ -3278,7 +3278,7 @@
 - [johnnygreco/midiGPT](https://github.com/johnnygreco/midiGPT) - 🎹 midiGPT: a decoder-only transformer model for music generation
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [davidfstr/trycast](https://github.com/davidfstr/trycast) - trycast parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
-- [Bubobubobubobubo/sardine](https://github.com/Bubobubobubobubo/sardine) - Python's missing "algorave" module
+- [Bubobubobubobubo/sardine](https://github.com/Bubobubobubobubo/sardine) - Python's missing "algorave" module. Live code music with Python using MIDI, OSC and/or SuperCollider.
 - [mugulmd/Claude](https://github.com/mugulmd/Claude) - Synchronizing visuals with audio in live-coding environments
 - [zinccat/ChatGPT-streamlit](https://github.com/zinccat/ChatGPT-streamlit) - Easy to use UI built with Streamlit for using ChatGPT, Claude, Stable Diffusion and beyond
 - [Bradybry/GPT4-ExpertManager](https://github.com/Bradybry/GPT4-ExpertManager) - 
@@ -4341,7 +4341,7 @@
 - [dotansimha/graphql-code-generator-community](https://github.com/dotansimha/graphql-code-generator-community) - 
 - [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
 - [cezaraugusto/babel-preset-modern-browser-extension](https://github.com/cezaraugusto/babel-preset-modern-browser-extension) - Babel preset used for creating browser extensions. Supports React and TypeScript.
-- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [steveefemsc/twinny](https://github.com/steveefemsc/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
 - [steveefemsc/activepieces](https://github.com/steveefemsc/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
