@@ -289,7 +289,7 @@
 - [MathAndMagic/bridge](https://github.com/MathAndMagic/bridge) - 🤖 Bridge — Autonomous AI Agents IDE / Runtime: Become ×100-anyone with your own agency!
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [anasfik/openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
@@ -580,7 +580,7 @@
 - [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
 - [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -674,7 +674,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
-- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
+- [featuredotapp/cli](https://github.com/featuredotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [legendsort/openAISpeechToDatabase](https://github.com/legendsort/openAISpeechToDatabase) - AI automation to save formatted text with proper title from speech
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [shijithpk/music-discovery](https://github.com/shijithpk/music-discovery) - How to find new music on Spotify by aggregating the choices of tastemakers
@@ -1329,7 +1329,7 @@
 - [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
+- [featuredotapp/cli](https://github.com/featuredotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [mausworks/tidier](https://github.com/mausworks/tidier) - The file & folder name formatter
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1665,7 +1665,7 @@
 ## database 
 
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [p32929/fjsondb](https://github.com/p32929/fjsondb) - A fast and simple JSON database for NodeJS
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
@@ -2527,7 +2527,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [eifinger/setup-rye](https://github.com/eifinger/setup-rye) - Set up your GitHub Actions workflow with a specific version of Rye
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
@@ -3178,7 +3178,7 @@
 - [armink/struct2json](https://github.com/armink/struct2json) - A fast convert library between the JSON and C structure. Implement structure serialization and deserialization for C. | C 结构体与 JSON 快速互转库，快速实现 C 结构体的序列化及反序列化
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-- [gregsdennis/json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
+- [json-everything/json-everything](https://github.com/json-everything/json-everything) - System.Text.Json-based support for all of your JSON needs.
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
@@ -3190,7 +3190,7 @@
 - [dosyago/sirdb](https://github.com/dosyago/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [drench/shpotify](https://github.com/drench/shpotify) - Command line access to the Spotify API
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
-- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
+- [featuredotapp/cli](https://github.com/featuredotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform) - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -3277,7 +3277,7 @@
 - [tanaikech/ImgApp](https://github.com/tanaikech/ImgApp) - This is a library of image tools for Google Apps Script.
 - [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) - This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 - [tanaikech/ProjectApp2](https://github.com/tanaikech/ProjectApp2) - This is a GAS project library for Google Apps Script (GAS). This library can be used for the projects of both standalone script type and container-bound script type.
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
@@ -3351,7 +3351,7 @@
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [gokayfem/ComfyUI_VLM_nodes](https://github.com/gokayfem/ComfyUI_VLM_nodes) - Custom ComfyUI nodes for Vision Language Models, Large Language Models, Image to Music, Text to Music, Consistent and Random Creative Prompt Generation
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
@@ -3441,7 +3441,7 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
+- [featuredotapp/cli](https://github.com/featuredotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
@@ -3521,7 +3521,7 @@
 - [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System
 - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 - [arihanv/Shush](https://github.com/arihanv/Shush) - Shush is an app that deploys a WhisperV3 model with Flash Attention v2 on Modal and makes requests to it via a NextJS app
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
 - [xenova/sponsorblock-ml](https://github.com/xenova/sponsorblock-ml) - Automatically detect in-video YouTube sponsorships, self/unpaid promotions, and interaction reminders.
 - [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
@@ -3821,7 +3821,7 @@
 ## mongodb 
 
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
@@ -4087,7 +4087,7 @@
 ## mysql 
 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
@@ -4596,7 +4596,7 @@
 - [strdr4605/symlink-config](https://github.com/strdr4605/symlink-config) - A tool to symlink your project config files to root
 - [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - 📺 Extract the YouTube video ID from a string or URL.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
-- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
+- [featuredotapp/cli](https://github.com/featuredotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - 📝 HTML to React parser.
 - [NodeSecure/npm-registry-sdk](https://github.com/NodeSecure/npm-registry-sdk) - Node.js SDK to fetch data from the npm API.
 - [abhijithvijayan/wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webextension Manifest Generator that you specify `manifest.json` properties to appear only in specific browsers and environment
@@ -5959,7 +5959,7 @@
 - [StanfordASL/ALPaCA](https://github.com/StanfordASL/ALPaCA) - Code for "Meta-Learning Priors for Efficient Online Bayesian Regression" by James Harrison, Apoorva Sharma, and Marco Pavone
 - [gururise/AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) - Alpaca dataset from Stanford, cleaned and curated
 - [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [volca/markdown-preview](https://github.com/volca/markdown-preview) - Markdown Preview Plus -- Enables Chrome to render markdown files as HTML
 - [Peter-Schorn/SpotifyAPIExampleApp](https://github.com/Peter-Schorn/SpotifyAPIExampleApp) - An Example App that demonstrates the usage of SpotifyAPI.
 - [segmentio/chrome-sidebar](https://github.com/segmentio/chrome-sidebar) - Easiest way to embed an iframe as a chrome extension
@@ -6046,7 +6046,7 @@
 - [dafaronbi/Serum-FXP-Python-Reader](https://github.com/dafaronbi/Serum-FXP-Python-Reader) - python scripts to read and write too serum fxp preset files
 - [nikoszs/serum-copy](https://github.com/nikoszs/serum-copy) - 🌌 Install all serum presets in one go ⚡
 - [DarceyLloyd/serum-preset-collector](https://github.com/DarceyLloyd/serum-preset-collector) - Serum Preset Collector
-- [bwhitman/amy](https://github.com/bwhitman/amy) - AMY - the Additive Music synthesizer librarY
+- [shorepine/amy](https://github.com/shorepine/amy) - AMY - the Additive Music synthesizer librarY
 - [spiegelib/spiegelib](https://github.com/spiegelib/spiegelib) - Automatic Synthesizer Programming Library
 - [GavinRay97/vital-synth-sdk](https://github.com/GavinRay97/vital-synth-sdk) - Utilities for working with presets for the Vital synth, and hopefully eventual ML explorations
 - [jakespracher/ml-synth-preset-generator](https://github.com/jakespracher/ml-synth-preset-generator) - Machine Learning with Synthesizers
@@ -8087,7 +8087,7 @@
 - [christiangenco/react-tailwind-chrome-extension](https://github.com/christiangenco/react-tailwind-chrome-extension) - Chrome extension to automatically translate Tailwind UI HTML to React-friendly JSX.
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [47ng/chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
 - [Tej-Sharma/next-tailwind-chakra-template](https://github.com/Tej-Sharma/next-tailwind-chakra-template) - A template to quickly be set up with NextJS (react framework), TailwindCSS, and Chakra UI with eslint and prettier
@@ -8704,7 +8704,7 @@
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit x Tailwind CSS x Supabase x Turborepo (pnpm)
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
@@ -8986,7 +8986,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [dnsxyz/cli](https://github.com/dnsxyz/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
+- [featuredotapp/cli](https://github.com/featuredotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [imbhargav5/nextbase-nextjs-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 14+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
@@ -9245,7 +9245,7 @@
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
 - [marcosvidolin/vue-social-login](https://github.com/marcosvidolin/vue-social-login) - A Vue.js social login with: Firebase, Bulma and PWA
