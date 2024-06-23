@@ -682,7 +682,6 @@
 
 ## HTML 
 
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [libaudioverse/libaudioverse](https://github.com/libaudioverse/libaudioverse) - A library for realtime audio synthesis with 3D and environmental audio support
 - [danyalimran93/Music-Genre-Classification](https://github.com/danyalimran93/Music-Genre-Classification) - Classifying English Music (.mp3) files using Music Information Retrieval (MIR), Digital/Audio Signal Processing (DIP) and Machine Learning (ML) Strategies
@@ -4123,6 +4122,7 @@
 
 ## Svelte 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [AbePlays/file-drop](https://github.com/AbePlays/file-drop) - Seamless file upload experience!
 - [itsbrex/open-webui](https://github.com/itsbrex/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -4258,7 +4258,7 @@
 - [ItzCrazyKns/Not-Devin](https://github.com/ItzCrazyKns/Not-Devin) - A simplified version of Devin the AI software engineer
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
-- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data, locally, securely.
+- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data using natural language. CSV, Postgres, MySQL, Snowflake, SQLite...
 - [ascpixi/splicedd](https://github.com/ascpixi/splicedd) - 🔊 A custom frontend for the Splice sample library
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [lgrammel/modelfusion-ollama-nextjs-starter](https://github.com/lgrammel/modelfusion-ollama-nextjs-starter) - Starter examples for using Next.js and the Vercel AI SDK with Ollama and ModelFusion.
@@ -4762,7 +4762,7 @@
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
-- [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - React and Tailwind Portfolio Template.
+- [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - Next.js portfolio site with Markdown blog
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
 - [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
