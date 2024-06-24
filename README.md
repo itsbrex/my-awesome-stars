@@ -682,7 +682,6 @@
 
 ## HTML 
 
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [libaudioverse/libaudioverse](https://github.com/libaudioverse/libaudioverse) - A library for realtime audio synthesis with 3D and environmental audio support
 - [danyalimran93/Music-Genre-Classification](https://github.com/danyalimran93/Music-Genre-Classification) - Classifying English Music (.mp3) files using Music Information Retrieval (MIR), Digital/Audio Signal Processing (DIP) and Machine Learning (ML) Strategies
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
@@ -884,6 +883,7 @@
 
 ## JavaScript 
 
+- [MedioAI/Chrome-Extension](https://github.com/MedioAI/Chrome-Extension) - A chrome extension to enhance experience of Udio.com (A.I. Music App Companion)
 - [sindresorhus/is-elevated](https://github.com/sindresorhus/is-elevated) - Check if the process is running with elevated privileges
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -2228,7 +2228,7 @@
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
-- [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples and guides for using the E2B API
+- [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [sgraaf/openapi-scraper](https://github.com/sgraaf/openapi-scraper) - Track changes to RESTful APIs by git scraping their OpenAPI descriptions
 - [julian-parker/stemgen](https://github.com/julian-parker/stemgen) - Examples for ICASSP2024 paper "StemGen: A music generation model that listens"
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
@@ -2659,6 +2659,9 @@
 
 ## Python 
 
+- [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
+- [flowese/UdioWrapper](https://github.com/flowese/UdioWrapper) - UdioWrapper is a Python package that enables the generation of music tracks using Udio's API through textual prompts. This package is based on the reverse engineering of the Udio API (https://www.udio
+- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
 - [Bklieger/groqnotes](https://github.com/Bklieger/groqnotes) - Groqnotes: Generate organized notes from audio using Groq, Whisper, and Llama3
 - [ebai101/midicap](https://github.com/ebai101/midicap) - always on MIDI recorder
 - [bhaskatripathi/TensorCraft](https://github.com/bhaskatripathi/TensorCraft) - TensorCraft is a Python library to simplify the process of building, training, and deploying neural networks using TensorFlow. It is a high level wrapper like Keras on top of tensorflow
@@ -4300,6 +4303,7 @@
 - [nodejs/release-cloudflare-worker](https://github.com/nodejs/release-cloudflare-worker) - Infra for serving Node.js downloads and documentation.
 - [jahir9991/sveltekit-cloudflare-fullstack](https://github.com/jahir9991/sveltekit-cloudflare-fullstack) - sveltekit edge  fullstack graphql with  api  crud + pages + worker + D1(with drizzle orm) + (supabase-postgres+ drizzle) +       (neon-postgres+ drizzle)   +  kv  crud + R2+  remote-proxy
 - [MNThomson/containerflare](https://github.com/MNThomson/containerflare) - 🔥 Cloudflare (Workers + R2) edge container image repository
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [juankysoriano/human-music](https://github.com/juankysoriano/human-music) - A Generative Music System based on Cellular Automata
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
