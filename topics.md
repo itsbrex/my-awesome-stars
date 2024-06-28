@@ -590,7 +590,7 @@
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
 - [kyegomez/zeta](https://github.com/kyegomez/zeta) - Build high-performance AI models with modular building blocks
 - [lilacai/lilac](https://github.com/lilacai/lilac) - Curate better data for LLMs
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
 - [Gabeiscool420/SoundSage---LLM-Audio-Processing](https://github.com/Gabeiscool420/SoundSage---LLM-Audio-Processing) - Open source Python program for automating gain staging. part 1 of a series for automating audio processing tasks, end goal is to create a full set of tools for an AI to use for automating Audio proces
 - [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
 - [kyegomez/SimpleMamba](https://github.com/kyegomez/SimpleMamba) - Implementation of a modular, high-performance, and simplistic mamba for high-speed applications
@@ -659,7 +659,7 @@
 - [deffcolony/ai-toolbox](https://github.com/deffcolony/ai-toolbox) - AI-Toolbox provides a collection of automation scripts and tools to streamline your AI workflows.
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [Zeeshanahmad4/AI-YouTube-Flow](https://github.com/Zeeshanahmad4/AI-YouTube-Flow) - AI YouTube Flow: 🤖🎥 Streamlining Your YouTube Experience with Advanced AI-Driven Content Management and Automation 🚀.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [saucam/airflow-runner](https://github.com/saucam/airflow-runner) - 
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
@@ -1607,7 +1607,7 @@
 ## data 
 
 - [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
@@ -1631,7 +1631,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
@@ -1735,7 +1735,7 @@
 - [guyyariv/TempoTokens](https://github.com/guyyariv/TempoTokens) - This repo contains the official PyTorch implementation of: Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation
 - [guyyariv/AudioToken](https://github.com/guyyariv/AudioToken) - This repo contains the official PyTorch implementation of AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation
 - [kyegomez/zeta](https://github.com/kyegomez/zeta) - Build high-performance AI models with modular building blocks
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
 - [ZainNasrullah/music-artist-classification-crnn](https://github.com/ZainNasrullah/music-artist-classification-crnn) - Supplementary material for IJCNN paper "Musical Artist Classification with Convolutoinal Recurrent Neural Networks"
 - [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI) - DALI: a large Dataset of synchronised Audio, LyrIcs and vocal notes.
 - [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) - Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs
@@ -2010,7 +2010,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform standalone terminal app extract from Visual Studio Code.
 - [jessescn/custom-notion-template](https://github.com/jessescn/custom-notion-template) - Clone and customize your notion using Electron
 - [MystPi/ninetails](https://github.com/MystPi/ninetails) - A private, fast, and beautiful web browser.
@@ -2338,7 +2338,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [erdos-one/r2](https://github.com/erdos-one/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
@@ -2375,7 +2375,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
@@ -3363,7 +3363,7 @@
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [foyer-work/merlin-node](https://github.com/foyer-work/merlin-node) - Merlin SDK Provides A Unified API To Interact With 20+ LLM Models.
@@ -4118,7 +4118,7 @@
 
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
@@ -4713,6 +4713,7 @@
 
 ## others 
 
+- [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tld
 - [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) - A file uploader built with shadcn/ui and react-dropzone.
 - [singer-io/tap-outreach](https://github.com/singer-io/tap-outreach) - 
 - [flowese/UdioWrapper](https://github.com/flowese/UdioWrapper) - UdioWrapper is a Python package that enables the generation of music tracks using Udio's API through textual prompts. This package is based on the reverse engineering of the Udio API (https://www.udio
@@ -7568,7 +7569,7 @@
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [Rainbow-Dreamer/sf2_loader](https://github.com/Rainbow-Dreamer/sf2_loader) - This is an easy-to-use soundfonts loader, player and audio renderer in python
 - [eifinger/setup-rye](https://github.com/eifinger/setup-rye) - Set up your GitHub Actions workflow with a specific version of Rye
@@ -8172,7 +8173,7 @@
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
@@ -9167,7 +9168,7 @@
 - [netlify-templates/kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
 - [koji/react_with_TailwindCSS](https://github.com/koji/react_with_TailwindCSS) - reactjs with Tailwind CSS
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [harshhhdev/www](https://github.com/harshhhdev/www) - 👋
 - [osovv/sorting-visualizer](https://github.com/osovv/sorting-visualizer) - App for visualizing different sorting algortihms. Built with React, Typescript, TailwindCSS, daisyUI and Immutable.js.
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta)
