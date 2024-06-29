@@ -4792,7 +4792,6 @@
 - [conmcda/cloudflare-r2-desktop](https://github.com/conmcda/cloudflare-r2-desktop) - A cloudflare r2 bucket explorer desktop app.
 - [0xSalik/R2-Worker-API](https://github.com/0xSalik/R2-Worker-API) - Client-side app for Cloudflare R2 bucket using Cloudflare workers.
 - [MTG/essentia-replicate-demos](https://github.com/MTG/essentia-replicate-demos) - Demos of Essentia models hosted on Replicate.com
-- [run-llama/llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts) - Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 - [CarterFendley/fast-dep](https://github.com/CarterFendley/fast-dep) - 
@@ -6598,7 +6597,6 @@
 - [lyket-dev/notion-embed](https://github.com/lyket-dev/notion-embed) - Copy and deploy this repo to easily create embeddable Lyket Notion widget
 - [letswritetw/letswrite-customize-google-form-en](https://github.com/letswritetw/letswrite-customize-google-form-en) - Fully customizable Google Forms
 - [slmnio/discord-form-webhooks](https://github.com/slmnio/discord-form-webhooks) - Cleaner and easier to customise webhooks from Google Forms to Discord (or wherever else)
-- [Dash123123/Discord-Nuker](https://github.com/Dash123123/Discord-Nuker) - Many options while being compact Auto update Easy and fast Nuke a targetted account Unfriend all friends delete and leave all servers Spam Create New servers Delete all private DM's Spam switch betwee
 - [Fireblend/gforms-discord-bot](https://github.com/Fireblend/gforms-discord-bot) - A simple Discord Bot that interacts with Google Sheets intended for Google Forms response reporting.
 - [ThibHrrd/taskManagerWithSmsReminderNotion](https://github.com/ThibHrrd/taskManagerWithSmsReminderNotion) - 
 - [sitepoint-editors/notion-api-javascript-quiz](https://github.com/sitepoint-editors/notion-api-javascript-quiz) - A project that shows the connection between NotionAPI and a database and creates a quiz from it with user interaction
@@ -7381,6 +7379,7 @@
 
 ## parsing 
 
+- [run-llama/llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 - [DeVaukz/MachO-Kit](https://github.com/DeVaukz/MachO-Kit) - A C/Objective-C library for parsing Mach-O files.
 - [mono/CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
