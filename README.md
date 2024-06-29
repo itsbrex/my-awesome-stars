@@ -2479,7 +2479,6 @@
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
 - [argyleink/argyleink](https://github.com/argyleink/argyleink) - 
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
-- [Dash123123/Discord-Nuker](https://github.com/Dash123123/Discord-Nuker) - Many options while being compact Auto update Easy and fast Nuke a targetted account Unfriend all friends delete and leave all servers Spam Create New servers Delete all private DM's Spam switch betwee
 - [core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow) - Alfred Workflow to update apps via MacUpdater
 - [stefanbuck/jumpcat](https://github.com/stefanbuck/jumpcat) - A command palette for GitHub (browser extension)
 - [samuelspagl/alfred_ffmpeg](https://github.com/samuelspagl/alfred_ffmpeg) - A small Alfred Workflow for the ffmpeg library.
