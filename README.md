@@ -3454,7 +3454,7 @@
 - [neonsecret/TTS-With-Voice-Cloning-Multilang](https://github.com/neonsecret/TTS-With-Voice-Cloning-Multilang) - Clone a voice in a few seconds to generate arbitrary speech in real-time in multiple languages
 - [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analyze and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
 - [jina-ai/dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team
 - [algolia-samples/avsearch](https://github.com/algolia-samples/avsearch) - Automated av content transcription search for your website
@@ -4512,7 +4512,7 @@
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 1 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 2 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
 - [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with va
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
