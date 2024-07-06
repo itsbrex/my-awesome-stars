@@ -265,7 +265,7 @@
 - [Bklieger/groqnotes](https://github.com/Bklieger/groqnotes) - GroqNotes: Generate organized notes from audio using Groq, Whisper, and Llama3
 - [ItzCrazyKns/Not-Devin](https://github.com/ItzCrazyKns/Not-Devin) - A simplified version of Devin the AI software engineer
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
-- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data using natural language. CSV, Postgres, MySQL, Snowflake, SQLite...
+- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [lgrammel/modelfusion-ollama-nextjs-starter](https://github.com/lgrammel/modelfusion-ollama-nextjs-starter) - Starter examples for using Next.js and the Vercel AI SDK with Ollama and ModelFusion.
 - [10Nates/ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - A simple to use Ollama autocompletion engine with options exposed and streaming functionality
 - [zachblume/autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
@@ -1632,7 +1632,7 @@
 
 ## data-science 
 
-- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data using natural language. CSV, Postgres, MySQL, Snowflake, SQLite...
+- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -1665,7 +1665,7 @@
 
 ## data-visualization 
 
-- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data using natural language. CSV, Postgres, MySQL, Snowflake, SQLite...
+- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
@@ -2454,6 +2454,7 @@
 
 ## graphql 
 
+- [cjoudrey/graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) - Validate GraphQL schema definitions against a set of rules
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [anvilco/graphql-introspection-tools](https://github.com/anvilco/graphql-introspection-tools) - A library to query and manipulate GraphQL Introspection Query results in some useful ways.
 - [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡 GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
@@ -2565,7 +2566,6 @@
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [NationalSecurityAgency/nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io) - Site for NSA's Open Source project listing
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
@@ -3342,10 +3342,11 @@
 
 ## llm 
 
+- [yuriwa/crewai-sheets-ui](https://github.com/yuriwa/crewai-sheets-ui) - Use google sheets as a gui for crewAI
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
 - [Yonom/assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
-- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data using natural language. CSV, Postgres, MySQL, Snowflake, SQLite...
+- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [10Nates/ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - A simple to use Ollama autocompletion engine with options exposed and streaming functionality
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [zya/litellmjs](https://github.com/zya/litellmjs) - JavaScript implementation of LiteLLM.
@@ -4726,6 +4727,7 @@
 
 ## others 
 
+- [honojs/starter](https://github.com/honojs/starter) - Hono starter templates
 - [chronark/libs](https://github.com/chronark/libs) - A collection of useful typescript libraries
 - [chronark/durable-db](https://github.com/chronark/durable-db) - Document database built on top of cloudflare durable objects
 - [lsvekis/Google-Apps-Script](https://github.com/lsvekis/Google-Apps-Script) - 
@@ -8635,7 +8637,7 @@
 
 ## sql 
 
-- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data using natural language. CSV, Postgres, MySQL, Snowflake, SQLite...
+- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [snowflakedb/snowflake-cli](https://github.com/snowflakedb/snowflake-cli) - Snowflake CLI is an open-source command-line tool explicitly designed for developer-centric workloads in addition to SQL operations.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
