@@ -883,6 +883,8 @@
 
 ## JavaScript 
 
+- [jedwards1211/dude-wheres-my-module](https://github.com/jedwards1211/dude-wheres-my-module) - Because VSCode's automatic imports aren't good enough
+- [dev-Imsaurabh/Linkedin-Scrapper](https://github.com/dev-Imsaurabh/Linkedin-Scrapper) - Linkedin scrapper using Puppeteer
 - [cjoudrey/graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) - Validate GraphQL schema definitions against a set of rules
 - [tanaikech/PDFApp](https://github.com/tanaikech/PDFApp) - This is a Google Apps Script library for managing PDFs.
 - [mewpk/Google-Apps-Script](https://github.com/mewpk/Google-Apps-Script) - Google Apps Script for Spreadsheet Data Management
@@ -2053,6 +2055,7 @@
 - [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡 GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+- [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - My portfolio with Next.js & Markdown
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
@@ -2668,6 +2671,7 @@
 
 ## Python 
 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
 - [yuriwa/crewai-sheets-ui](https://github.com/yuriwa/crewai-sheets-ui) - Use google sheets as a gui for crewAI
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
 - [maximo3k/linkedin-sales-navigator-scraper](https://github.com/maximo3k/linkedin-sales-navigator-scraper) - LinkedIn Sales Navigator saved Search into CSV
@@ -2855,7 +2859,7 @@
 - [ngxson/hobby-audio-features-extractor](https://github.com/ngxson/hobby-audio-features-extractor) - 
 - [erl-j/enfusion](https://github.com/erl-j/enfusion) - 
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.需要 suno API的可以看看这里👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.👇
 - [jljl1337/svc-toolkit](https://github.com/jljl1337/svc-toolkit) - A self-contained singing voice conversion application
 - [mikez/spotify-folders](https://github.com/mikez/spotify-folders) - Get your Spotify folder hierarchy with playlists into JSON.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
@@ -3240,7 +3244,7 @@
 - [atong01/conditional-flow-matching](https://github.com/atong01/conditional-flow-matching) - TorchCFM: a Conditional Flow Matching library
 - [makuto/keykey](https://github.com/makuto/keykey) - MIDI Synth Sequencer Suite
 - [jaakkopee/neuronSeq](https://github.com/jaakkopee/neuronSeq) - A MIDI sequencer based on a neural network.
-- [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
+- [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Teenage Engineering OP-Z or Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
 - [EnigmaCurry/midi-livecode](https://github.com/EnigmaCurry/midi-livecode) - A MIDI live-coding environment for composition using isobar and Ableton Link
 - [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
 - [1aienthusiast/audiocraft](https://github.com/1aienthusiast/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
@@ -3879,7 +3883,7 @@
 - [ttscoff/vitag](https://github.com/ttscoff/vitag) - 
 - [jlund/spotify-export](https://github.com/jlund/spotify-export) - A simple Ruby utility that uses Spotify's Web API to export a playlist as plain text
 - [mateomurphy/beatport](https://github.com/mateomurphy/beatport) - Ruby gem to access the Beatport API
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely communicate sensitive information with automatic deletion after a certain number of views and/or time has passed.  Track who, what and when with full audit logs.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
 - [bassnode/Echotunes](https://github.com/bassnode/Echotunes) - Echonest + iTunes = Sweet Playlists
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -4269,6 +4273,8 @@
 
 ## TypeScript 
 
+- [kamilkisiela/graphql-config](https://github.com/kamilkisiela/graphql-config) - One configuration for all your GraphQL tools (supported by most tools, editors & IDEs)
+- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [honojs/starter](https://github.com/honojs/starter) - Hono starter templates
 - [chronark/libs](https://github.com/chronark/libs) - A collection of useful typescript libraries
 - [chronark/durable-db](https://github.com/chronark/durable-db) - Document database built on top of cloudflare durable objects
@@ -4791,7 +4797,6 @@
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
-- [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - My portfolio with Next.js & Markdown
 - [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
 - [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
