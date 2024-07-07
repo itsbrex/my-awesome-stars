@@ -260,6 +260,7 @@
 
 ## ai 
 
+- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
 - [Bklieger/groqnotes](https://github.com/Bklieger/groqnotes) - GroqNotes: Generate organized notes from audio using Groq, Whisper, and Llama3
@@ -2454,6 +2455,7 @@
 
 ## graphql 
 
+- [kamilkisiela/graphql-config](https://github.com/kamilkisiela/graphql-config) - One configuration for all your GraphQL tools (supported by most tools, editors & IDEs)
 - [cjoudrey/graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) - Validate GraphQL schema definitions against a set of rules
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [anvilco/graphql-introspection-tools](https://github.com/anvilco/graphql-introspection-tools) - A library to query and manipulate GraphQL Introspection Query results in some useful ways.
@@ -2683,7 +2685,7 @@
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [helpyio/helpy](https://github.com/helpyio/helpy) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely communicate sensitive information with automatic deletion after a certain number of views and/or time has passed.  Track who, what and when with full audit logs.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -2880,6 +2882,8 @@
 
 ## javascript 
 
+- [dev-Imsaurabh/Linkedin-Scrapper](https://github.com/dev-Imsaurabh/Linkedin-Scrapper) - Linkedin scrapper using Puppeteer
+- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [jc324x/google-apps-script-cheat-sheet](https://github.com/jc324x/google-apps-script-cheat-sheet) - 🚧 Big changes coming! "auto" branch is the future of the project
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
@@ -4727,6 +4731,8 @@
 
 ## others 
 
+- [jedwards1211/dude-wheres-my-module](https://github.com/jedwards1211/dude-wheres-my-module) - Because VSCode's automatic imports aren't good enough
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
 - [honojs/starter](https://github.com/honojs/starter) - Hono starter templates
 - [chronark/libs](https://github.com/chronark/libs) - A collection of useful typescript libraries
 - [chronark/durable-db](https://github.com/chronark/durable-db) - Document database built on top of cloudflare durable objects
@@ -5008,7 +5014,7 @@
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
 - [rottytooth/Velato](https://github.com/rottytooth/Velato) - Velato language - write code with music
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.需要 suno API的可以看看这里👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.👇
 - [umayr/magenta](https://github.com/umayr/magenta) - Generate flexible REST endpoints and controllers from Mongoose models in your Restify app
 - [jljl1337/svc-toolkit](https://github.com/jljl1337/svc-toolkit) - A self-contained singing voice conversion application
 - [dikshantrajput/skip-yt-ad](https://github.com/dikshantrajput/skip-yt-ad) - The YouTube Skipper Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your vid
@@ -5553,7 +5559,7 @@
 - [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - JavaScript MIDI player and synthesizer based on SoundFont2 specifications. Modulator and sf3 support. No dependencies required.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [sandormatyi/Sequoia](https://github.com/sandormatyi/Sequoia) - 808-style MIDI sequencer built around a Teensy LC board
-- [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
+- [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Teenage Engineering OP-Z or Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
 - [qwolilowp/Z_TENNOT_IU](https://github.com/qwolilowp/Z_TENNOT_IU) - harmonic table note layout, Euler Tonnetz, Browser GUI, WebMIDI Interface, Sequencer
 - [EnigmaCurry/midi-livecode](https://github.com/EnigmaCurry/midi-livecode) - A MIDI live-coding environment for composition using isobar and Ableton Link
 - [cas2void/ofxDawMetro](https://github.com/cas2void/ofxDawMetro) - DAW style metronome (like Ableton Live, etc.)
@@ -7976,6 +7982,7 @@
 
 ## react 
 
+- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
@@ -8396,7 +8403,7 @@
 - [rgrove/crass](https://github.com/rgrove/crass) - A Ruby CSS parser that's fully compliant with the CSS Syntax Level 3 specification.
 - [reenhanced/gitreflow](https://github.com/reenhanced/gitreflow) - Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template.
 - [welaika/wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely communicate sensitive information with automatic deletion after a certain number of views and/or time has passed.  Track who, what and when with full audit logs.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -8502,7 +8509,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely communicate sensitive information with automatic deletion after a certain number of views and/or time has passed.  Track who, what and when with full audit logs.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
@@ -8530,7 +8537,7 @@
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby's needs without (as much) guess work.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely communicate sensitive information with automatic deletion after a certain number of views and/or time has passed.  Track who, what and when with full audit logs.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
 ## server 
@@ -8951,6 +8958,7 @@
 
 ## typescript 
 
+- [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
 - [kwsong0113/imagine](https://github.com/kwsong0113/imagine) - Gesture-based app launcher for iOS 
