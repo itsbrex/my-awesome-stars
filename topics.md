@@ -260,6 +260,8 @@
 
 ## ai 
 
+- [AImarkdown/main](https://github.com/AImarkdown/main) - Versatile App Creation: Build ChatGPT apps for mobile or desktop
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
@@ -441,6 +443,7 @@
 - [shorwood/gptsh](https://github.com/shorwood/gptsh) - GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
 - [devidw/ghrns](https://github.com/devidw/ghrns) - GitHub Repository Naming Suggestion Service: AI powered naming suggestions for your GitHub repositories
 - [sturdy-dev/codeball-action](https://github.com/sturdy-dev/codeball-action) - 🔮 Codeball – AI Code Review that finds bugs and fast-tracks your code
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [elblogbruno/NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
@@ -1001,6 +1004,7 @@
 
 ## chatgpt 
 
+- [AImarkdown/main](https://github.com/AImarkdown/main) - Versatile App Creation: Build ChatGPT apps for mobile or desktop
 - [RaheesAhmed/book-generator](https://github.com/RaheesAhmed/book-generator) - Book Creator Tool is a web-based application designed to automate the creation of books using AI. Users can input specifications such as the title, genre, language, and more, and the application gener
 - [ozgrozer/chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
@@ -1215,6 +1219,7 @@
 
 ## chrome-extension 
 
+- [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [MedioAI/Chrome-Extension](https://github.com/MedioAI/Chrome-Extension) - A chrome extension to enhance experience of Udio.com (A.I. Music App Companion)
 - [alexzvn/amber](https://github.com/alexzvn/amber) - Amber is a toolchain allow to build browser extension with ease
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
@@ -1625,7 +1630,7 @@
 ## data-analysis 
 
 - [maximo3k/linkedin-sales-navigator-scraper](https://github.com/maximo3k/linkedin-sales-navigator-scraper) - LinkedIn Sales Navigator saved Search into CSV
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [i10mm/gpt-arxiv-fetcher](https://github.com/i10mm/gpt-arxiv-fetcher) - Revolutionize your research with our GitHub repository, where GPT meets arXiv API for seamless access and analysis of the latest academic papers!
 - [lilacai/lilac](https://github.com/lilacai/lilac) - Curate better data for LLMs
@@ -1637,7 +1642,7 @@
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
@@ -1693,6 +1698,7 @@
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [letswritetw/letswrite-google-excel-db-en](https://github.com/letswritetw/letswrite-google-excel-db-en) - How to use Google Sheets as a database
 - [lucasromerodb/nextsheet](https://github.com/lucasromerodb/nextsheet) - Connecting NextJS with Google Spreadsheets as Database
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -1723,7 +1729,7 @@
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [RetroCirce/Music-SketchNet](https://github.com/RetroCirce/Music-SketchNet) - ISMIR 2020 Paper repo: Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm
 - [asteroid-team/asteroid-filterbanks](https://github.com/asteroid-team/asteroid-filterbanks) - Asteroid's filterbanks :rocket:
 - [keunwoochoi/dl4mir](https://github.com/keunwoochoi/dl4mir) - Deep learning for MIR
@@ -1856,7 +1862,7 @@
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [whomwah/alfred-vscode-workflow](https://github.com/whomwah/alfred-vscode-workflow) - Searches for `.git` repos in a path of your choice and allows you to open them in VSCode.
 - [whomwah/alfred-github-workflow](https://github.com/whomwah/alfred-github-workflow) - An Alfred 5 workflow for working with Github. Uses Deno, written in TypeScript
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## deployment 
 
@@ -2116,7 +2122,7 @@
 - [MassiiNechiche/whatsapp2.0-nextjs](https://github.com/MassiiNechiche/whatsapp2.0-nextjs) - This is an instant 1-1 chat app just like whatsapp built with NEXT.js React Firebase
 - [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS) - Whatsapp Clone Built with ReactJS, NextJS, Firebase and Styled Components.
 - [vadimghedreutan/whatsapp-ChatBot-app](https://github.com/vadimghedreutan/whatsapp-ChatBot-app) - NextJS, Sass, Firebase, Firebase-auth
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [marcosvidolin/vue-social-login](https://github.com/marcosvidolin/vue-social-login) - A Vue.js social login with: Firebase, Bulma and PWA
 - [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
@@ -2490,7 +2496,6 @@
 - [huv1k/nextjs-auth-prisma](https://github.com/huv1k/nextjs-auth-prisma) - Full-stack boilerplate template.
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit x Tailwind CSS x Supabase x Turborepo (pnpm)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
 - [echobind/bisonapp](https://github.com/echobind/bisonapp) - A Full Stack Jamstack in-a-box brought to you by Echobind
@@ -2523,6 +2528,7 @@
 
 ## hacktoberfest 
 
+- [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -3346,6 +3352,8 @@
 
 ## llm 
 
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [yuriwa/crewai-sheets-ui](https://github.com/yuriwa/crewai-sheets-ui) - Use google sheets as a gui for crewAI
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
 - [Yonom/assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
@@ -3541,7 +3549,7 @@
 - [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [prajna-lang/prajna](https://github.com/prajna-lang/prajna) - a program language for AI infrastructure
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System
 - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music
 - [arihanv/Shush](https://github.com/arihanv/Shush) - Shush is an app that deploys a WhisperV3 model with Flash Attention v2 on Modal and makes requests to it via a NextJS app
@@ -4101,7 +4109,7 @@
 - [Selbi182/SpotifyDiscoveryBot](https://github.com/Selbi182/SpotifyDiscoveryBot) - A Java-based bot that automatically crawls for new releases by your followed artists on Spotify. Never miss a release again!
 - [Sarsoo/spotframework](https://github.com/Sarsoo/spotframework) - spotify library for scripting. Additional classes for playlist management and listening tracking
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
-- [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
+- [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [vincelwt/harmony](https://github.com/vincelwt/harmony) - :musical_note: Sleek music player for Spotify, SoundCloud, Google Play Music and your local files
@@ -4132,6 +4140,7 @@
 
 ## natural-language-processing 
 
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
@@ -4200,6 +4209,7 @@
 
 ## nextjs 
 
+- [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
 - [RaheesAhmed/book-generator](https://github.com/RaheesAhmed/book-generator) - Book Creator Tool is a web-based application designed to automate the creation of books using AI. Users can input specifications such as the title, genre, language, and more, and the application gener
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [lgrammel/modelfusion-ollama-nextjs-starter](https://github.com/lgrammel/modelfusion-ollama-nextjs-starter) - Starter examples for using Next.js and the Vercel AI SDK with Ollama and ModelFusion.
@@ -4237,7 +4247,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 3 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 7 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
 - [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with va
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -4369,6 +4379,7 @@
 - [vickonrails/next-starter-peacock](https://github.com/vickonrails/next-starter-peacock) - 🦚 Beautiful Nextjs starter for software engineers and designers to show work they're so proud of
 - [okisdev/Notion-Blog-React](https://github.com/okisdev/Notion-Blog-React) - Blog powered by Notion, built with React.JS, Next.JS, tailwindcss, TypeScript, notion-api-worker and more.
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
 - [Tomburgs/pwa-boilerplate](https://github.com/Tomburgs/pwa-boilerplate) - ✨ PWA Boilerplate is highly scalable and is designed to help you kick-start your next project 🔭.
@@ -4731,6 +4742,11 @@
 
 ## others 
 
+- [ZhuPeng/github_linker](https://github.com/ZhuPeng/github_linker) - GitHub Linker Extension which show repo related info, like blog, video, similar project etc.
+- [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 30.67% tasks (pass@1) in SWE-bench lite with each task costs less than $0.7.
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Make one portrait alive!
+- [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
+- [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [jedwards1211/dude-wheres-my-module](https://github.com/jedwards1211/dude-wheres-my-module) - Because VSCode's automatic imports aren't good enough
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
 - [honojs/starter](https://github.com/honojs/starter) - Hono starter templates
@@ -4757,7 +4773,7 @@
 - [Netflix/eslint-config-netflix](https://github.com/Netflix/eslint-config-netflix) - Shared ESLint config for Netflix JavaScript
 - [ludwig-ai/datasets](https://github.com/ludwig-ai/datasets) - Open Source Datasets to Use for Demonstrating Ludwig Capabilities
 - [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [June 2024]
-- [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by @supermemoryai team
+- [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [ryanwaldorf/generate_temp_table_sql](https://github.com/ryanwaldorf/generate_temp_table_sql) - This package takes a CSV and generates SQL statements to create a temp table and insert the data within it into the temp table.  Good when you need to move data between warehouses for ad hoc analysis 
 - [Blazity/next-news](https://github.com/Blazity/next-news) - 
 - [Blazity/hygraph-app-starter](https://github.com/Blazity/hygraph-app-starter) - 
@@ -7462,7 +7478,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [remix-pwa/rockspec-stack](https://github.com/remix-pwa/rockspec-stack) - A fully configurable & customizable Remix PWA stack.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -7546,6 +7562,7 @@
 
 ## python 
 
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [pypa/installer](https://github.com/pypa/installer) - A low-level library for installing from a Python wheel distribution.
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
@@ -7581,7 +7598,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [ktonal/mimikit](https://github.com/ktonal/mimikit) - Music Modeling Kit
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [RetroCirce/Zero_Shot_Audio_Source_Separation](https://github.com/RetroCirce/Zero_Shot_Audio_Source_Separation) - The official code repo for "Zero-shot Audio Source Separation through Query-based Learning from Weakly-labeled Data", in AAAI 2022
 - [RetroCirce/Music-SketchNet](https://github.com/RetroCirce/Music-SketchNet) - ISMIR 2020 Paper repo: Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm
 - [johnwmillr/LyricsGenius](https://github.com/johnwmillr/LyricsGenius) - Download song lyrics and metadata from Genius.com 🎶🎤
@@ -7819,7 +7836,7 @@
 - [ohld/igbot](https://github.com/ohld/igbot) - 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!
 - [Tkd-Alex/Telegram-InstaPy-Scheduling](https://github.com/Tkd-Alex/Telegram-InstaPy-Scheduling) - A Telegram bot for scheduling InstaPy
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
-- [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
+- [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
@@ -7836,7 +7853,7 @@
 - [pstirparo/machofile](https://github.com/pstirparo/machofile) - machofile is a module to parse Mach-O binary files
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [asteroid-team/asteroid-filterbanks](https://github.com/asteroid-team/asteroid-filterbanks) - Asteroid's filterbanks :rocket:
 - [lucsorel/py2puml](https://github.com/lucsorel/py2puml) - Generate PlantUML class diagrams to document your Python application.
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
@@ -7982,6 +7999,7 @@
 
 ## react 
 
+- [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
@@ -8273,6 +8291,7 @@
 
 ## reactjs 
 
+- [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
 - [sderosiaux/every-single-day-i-tldr](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
@@ -8742,6 +8761,7 @@
 
 ## svelte 
 
+- [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [jahir9991/sveltekit-cloudflare-fullstack](https://github.com/jahir9991/sveltekit-cloudflare-fullstack) - sveltekit edge  fullstack graphql with  api  crud + pages + worker + D1(with drizzle orm) + (supabase-postgres+ drizzle) +       (neon-postgres+ drizzle)   +  kv  crud + R2+  remote-proxy
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
@@ -8764,6 +8784,7 @@
 - [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
 ## swift 
 
@@ -8958,6 +8979,7 @@
 
 ## typescript 
 
+- [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
@@ -9209,6 +9231,7 @@
 - [QuentinWidlocher/remix-template](https://github.com/QuentinWidlocher/remix-template) - 🔋Batteries included Remix template with Tailwind, Prisma and powerful form utils
 - [pbteja1998/nextjs-starter](https://github.com/pbteja1998/nextjs-starter) - A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier + 
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app build with Node, NextJS, MongoDB, Docker and Kubernetes.
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Isotopejs/isotope](https://github.com/Isotopejs/isotope) - UI library that aims to bring simplicity and intuitiveness back to Web Development. 🚀
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
@@ -9310,6 +9333,7 @@
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [element-plus/unplugin-element-plus](https://github.com/element-plus/unplugin-element-plus) - 🔌 Import Element Plus on demand. Support Vite, Webpack, Vue CLI, Rollup and esbuild.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Deprecated! Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
