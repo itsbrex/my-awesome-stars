@@ -569,7 +569,6 @@
 ## Go 
 
 - [pomdtr/ray](https://github.com/pomdtr/ray) - A command line interface for Raycast
-- [pulumi/pulumi-snowflake](https://github.com/pulumi/pulumi-snowflake) - 
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
@@ -1027,7 +1026,6 @@
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [Ibaslogic/react-audio-player](https://github.com/Ibaslogic/react-audio-player) - A standard React audio player
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
-- [lmsutools/Code-Minifier-for-ChatGPT-Prompts](https://github.com/lmsutools/Code-Minifier-for-ChatGPT-Prompts) - 
 - [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [amaciver/AudioFiler](https://github.com/amaciver/AudioFiler) - 
 - [mikeckennedy/pyscript-pwa-example](https://github.com/mikeckennedy/pyscript-pwa-example) - 
@@ -1609,7 +1607,6 @@
 - [Jolaolu/react-instant](https://github.com/Jolaolu/react-instant) - Repository for my React-Algolia InstantSearch article
 - [mk-pmb/node-ableton-live-locators](https://github.com/mk-pmb/node-ableton-live-locators) - A way to extract the stuff you've typed into live: Notes, info text, the names of markers, etc.
 - [monzo/file-cleaner](https://github.com/monzo/file-cleaner) - 
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [ununu-p2p/als-parser](https://github.com/ununu-p2p/als-parser) - Unofficial Node.js-based parser for Ableton Live project files (.als)
 - [bit2pixel/chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [scblakely/Exclusive_m4l](https://github.com/scblakely/Exclusive_m4l) - Max4Live Exclusive device
@@ -2234,6 +2231,7 @@
 
 ## Others 
 
+- [CyberAlbSecOP/KEVLAR-Anti-Leak-System-Prompts](https://github.com/CyberAlbSecOP/KEVLAR-Anti-Leak-System-Prompts) - Bullet-proof your custom GPT system prompt security with KEVLAR, the ultimate prompt protector against rules extraction, prompt injections, and leaks of AI agent secret instructions.
 - [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
 - [lsvekis/Google-Apps-Script](https://github.com/lsvekis/Google-Apps-Script) - 
 - [christianbaun1/email-to-linkedin-google-sheet](https://github.com/christianbaun1/email-to-linkedin-google-sheet) - 
@@ -2482,7 +2480,6 @@
 - [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows) - Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
 - [SoloUnity/macos-apps-and-enhancements](https://github.com/SoloUnity/macos-apps-and-enhancements) - Awesome apps for macOS
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
-- [shyrz/url-schemes-store](https://github.com/shyrz/url-schemes-store) - A store of  URL schemes
 - [beyondcode/windy-community](https://github.com/beyondcode/windy-community) - 
 - [StarBax89/alfredworkflow.addatag](https://github.com/StarBax89/alfredworkflow.addatag) - Alfred 3 workflow for tagging files with Alfred
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -2512,6 +2509,7 @@
 - [RickyWander/ClyphX-Pro-FxBuss-Morpher](https://github.com/RickyWander/ClyphX-Pro-FxBuss-Morpher) - Multiple Fx Morpher with presets and external display for Ableton
 - [ptrkstr/AbletonLiveClyphXExamples](https://github.com/ptrkstr/AbletonLiveClyphXExamples) - Examples of ClyphX commands
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [rekordcloud/companion-app-releases](https://github.com/rekordcloud/companion-app-releases) - Repository to store released versions of the Rekordcloud Companion App
@@ -2674,9 +2672,11 @@
 
 ## Python 
 
+- [pmarcelino/synthetic-dataset](https://github.com/pmarcelino/synthetic-dataset) - 
+- [sreesai169/llmbot](https://github.com/sreesai169/llmbot) - 
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 30.67% tasks (pass@1) in SWE-bench lite with each task costs less than $0.7.
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Make one portrait alive!
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
@@ -3911,6 +3911,7 @@
 
 ## Rust 
 
+- [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [dioxus-community/dioxus-radio](https://github.com/dioxus-community/dioxus-radio) - Fully-typed global state management with a topics subscription system for Dioxus 🧬
@@ -4026,6 +4027,7 @@
 
 - [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [Netflix/eslint-config-netflix](https://github.com/Netflix/eslint-config-netflix) - Shared ESLint config for Netflix JavaScript
+- [pulumi/pulumi-snowflake](https://github.com/pulumi/pulumi-snowflake) - 
 - [sigsep/sigsep-mus-io](https://github.com/sigsep/sigsep-mus-io) - Tools to convert sigsep mus dataset from STEMS &lt;-&gt; WAV
 - [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
 - [wuqiong/FFmpeg-iOS-build-script](https://github.com/wuqiong/FFmpeg-iOS-build-script) - Shell script to build FFmpeg for iOS
@@ -4284,6 +4286,8 @@
 
 ## TypeScript 
 
+- [nolly-studio/cult-directory-template](https://github.com/nolly-studio/cult-directory-template) - A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortlessly with features like user authentication, product filters, and customizable themes. Advanced admi
+- [AndrewWalsh/at-your-service](https://github.com/AndrewWalsh/at-your-service) - Generate OpenAPI 3.1 specifications from network requests in browser environments
 - [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
 - [kamilkisiela/graphql-config](https://github.com/kamilkisiela/graphql-config) - One configuration for all your GraphQL tools (supported by most tools, editors & IDEs)
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
