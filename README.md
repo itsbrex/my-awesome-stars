@@ -901,7 +901,6 @@
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
-- [zachblume/autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
 - [hasura/sphinx-graphiql](https://github.com/hasura/sphinx-graphiql) - Sphinx plugin that adds a GraphiQL directive so that you can embed an interactive GraphQL query explorer in your docs
 - [anvilco/graphql-introspection-tools](https://github.com/anvilco/graphql-introspection-tools) - A library to query and manipulate GraphQL Introspection Query results in some useful ways.
 - [zya/degrees-and-modifiers](https://github.com/zya/degrees-and-modifiers) - Ableton Live MIDI Generator Chords Device
@@ -1687,6 +1686,7 @@
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
 - [rigoneri/Syte2](https://github.com/rigoneri/Syte2) - [Archived] Syte2 is a personal website with interactive social integrations.
@@ -2476,7 +2476,7 @@
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [redwoodjs/awesome-redwood](https://github.com/redwoodjs/awesome-redwood) - A community-driven collection of Redwood related plugins, config, themes, build scripts, tutorials, podcasts, and more.
 - [msaaddev/open-source](https://github.com/msaaddev/open-source) - ⚡️ A comprehensive list of all the open-source work I have done over the years. Authored 20+ open-source software that includes automation tools, node packages, web applications, etc.
-- [alexchantastic/alfred-open-with-vscode-workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - Alfred 5 workflow for opening files or folders in Visual Studio Code.
+- [alexchantastic/alfred-open-with-vscode-workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - Alfred 5 workflow for opening files or folders in Visual Studio Code
 - [dracula/ableton-live](https://github.com/dracula/ableton-live) - 🧛🏻‍♂️ Dark theme for Ableton Live 10
 - [92bondstreet/awesome-onboarding](https://github.com/92bondstreet/awesome-onboarding) - 🌻 A curated list of awesome onboarding new developers resources.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -2742,7 +2742,7 @@
 - [OwlAIProject/Owl](https://github.com/OwlAIProject/Owl) - A personal wearable AI that runs locally
 - [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
 - [aresponses/aresponses](https://github.com/aresponses/aresponses) - Asyncio http mocking. Similar to the responses library used for 'requests'
-- [joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
+- [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 
 - [ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer](https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer) - Timbre Enhanced Multi modal Music Style Transfer
 - [bytedance/GR-1](https://github.com/bytedance/GR-1) - Code for "Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation"
 - [juankysoriano/gpt-producer](https://github.com/juankysoriano/gpt-producer) - 
@@ -4289,6 +4289,7 @@
 
 ## TypeScript 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [nolly-studio/cult-directory-template](https://github.com/nolly-studio/cult-directory-template) - A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortlessly with features like user authentication, product filters, and customizable themes. Advanced admi
 - [AndrewWalsh/at-your-service](https://github.com/AndrewWalsh/at-your-service) - Generate OpenAPI 3.1 specifications from network requests in browser environments
 - [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
@@ -4316,6 +4317,7 @@
 - [lgrammel/modelfusion-ollama-nextjs-starter](https://github.com/lgrammel/modelfusion-ollama-nextjs-starter) - Starter examples for using Next.js and the Vercel AI SDK with Ollama and ModelFusion.
 - [10Nates/ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - A simple to use Ollama autocompletion engine with options exposed and streaming functionality
 - [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
+- [zachblume/autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [Blazity/next-maintenance-mode](https://github.com/Blazity/next-maintenance-mode) - 🛠️ The intuitive cost-efficient middleware for effortless maintenance mode toggling. Supported by multiple configuration options and a straightforward API. Ready to integrate with your Next.js app dir
 - [Blazity/next-news](https://github.com/Blazity/next-news) - 
@@ -5181,7 +5183,6 @@
 - [solobat/Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal is a push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vsfedorenko/ngx-fullpage](https://github.com/vsfedorenko/ngx-fullpage) - Angular 2 fullPage.js port library
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
