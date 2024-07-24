@@ -437,8 +437,8 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
-- [riffusion/riffusion](https://github.com/riffusion/riffusion) - Stable diffusion for real-time music generation
-- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation
+- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 
@@ -3068,6 +3068,7 @@
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [yamadashy/google-sheets-tabs-on-top](https://github.com/yamadashy/google-sheets-tabs-on-top) - Chrome extension. Move Google Sheets tabs on top.
 - [alertbox/try-bun](https://github.com/alertbox/try-bun) - Start a dev container and get to developing a variety of JavaScript-based (or TypeScript) web apps and services.
 - [GeekBoySupreme/Show-Keys](https://github.com/GeekBoySupreme/Show-Keys) - Utility to show key-presses on your browser
 - [abelljs/abell](https://github.com/abelljs/abell) - A Low-Level, Framework Agnostic, Highly Flexible Static-Site-Generator to help you build Static Sites on a smaller learning curve 🌀
@@ -3213,6 +3214,7 @@
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
+- [yamadashy/google-sheets-tabs-on-top](https://github.com/yamadashy/google-sheets-tabs-on-top) - Chrome extension. Move Google Sheets tabs on top.
 - [danielfrg/demucs-app](https://github.com/danielfrg/demucs-app) - Use DEMUCS to split songs into multiple sources
 
 ## json 
@@ -4098,8 +4100,8 @@
 - [foobar404/wave.js](https://github.com/foobar404/wave.js) - Audio visualizer library for javascript. Create dynamic animations that react to an audio file or audio stream.
 - [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
 - [fsynthlib/fsynth](https://github.com/fsynthlib/fsynth) - Music synthesizer, written for fun and to learn stuff
-- [riffusion/riffusion](https://github.com/riffusion/riffusion) - Stable diffusion for real-time music generation
-- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation
+- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for playlists, crates and a web/mobile frontend
@@ -4327,7 +4329,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [LukasMasuch/best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [open-source-labs/Reactime](https://github.com/open-source-labs/Reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
-- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [jkytoela/next-startd](https://github.com/jkytoela/next-startd) - ⚡ Free Next.js landing page template for SaaS products, online services and more.
 - [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
 - [nvedant/next-chrome-ts](https://github.com/nvedant/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
@@ -4606,6 +4608,7 @@
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [yamadashy/google-sheets-tabs-on-top](https://github.com/yamadashy/google-sheets-tabs-on-top) - Chrome extension. Move Google Sheets tabs on top.
 - [saurabhdaware/projectman](https://github.com/saurabhdaware/projectman) - ProjectMan is a command line tool to easily save/open your favorite projects right from command line. `pm add` to add projects and `pm open` to open them from anywhere you want🦸
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -8752,8 +8755,8 @@
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
-- [riffusion/riffusion](https://github.com/riffusion/riffusion) - Stable diffusion for real-time music generation
-- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation
+- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [LuChengTHU/dpm-solver](https://github.com/LuChengTHU/dpm-solver) - Official code for "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps" (Neurips 2022 Oral)
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
@@ -9210,6 +9213,7 @@
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [abstractalgo/react-browser-extension](https://github.com/abstractalgo/react-browser-extension) - starter repo for building web browser extensions (MV3) with React v18 and Typescript
+- [yamadashy/google-sheets-tabs-on-top](https://github.com/yamadashy/google-sheets-tabs-on-top) - Chrome extension. Move Google Sheets tabs on top.
 - [47ng/chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
 - [alertbox/try-bun](https://github.com/alertbox/try-bun) - Start a dev container and get to developing a variety of JavaScript-based (or TypeScript) web apps and services.
