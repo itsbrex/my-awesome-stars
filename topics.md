@@ -2367,7 +2367,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [erdos-one/r2](https://github.com/erdos-one/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
@@ -2404,7 +2404,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
@@ -3409,7 +3409,7 @@
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [foyer-work/merlin-node](https://github.com/foyer-work/merlin-node) - Merlin SDK Provides A Unified API To Interact With 20+ LLM Models.
@@ -3430,7 +3430,7 @@
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().
@@ -4767,6 +4767,7 @@
 
 ## others 
 
+- [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [raunofreiberg/raycast-extensions](https://github.com/raunofreiberg/raycast-extensions) - Everything you need to extend Raycast.
 - [HubSpot/hubspot-local-dev-lib](https://github.com/HubSpot/hubspot-local-dev-lib) - Provides library functionality for HubSpot local development tooling, including the HubSpot CLI
 - [AndersDJohnson/assemble-markdown-data](https://github.com/AndersDJohnson/assemble-markdown-data) - An Assemble plugin for automatic parsing of markdown in data.
@@ -5604,7 +5605,7 @@
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1
 - [codedamn/teach.codedamn.com](https://github.com/codedamn/teach.codedamn.com) - 
 - [arisona/m4l_devices](https://github.com/arisona/m4l_devices) - 
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - JavaScript MIDI player/editor and synthesizer based on SoundFont2 specifications. Modulator and sf3 support. No dependencies required.
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - Advanced JavaScript MIDI player/editor and synthesizer based on SoundFont2 specifications. Modulator and sf3 support. No dependencies required.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [sandormatyi/Sequoia](https://github.com/sandormatyi/Sequoia) - 808-style MIDI sequencer built around a Teensy LC board
 - [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Teenage Engineering OP-Z or Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
