@@ -350,7 +350,7 @@
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
@@ -367,6 +367,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
+- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
@@ -380,7 +381,7 @@
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
@@ -534,6 +535,7 @@
 
 ## api 
 
+- [Kars1996/DiscordBotMonorepo](https://github.com/Kars1996/DiscordBotMonorepo) - 🌐Monorepo Template for a DiscordJS Bot with an API, Website, Commands page and example docs, all in one repo powered by create-kapp
 - [flexiodata/functions-hubspot](https://github.com/flexiodata/functions-hubspot) - Import live, refreshable data from HubSpot into Microsoft Excel and Google Sheets.
 - [AndrewWalsh/at-your-service](https://github.com/AndrewWalsh/at-your-service) - Generate OpenAPI 3.1 specifications from network requests in browser environments
 - [wapmorgan/OpenApiGenerator](https://github.com/wapmorgan/OpenApiGenerator) - OpenApi configuration generator directly from PHP code (PhpDoc and php type hints). Can be used with a large monolithic backend
@@ -559,7 +561,7 @@
 - [Peter-Schorn/SpotifyAPI](https://github.com/Peter-Schorn/SpotifyAPI) - A Swift library for the Spotify web API. Supports all endpoints.
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
@@ -875,7 +877,7 @@
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
-- [decodingml/llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 11 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴
+- [decodingml/llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴
 - [tweedegolf/storage-abstraction](https://github.com/tweedegolf/storage-abstraction) - Provides an abstraction layer for interacting with a storage; the storage can be local or in the cloud.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [banjtheman/chataws](https://github.com/banjtheman/chataws) - A ChatGPT plugin that allows users to create websites and Lambda functions using ChatGPT
@@ -976,6 +978,7 @@
 
 ## bot 
 
+- [ManiMozaffar/linkedIn-scraper](https://github.com/ManiMozaffar/linkedIn-scraper) - A playwright bot which is implemented to scrape linkedin and store advertisement data in a database and telegram channel
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [kabirjaipal/JUGNU-MUSIC](https://github.com/kabirjaipal/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
@@ -1017,6 +1020,8 @@
 
 ## chatgpt 
 
+- [nicucalcea/sheets-llm](https://github.com/nicucalcea/sheets-llm) - Use Large Language Models (LLM) in Google Sheets
+- [ManiMozaffar/linkedIn-scraper](https://github.com/ManiMozaffar/linkedIn-scraper) - A playwright bot which is implemented to scrape linkedin and store advertisement data in a database and telegram channel
 - [AImarkdown/main](https://github.com/AImarkdown/main) - Versatile App Creation: Build ChatGPT apps for mobile or desktop
 - [RaheesAhmed/book-generator](https://github.com/RaheesAhmed/book-generator) - Book Creator Tool is a web-based application designed to automate the creation of books using AI. Users can input specifications such as the title, genre, language, and more, and the application gener
 - [ozgrozer/chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
@@ -1175,6 +1180,7 @@
 
 ## chatgpt-api 
 
+- [ManiMozaffar/linkedIn-scraper](https://github.com/ManiMozaffar/linkedIn-scraper) - A playwright bot which is implemented to scrape linkedin and store advertisement data in a database and telegram channel
 - [RaheesAhmed/book-generator](https://github.com/RaheesAhmed/book-generator) - Book Creator Tool is a web-based application designed to automate the creation of books using AI. Users can input specifications such as the title, genre, language, and more, and the application gener
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
@@ -1811,6 +1817,7 @@
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools) - This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, musi
+- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
 - [s-omranpour/DeepMusic](https://github.com/s-omranpour/DeepMusic) - A python package for high level musical data manipulation and preprocessing, making data ready to be fed to a neural network.
@@ -1939,7 +1946,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [MNThomson/containerflare](https://github.com/MNThomson/containerflare) - 🔥 Cloudflare (Workers + R2) edge container image repository
 - [sigsep/sigsep-mus-io](https://github.com/sigsep/sigsep-mus-io) - Tools to convert sigsep mus dataset from STEMS &lt;-&gt; WAV
-- [decodingml/llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 11 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴
+- [decodingml/llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [carlosholivan/music-composition-api](https://github.com/carlosholivan/music-composition-api) - This module contains models an API for music generation with state-of-the-art models.
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
@@ -3267,7 +3274,7 @@
 - [sderosiaux/every-single-day-i-tldr](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app build with Node, NextJS, MongoDB, Docker and Kubernetes.
@@ -3374,6 +3381,7 @@
 
 ## llm 
 
+- [nicucalcea/sheets-llm](https://github.com/nicucalcea/sheets-llm) - Use Large Language Models (LLM) in Google Sheets
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [yuriwa/crewai-sheets-ui](https://github.com/yuriwa/crewai-sheets-ui) - Use google sheets as a gui for crewAI
@@ -3436,7 +3444,7 @@
 - [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files. Integration with music production tools.
@@ -3461,7 +3469,7 @@
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
@@ -3605,7 +3613,7 @@
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
@@ -3626,6 +3634,7 @@
 - [Yuan-ManX/audio-development-tools](https://github.com/Yuan-ManX/audio-development-tools) - This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, musi
 - [arihanv/PromptGPT](https://github.com/arihanv/PromptGPT) - 
 - [vroomai/vst](https://github.com/vroomai/vst) - 🎹 Generate sounds from words. Directly in your DAW.
+- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 - [CPJKU/madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
@@ -4018,6 +4027,7 @@
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [RegsonDR/spotify-save-playlists-cron](https://github.com/RegsonDR/spotify-save-playlists-cron) - Save Spotify's auto-generated playlists automatically - Powered by Github Actions.
 - [gioxx/spotify-save-new-music-friday](https://github.com/gioxx/spotify-save-new-music-friday) - Save Spotify's "New Music Friday" playlist automatically - Powered by Github Actions, based on the original script by @RegsonDR.
+- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [bepitulaz/generative-music](https://github.com/bepitulaz/generative-music) - The code from my single: A New Life
 - [jagilley/autodrummer](https://github.com/jagilley/autodrummer) - A text-to-audio model for generating text-conditioned drum beats
 - [kabirjaipal/JUGNU-MUSIC](https://github.com/kabirjaipal/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
@@ -4167,7 +4177,7 @@
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
@@ -4191,6 +4201,7 @@
 
 ## nestjs 
 
+- [idrsdev/agile-board](https://github.com/idrsdev/agile-board) - Bring all your tasks, teams, and tools together in one centralized platform! Open to contributions⭐ Raise a PR⚡! You can view API Docs Here
 - [Skolaczk/SocialHub](https://github.com/Skolaczk/SocialHub) - SocialHub is a next-generation social media app developed using Next.js and Nest.js. It offers a modern interface and seamless user experience for connecting and exploring content.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -4473,7 +4484,7 @@
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [asigalov61/tegridy-tools](https://github.com/asigalov61/tegridy-tools) - Symbolic Music NLP Artificial Intelligence Toolkit
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files. Integration with music production tools.
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
@@ -4534,6 +4545,7 @@
 
 ## nodejs 
 
+- [idrsdev/agile-board](https://github.com/idrsdev/agile-board) - Bring all your tasks, teams, and tools together in one centralized platform! Open to contributions⭐ Raise a PR⚡! You can view API Docs Here
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [anvilco/graphql-introspection-tools](https://github.com/anvilco/graphql-introspection-tools) - A library to query and manipulate GraphQL Introspection Query results in some useful ways.
@@ -4767,6 +4779,10 @@
 
 ## others 
 
+- [DeskproApps/hubspot](https://github.com/DeskproApps/hubspot) - 
+- [Tublian/DevDocGenie](https://github.com/Tublian/DevDocGenie) - API assistance for developers. It will digest all the API docs and act as a helper for a developer.
+- [samuelgursky/invoicing](https://github.com/samuelgursky/invoicing) - Generate Invoices via Google Sheets & Google AppScript.
+- [MervinPraison/PraisonAI-Tools](https://github.com/MervinPraison/PraisonAI-Tools) - 
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [raunofreiberg/raycast-extensions](https://github.com/raunofreiberg/raycast-extensions) - Everything you need to extend Raycast.
 - [HubSpot/hubspot-local-dev-lib](https://github.com/HubSpot/hubspot-local-dev-lib) - Provides library functionality for HubSpot local development tooling, including the HubSpot CLI
@@ -4809,7 +4825,7 @@
 - [ludwig-ai/datasets](https://github.com/ludwig-ai/datasets) - Open Source Datasets to Use for Demonstrating Ludwig Capabilities
 - [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [July 2024]
 - [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
-- [ryanwaldorf/generate_temp_table_sql](https://github.com/ryanwaldorf/generate_temp_table_sql) - This package takes a CSV and generates SQL statements to create a temp table and insert the data within it into the temp table.  Good when you need to move data between warehouses for ad hoc analysis 
+- [ryanwith/generate_temp_table_sql](https://github.com/ryanwith/generate_temp_table_sql) - This package takes a CSV and generates SQL statements to create a temp table and insert the data within it into the temp table.  Good when you need to move data between warehouses for ad hoc analysis 
 - [Blazity/next-news](https://github.com/Blazity/next-news) - 
 - [Blazity/hygraph-app-starter](https://github.com/Blazity/hygraph-app-starter) - 
 - [hasura/sphinx-graphiql](https://github.com/hasura/sphinx-graphiql) - Sphinx plugin that adds a GraphiQL directive so that you can embed an interactive GraphQL query explorer in your docs
@@ -5605,7 +5621,7 @@
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1
 - [codedamn/teach.codedamn.com](https://github.com/codedamn/teach.codedamn.com) - 
 - [arisona/m4l_devices](https://github.com/arisona/m4l_devices) - 
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - Advanced JavaScript MIDI player/editor and synthesizer based on SoundFont2 specifications. Modulator and sf3 support. No dependencies required.
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - Multi-purpose SounFont2/3 and MIDI JavaScript Synthesizer library without dependencies.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [sandormatyi/Sequoia](https://github.com/sandormatyi/Sequoia) - 808-style MIDI sequencer built around a Teensy LC board
 - [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Teenage Engineering OP-Z or Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
@@ -5736,7 +5752,6 @@
 - [PFython/pyscript-local-runtime](https://github.com/PFython/pyscript-local-runtime) - 
 - [magenta/drumbot](https://github.com/magenta/drumbot) - Play real-time music with a machine learning drummer that drums based on your melody.
 - [rocktimsaikia/spotify-mini](https://github.com/rocktimsaikia/spotify-mini) - Spotify client for nodejs exposing few useful methods
-- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [rocktimsaikia/spotify-rtoken-cli](https://github.com/rocktimsaikia/spotify-rtoken-cli) - Generate Spotify refresh_token right from terminal
 - [aaronats/jsmidi](https://github.com/aaronats/jsmidi) - 
 - [Onni97/AbletonLinkOnNodeServer](https://github.com/Onni97/AbletonLinkOnNodeServer) - A Node server that uses the Ableton Link protocol. It serves a page to see the data of the Ableton Link session that is running on the same WiFi
@@ -6725,7 +6740,7 @@
 - [vanstorm9/Midi-AI-Melody-Generator](https://github.com/vanstorm9/Midi-AI-Melody-Generator) - Uses LSTM neural networks to compose new and original melodies by feeding it midi files
 - [Boscillator/auger](https://github.com/Boscillator/auger) - LoFi hold music VST
 - [microsoft/app-store-vsts-extension](https://github.com/microsoft/app-store-vsts-extension) - Visual Studio Team Services (VSTS) extension for performing continuous delivery to the App Store store from your automated CI builds
-- [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - One music sequencer for all major platforms, desktop and mobile
+- [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
 - [akella/PolygonTransitions](https://github.com/akella/PolygonTransitions) - 
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [flesniak/python-prodj-link](https://github.com/flesniak/python-prodj-link) - A python interface to Pioneer ProDJ Link
@@ -7439,7 +7454,7 @@
 ## p2p 
 
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
@@ -7596,6 +7611,7 @@
 
 ## python 
 
+- [ManiMozaffar/linkedIn-scraper](https://github.com/ManiMozaffar/linkedIn-scraper) - A playwright bot which is implemented to scrape linkedin and store advertisement data in a database and telegram channel
 - [flexiodata/functions-hubspot](https://github.com/flexiodata/functions-hubspot) - Import live, refreshable data from HubSpot into Microsoft Excel and Google Sheets.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [pypa/installer](https://github.com/pypa/installer) - A low-level library for installing from a Python wheel distribution.
@@ -7755,6 +7771,7 @@
 - [gioxx/spotify-save-new-music-friday](https://github.com/gioxx/spotify-save-new-music-friday) - Save Spotify's "New Music Friday" playlist automatically - Powered by Github Actions, based on the original script by @RegsonDR.
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 - [CPJKU/madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
@@ -7979,6 +7996,7 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
+- [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [mostafaelaraby/wavegan-pytorch](https://github.com/mostafaelaraby/wavegan-pytorch) - Pytorch Implementation of wavegan model to generate audio
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
@@ -8747,7 +8765,7 @@
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [thygate/stable-diffusion-webui-depthmap-script](https://github.com/thygate/stable-diffusion-webui-depthmap-script) - High Resolution Depth Maps for Stable Diffusion WebUI
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
 - [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
@@ -9018,6 +9036,7 @@
 
 ## typescript 
 
+- [idrsdev/agile-board](https://github.com/idrsdev/agile-board) - Bring all your tasks, teams, and tools together in one centralized platform! Open to contributions⭐ Raise a PR⚡! You can view API Docs Here
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
@@ -9481,6 +9500,7 @@
 
 ## website 
 
+- [Kars1996/DiscordBotMonorepo](https://github.com/Kars1996/DiscordBotMonorepo) - 🌐Monorepo Template for a DiscordJS Bot with an API, Website, Commands page and example docs, all in one repo powered by create-kapp
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [feross/bitmidi.com](https://github.com/feross/bitmidi.com) - 🎹 Listen to free MIDI songs, download the best MIDI files, and share the best MIDIs on the web
 - [seancdavis/seancdavis-com](https://github.com/seancdavis/seancdavis-com) - My personal website, which is mostly just a blog helping developers build better websites.
