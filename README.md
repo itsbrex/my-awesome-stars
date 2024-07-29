@@ -240,7 +240,7 @@
 - [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [July 2024]
 - [rorywalsh/cabbage](https://github.com/rorywalsh/cabbage) - Framework for developing audio plugins with the Csound programming language.
 - [yeeking/ai-enhanced-audio-book](https://github.com/yeeking/ai-enhanced-audio-book) - A repository of AI-enhanced audio plugins written using C++, JUCE, libtorch, RTNeural and other libraries. Supports my book
-- [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A cross platform note level midi decoding library with lightening speed, based on minimidi.
+- [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A swift and unified toolkit for symbolic music processing
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [asantoni/libaudiodecoder](https://github.com/asantoni/libaudiodecoder) - The Cross-Platform Audio Decoder API
@@ -1060,7 +1060,7 @@
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - Multi-purpose SounFont2/3 and MIDI JavaScript Synthesizer library without dependencies.
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - A versatile JavaScript library for SoundFont2/3 synthesis and MIDI playback, offering powerful features and zero dependencies.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [qwolilowp/Z_TENNOT_IU](https://github.com/qwolilowp/Z_TENNOT_IU) - harmonic table note layout, Euler Tonnetz, Browser GUI, WebMIDI Interface, Sequencer
 - [softboydev/tram](https://github.com/softboydev/tram) - "tram" is short for "typographic rythm automation machine" and is a typographic midi sequencer
@@ -1156,7 +1156,6 @@
 - [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
 - [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
 - [haxtheweb/unbundled-webcomponents](https://github.com/haxtheweb/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
-- [opensouls/soul-engine-sdk](https://github.com/opensouls/soul-engine-sdk) - Soul Engine SDK
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript.
 - [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
@@ -1289,6 +1288,7 @@
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [LeMansHack/AbletonAPI](https://github.com/LeMansHack/AbletonAPI) - NodeJS API for Ableton Live using Max4Node
+- [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
 - [xavi-/node-copy-paste](https://github.com/xavi-/node-copy-paste) - A command line utility that allows read/write (i.e copy/paste) access to the system clipboard.
 - [tomimick/tomitool-vsext](https://github.com/tomimick/tomitool-vsext) - VSCode extension to add custom syntax hilighting to plain text files
@@ -4297,6 +4297,7 @@
 
 ## TypeScript 
 
+- [BASI-LABS/parseltongue](https://github.com/BASI-LABS/parseltongue) - Parseltongue is a powerful prompt hacking tool/browser extension for real-time tokenization visualization and seamless text conversion, supporting formats like binary, base64, leetspeak, special chara
 - [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 - [DeskproApps/hubspot](https://github.com/DeskproApps/hubspot) - 
 - [Kars1996/DiscordBotMonorepo](https://github.com/Kars1996/DiscordBotMonorepo) - 🌐Monorepo Template for a DiscordJS Bot with an API, Website, Commands page and example docs, all in one repo powered by create-kapp
@@ -4571,7 +4572,7 @@
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming soon 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming August 1 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Post
 - [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with va
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -4700,6 +4701,7 @@
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
+- [opensouls/soul-engine-sdk](https://github.com/opensouls/soul-engine-sdk) - Soul Engine SDK
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
 - [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
@@ -5260,7 +5262,6 @@
 - [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [mandatoryprogrammer/ChromeGalvanizer](https://github.com/mandatoryprogrammer/ChromeGalvanizer) - Harden your Chrome browser via enterprise policy.
-- [ramitmittal/quick-copy](https://github.com/ramitmittal/quick-copy) - A super-powered clipboard manager for browsers.
 - [jpdh9881/ableton-viewer-vue](https://github.com/jpdh9881/ableton-viewer-vue) - View clip arrangement (and project file details in JSON format) of Ableton Project files
 - [montoulieu/ableton-live-downloader](https://github.com/montoulieu/ableton-live-downloader) - 🎹 Downloads the desired 64-bit installer from any version of Ableton Live 11, 10, and 9.
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
