@@ -1917,6 +1917,7 @@
 - [ylacombe/musicgen-dreamboothing](https://github.com/ylacombe/musicgen-dreamboothing) - Fine-tune your own MusicGen with LoRA
 - [huggingface/optimum-neuron](https://github.com/huggingface/optimum-neuron) - Easy, fast and very cheap training and inference on AWS Trainium and Inferentia chips.
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
+- [leiyu0210/FinLangNet](https://github.com/leiyu0210/FinLangNet) - 
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
@@ -2704,7 +2705,7 @@
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [flowese/UdioWrapper](https://github.com/flowese/UdioWrapper) - UdioWrapper is a Python package that enables the generation of music tracks using Udio's API through textual prompts. This package is based on the reverse engineering of the Udio API (https://www.udio
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
-- [Bklieger/groqnotes](https://github.com/Bklieger/groqnotes) - GroqNotes: Generate organized notes from audio using Groq, Whisper, and Llama3
+- [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
 - [ebai101/midicap](https://github.com/ebai101/midicap) - always on MIDI recorder
 - [bhaskatripathi/TensorCraft](https://github.com/bhaskatripathi/TensorCraft) - TensorCraft is a Python library to simplify the process of building, training, and deploying neural networks using TensorFlow. It is a high level wrapper like Keras on top of tensorflow
 - [geo-martino/musify](https://github.com/geo-martino/musify) - A Swiss Army knife for programmatic music library management. Manages both local and music streaming service libraries.
@@ -2871,7 +2872,6 @@
 - [itsbrex/prefect](https://github.com/itsbrex/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [itsbrex/transformers](https://github.com/itsbrex/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [itsbrex/gpt-engineer](https://github.com/itsbrex/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [leiyu0210/FinLangNet](https://github.com/leiyu0210/FinLangNet) - 
 - [stevengans/tmlm](https://github.com/stevengans/tmlm) - Tiny Metal Language Model
 - [stevengans/ollama-clay](https://github.com/stevengans/ollama-clay) - A simple script for running a mixture of RAG and HF using Ollama and Argilla
 - [stevengans/tinyllamas-clay](https://github.com/stevengans/tinyllamas-clay) - A basic script for running an ensemble of TinyLlamas on MLX to annotate an Argilla Dataset
@@ -3228,7 +3228,7 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [briansemrau/MIDI-LLM-tokenizer](https://github.com/briansemrau/MIDI-LLM-tokenizer) - Tools for converting .mid files into text for training large language models
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
@@ -3344,7 +3344,7 @@
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
 - [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [unconv/gpt-autopilot](https://github.com/unconv/gpt-autopilot) - A GPT-4 powered AI agent that can create full projects with iterative prompting
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -3365,7 +3365,7 @@
 - [toaco/carry](https://github.com/toaco/carry) - Python ETL(Extract-Transform-Load) tool / Data migration tool
 - [echonest/discogs-xml2db](https://github.com/echonest/discogs-xml2db) - Import the discogs monthly XML dumps into a database (fork of http://code.google.com/p/discogs-sql-importer/)
 - [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [moises-ai/maestro-worker-python](https://github.com/moises-ai/maestro-worker-python) - 
 - [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [flipcoder/midimech](https://github.com/flipcoder/midimech) - 🎼  Isomorphic musical layout engine for LinnStrument and Launchpad X, with DAW/Synthesia visualizer
@@ -3964,7 +3964,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [cryscan/web-rwkv](https://github.com/cryscan/web-rwkv) - Implementation of the RWKV language model in pure WebGPU/Rust.
 - [lucacasonato/wgpu_cts_runner](https://github.com/lucacasonato/wgpu_cts_runner) - A minimal JS runtime built on Deno (deno_core / extensions) that can be used to test WebGPU CTS outside of full Deno.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [huboles/cellseq](https://github.com/huboles/cellseq) - generative midi sequencer
 - [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper for Ableton Link
@@ -4299,6 +4299,7 @@
 
 ## TypeScript 
 
+- [justboil/admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React Next Tailwind 3.x admin dashboard template with typescript and dark mode.
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - ✨ Accessible, mobile friendly, modern UI components.
 - [BASI-LABS/parseltongue](https://github.com/BASI-LABS/parseltongue) - Parseltongue is a powerful prompt hacking tool/browser extension for real-time tokenization visualization and seamless text conversion, supporting formats like binary, base64, leetspeak, special chara
 - [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
@@ -4548,7 +4549,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
 - [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
 - [iansimon/magenta-js](https://github.com/iansimon/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -4575,7 +4576,7 @@
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming August 1 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Post
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - v1.2.6 - August 2 - 12:00 pm CEST 💜 Next.js 15 Store Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
 - [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with va
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
