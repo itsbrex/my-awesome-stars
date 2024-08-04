@@ -887,6 +887,7 @@
 
 ## JavaScript 
 
+- [giacomo-io/google-sheet-linkedin-formula](https://github.com/giacomo-io/google-sheet-linkedin-formula) - Custom Google Sheet formula to the the url of a Linkedin profile
 - [Bklieger/Claude-React-Jumpstart](https://github.com/Bklieger/Claude-React-Jumpstart) - 📖 A step-by-step guide for beginners to running Claude-generated React code locally.
 - [nicucalcea/sheets-llm](https://github.com/nicucalcea/sheets-llm) - Use Large Language Models (LLM) in Google Sheets
 - [samuelgursky/invoicing](https://github.com/samuelgursky/invoicing) - Generate Invoices via Google Sheets & Google AppScript.
@@ -2241,6 +2242,7 @@
 
 ## Others 
 
+- [nyanta012/pdf-extraction-accuracy](https://github.com/nyanta012/pdf-extraction-accuracy) - 
 - [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 - [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - This repository contains resources for technical coding interviews.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -2683,6 +2685,7 @@
 
 ## Python 
 
+- [qrev-ai/qrev](https://github.com/qrev-ai/qrev) - 🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce. It's what Salesforce would be if it was built today, starting with AI.
 - [Tublian/DevDocGenie](https://github.com/Tublian/DevDocGenie) - API assistance for developers. It will digest all the API docs and act as a helper for a developer.
 - [MervinPraison/PraisonAI-Tools](https://github.com/MervinPraison/PraisonAI-Tools) - 
 - [ManiMozaffar/linkedIn-scraper](https://github.com/ManiMozaffar/linkedIn-scraper) - A playwright bot which is implemented to scrape linkedin and store advertisement data in a database and telegram channel
@@ -4332,7 +4335,7 @@
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [lgrammel/modelfusion-ollama-nextjs-starter](https://github.com/lgrammel/modelfusion-ollama-nextjs-starter) - Starter examples for using Next.js and the Vercel AI SDK with Ollama and ModelFusion.
 - [10Nates/ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - A simple to use Ollama autocompletion engine with options exposed and streaming functionality
-- [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
+- [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [zachblume/autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [Blazity/next-maintenance-mode](https://github.com/Blazity/next-maintenance-mode) - 🛠️ The intuitive cost-efficient middleware for effortless maintenance mode toggling. Supported by multiple configuration options and a straightforward API. Ready to integrate with your Next.js app dir
@@ -4573,7 +4576,7 @@
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - v1.2.6 - August 3 - 17:00 CEST 💜 Next.js 15 Store Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgr
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - v1.2.6 - August 4 - ~04:00 CEST 💜 Next.js 15 Store Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postg
 - [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with va
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
