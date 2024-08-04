@@ -263,6 +263,7 @@
 
 ## ai 
 
+- [qrev-ai/qrev](https://github.com/qrev-ai/qrev) - 🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce. It's what Salesforce would be if it was built today, starting with AI.
 - [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 - [Bklieger/Claude-React-Jumpstart](https://github.com/Bklieger/Claude-React-Jumpstart) - 📖 A step-by-step guide for beginners to running Claude-generated React code locally.
 - [AImarkdown/main](https://github.com/AImarkdown/main) - Versatile App Creation: Build ChatGPT apps for mobile or desktop
@@ -4288,7 +4289,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - v1.2.6 - August 3 - 17:00 CEST 💜 Next.js 15 Store Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgr
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - v1.2.6 - August 4 - ~04:00 CEST 💜 Next.js 15 Store Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postg
 - [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your projects with va
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -4786,6 +4787,8 @@
 
 ## others 
 
+- [nyanta012/pdf-extraction-accuracy](https://github.com/nyanta012/pdf-extraction-accuracy) - 
+- [giacomo-io/google-sheet-linkedin-formula](https://github.com/giacomo-io/google-sheet-linkedin-formula) - Custom Google Sheet formula to the the url of a Linkedin profile
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
 - [HubSpot/recruiting-agency-graphql-theme](https://github.com/HubSpot/recruiting-agency-graphql-theme) - A theme based off of the HubSpot CMS Boilerplate. This theme includes modules and templates that demonstrate how to utilize GraphQL as part of a website built with HubSpot CMS and Custom CRM Objects.
 - [BASI-LABS/parseltongue](https://github.com/BASI-LABS/parseltongue) - Parseltongue is a powerful prompt hacking tool/browser extension for real-time tokenization visualization and seamless text conversion, supporting formats like binary, base64, leetspeak, special chara
@@ -4834,7 +4837,7 @@
 - [Netflix/eslint-config-netflix](https://github.com/Netflix/eslint-config-netflix) - Shared ESLint config for Netflix JavaScript
 - [ludwig-ai/datasets](https://github.com/ludwig-ai/datasets) - Open Source Datasets to Use for Demonstrating Ludwig Capabilities
 - [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [July 2024]
-- [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
+- [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [ryanwith/generate_temp_table_sql](https://github.com/ryanwith/generate_temp_table_sql) - This package takes a CSV and generates SQL statements to create a temp table and insert the data within it into the temp table.  Good when you need to move data between warehouses for ad hoc analysis 
 - [Blazity/next-news](https://github.com/Blazity/next-news) - 
 - [Blazity/hygraph-app-starter](https://github.com/Blazity/hygraph-app-starter) - 
