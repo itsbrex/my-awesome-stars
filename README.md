@@ -888,6 +888,7 @@
 
 ## JavaScript 
 
+- [peterrauscher/NextScraper](https://github.com/peterrauscher/NextScraper) - A chrome extension for extracting data from dynamically loaded pages, without a headless browser. Jumpstart your next web-scraping project with NextScraper!
 - [giacomo-io/google-sheet-linkedin-formula](https://github.com/giacomo-io/google-sheet-linkedin-formula) - Custom Google Sheet formula to the the url of a Linkedin profile
 - [Bklieger/Claude-React-Jumpstart](https://github.com/Bklieger/Claude-React-Jumpstart) - 📖 A step-by-step guide for beginners to running Claude-generated React code locally.
 - [nicucalcea/sheets-llm](https://github.com/nicucalcea/sheets-llm) - Use Large Language Models (LLM) in Google Sheets
@@ -1033,7 +1034,6 @@
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
-- [Ibaslogic/react-audio-player](https://github.com/Ibaslogic/react-audio-player) - A standard React audio player
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [amaciver/AudioFiler](https://github.com/amaciver/AudioFiler) - 
@@ -1481,7 +1481,6 @@
 - [jesstelford/extract-to-react](https://github.com/jesstelford/extract-to-react) - Chrome/Chromium extension for easy HTML to React conversion.
 - [gaurangrshah/next-supabase-starter](https://github.com/gaurangrshah/next-supabase-starter) - 
 - [harish-garg/nextjs-reactjs-gpt-3](https://github.com/harish-garg/nextjs-reactjs-gpt-3) - GPT-3 Powered Serverless App using NextJS & React
-- [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
 - [tomsoderlund/nextjs-generic-landing-page](https://github.com/tomsoderlund/nextjs-generic-landing-page) - A generic landing page template, built in Next.js (React) with static HTML export
 - [xk2800/TODO-app-fullstack-jamstack-nextjs](https://github.com/xk2800/TODO-app-fullstack-jamstack-nextjs) - A simple to-do PWA. Built with Next.js, Next Auth, Tailwind CSS & Airtable. (Made to try out airtable's abilities)
 - [pnkjjsr/nextjs-pwa-firebaseauth-api-starterkit](https://github.com/pnkjjsr/nextjs-pwa-firebaseauth-api-starterkit) - nextjs-pwa-firebaseauth-api-starterkit
@@ -1692,7 +1691,6 @@
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
 - [rigoneri/Syte2](https://github.com/rigoneri/Syte2) - [Archived] Syte2 is a personal website with interactive social integrations.
@@ -3372,9 +3370,8 @@
 - [toaco/carry](https://github.com/toaco/carry) - Python ETL(Extract-Transform-Load) tool / Data migration tool
 - [echonest/discogs-xml2db](https://github.com/echonest/discogs-xml2db) - Import the discogs monthly XML dumps into a database (fork of http://code.google.com/p/discogs-sql-importer/)
 - [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [moises-ai/maestro-worker-python](https://github.com/moises-ai/maestro-worker-python) - 
-- [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [flipcoder/midimech](https://github.com/flipcoder/midimech) - 🎼  Isomorphic musical layout engine for LinnStrument and Launchpad X, with DAW/Synthesia visualizer
 - [asigalov61/Los-Angeles-MIDI-Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset) - SOTA kilo-scale MIDI dataset for MIR and Music AI purposes
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
@@ -3403,7 +3400,7 @@
 - [itsbrex/chat-gpt-rest-api](https://github.com/itsbrex/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
 - [gajosu/chat-gpt-rest-api](https://github.com/gajosu/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
-- [ideoforms/isobar](https://github.com/ideoforms/isobar) - A Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. Can be used to generate MIDI events, MIDI files, OSC me
+- [ideoforms/isobar](https://github.com/ideoforms/isobar) - A Python package for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. Can be used to generate MIDI events, MIDI files, OSC me
 - [flipcoder/textbeat](https://github.com/flipcoder/textbeat) - 🎹 plaintext music sequencer and midi shell, with vim playback and the powers of music theory  🥁
 - [Rainbow-Dreamer/musicpy](https://github.com/Rainbow-Dreamer/musicpy) - Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.
 - [stripe/stripe-python](https://github.com/stripe/stripe-python) - Python library for the Stripe API.
@@ -4550,6 +4547,7 @@
 - [udecode/plate-playground-template](https://github.com/udecode/plate-playground-template) - A Next.js 14 template with Plate playground.
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
+- [Ibaslogic/react-audio-player](https://github.com/Ibaslogic/react-audio-player) - A standard React audio player
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
 - [ChrisAbdo/Portfolio](https://github.com/ChrisAbdo/Portfolio) - A beautifully crafted portfolio made with Next.js, TailwindCSS, and Framer Motion
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
@@ -5106,6 +5104,7 @@
 - [kabirgogoi/nextjs-fullstack-starter](https://github.com/kabirgogoi/nextjs-fullstack-starter) - NextJs fullstack project starter with Typescript, Chakra-ui, next-auth, next-connect, prisma and next-seo
 - [samueldobbie/troogl-extension](https://github.com/samueldobbie/troogl-extension) - Real-time insights into the news you read :newspaper:
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
+- [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
 - [tomsoderlund/reactnative-nextjs-template](https://github.com/tomsoderlund/reactnative-nextjs-template) - Build native apps (iOS/Android/Windows/macOS) and an SEO-optimized web app from the same React codebase
 - [alexeagleson/nextjs-fullstack-app-template](https://github.com/alexeagleson/nextjs-fullstack-app-template) - A fullstack template for a NextJs App
 - [JithinAntony4/nextjs-pwa-boilerplate](https://github.com/JithinAntony4/nextjs-pwa-boilerplate) - 🔥 NextJS Boilerplate with hybrid static & server rendering, TypeScript support, route pre-fetching, PWA support, FCM integration, SendGrid integration, Twilio integration, and Google SignIn
@@ -5209,6 +5208,7 @@
 - [solobat/Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal is a push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vsfedorenko/ngx-fullpage](https://github.com/vsfedorenko/ngx-fullpage) - Angular 2 fullPage.js port library
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
