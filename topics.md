@@ -373,7 +373,7 @@
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
 - [Neutone/neutone_sdk](https://github.com/Neutone/neutone_sdk) - Join the community on Discord for more discussions around Neutone! https://discord.gg/VHSMzb8Wqp
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [rsxdalv/musicgen-prompts](https://github.com/rsxdalv/musicgen-prompts) - Site for sharing MusicGen + AudioGen Prompts and Creations
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
@@ -1245,6 +1245,7 @@
 
 ## chrome-extension 
 
+- [peterrauscher/NextScraper](https://github.com/peterrauscher/NextScraper) - A chrome extension for extracting data from dynamically loaded pages, without a headless browser. Jumpstart your next web-scraping project with NextScraper!
 - [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 - [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [MedioAI/Chrome-Extension](https://github.com/MedioAI/Chrome-Extension) - A chrome extension to enhance experience of Udio.com (A.I. Music App Companion)
@@ -4050,7 +4051,6 @@
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
-- [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [flipcoder/midimech](https://github.com/flipcoder/midimech) - 🎼  Isomorphic musical layout engine for LinnStrument and Launchpad X, with DAW/Synthesia visualizer
 - [asigalov61/Los-Angeles-MIDI-Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset) - SOTA kilo-scale MIDI dataset for MIR and Music AI purposes
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
@@ -4059,7 +4059,7 @@
 - [s-omranpour/DeepMusic](https://github.com/s-omranpour/DeepMusic) - A python package for high level musical data manipulation and preprocessing, making data ready to be fed to a neural network.
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
 - [ensemblesaw/ensembles-app](https://github.com/ensemblesaw/ensembles-app) - A digital arranger workstation powered by FluidSynth
-- [ideoforms/isobar](https://github.com/ideoforms/isobar) - A Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. Can be used to generate MIDI events, MIDI files, OSC me
+- [ideoforms/isobar](https://github.com/ideoforms/isobar) - A Python package for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. Can be used to generate MIDI events, MIDI files, OSC me
 - [wizgrav/clubber](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations
 - [kousun12/eternal](https://github.com/kousun12/eternal) - 👾~ music, eternal ~ 👾
 - [feross/bitmidi.com](https://github.com/feross/bitmidi.com) - 🎹 Listen to free MIDI songs, download the best MIDI files, and share the best MIDIs on the web
@@ -7804,7 +7804,7 @@
 - [CPJKU/madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [toaco/carry](https://github.com/toaco/carry) - Python ETL(Extract-Transform-Load) tool / Data migration tool
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
@@ -8079,6 +8079,7 @@
 
 ## react 
 
+- [peterrauscher/NextScraper](https://github.com/peterrauscher/NextScraper) - A chrome extension for extracting data from dynamically loaded pages, without a headless browser. Jumpstart your next web-scraping project with NextScraper!
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [justboil/admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React Next Tailwind 3.x admin dashboard template with typescript and dark mode.
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - ✨ Accessible, mobile friendly, modern UI components.
@@ -9298,6 +9299,7 @@
 - [echobind/bisonapp](https://github.com/echobind/bisonapp) - A Full Stack Jamstack in-a-box brought to you by Echobind
 - [nikolovlazar/v1.nikolovlazar.com](https://github.com/nikolovlazar/v1.nikolovlazar.com) - V1 of my personal site. If you're looking for v2: https://github.com/nikolovlazar/nikolovlazar.com
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 14 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
+- [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
 - [JithinAntony4/nextjs-pwa-boilerplate](https://github.com/JithinAntony4/nextjs-pwa-boilerplate) - 🔥 NextJS Boilerplate with hybrid static & server rendering, TypeScript support, route pre-fetching, PWA support, FCM integration, SendGrid integration, Twilio integration, and Google SignIn
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
