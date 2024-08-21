@@ -2242,6 +2242,7 @@
 
 ## Others 
 
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [nyanta012/pdf-extraction-accuracy](https://github.com/nyanta012/pdf-extraction-accuracy) - 
 - [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
@@ -3091,7 +3092,6 @@
 - [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - A universal converter for singing voice projects which is cross-platform and multi-lingual
 - [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
 - [NSUSpray/LiveAPI_MakeDoc](https://github.com/NSUSpray/LiveAPI_MakeDoc) - This script generates Live API documentation in XML format, based on realtime inspection of the Live module.
-- [Banbury-inc/NeuraNet](https://github.com/Banbury-inc/NeuraNet) - The project covers various aspects, from machine learning advancements to decentralized file sharing, and aims to transform the accessibility and management of files while contributing to the progress
 - [bmcfee/crema](https://github.com/bmcfee/crema) - convolutional and recurrent estimators for music analysis
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [dodiku/MixingBear](https://github.com/dodiku/MixingBear) - Package for automatic beat-mixing of music files in Python 🐻🎚
@@ -3183,7 +3183,7 @@
 - [jmoso13/jukebox-diffusion](https://github.com/jmoso13/jukebox-diffusion) - 
 - [mhrice/RemFx](https://github.com/mhrice/RemFx) - General Purpose Audio Effect Removal
 - [csteinmetz1/wavebeat](https://github.com/csteinmetz1/wavebeat) - End-to-end beat and downbeat tracking in the time domain.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
@@ -3950,7 +3950,7 @@
 - [itsbrex/hurl](https://github.com/itsbrex/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [jdx/demand](https://github.com/jdx/demand) - prompt library for rust
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [NibbleRealm/twang](https://github.com/NibbleRealm/twang) - Library for pure Rust advanced audio synthesis.
 - [11bit/zed-extension-graphql](https://github.com/11bit/zed-extension-graphql) - GraphQL support for Zed editor
 - [smlxl/storage-layout-extractor](https://github.com/smlxl/storage-layout-extractor) - A tool that performs extraction of storage layouts based on EVM bytecode.
@@ -3962,6 +3962,7 @@
 - [PolyMeilex/OxiSynth](https://github.com/PolyMeilex/OxiSynth) - Pure rust soundfont synthesizer
 - [B0ney/xmodits-cli](https://github.com/B0ney/xmodits-cli) - Command line version of xmodits - A tool to rip samples from tracker modules.
 - [B0ney/xmodits-py](https://github.com/B0ney/xmodits-py) - xmodits python library
+- [Banbury-inc/NeuraNet](https://github.com/Banbury-inc/NeuraNet) - The project covers various aspects, from machine learning advancements to decentralized file sharing, and aims to transform the accessibility and management of files while contributing to the progress
 - [magnusrodseth/gpt-feeder](https://github.com/magnusrodseth/gpt-feeder) - 🦀 A command-line application that scans the entire codebase, and produces one string consisting of all filenames and file contents that you want included.
 - [blankenshipz/clerk](https://github.com/blankenshipz/clerk) - LLM based file organizer
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
