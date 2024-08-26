@@ -936,7 +936,6 @@
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [iyarivky/debash](https://github.com/iyarivky/debash) - DeBash is a online tool that aims to deobfuscate bash scripts using JavaScript
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -2214,7 +2213,6 @@
 
 ## flask 
 
-- [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
 - [carlosholivan/music-composition-api](https://github.com/carlosholivan/music-composition-api) - This module contains models an API for music generation with state-of-the-art models.
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
 - [IndexStorm/git-rec-back](https://github.com/IndexStorm/git-rec-back) - Backend code for GitHub Recommendation Extension
@@ -5686,7 +5684,7 @@
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1
 - [codedamn/teach.codedamn.com](https://github.com/codedamn/teach.codedamn.com) - 
 - [arisona/m4l_devices](https://github.com/arisona/m4l_devices) - 
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - MIDI and SoundFont synthesizer library written in JavaScript.
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - MIDI SoundFont/DLS synthesizer library written in JavaScript.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [sandormatyi/Sequoia](https://github.com/sandormatyi/Sequoia) - 808-style MIDI sequencer built around a Teensy LC board
 - [shalashify/pytribe](https://github.com/shalashify/pytribe) - Use Teenage Engineering OP-Z or Korg Electribe 2 as MIDI Sequencer to trigger samples from computer
@@ -7743,7 +7741,6 @@
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
-- [otonomee/streamstem](https://github.com/otonomee/streamstem) - Implements ML audio separation algorithm on audio from YouTube or Spotify resulting in "stems" for download (e.g. vocals, drums, bass) in MP3, WAV or FLAC.
 - [tefra/xsdata](https://github.com/tefra/xsdata) - Naive XML & JSON Bindings for python
 - [BeastByteAI/falcon](https://github.com/BeastByteAI/falcon) - A lightweight AutoML library.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
