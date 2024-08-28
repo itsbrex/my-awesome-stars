@@ -165,7 +165,7 @@
 - [sprymix/metamagic.json](https://github.com/sprymix/metamagic.json) - An ultra-fast Python implementation of a JSON encoder
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
-- [shorepine/amy](https://github.com/shorepine/amy) - AMY - the Additive Music synthesizer librarY
+- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
 - [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons) - A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.
@@ -235,6 +235,7 @@
 
 ## C++ 
 
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [July 2024]
@@ -404,6 +405,7 @@
 
 ## CSS 
 
+- [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [kishikawakatsumi/WebTranslator](https://github.com/kishikawakatsumi/WebTranslator) - Safari web extension for DeepL translate.
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 - [sony/creativeai](https://github.com/sony/creativeai) - 
@@ -887,6 +889,7 @@
 
 ## JavaScript 
 
+- [HubSpot/hubspot-cli](https://github.com/HubSpot/hubspot-cli) - A CLI for HubSpot
 - [peterrauscher/NextScraper](https://github.com/peterrauscher/NextScraper) - A chrome extension for extracting data from dynamically loaded pages, without a headless browser. Jumpstart your next web-scraping project with NextScraper!
 - [giacomo-io/google-sheet-linkedin-formula](https://github.com/giacomo-io/google-sheet-linkedin-formula) - Custom Google Sheet formula to the the url of a Linkedin profile
 - [qrev-ai/qrev](https://github.com/qrev-ai/qrev) - 🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce. It's what Salesforce would be if it was built today, starting with AI.
@@ -914,7 +917,6 @@
 - [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [artdecocode/expensive](https://github.com/artdecocode/expensive) - Node.js CLI tool to register and manage domains on namecheap.com
-- [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [IonicaBizau/json2md](https://github.com/IonicaBizau/json2md) - :pushpin: A JSON to Markdown converter.
 - [elwerene/libreoffice-convert](https://github.com/elwerene/libreoffice-convert) - 
@@ -2693,7 +2695,7 @@
 - [m3101/autospec](https://github.com/m3101/autospec) - An automatic spectrogram normalising tool
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [yapishu/icewalk](https://github.com/yapishu/icewalk) - like firecrawl.dev but free
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python (2024)
+- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [makenotion/datahub-tools](https://github.com/makenotion/datahub-tools) - simplify working with DataHub API endpoints
 - [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -3934,6 +3936,7 @@
 
 ## Rust 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
@@ -4307,6 +4310,7 @@
 
 ## TypeScript 
 
+- [Yonom/assistant-ui-assistant-api-history](https://github.com/Yonom/assistant-ui-assistant-api-history) - 
 - [mendableai/firegraph](https://github.com/mendableai/firegraph) - 📈 Create beautiful graphs in seconds. Plot github stars or your own csvs. Think ray.so for graphs. Built by the Firecrawl team.
 - [dominicwhyte/email-enricher](https://github.com/dominicwhyte/email-enricher) - Email Enricher is a free, offline alternative to Clearbit for enriching emails. Determine if an email likely belongs to a Fortune 1000 company.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -4361,6 +4365,7 @@
 - [nicoalbanese/ai-sdk-fundamentals](https://github.com/nicoalbanese/ai-sdk-fundamentals) - 
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
+- [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, lightning fast, object pseudo-database for S3-compatible storages using Avro schema
 - [j3lte/govee-lan-controller](https://github.com/j3lte/govee-lan-controller) - Control your Govee lights
 - [tchowd/proposal-generator](https://github.com/tchowd/proposal-generator) - 
 - [noook/spotify-client](https://github.com/noook/spotify-client) - A fully-typed client for Spotify API, compatible in a browser and node.
@@ -4611,7 +4616,7 @@
 - [midival/core](https://github.com/midival/core) - 
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [Morioh-Lab/is-bot](https://github.com/Morioh-Lab/is-bot) - Detect user-agent is a bot/spider/crawler
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
@@ -4910,7 +4915,7 @@
 - [jkytoela/next-startd](https://github.com/jkytoela/next-startd) - ⚡ Free Next.js landing page template for SaaS products, online services and more.
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
-- [nvedant/next-chrome-ts](https://github.com/nvedant/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
+- [xr0t/next-chrome-ts](https://github.com/xr0t/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [domnantas/raycast-chatgpt](https://github.com/domnantas/raycast-chatgpt) - 
