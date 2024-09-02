@@ -190,6 +190,7 @@
 
 ## C# # 
 
+- [elringus/bootsharp](https://github.com/elringus/bootsharp) - Compile C# solution into single-file ES module with auto-generated JavaScript bindings and type definitions
 - [microsoft/onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples) - Examples for using ONNX Runtime for model training.
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement lea
 - [liufeigit/MessagePack-CSharp](https://github.com/liufeigit/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
@@ -365,7 +366,6 @@
 - [acids-ircam/rave_vst](https://github.com/acids-ircam/rave_vst) - 
 - [phelankane/Live-Lessons-Generator](https://github.com/phelankane/Live-Lessons-Generator) - The Live Lessons Generator is a free stand alone app that allows educators to incorporate their lesson plans directly into Ableton Live via Ableton's Lessons format, which appear in the collapsible He
 - [acidanthera/FeatureUnlock](https://github.com/acidanthera/FeatureUnlock) - Add Sidecar support to unsupported models
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [Ableton/AudioPerfLab](https://github.com/Ableton/AudioPerfLab) - An app for exploring real-time audio performance on iPhone and iPad.
 - [superkittens/Orbiter](https://github.com/superkittens/Orbiter) - Spatial audio plugin for DAWs
@@ -892,6 +892,11 @@
 
 ## JavaScript 
 
+- [Abdel-Monaam-Aouini/nextjs-route-generator](https://github.com/Abdel-Monaam-Aouini/nextjs-route-generator) - A CLI tool to generate Next.js routes
+- [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
+- [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS. Fallback to supported color space.
+- [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
+- [TonyGermaneri/canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid) - Canvas based data grid web component.  Capable of displaying millions of contiguous hierarchical rows and columns without paging or loading, on a single canvas element.
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 - [HubSpot/hubspot-cli](https://github.com/HubSpot/hubspot-cli) - A CLI for HubSpot
 - [peterrauscher/NextScraper](https://github.com/peterrauscher/NextScraper) - A chrome extension for extracting data from dynamically loaded pages, without a headless browser. Jumpstart your next web-scraping project with NextScraper!
@@ -1342,6 +1347,7 @@
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
 - [mzaien/mzaien-cli](https://github.com/mzaien/mzaien-cli) - Know me via cli 😁
 - [montoulieu/link-ent](https://github.com/montoulieu/link-ent) - 🌲 A free Linktree alternative built with Next.js and Tailwind.
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [mikesprague/react-tailwind-ghpages-starter](https://github.com/mikesprague/react-tailwind-ghpages-starter) - Starter template for React/Tailwind CSS PWA hosted via GitHub Pages. Uses GitHub Actions to build and deploy.
 - [mikesprague/react-tailwind-vercel-starter](https://github.com/mikesprague/react-tailwind-vercel-starter) - Template for a barebones Vercel hosted React/Tailwind CSS PWA with an API endpoint powered by a serverless function
 - [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
@@ -1890,10 +1896,12 @@
 
 ## Jinja 
 
+- [PR-Pilot-AI/rapid-prototyper](https://github.com/PR-Pilot-AI/rapid-prototyper) - A template repo for rapid prototyping with PR Pilot
 - [forem/selfhost](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure 🎉
 
 ## Jupyter Notebook 
 
+- [MikeChan-HK/Gemini-agent-example](https://github.com/MikeChan-HK/Gemini-agent-example) - An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website. Ready to support ollama.... (Update when i am f
 - [urinieto/harmonixset](https://github.com/urinieto/harmonixset) - The Harmonix Set: Beats, Downbeats, and Structural Annotations for Pop Music
 - [bhaskatripathi/pyviralcontent](https://github.com/bhaskatripathi/pyviralcontent) - A package for analyzing content readability and virality potential.
 - [ebai101/splorganizer](https://github.com/ebai101/splorganizer) - more useful organization for Splice sample libraries
@@ -2247,6 +2255,8 @@
 
 ## Others 
 
+- [elysiajs/awesome-elysia](https://github.com/elysiajs/awesome-elysia) - Community driven curated list of awesome things related to ElysiaJS
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -2341,7 +2351,6 @@
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [openai/following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) - 
-- [Metalesaek/flowisejson](https://github.com/Metalesaek/flowisejson) - flowise with json data
 - [jasonwcfan/awesome-rag](https://github.com/jasonwcfan/awesome-rag) - A repository of awesome open source projects to set up your own AI powered knowledge base
 - [polywrap/awesome-polywrap](https://github.com/polywrap/awesome-polywrap) - Polywrap is building a unified execution environment for the internet that is safe, open, and user-owned. Use Polywrap to create endlessly extensible software that runs anywhere.
 - [arisona/m4l_devices](https://github.com/arisona/m4l_devices) - 
@@ -2983,7 +2992,7 @@
 - [taketwo/llm-ollama](https://github.com/taketwo/llm-ollama) - LLM plugin providing access to local Ollama models using HTTP API
 - [kazhala/InquirerPy](https://github.com/kazhala/InquirerPy) - :snake: Python port of Inquirer.js (A collection of common interactive command-line user interfaces)
 - [kazhala/s3fm](https://github.com/kazhala/s3fm) - 
-- [narfindustries/http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
+- [narfindustries/http-garden](https://github.com/narfindustries/http-garden) - Differential fuzzing REPL for HTTP implementations.
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema even if the introspection is disabled
 - [timedomain-tech/Timedomain-Ai-Singer-Extension](https://github.com/timedomain-tech/Timedomain-Ai-Singer-Extension) - Timedomain-Ai-Singer omniverse插件
 - [simonw/llm-mistral](https://github.com/simonw/llm-mistral) - LLM plugin providing access to Mistral models using the Mistral API
@@ -3391,6 +3400,7 @@
 - [CoffeeVampir3/audiocraft-webui](https://github.com/CoffeeVampir3/audiocraft-webui) - Quick webui for audiocraft
 - [neggles/musicgen-web](https://github.com/neggles/musicgen-web) - 
 - [oobabooga/one-click-installers](https://github.com/oobabooga/one-click-installers) - Simplified installers for oobabooga/text-generation-webui.
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [kaistAI/CoT-Collection](https://github.com/kaistAI/CoT-Collection) - [EMNLP 2023] The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning
@@ -3940,6 +3950,9 @@
 
 ## Rust 
 
+- [owenizedd/bum](https://github.com/owenizedd/bum) - Bum - Bun Version Manager ⚡
+- [ryanccn/nrr](https://github.com/ryanccn/nrr) - minimal, blazing fast npm scripts runner
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
@@ -4053,6 +4066,8 @@
 
 ## Shell 
 
+- [meowso/cursorcontext](https://github.com/meowso/cursorcontext) - 
+- [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [Netflix/eslint-config-netflix](https://github.com/Netflix/eslint-config-netflix) - Shared ESLint config for Netflix JavaScript
 - [sigsep/sigsep-mus-io](https://github.com/sigsep/sigsep-mus-io) - Tools to convert sigsep mus dataset from STEMS &lt;-&gt; WAV
@@ -4315,6 +4330,39 @@
 
 ## TypeScript 
 
+- [cursorrules/getcursorrules](https://github.com/cursorrules/getcursorrules) - 
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [slawton3/jetpack](https://github.com/slawton3/jetpack) - Nextjs 14 starter preconfigured with Bun, Shadcn-ui (TailwindCss), Typescript, Supabase, Drizzle, Docker, Husky and more!
+- [vantezzen/plasmo-state](https://github.com/vantezzen/plasmo-state) - ♻️ Sync state across content script, background workers and the popup in Plasmo extensions
+- [vantezzen/hinge-wrapped](https://github.com/vantezzen/hinge-wrapped) - 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
+- [suhaotian/xior](https://github.com/suhaotian/xior) - A lite request lib based on fetch with plugin support and similar API to axios.
+- [4lejandrito/fetchbook](https://github.com/4lejandrito/fetchbook) - Run and test your HTTP requests. Git friendly, 100% local.
+- [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
+- [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
+- [tr1ckydev/webview-bun](https://github.com/tr1ckydev/webview-bun) - Bun bindings for webview, a tiny library for creating web-based desktop GUIs.
+- [deno-libs/gql](https://github.com/deno-libs/gql) - ☁ Universal GraphQL HTTP middleware for Deno and Bun
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Rate limiting, bot protection, email verification & attack defense for Node.js, Next.js, Bun & SvelteKit.
+- [bndkt/kotekan](https://github.com/bndkt/kotekan) - A simple React framework built on Bun. Supports React Server Components (RSC).
+- [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) - Send emails from your domain through Cloudflare for free. Self host on your account.
+- [lau1944/bunrest](https://github.com/lau1944/bunrest) - An express-like API for bun server
+- [badrap/valita](https://github.com/badrap/valita) - A typesafe validation & parsing library for TypeScript.
+- [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
+- [dahlia/fedify](https://github.com/dahlia/fedify) - ActivityPub server framework in TypeScript
+- [honojs/middleware](https://github.com/honojs/middleware) - monorepo for Hono third-party middleware/helpers/wrappers
+- [lobehub/lobe-tts](https://github.com/lobehub/lobe-tts) - 🎤 Lobe TTS - A high-quality & reliable TTS/STT library for Server and Browser
+- [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
+- [wellwelwel/poku](https://github.com/wellwelwel/poku) - 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.
+- [tr1ckydev/hyperimport](https://github.com/tr1ckydev/hyperimport) - ⚡ Import c, rust, zig etc. files in your TypeScript code and more.
+- [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
+- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
+- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [Yonom/assistant-ui-assistant-api-history](https://github.com/Yonom/assistant-ui-assistant-api-history) - 
 - [mendableai/firegraph](https://github.com/mendableai/firegraph) - 📈 Create beautiful graphs in seconds. Plot github stars or your own csvs. Think ray.so for graphs. Built by the Firecrawl team.
 - [dominicwhyte/email-enricher](https://github.com/dominicwhyte/email-enricher) - Email Enricher is a free, offline alternative to Clearbit for enriching emails. Determine if an email likely belongs to a Fortune 1000 company.
@@ -4511,7 +4559,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [qcz/vscode-text-power-tools](https://github.com/qcz/vscode-text-power-tools) - Text Power Tools extension for VS Code
 - [Erisa/multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings
@@ -4696,7 +4744,6 @@
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [hugofabricio/moises](https://github.com/hugofabricio/moises) - Moises Website
 - [itsbrex/markprompt](https://github.com/itsbrex/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [rsxdalv/musicgen-prompts](https://github.com/rsxdalv/musicgen-prompts) - Site for sharing MusicGen + AudioGen Prompts and Creations
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
@@ -5018,7 +5065,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [haaarshsingh/kmenu](https://github.com/haaarshsingh/kmenu) - :rainbow: An animated and accessible command menu
+- [haaarshsingh/kmenu](https://github.com/haaarshsingh/kmenu) - The perfect ⌘K menu
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright,📋 React Hook Form,◽From the 🐻  BearSt
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
@@ -5312,6 +5359,7 @@
 
 ## Zig 
 
+- [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
 - [SilasMarvin/dnns-from-scratch-in-zig](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - 
 - [oven-sh/zig](https://github.com/oven-sh/zig) - 
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
