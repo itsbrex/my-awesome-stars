@@ -239,7 +239,7 @@
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [July 2024]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [September 2024]
 - [rorywalsh/cabbage](https://github.com/rorywalsh/cabbage) - Framework for developing audio plugins with the Csound programming language.
 - [yeeking/ai-enhanced-audio-book](https://github.com/yeeking/ai-enhanced-audio-book) - A repository of AI-enhanced audio plugins written using C++, JUCE, libtorch, RTNeural and other libraries. Supports my book
 - [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A swift and unified toolkit for symbolic music processing
@@ -669,6 +669,7 @@
 - [requilence/integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
 - [desertbit/glue](https://github.com/desertbit/glue) - Glue - Robust Go and Javascript Socket Library (Alternative to Socket.io)
 - [ericdaugherty/itunesexport-go](https://github.com/ericdaugherty/itunesexport-go) - A Console iTunes Library exporter written in Go (golang)
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation
 - [iansinnott/alfred-maestro](https://github.com/iansinnott/alfred-maestro) - An Alfred workflow to execute Keyboard Maestro macros.
 - [raguay/goAlfred](https://github.com/raguay/goAlfred) - This go library is used to create workflows for Alfred 2 easier. It will automatically create your cache and data directories. It also creates the xml listing for the feedback system. Examples include
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -892,6 +893,7 @@
 
 ## JavaScript 
 
+- [zapier/zapier-platform](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [Abdel-Monaam-Aouini/nextjs-route-generator](https://github.com/Abdel-Monaam-Aouini/nextjs-route-generator) - A CLI tool to generate Next.js routes
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS. Fallback to supported color space.
@@ -1948,7 +1950,7 @@
 - [maxfrenzel/SampleVAE](https://github.com/maxfrenzel/SampleVAE) - Multi-purpose tool for sound design and music production implemented in TensorFlow.
 - [spotify-research/llark](https://github.com/spotify-research/llark) - Code for the paper "LLark: A Multimodal Instruction-Following Language Model for Music" by Josh Gardner, Simon Durand, Daniel Stoller, and Rachel Bittner.
 - [jrgillick/imagined-lyrics](https://github.com/jrgillick/imagined-lyrics) - 
-- [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
+- [thuanz123/realfill](https://github.com/thuanz123/realfill) - Unofficial implementation of RealFill
 - [Jotade100/Wav2Chord](https://github.com/Jotade100/Wav2Chord) - CNN for chord detection
 - [emirdemirel/Chord-ScaleDetection](https://github.com/emirdemirel/Chord-ScaleDetection) - Chord-Scales Dataset created & annotated for 'automatic scale detection' task
 - [audio-is-fun/real-time-chord-detection](https://github.com/audio-is-fun/real-time-chord-detection) - Implementation of algorithm proposed in Bachelor Thesis: Design and Evaluation of a Simple Chord Detection Algorithm by Christoph Hausner.
@@ -2096,6 +2098,7 @@
 ## Markdown 
 
 - [gokayfem/awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures) - Famous Vision Language Models and Their Architectures
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 
 ## Mathematica 
@@ -2483,7 +2486,6 @@
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -2593,7 +2595,6 @@
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [joshnh/CSS-Snippets](https://github.com/joshnh/CSS-Snippets) - A set of custom CSS snippets for Sublime Text
 - [joshnh/HTML-Snippets](https://github.com/joshnh/HTML-Snippets) - A set of custom HTML snippets for Sublime Text
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [alite/vjlxnr](https://github.com/alite/vjlxnr) - … (one more) simple VJing tool made with max/jitter/m4l …
 - [alexanderhuth/alfred-open-in-browser-workflow](https://github.com/alexanderhuth/alfred-open-in-browser-workflow) - An Alfred workflow to open the current browser tab in a different browser.
@@ -4332,7 +4333,7 @@
 
 - [cursorrules/getcursorrules](https://github.com/cursorrules/getcursorrules) - 
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [slawton3/jetpack](https://github.com/slawton3/jetpack) - Nextjs 14 starter preconfigured with Bun, Shadcn-ui (TailwindCss), Typescript, Supabase, Drizzle, Docker, Husky and more!
 - [vantezzen/plasmo-state](https://github.com/vantezzen/plasmo-state) - ♻️ Sync state across content script, background workers and the popup in Plasmo extensions
 - [vantezzen/hinge-wrapped](https://github.com/vantezzen/hinge-wrapped) - 
@@ -4685,7 +4686,7 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating WebAudio code
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
