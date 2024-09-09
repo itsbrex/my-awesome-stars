@@ -117,6 +117,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -269,6 +270,7 @@
 
 ## ai 
 
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
@@ -550,6 +552,7 @@
 
 ## api 
 
+- [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
 - [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
@@ -1008,7 +1011,6 @@
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [Shyguy99/Whatsapp-bot](https://github.com/Shyguy99/Whatsapp-bot) - A simple WhatsApp Bot made using open-wa library with some additional features.
-- [jub0t/BotMaster](https://github.com/jub0t/BotMaster) - Simplify Discord Bot and Node.js Script Management with this tool.
 - [ohld/igbot](https://github.com/ohld/igbot) - 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!
 - [Selbi182/SpotifyDiscoveryBot](https://github.com/Selbi182/SpotifyDiscoveryBot) - A Java-based bot that automatically crawls for new releases by your followed artists on Spotify. Never miss a release again!
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
@@ -1364,7 +1366,7 @@
 - [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - This repo just to collect user feedback.
-- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An example project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
+- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An starter project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [MusabShakeel576/quickfix.ai](https://github.com/MusabShakeel576/quickfix.ai) - ChatGPT + Chrome Find tool = Quickfix AI. Not a developer? Join the waitlist for cloud-based version 👇.
 - [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.
@@ -1729,7 +1731,7 @@
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [pyxelr/recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) - All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation. OpenNHP Docs: https://opennhp.org/
 
 ## dart 
 
@@ -2048,7 +2050,7 @@
 - [Myuuiii/DAWPresence](https://github.com/Myuuiii/DAWPresence) - A Discord Rich Presence app for several DAWs like FL Studio and Ableton
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [rogeraabbccdd/Rekordbox-NowPlaying](https://github.com/rogeraabbccdd/Rekordbox-NowPlaying) - Get rekordbox now playing master track for OBS and Discord Rich Presence.
-- [jub0t/BotMaster](https://github.com/jub0t/BotMaster) - Simplify Discord Bot and Node.js Script Management with this tool.
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [supreen/form2role-bot](https://github.com/supreen/form2role-bot) - Discord bot that automatically assigns roles(from spreadsheet) to users found in a Google Sheet
@@ -2575,6 +2577,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [pasela/alfred-chrome-history](https://github.com/pasela/alfred-chrome-history) - Alfred workflow for Chrome history
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [luckylittle/blinkist-m4a-downloader](https://github.com/luckylittle/blinkist-m4a-downloader) - Grabs all of the audio files from all of the Blinkist books
@@ -2584,6 +2587,7 @@
 
 ## good-first-issue 
 
+- [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -2689,6 +2693,8 @@
 
 ## hacktoberfest 
 
+- [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
@@ -2952,6 +2958,7 @@
 
 ## http 
 
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
 - [lau1944/bunrest](https://github.com/lau1944/bunrest) - An express-like API for bun server
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -2980,6 +2987,17 @@
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [vilmacio/depixelate](https://github.com/vilmacio/depixelate) - Upscale an illustration and increase details
 - [cage1016/alfred-paletter](https://github.com/cage1016/alfred-paletter) - Extract palette from an image
+
+## instagram 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [notionblog/notion-instagram](https://github.com/notionblog/notion-instagram) - Schedule & Publish posts to Instagram from Notion
+- [mohitk05/react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
+- [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs) - :card_index: Extract social media profiles and more with regular expressions
+- [althonos/InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [ohld/igbot](https://github.com/ohld/igbot) - 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!
+- [Tkd-Alex/Telegram-InstaPy-Scheduling](https://github.com/Tkd-Alex/Telegram-InstaPy-Scheduling) - A Telegram bot for scheduling InstaPy
 
 ## ios 
 
@@ -3276,6 +3294,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [codingcodax/reexjs-cli](https://github.com/codingcodax/reexjs-cli) - An interactive CLI automation tool 🛠️ for creating react.js and next.js projects most fast and efficiently. ⚛️
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
@@ -4734,7 +4753,6 @@
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
 - [saurabhdaware/projectman](https://github.com/saurabhdaware/projectman) - ProjectMan is a command line tool to easily save/open your favorite projects right from command line. `pm add` to add projects and `pm open` to open them from anywhere you want🦸
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [jub0t/BotMaster](https://github.com/jub0t/BotMaster) - Simplify Discord Bot and Node.js Script Management with this tool.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -4743,6 +4761,7 @@
 
 ## nodejs 
 
+- [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [zapier/zapier-platform](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [owenizedd/bum](https://github.com/owenizedd/bum) - Bum - Bun Version Manager ⚡
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
@@ -4851,7 +4870,6 @@
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
 - [msaaddev/open-source](https://github.com/msaaddev/open-source) - ⚡️ A comprehensive list of all the open-source work I have done over the years. Authored 20+ open-source software that includes automation tools, node packages, web applications, etc.
-- [jub0t/BotMaster](https://github.com/jub0t/BotMaster) - Simplify Discord Bot and Node.js Script Management with this tool.
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app build with Node, NextJS, MongoDB, Docker and Kubernetes.
 - [supreen/form2role-bot](https://github.com/supreen/form2role-bot) - Discord bot that automatically assigns roles(from spreadsheet) to users found in a Google Sheet
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -4974,6 +4992,7 @@
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
 - [msaaddev/open-source](https://github.com/msaaddev/open-source) - ⚡️ A comprehensive list of all the open-source work I have done over the years. Authored 20+ open-source software that includes automation tools, node packages, web applications, etc.
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [LiveEnhancementSuite/LESforMacOS](https://github.com/LiveEnhancementSuite/LESforMacOS) - Ableton Live, supercharged (on macOS)
@@ -5003,6 +5022,10 @@
 
 ## others 
 
+- [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead analysis and outreach with AI-driven research, scoring, and personalized emails, videos, and call scripts, seamlessly integrated with HubSpot CRM for maximum impact.
+- [jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant](https://github.com/jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant) - This app leverages generative AI to intelligently manage your sales inbox and CRM, auto-draft replies using your sales playbook & company branding, and more.
+- [galexandre81/api-store](https://github.com/galexandre81/api-store) - Contains all the public APIs listed in Phantombuster's API store. Pull requests welcome!
+- [lyubomyr-shaydariv/uu-webext](https://github.com/lyubomyr-shaydariv/uu-webext) - uU is a web browser extension stripping tracking data from URLs and bypassing redirection trackers (if possible)
 - [CommandDash/packages](https://github.com/CommandDash/packages) - Dash Agents and Engine
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
@@ -6884,7 +6907,6 @@
 - [scotato/sleeper](https://github.com/scotato/sleeper) - An ambient new tab browser extension
 - [kiliman/tailwindui-crawler](https://github.com/kiliman/tailwindui-crawler) - tailwindui-crawler downloads the component HTML files locally
 - [Incognito95/apple-website](https://github.com/Incognito95/apple-website) - Here's a clone of the Apple website that I made
-- [notionblog/notion-instagram](https://github.com/notionblog/notion-instagram) - Schedule & Publish posts to Instagram from Notion
 - [RyanHan0127/Hackathon2021VibeChecker](https://github.com/RyanHan0127/Hackathon2021VibeChecker) - 
 - [ShubhamShaswat/expert-ai](https://github.com/ShubhamShaswat/expert-ai) - 
 - [antoinechalifour/notion-embed-rss](https://github.com/antoinechalifour/notion-embed-rss) - Embed RSS Feeds into your Notion pages
@@ -8397,7 +8419,7 @@
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
-- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An example project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
+- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An starter project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [jakubito/spotify-release-list](https://github.com/jakubito/spotify-release-list) - 📅 Display list of Spotify releases from artists you follow
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -8885,7 +8907,6 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [jub0t/BotMaster](https://github.com/jub0t/BotMaster) - Simplify Discord Bot and Node.js Script Management with this tool.
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [kibitzr/kibitzr](https://github.com/kibitzr/kibitzr) - Personal Web Assistant
@@ -9262,7 +9283,7 @@
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [optimizasean/TailwindAccessibilityConfig](https://github.com/optimizasean/TailwindAccessibilityConfig) - Tailwind colors replaced (in Tailwind style) by the USG standards for accesibility colors defined at: https://designsystem.digital.gov/
 - [GavinJoyce/tailwindcss-question-mark](https://github.com/GavinJoyce/tailwindcss-question-mark) - Adds a helpful ❓ dev time utility class
-- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An example project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
+- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An starter project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
 - [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
 - [btahir/next-shopify-starter](https://github.com/btahir/next-shopify-starter) - Nextjs + Tailwind CSS + Shopify Starter
@@ -9462,6 +9483,8 @@
 
 ## typescript 
 
+- [supaglue-labs/supaglue](https://github.com/supaglue-labs/supaglue) - Open source user-facing product integrations
+- [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
@@ -9607,7 +9630,7 @@
 - [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad) - DevClad is a social-workspace platform for developers. Network, build, and ship your ideas rapidly.
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [devkiran/NextAPI](https://github.com/devkiran/NextAPI) - A Next.js API starter for building SaaS apps
-- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An example project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
+- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An starter project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
@@ -9732,6 +9755,7 @@
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
 - [koji/react_with_TailwindCSS](https://github.com/koji/react_with_TailwindCSS) - reactjs with Tailwind CSS
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 - [osovv/sorting-visualizer](https://github.com/osovv/sorting-visualizer) - App for visualizing different sorting algortihms. Built with React, Typescript, TailwindCSS, daisyUI and Immutable.js.
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta)
@@ -9916,7 +9940,7 @@
 - [DivMagicCom/DivMagic](https://github.com/DivMagicCom/DivMagic) - Copy design from any website as CSS or Tailwind CSS components
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [lostintangent/codeswing](https://github.com/lostintangent/codeswing) - VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment
-- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An example project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
+- [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An starter project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
 - [lukasmasuch/best-of-react](https://github.com/lukasmasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [Isotopejs/isotope](https://github.com/Isotopejs/isotope) - UI library that aims to bring simplicity and intuitiveness back to Web Development. 🚀
 
