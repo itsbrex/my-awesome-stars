@@ -270,6 +270,7 @@
 
 ## ai 
 
+- [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
@@ -433,7 +434,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -601,7 +602,7 @@
 - [alyssaxuu/figma-to-google-slides](https://github.com/alyssaxuu/figma-to-google-slides) - Convert Figma frames into a Google Slides presentation 🍭
 - [sbzhu/weworkapi_php](https://github.com/sbzhu/weworkapi_php) - official lib of wework api
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## arduino 
 
@@ -645,7 +646,7 @@
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [Music-Recommendation-Engine-Project/Music-Recommendation-Engine](https://github.com/Music-Recommendation-Engine-Project/Music-Recommendation-Engine) - Music Recommendation System
 - [asigalov61/Token-Music-Transformer](https://github.com/asigalov61/Token-Music-Transformer) - [Experimental] Full-attention multi-instrumental music transformer with single token MIDI encoding
-- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
+- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [affige/genmusic_demo_list](https://github.com/affige/genmusic_demo_list) - a list of demo websites for automatic music generation research
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
 - [archinetai/audio-diffusion-pytorch-trainer](https://github.com/archinetai/audio-diffusion-pytorch-trainer) - Trainer for audio-diffusion-pytorch
@@ -692,6 +693,7 @@
 
 ## automation 
 
+- [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
 - [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -909,7 +911,7 @@
 - [banjtheman/chataws](https://github.com/banjtheman/chataws) - A ChatGPT plugin that allows users to create websites and Lambda functions using ChatGPT
 - [ighoshsubho/NotionAutomation](https://github.com/ighoshsubho/NotionAutomation) - Notion Automation using Serverless and Notion API
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [dxdc/aws-sdk-google-apps](https://github.com/dxdc/aws-sdk-google-apps) - Native Google Apps Script support for Amazon AWS SDK for JavaScript
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -919,7 +921,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [tweedegolf/storage-abstraction](https://github.com/tweedegolf/storage-abstraction) - Provides an abstraction layer for interacting with a storage; the storage can be local or in the cloud.
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 
 ## babel 
@@ -1237,7 +1239,7 @@
 - [different-ai/chat-gpt-github](https://github.com/different-ai/chat-gpt-github) - ChatGPT-powered QA Github Repository
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
@@ -1427,7 +1429,7 @@
 
 - [zapier/zapier-platform](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [4lejandrito/fetchbook](https://github.com/4lejandrito/fetchbook) - Run and test your HTTP requests. Git friendly, 100% local.
-- [ryanccn/nrr](https://github.com/ryanccn/nrr) - minimal, blazing fast npm scripts runner
+- [ryanccn/nrr](https://github.com/ryanccn/nrr) - Minimal, blazing fast npm scripts runner
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS. Fallback to supported color space.
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
@@ -1501,7 +1503,7 @@
 - [nexxeln/license-generator](https://github.com/nexxeln/license-generator) - Create licenses for your projects right from your terminal!
 - [samdenty/github-icons](https://github.com/samdenty/github-icons) - API, Chrome Extension & Mac App/CLI that adds icons to your repos
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [codingcodax/reexjs-cli](https://github.com/codingcodax/reexjs-cli) - An interactive CLI automation tool 🛠️ for creating react.js and next.js projects most fast and efficiently. ⚛️
 - [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) - 🛠  Manage and deploy your Google Apps Script projects using the command line
 - [alanhe421/alfred-utils](https://github.com/alanhe421/alfred-utils) - Alfred Workflow SDK
@@ -1806,7 +1808,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [preziotte/party-mode](https://github.com/preziotte/party-mode) - An experimental music visualizer using d3.js and the web audio api.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## database 
 
@@ -1834,7 +1836,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [letswritetw/letswrite-google-excel-db-en](https://github.com/letswritetw/letswrite-google-excel-db-en) - How to use Google Sheets as a database
 - [lucasromerodb/nextsheet](https://github.com/lucasromerodb/nextsheet) - Connecting NextJS with Google Spreadsheets as Database
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## deep-learning 
 
@@ -1896,7 +1898,7 @@
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
-- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
+- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [omerbsezer/MusicGeneration](https://github.com/omerbsezer/MusicGeneration) - Music generation with LSTM model (Keras)
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
@@ -2605,7 +2607,7 @@
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [asigalov61/Perceiver-Music-Transformer](https://github.com/asigalov61/Perceiver-Music-Transformer) - SOTA Google's Perceiver-AR Music Transformer Implementation and Model
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
@@ -2669,7 +2671,7 @@
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## gulp 
 
@@ -2699,6 +2701,7 @@
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
@@ -2723,6 +2726,7 @@
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [octokit/oauth-app.js](https://github.com/octokit/oauth-app.js) - GitHub OAuth toolset for Node.js
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -2835,7 +2839,7 @@
 - [mazipan/mazipan.space](https://github.com/mazipan/mazipan.space) - 👿 Codebase for mazipan.space. Next.js x Tailwind
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
@@ -3312,7 +3316,7 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [scraggo/Random-Music-Generators](https://github.com/scraggo/Random-Music-Generators) - Random chord, melody, and rhythm generators with MIDI output
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
@@ -3615,7 +3619,7 @@
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [foyer-work/merlin-node](https://github.com/foyer-work/merlin-node) - Merlin SDK Provides A Unified API To Interact With 20+ LLM Models.
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.
@@ -4366,7 +4370,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ibrahimhozhun/prisma-nextjs](https://github.com/ibrahimhozhun/prisma-nextjs) - Website created with Next.js, NextUI library & Prisma ORM
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 
@@ -4758,7 +4762,7 @@
 - [msaaddev/create-next-pwa](https://github.com/msaaddev/create-next-pwa) - ⚡️ Set up Next.js Progressive Web App with `npx create-next-pwa`
 - [saurabhdaware/projectman](https://github.com/saurabhdaware/projectman) - ProjectMan is a command line tool to easily save/open your favorite projects right from command line. `pm add` to add projects and `pm open` to open them from anywhere you want🦸
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -4772,7 +4776,7 @@
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
 - [Abdel-Monaam-Aouini/nextjs-route-generator](https://github.com/Abdel-Monaam-Aouini/nextjs-route-generator) - A CLI tool to generate Next.js routes
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
-- [ryanccn/nrr](https://github.com/ryanccn/nrr) - minimal, blazing fast npm scripts runner
+- [ryanccn/nrr](https://github.com/ryanccn/nrr) - Minimal, blazing fast npm scripts runner
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS. Fallback to supported color space.
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Rate limiting, bot protection, email verification & attack defense for Node.js, Next.js, Bun & SvelteKit.
@@ -4799,6 +4803,7 @@
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
@@ -4911,7 +4916,8 @@
 
 ## npm 
 
-- [ryanccn/nrr](https://github.com/ryanccn/nrr) - minimal, blazing fast npm scripts runner
+- [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
+- [ryanccn/nrr](https://github.com/ryanccn/nrr) - Minimal, blazing fast npm scripts runner
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [strdr4605/symlink-config](https://github.com/strdr4605/symlink-config) - A tool to symlink your project config files to root
 - [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - 📺 Extract the YouTube video ID from a string or URL.
@@ -7798,7 +7804,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 
@@ -8787,7 +8793,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [owenizedd/bum](https://github.com/owenizedd/bum) - Bum - Bun Version Manager ⚡
-- [ryanccn/nrr](https://github.com/ryanccn/nrr) - minimal, blazing fast npm scripts runner
+- [ryanccn/nrr](https://github.com/ryanccn/nrr) - Minimal, blazing fast npm scripts runner
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
@@ -8985,7 +8991,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [ExplainDev/kmdr-cli](https://github.com/ExplainDev/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
@@ -9044,7 +9050,7 @@
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
 - [ibrahimhozhun/prisma-nextjs](https://github.com/ibrahimhozhun/prisma-nextjs) - Website created with Next.js, NextUI library & Prisma ORM
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## sql-server 
 
@@ -9062,7 +9068,7 @@
 - [niklaskorz/whatsapp-viewer](https://github.com/niklaskorz/whatsapp-viewer) - A web interface and GraphQL API for your local unencrypted WhatsApp backup.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [Selbi182/SpotifyDiscoveryBot](https://github.com/Selbi182/SpotifyDiscoveryBot) - A Java-based bot that automatically crawls for new releases by your followed artists on Spotify. Never miss a release again!
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 
@@ -9301,6 +9307,7 @@
 - [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Next.js project starter. Configured with tailwindcss and shadcn-ui
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [Microwawe/mamba-ui](https://github.com/Microwawe/mamba-ui) - Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [msaaddev/new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - 💥 One stop shop for eliminating the grunt work of setting up a Tailwind Web App across multiple frameworks. Just type in `npx new-tailwind-app` in your terminal and set up everything instantly.
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
@@ -9436,7 +9443,7 @@
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform standalone terminal app extract from Visual Studio Code.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -9785,7 +9792,7 @@
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [tamu-datathon-org/portal](https://github.com/tamu-datathon-org/portal) - Shows activities and events for TAMU Datathon
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [mohitk05/react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -9882,7 +9889,7 @@
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Deprecated! Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
