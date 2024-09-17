@@ -693,7 +693,7 @@
 
 - [HubSpot/recruiting-agency-graphql-theme](https://github.com/HubSpot/recruiting-agency-graphql-theme) - A theme based off of the HubSpot CMS Boilerplate. This theme includes modules and templates that demonstrate how to utilize GraphQL as part of a website built with HubSpot CMS and Custom CRM Objects.
 - [AImarkdown/main](https://github.com/AImarkdown/main) - Versatile App Creation: Build ChatGPT apps for mobile or desktop
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [libaudioverse/libaudioverse](https://github.com/libaudioverse/libaudioverse) - A library for realtime audio synthesis with 3D and environmental audio support
 - [danyalimran93/Music-Genre-Classification](https://github.com/danyalimran93/Music-Genre-Classification) - Classifying English Music (.mp3) files using Music Information Retrieval (MIR), Digital/Audio Signal Processing (DIP) and Machine Learning (ML) Strategies
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
@@ -1979,7 +1979,6 @@
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 - [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 - [Zentra94/ai-cinema-engine](https://github.com/Zentra94/ai-cinema-engine) - AI video maker
-- [hugofloresgarcia/vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers!
 - [webpolis/midigpt](https://github.com/webpolis/midigpt) - Playing around with MIDI and LLM
 - [DolbyLaboratories/neural-upsampling-artifacts-audio](https://github.com/DolbyLaboratories/neural-upsampling-artifacts-audio) - Upsampling Artifacts in Neural Audio Synthesis – https://arxiv.org/abs/2010.14356
 - [jordipons/musicnn](https://github.com/jordipons/musicnn) - Pronounced as "musician", musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging.
@@ -2744,7 +2743,7 @@
 - [singer-io/tap-outreach](https://github.com/singer-io/tap-outreach) - 
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [flowese/UdioWrapper](https://github.com/flowese/UdioWrapper) - UdioWrapper is a Python package that enables the generation of music tracks using Udio's API through textual prompts. This package is based on the reverse engineering of the Udio API (https://www.udio
-- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
+- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
 - [ebai101/midicap](https://github.com/ebai101/midicap) - always on MIDI recorder
 - [bhaskatripathi/TensorCraft](https://github.com/bhaskatripathi/TensorCraft) - TensorCraft is a Python library to simplify the process of building, training, and deploying neural networks using TensorFlow. It is a high level wrapper like Keras on top of tensorflow
@@ -3241,6 +3240,7 @@
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [r2d4/parserllm](https://github.com/r2d4/parserllm) - Use context-free grammars with an LLM
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
+- [hugofloresgarcia/vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers!
 - [descriptinc/descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) - State-of-the-art audio codec with 90x compression factor. Supports 44.1kHz, 24kHz, and 16kHz mono/stereo audio.
 - [wayne391/sf_segmenter](https://github.com/wayne391/sf_segmenter) - Music segmentation  algorithm, based on SF (structural feature)
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
@@ -4696,7 +4696,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [Modrigue/MusicToolbox](https://github.com/Modrigue/MusicToolbox) - Easy to use online music scale and chords generator, multiple scales and modes included, scale finder, and visualization on guitar and keyboard.
 - [finic-ai/rag-stack](https://github.com/finic-ai/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
-- [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform that makes it easy and fast to build custom integrations in python.
+- [finic-ai/finic](https://github.com/finic-ai/finic) - Create browser agents to scrape websites and automate tasks.
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
@@ -4716,7 +4716,7 @@
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [codedamn/teach.codedamn.com](https://github.com/codedamn/teach.codedamn.com) - 
 - [Jaggernaut555/midi-mixer-spotify](https://github.com/Jaggernaut555/midi-mixer-spotify) - Control spotify with a midi mixer plugin
-- [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - Use AI to write complete stories.
+- [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - Come join the best place on the internet to learn AI skills. Use code "storybookai" for an extra 20% off.
 - [notochord/playback](https://github.com/notochord/playback) - A chord player, and a language for describing musical styles
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [danigb/smplr](https://github.com/danigb/smplr) - A web audio sampler instrument
@@ -4764,7 +4764,7 @@
 - [hugofabricio/moises](https://github.com/hugofabricio/moises) - Moises Website
 - [itsbrex/markprompt](https://github.com/itsbrex/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [rsxdalv/musicgen-prompts](https://github.com/rsxdalv/musicgen-prompts) - Site for sharing MusicGen + AudioGen Prompts and Creations
-- [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
+- [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - Come join the best place on the internet to learn AI skills. Use code "clarityai" for an extra 20% off.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [joanroig/midi-to-scaler-chord-sets](https://github.com/joanroig/midi-to-scaler-chord-sets) - Convert chord progressions from midi files to Plugin Boutique's Scaler sets.
 - [felixroos/loophole-letters](https://github.com/felixroos/loophole-letters) - 
@@ -4889,8 +4889,8 @@
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [paulphys/spotify-next-auth-token-rotation](https://github.com/paulphys/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
-- [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
+- [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - Come join the best place on the internet to learn AI skills. Use code "kindlegpt" for an extra 20% off.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [matthewwong525/linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) - Host your second brain for free with Next.JS and Tailwind v3
 - [operandinc/operand-chrome-extension](https://github.com/operandinc/operand-chrome-extension) - Official chrome extension for operand.ai
 - [WebDev-Studios/notion-page-to-html](https://github.com/WebDev-Studios/notion-page-to-html) - NodeJS tool to convert public Notion pages to HTML from page ID
@@ -5086,7 +5086,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [haaarshsingh/kmenu](https://github.com/haaarshsingh/kmenu) - The perfect ⌘K menu
-- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright,📋 React Hook Form,◽From the 🐻  BearSt
+- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, 🔐 Lucia Auth,  ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright,📋 React Hook Form,◽Fro
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [bkper/clasp-types](https://github.com/bkper/clasp-types) - A d.ts generator for clasp projects
@@ -5196,7 +5196,7 @@
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [williamluke4/Nitro](https://github.com/williamluke4/Nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
