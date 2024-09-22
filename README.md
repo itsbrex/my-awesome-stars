@@ -1196,7 +1196,7 @@
 - [j74/V-Module-Max-for-Live-Video-Plugins](https://github.com/j74/V-Module-Max-for-Live-Video-Plugins) - Max for Live Video Plugins for Ableton Live
 - [derberg/manage-files-in-multiple-repositories](https://github.com/derberg/manage-files-in-multiple-repositories) - GitHub Action that introduces support for global workflows. Global workflows are the one you update in just one repo and they are automatically updated in other repositories.
 - [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
 - [olaviinha/ChordsGuruTurbo100aDeluxe](https://github.com/olaviinha/ChordsGuruTurbo100aDeluxe) - Visualize and preview written chord progressions
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
