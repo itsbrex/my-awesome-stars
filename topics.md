@@ -272,6 +272,7 @@
 ## ai 
 
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
+- [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
@@ -313,7 +314,7 @@
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo CE: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [anasfik/openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
@@ -332,7 +333,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [anjerodev/commitollama](https://github.com/anjerodev/commitollama) - AI Commits with ollama VS Extension.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
@@ -555,7 +556,7 @@
 ## api 
 
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
 - [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [Kars1996/DiscordBotMonorepo](https://github.com/Kars1996/DiscordBotMonorepo) - 🌐Monorepo Template for a DiscordJS Bot with an API, Website, Commands page and example docs, all in one repo powered by create-kapp
@@ -590,7 +591,6 @@
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 - [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
-- [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -695,6 +695,7 @@
 ## automation 
 
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -981,6 +982,7 @@
 
 ## bitcoin 
 
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [AltCoinExchange/ethatomicswap](https://github.com/AltCoinExchange/ethatomicswap) - Ethereum atomic swap
@@ -1013,6 +1015,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [kabirjaipal/JUGNU-MUSIC](https://github.com/kabirjaipal/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [holps-7/WhatsApp-Bulk-Messaging-Bot](https://github.com/holps-7/WhatsApp-Bulk-Messaging-Bot) - Use this WhatsApp Bot to send messages in Bulk!
 - [Shyguy99/Whatsapp-bot](https://github.com/Shyguy99/Whatsapp-bot) - A simple WhatsApp Bot made using open-wa library with some additional features.
@@ -1734,6 +1737,7 @@
 ## cybersecurity 
 
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -2074,7 +2078,7 @@
 
 ## docker 
 
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [slawton3/jetpack](https://github.com/slawton3/jetpack) - Nextjs 14 starter preconfigured with Bun, Shadcn-ui (TailwindCss), Typescript, Supabase, Drizzle, Docker, Husky and more!
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
@@ -2090,6 +2094,7 @@
 - [belovm96/chord-detection](https://github.com/belovm96/chord-detection) - App for Chord Sequence Detection
 - [sergree/matchering-web](https://github.com/sergree/matchering-web) - 🎚️ Self-Hosted LANDR / eMastered Alternative
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2250,6 +2255,7 @@
 
 ## ethereum 
 
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [isaiahbjork/Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS) - 🚀👩‍🚀This repo contains all the files to follow along and implement a NFT Bridge, including smart contracts and Web3 FrontEnd!  Be sure to watch my Youtube tutorials so you can learn and follow along!
@@ -2518,7 +2524,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [erdos-one/r2](https://github.com/erdos-one/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
@@ -2556,7 +2562,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
@@ -2630,6 +2636,7 @@
 
 ## graphql 
 
+- [FormidableLabs/envy](https://github.com/FormidableLabs/envy) - Node.js Telemetry & Network Viewer
 - [deno-libs/gql](https://github.com/deno-libs/gql) - ☁ Universal GraphQL HTTP middleware for Deno and Bun
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
@@ -2706,6 +2713,8 @@
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
@@ -2787,6 +2796,7 @@
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -3098,7 +3108,9 @@
 
 ## javascript 
 
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
+- [FormidableLabs/envy](https://github.com/FormidableLabs/envy) - Node.js Telemetry & Network Viewer
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
 - [Abdel-Monaam-Aouini/nextjs-route-generator](https://github.com/Abdel-Monaam-Aouini/nextjs-route-generator) - A CLI tool to generate Next.js routes
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
@@ -3613,15 +3625,15 @@
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [disler/indydevtools](https://github.com/disler/indydevtools) - An opinionated, Agentic Engineering toolbox powered by LLM Agents to solve problems autonomously.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [gokayfem/ComfyUI_VLM_nodes](https://github.com/gokayfem/ComfyUI_VLM_nodes) - Custom ComfyUI nodes for Vision Language Models, Large Language Models, Image to Music, Text to Music, Consistent and Random Creative Prompt Generation
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
-- [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
+- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [foyer-work/merlin-node](https://github.com/foyer-work/merlin-node) - Merlin SDK Provides A Unified API To Interact With 20+ LLM Models.
@@ -3629,7 +3641,7 @@
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
 - [simonw/llm-plugin](https://github.com/simonw/llm-plugin) - A cookiecutter template for building plugins for LLM
 - [icebaker/nano-bots-api](https://github.com/icebaker/nano-bots-api) - HTTP API for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral A
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [i10mm/gpt-arxiv-fetcher](https://github.com/i10mm/gpt-arxiv-fetcher) - Revolutionize your research with our GitHub repository, where GPT meets arXiv API for seamless access and analysis of the latest academic papers!
@@ -4414,7 +4426,7 @@
 
 ## nestjs 
 
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [idrsdev/agile-board](https://github.com/idrsdev/agile-board) - Bring all your tasks, teams, and tools together in one centralized platform! Open to contributions⭐ Raise a PR⚡! You can view API Docs Here
 - [Skolaczk/SocialHub](https://github.com/Skolaczk/SocialHub) - SocialHub is a next-generation social media app developed using Next.js and Nest.js. It offers a modern interface and seamless user experience for connecting and exploring content.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -4455,6 +4467,7 @@
 
 ## nextjs 
 
+- [FormidableLabs/envy](https://github.com/FormidableLabs/envy) - Node.js Telemetry & Network Viewer
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [slawton3/jetpack](https://github.com/slawton3/jetpack) - Nextjs 14 starter preconfigured with Bun, Shadcn-ui (TailwindCss), Typescript, Supabase, Drizzle, Docker, Husky and more!
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
@@ -4508,7 +4521,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS ORM, Intl App Router Docs U
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS ORM, Intl App Router Docs U
 - [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -4774,6 +4787,7 @@
 
 ## nodejs 
 
+- [FormidableLabs/envy](https://github.com/FormidableLabs/envy) - Node.js Telemetry & Network Viewer
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [zapier/zapier-platform](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [owenizedd/bum](https://github.com/owenizedd/bum) - Bum - Bun Version Manager ⚡
@@ -4841,7 +4855,6 @@
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
-- [editframe/editframe-js](https://github.com/editframe/editframe-js) - Official Node library for interacting with the Editframe.com API
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [juliangruber/browser-run](https://github.com/juliangruber/browser-run) - Run code inside a browser from the command line
@@ -4974,7 +4987,7 @@
 
 ## open-source 
 
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [chronark/starlog](https://github.com/chronark/starlog) - A curated list of open source projects and templates to help you build your next serverless app.
@@ -4995,7 +5008,6 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [Bubobubobubobubo/sardine](https://github.com/Bubobubobubobubo/sardine) - Python's missing "algorave" module. Live code music with Python using MIDI, OSC and/or SuperCollider.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
-- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [soliblue/songGPT](https://github.com/soliblue/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - My portfolio with Next.js & Markdown
@@ -5043,7 +5055,7 @@
 - [dannyp777/ChatGPT-AI-Plugin-Manifest-Lists](https://github.com/dannyp777/ChatGPT-AI-Plugin-Manifest-Lists) - A collection of links to ChatGPT/AI "*/.well-known/ai-plugin.json", "*/.well-known/openapi.json" and "*/.well-known/openapi.yaml" manifest files
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [icebaker/nano-bots-api](https://github.com/icebaker/nano-bots-api) - HTTP API for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral A
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 - [banjtheman/chataws](https://github.com/banjtheman/chataws) - A ChatGPT plugin that allows users to create websites and Lambda functions using ChatGPT
@@ -5176,12 +5188,16 @@
 
 ## others 
 
+- [HikaruEgashira/bun-gas](https://github.com/HikaruEgashira/bun-gas) - Google Apps Script using bun bundler. https://bun.sh/docs/bundler
+- [didando8a/gas-bundler-test](https://github.com/didando8a/gas-bundler-test) - Bundle all files gas files in one so it can tested in nodejs
+- [dtrlanz/gas-bundler](https://github.com/dtrlanz/gas-bundler) - A simple bundler for Google Apps Script projects
+- [punchupworld/sheethuahua](https://github.com/punchupworld/sheethuahua) - Type-safe Google Sheets and CSV parser for TypeScript and JavaScript
+- [disler/marimo-prompt-library](https://github.com/disler/marimo-prompt-library) - Engineer your reusable, customizable, prompt library in Marimo reactive notebooks
 - [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
 - [mulab-mir/muchomusic](https://github.com/mulab-mir/muchomusic) - MuChoMusic is a benchmark for evaluating music understanding in multimodal audio-language models.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [ryanmburns93/Sales_Reporting_Automation](https://github.com/ryanmburns93/Sales_Reporting_Automation) - Automates biweekly sales reporting for The Beverly Collective (https://www.thebeverlycollective.co/).
-- [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 - [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead analysis and outreach with AI-driven research, scoring, and personalized emails, videos, and call scripts, seamlessly integrated with HubSpot CRM for maximum impact.
 - [jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant](https://github.com/jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant) - This app leverages generative AI to intelligently manage your sales inbox and CRM, auto-draft replies using your sales playbook & company branding, and more.
 - [galexandre81/api-store](https://github.com/galexandre81/api-store) - Contains all the public APIs listed in Phantombuster's API store. Pull requests welcome!
@@ -5601,7 +5617,7 @@
 - [hf-lin/ChatMusician](https://github.com/hf-lin/ChatMusician) - 
 - [shuntaka9576/pages-adoc-with-swagger](https://github.com/shuntaka9576/pages-adoc-with-swagger) - 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2.x, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [alajmo/dashgrid](https://github.com/alajmo/dashgrid) - :honeybee: A pure javascript high performance grid
@@ -7926,7 +7942,7 @@
 
 ## postgresql 
 
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [neondatabase/cloudflare-drizzle-neon](https://github.com/neondatabase/cloudflare-drizzle-neon) - Example API using Cloudflare Workers, Drizzle ORM and Neon
@@ -8201,6 +8217,7 @@
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [s-omranpour/DeepMusic](https://github.com/s-omranpour/DeepMusic) - A python package for high level musical data manipulation and preprocessing, making data ready to be fed to a neural network.
 - [Rainbow-Dreamer/musicpy](https://github.com/Rainbow-Dreamer/musicpy) - Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.
@@ -8473,8 +8490,11 @@
 
 ## react 
 
+- [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
+- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
+- [FormidableLabs/envy](https://github.com/FormidableLabs/envy) - Node.js Telemetry & Network Viewer
 - [hand-dot/react-inspector](https://github.com/hand-dot/react-inspector) - Easily detect React components source code from Chrome!
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [bndkt/kotekan](https://github.com/bndkt/kotekan) - A simple React framework built on Bun. Supports React Server Components (RSC).
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) - Send emails from your domain through Cloudflare for free. Self host on your account.
 - [lobehub/lobe-tts](https://github.com/lobehub/lobe-tts) - 🎤 Lobe TTS - A high-quality & reliable TTS/STT library for Server and Browser
@@ -8707,7 +8727,6 @@
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
 - [osovv/sorting-visualizer](https://github.com/osovv/sorting-visualizer) - App for visualizing different sorting algortihms. Built with React, Typescript, TailwindCSS, daisyUI and Immutable.js.
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
@@ -8779,6 +8798,7 @@
 
 ## reactjs 
 
+- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
 - [justboil/admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React Next Tailwind 3.x admin dashboard template with typescript and dark mode.
 - [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
 - [sderosiaux/every-single-day-i-tldr](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
@@ -9045,13 +9065,13 @@
 
 ## self-hosted 
 
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
@@ -9642,7 +9662,7 @@
 
 - [supaglue-labs/supaglue](https://github.com/supaglue-labs/supaglue) - Open source user-facing product integrations
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
-- [panoratech/Panora](https://github.com/panoratech/Panora) - A single API to add dozens of integrations into your product
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
