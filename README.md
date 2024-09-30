@@ -609,7 +609,7 @@
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [adrianrudnik/ablegram](https://github.com/adrianrudnik/ablegram) - Effortlessly search through your Ableton project files.
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
-- [proxoar/talk](https://github.com/proxoar/talk) - Talk with ChatGPT using your VOICE
+- [moderato-app/talk](https://github.com/moderato-app/talk) - Talk with ChatGPT using your VOICE
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -3208,7 +3208,7 @@
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
 - [salu133445/arranger](https://github.com/salu133445/arranger) - Official Implementation of "Towards Automatic Instrumentation by Learning to Separate Parts in Symbolic Multitrack Music" (ISMIR 2021)
 - [omerbsezer/MusicGeneration](https://github.com/omerbsezer/MusicGeneration) - Music generation with LSTM model (Keras)
-- [SkyTNT/midi-model](https://github.com/SkyTNT/midi-model) - Midi event transformer for music generation
+- [SkyTNT/midi-model](https://github.com/SkyTNT/midi-model) - Midi event transformer for symbolic music generation
 - [alexanderlerch/pyACA](https://github.com/alexanderlerch/pyACA) - Python scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org)
 - [JuanFMontesinos/Solos](https://github.com/JuanFMontesinos/Solos) - Solos: A Dataset for Audio-Visual Music Analysis
 - [zhaojw1998/AccoMontage](https://github.com/zhaojw1998/AccoMontage) - Code and MIDI demo for paper: Zhao et al., AccoMontage: Accompaniment Arrangement via Phrase Selection and Style Transfer, ISMIR 2021
@@ -4764,7 +4764,7 @@
 - [dawg/dawg](https://github.com/dawg/dawg) - A DAW built using Electron and the Web Audio API
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
-- [rain-sk/app.synth.kitchen](https://github.com/rain-sk/app.synth.kitchen) - modular synth playground
+- [rain-sk/synth.kitchen](https://github.com/rain-sk/synth.kitchen) - modular synth playground
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
 - [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database.
