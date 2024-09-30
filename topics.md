@@ -1153,7 +1153,7 @@
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
-- [proxoar/talk](https://github.com/proxoar/talk) - Talk with ChatGPT using your VOICE
+- [moderato-app/talk](https://github.com/moderato-app/talk) - Talk with ChatGPT using your VOICE
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
@@ -2533,7 +2533,7 @@
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [Banbury-inc/NeuraNet](https://github.com/Banbury-inc/NeuraNet) - The project covers various aspects, from machine learning advancements to decentralized file sharing, and aims to transform the accessibility and management of files while contributing to the progress
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [proxoar/talk](https://github.com/proxoar/talk) - Talk with ChatGPT using your VOICE
+- [moderato-app/talk](https://github.com/moderato-app/talk) - Talk with ChatGPT using your VOICE
 - [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2569,7 +2569,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [proxoar/talk](https://github.com/proxoar/talk) - Talk with ChatGPT using your VOICE
+- [moderato-app/talk](https://github.com/moderato-app/talk) - Talk with ChatGPT using your VOICE
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [schollz/miti](https://github.com/schollz/miti) - miti is a musical instrument textual interface. Basically, its MIDI, but with human-readable text. :musical_note:
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
@@ -5979,7 +5979,7 @@
 - [seitzquest/RavenWhisperer](https://github.com/seitzquest/RavenWhisperer) - Listens to your voice and queries a language model for answers when a question is detected
 - [cryscan/web-rwkv](https://github.com/cryscan/web-rwkv) - Implementation of the RWKV language model in pure WebGPU/Rust.
 - [openvpi/DiffSinger](https://github.com/openvpi/DiffSinger) - An advanced singing voice synthesis system with high fidelity, expressiveness, controllability and flexibility based on DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism
-- [SkyTNT/midi-model](https://github.com/SkyTNT/midi-model) - Midi event transformer for music generation
+- [SkyTNT/midi-model](https://github.com/SkyTNT/midi-model) - Midi event transformer for symbolic music generation
 - [johnpolacek/date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison
 - [alexanderlerch/pyACA](https://github.com/alexanderlerch/pyACA) - Python scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org)
 - [JuanFMontesinos/Solos](https://github.com/JuanFMontesinos/Solos) - Solos: A Dataset for Audio-Visual Music Analysis
@@ -6217,7 +6217,7 @@
 - [p-lambda/jukemir](https://github.com/p-lambda/jukemir) - Perform transfer learning for MIR using Jukebox!
 - [limhenry/spotify-refresh-token-generator](https://github.com/limhenry/spotify-refresh-token-generator) - A web app to generate Spotify Refresh Token
 - [metrasynth/mt1](https://github.com/metrasynth/mt1) - Metrasynth MT-1
-- [rain-sk/app.synth.kitchen](https://github.com/rain-sk/app.synth.kitchen) - modular synth playground
+- [rain-sk/synth.kitchen](https://github.com/rain-sk/synth.kitchen) - modular synth playground
 - [SonyCSLParis/DrumGAN](https://github.com/SonyCSLParis/DrumGAN) - Synthesis of Drum Sounds With Perceptual Timbral Conditioning Using Generative Adversarial Networks
 - [sonallux/spotify-web-api](https://github.com/sonallux/spotify-web-api) - Tools for fixing and improving the official Spotify OpenAPI definition.
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
@@ -8558,7 +8558,7 @@
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
-- [proxoar/talk](https://github.com/proxoar/talk) - Talk with ChatGPT using your VOICE
+- [moderato-app/talk](https://github.com/moderato-app/talk) - Talk with ChatGPT using your VOICE
 - [panayotsky-dev/MobileShopView](https://github.com/panayotsky-dev/MobileShopView) - Interview Task with Next,React,TailwindCSS,Context,framer-motion,TS
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS
 - [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
