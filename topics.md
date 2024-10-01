@@ -304,7 +304,7 @@
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
 - [OwlAIProject/Owl](https://github.com/OwlAIProject/Owl) - A personal wearable AI that runs locally
 - [deffcolony/ai-toolbox](https://github.com/deffcolony/ai-toolbox) - AI-Toolbox provides a collection of automation scripts and tools to streamline your AI workflows.
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
@@ -2728,6 +2728,7 @@
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
 - [nfroidure/midiplayer](https://github.com/nfroidure/midiplayer) - Play MIDI file right in your browser with the WebMIDIAPI
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -3622,7 +3623,7 @@
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
@@ -5195,6 +5196,7 @@
 
 ## others 
 
+- [RhysSullivan/blueberryai-app](https://github.com/RhysSullivan/blueberryai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue and PearAI
 - [HikaruEgashira/bun-gas](https://github.com/HikaruEgashira/bun-gas) - Google Apps Script using bun bundler. https://bun.sh/docs/bundler
 - [didando8a/gas-bundler-test](https://github.com/didando8a/gas-bundler-test) - Bundle all files gas files in one so it can tested in nodejs
 - [dtrlanz/gas-bundler](https://github.com/dtrlanz/gas-bundler) - A simple bundler for Google Apps Script projects
@@ -8072,7 +8074,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in Python.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
 - [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
