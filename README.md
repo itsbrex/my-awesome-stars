@@ -381,7 +381,7 @@
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
-- [WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automated scene switcher for OBS Studio
+- [WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automation tool for OBS Studio
 - [Leskos/FFGLDummyParams](https://github.com/Leskos/FFGLDummyParams) - FFGL plugin with 16 dummy parameters for linking external software to Resolume's parameter system
 - [apohl79/audiogridder](https://github.com/apohl79/audiogridder) - DSP servers using general purpose computers and networks
 - [pje/WavTap](https://github.com/pje/WavTap) - globally capture whatever your mac is playing—as simply as a screenshot
@@ -898,6 +898,8 @@
 
 ## JavaScript 
 
+- [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime) - Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [didando8a/gas-bundler-test](https://github.com/didando8a/gas-bundler-test) - Bundle all files gas files in one so it can tested in nodejs
 - [dtrlanz/gas-bundler](https://github.com/dtrlanz/gas-bundler) - A simple bundler for Google Apps Script projects
 - [galexandre81/api-store](https://github.com/galexandre81/api-store) - Contains all the public APIs listed in Phantombuster's API store. Pull requests welcome!
@@ -2285,7 +2287,6 @@
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
-- [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [sgraaf/openapi-scraper](https://github.com/sgraaf/openapi-scraper) - Track changes to RESTful APIs by git scraping their OpenAPI descriptions
 - [julian-parker/stemgen](https://github.com/julian-parker/stemgen) - Examples for ICASSP2024 paper "StemGen: A music generation model that listens"
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
@@ -2709,6 +2710,7 @@
 
 ## Python 
 
+- [NplusM420/GitGrab](https://github.com/NplusM420/GitGrab) - 
 - [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [disler/marimo-prompt-library](https://github.com/disler/marimo-prompt-library) - Engineer your reusable, customizable, prompt library in Marimo reactive notebooks
 - [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
@@ -3121,7 +3123,7 @@
 - [HumanSignal/label-studio-converter](https://github.com/HumanSignal/label-studio-converter) - Tools for converting Label Studio annotations into common dataset formats
 - [kjgarza/parrot_gpt](https://github.com/kjgarza/parrot_gpt) - Parrot GPT is a Python library that enables you to convert bibliographic metadata between various schemas using OpenAI’s large language models through its API. The library is not limited to specific s
 - [FedericoDiMarzo/MusesEchoes](https://github.com/FedericoDiMarzo/MusesEchoes) - An automatic improvisation software and an interactive installation that generates chord progressions and melodies on the fly, following the playing of the musician, understanding the modal changes an
-- [B0ney/ordinary-file-sorter](https://github.com/B0ney/ordinary-file-sorter) - My customisable organizer for folders and files.
+- [B0ney/ordinary-file-sorter](https://github.com/B0ney/ordinary-file-sorter) - My customisable organiser for folders and files.
 - [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - A universal converter for singing voice projects which is cross-platform and multi-lingual
 - [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml) - json to xml converter in python3
 - [NSUSpray/LiveAPI_MakeDoc](https://github.com/NSUSpray/LiveAPI_MakeDoc) - This script generates Live API documentation in XML format, based on realtime inspection of the Live module.
@@ -3285,12 +3287,12 @@
 - [crlandsc/Music-Demixing-with-Band-Split-RNN](https://github.com/crlandsc/Music-Demixing-with-Band-Split-RNN) - An unofficial PyTorch implementation of Music Source Separation with Band-split RNN for MDX-23 ("Label Noise" Track)
 - [DIDONEproject/musif](https://github.com/DIDONEproject/musif) - Music Feature Extraction and Analysis
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
 - [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
-- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
@@ -3388,7 +3390,7 @@
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [LAION-AI/CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining
 - [RegsonDR/spotify-save-playlists-cron](https://github.com/RegsonDR/spotify-save-playlists-cron) - Save Spotify's auto-generated playlists automatically - Powered by Github Actions.
 - [gioxx/spotify-save-new-music-friday](https://github.com/gioxx/spotify-save-new-music-friday) - Save Spotify's "New Music Friday" playlist automatically - Powered by Github Actions, based on the original script by @RegsonDR.
@@ -3467,7 +3469,7 @@
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [BlaCkinkGJ/catch-me-if-you-can](https://github.com/BlaCkinkGJ/catch-me-if-you-can) - plagiarism detector
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
-- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
+- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [tuneflow/tuneflow-py-demos](https://github.com/tuneflow/tuneflow-py-demos) - 
@@ -4347,6 +4349,7 @@
 
 ## TypeScript 
 
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [yamalight/litlytics](https://github.com/yamalight/litlytics) - 🔥 LitLytics - an affordable, simple analytics platform that leverages LLMs to automate data analysis
 - [RhysSullivan/blueberryai-app](https://github.com/RhysSullivan/blueberryai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue and PearAI
 - [HikaruEgashira/bun-gas](https://github.com/HikaruEgashira/bun-gas) - Google Apps Script using bun bundler. https://bun.sh/docs/bundler
@@ -4464,6 +4467,7 @@
 - [bromso/jonasbroms-www](https://github.com/bromso/jonasbroms-www) - Jonas Bröms official website built with Turborepo, Nextjs, React, Shadcn/UI, TailwindCSS, Framer Motion & AcernityUI. Hosted on Vercel.
 - [kaarthik108/ohno](https://github.com/kaarthik108/ohno) - ohno - a lightning-fast AI chatbot built with the Hono.js framework, React, and Tailwind CSS
 - [evanpurkhiser/prolink-tools](https://github.com/evanpurkhiser/prolink-tools) - User friendly tools for accessing and using PRO DJ LINK information.
+- [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [DeabLabs/cannoli](https://github.com/DeabLabs/cannoli) - Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor.
 - [janklimo/robin-pro-worker](https://github.com/janklimo/robin-pro-worker) - Cloudflare Worker for returning objects from R2, falling back to S3. Save 💸 on egress fees.
 - [dromzeh/api.dromzeh.dev](https://github.com/dromzeh/api.dromzeh.dev) - Hono Backend for dromzeh.dev, including post fetching from r2, ratelimiting, kv post viewcount
@@ -4518,7 +4522,7 @@
 - [dotansimha/graphql-code-generator-community](https://github.com/dotansimha/graphql-code-generator-community) - 
 - [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
 - [cezaraugusto/babel-preset-modern-browser-extension](https://github.com/cezaraugusto/babel-preset-modern-browser-extension) - Babel preset used for creating browser extensions. Supports React and TypeScript.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [steveefemsc/twinny](https://github.com/steveefemsc/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
 - [steveefemsc/activepieces](https://github.com/steveefemsc/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
@@ -4536,7 +4540,7 @@
 - [bra1nDump/ai-task-vscode](https://github.com/bra1nDump/ai-task-vscode) - LLM multi file edits within vscode
 - [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) - The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
-- [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
+- [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [mathysth/bun-prisma-hono-inversify](https://github.com/mathysth/bun-prisma-hono-inversify) - This project has been completely rewritten and is available here: https://github.com/ae-creator/CosmosJS/tree/main
 - [AKclown/js-to-ts](https://github.com/AKclown/js-to-ts) - The vscode plugin converts  js/json/swagger/api  to typescript declaration
@@ -4634,7 +4638,7 @@
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [nathan20021/react-chord-detection](https://github.com/nathan20021/react-chord-detection) - 
 - [stackswithans/akkorder](https://github.com/stackswithans/akkorder) - A Typescript port of Adam Stark's C++ implementation of the chord recognition algorithm described in the paper : Real-Time Chord Recognition For Live Performance, A. M. Stark and M. D. Plumbley.
-- [onejs/one](https://github.com/onejs/one) - A collection of Vite packages enabling developing and building applications for React Native on web and native platforms (iOS and Android).
+- [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
 - [plsankar/colorhunter](https://github.com/plsankar/colorhunter) - Chrome Extenstion to export the color palette of a website in a single click.
 - [14islands/r3f-scroll-rig](https://github.com/14islands/r3f-scroll-rig) - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
 - [leap-ai/leap-ai-cover-images](https://github.com/leap-ai/leap-ai-cover-images) - 
@@ -4720,7 +4724,6 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [magenta/magenta-js](https://github.com/magenta/magenta-js) - Magenta.js: Music and Art Generation with Machine Learning in the browser
@@ -4729,7 +4732,7 @@
 - [Jaggernaut555/midi-mixer-spotify](https://github.com/Jaggernaut555/midi-mixer-spotify) - Control spotify with a midi mixer plugin
 - [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - Come join the best place on the internet to learn AI skills. Use code "storybookai" for an extra 20% off.
 - [notochord/playback](https://github.com/notochord/playback) - A chord player, and a language for describing musical styles
-- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
+- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [danigb/smplr](https://github.com/danigb/smplr) - A web audio sampler instrument
 - [natemoo-re/ultramatter](https://github.com/natemoo-re/ultramatter) - &lt;1kB frontmatter parser that supports a reasonable subset of YAML
 - [natemoo-re/ultraflag](https://github.com/natemoo-re/ultraflag) - &lt;1kB CLI flag parser
@@ -4862,7 +4865,7 @@
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [iotshaman/json-repo](https://github.com/iotshaman/json-repo) - Read and write data to JSON files using the repository pattern.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
-- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
+- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,800 downloads.
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [xiaoluoboding/chrome-ext-starter](https://github.com/xiaoluoboding/chrome-ext-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
@@ -5197,7 +5200,6 @@
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 14 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [hmu332233/q-link](https://github.com/hmu332233/q-link) - Q.Link | Hide your link behind a simple quiz.
 - [redbaron76/nextjs-api-routes-prisma-yup-chakra-ui](https://github.com/redbaron76/nextjs-api-routes-prisma-yup-chakra-ui) - An experimental full-stack React boilerplate involving Next.js API routes, react-query, Prisma 2, Yup and Chakra UI
-- [kabirgogoi/nextjs-fullstack-starter](https://github.com/kabirgogoi/nextjs-fullstack-starter) - NextJs fullstack project starter with Typescript, Chakra-ui, next-auth, next-connect, prisma and next-seo
 - [samueldobbie/troogl-extension](https://github.com/samueldobbie/troogl-extension) - Real-time insights into the news you read :newspaper:
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
@@ -5235,7 +5237,7 @@
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress/seeking contributors].
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [feedbackfarm/react](https://github.com/feedbackfarm/react) - 
 - [one-aalam/ng-starter-kit](https://github.com/one-aalam/ng-starter-kit) - Angular with Supabase, and other bells and whistles
 - [osovv/sorting-visualizer](https://github.com/osovv/sorting-visualizer) - App for visualizing different sorting algortihms. Built with React, Typescript, TailwindCSS, daisyUI and Immutable.js.
