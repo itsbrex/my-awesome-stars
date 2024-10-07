@@ -305,7 +305,7 @@
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - API for building multi-step agent workflows. (An orchestrator for AI agents and workflows.)
 - [OwlAIProject/Owl](https://github.com/OwlAIProject/Owl) - A personal wearable AI that runs locally
 - [deffcolony/ai-toolbox](https://github.com/deffcolony/ai-toolbox) - AI-Toolbox provides a collection of automation scripts and tools to streamline your AI workflows.
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
@@ -2729,14 +2729,16 @@
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [benborgers/opensheet](https://github.com/benborgers/opensheet) - 💾 An API to get a Google Sheet as JSON, no authentication required.
+- [Yonom/assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
+- [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
 - [IonicaBizau/json2md](https://github.com/IonicaBizau/json2md) - :pushpin: A JSON to Markdown converter.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - API for building multi-step agent workflows. (An orchestrator for AI agents and workflows.)
 - [nfroidure/midiplayer](https://github.com/nfroidure/midiplayer) - Play MIDI file right in your browser with the WebMIDIAPI
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -3638,7 +3640,7 @@
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - API for building multi-step agent workflows. (An orchestrator for AI agents and workflows.)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
@@ -5215,6 +5217,7 @@
 
 ## others 
 
+- [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) - Automated OSINT on SwaggerHub
 - [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime) - Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
 - [NplusM420/GitGrab](https://github.com/NplusM420/GitGrab) - 
 - [RhysSullivan/blueberryai-app](https://github.com/RhysSullivan/blueberryai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue and PearAI
@@ -7758,7 +7761,7 @@
 - [stuartcryan/defaultbrowser-alfred-workflow](https://github.com/stuartcryan/defaultbrowser-alfred-workflow) - Default Browser workflow for Alfred using Kerma's DefaultBrowser Binary
 - [jhardy/minimal-devices](https://github.com/jhardy/minimal-devices) - minimal-devices
 - [dakrone/dakrone-dotfiles](https://github.com/dakrone/dakrone-dotfiles) - misc configuration files
-- [gravitinos/slack_themes](https://github.com/gravitinos/slack_themes) - :speech_balloon: Slack Themes :see_no_evil: A collection of themes for Slack pulled together into one easily referenced place, letting you get a taste before you copy and paste!
+- [welshwandering/slack_themes](https://github.com/welshwandering/slack_themes) - :speech_balloon: Slack Themes 💖 (Est. 2014) | Popular collection of themes for Slack pulled together into one easily referenced place, letting you get a taste before you copy and paste!
 - [skuroda/PersistentRegexHighlight](https://github.com/skuroda/PersistentRegexHighlight) - Persistent regular expression highlighting for Sublime Text 2
 - [chadanderson/alfred_quick_resize](https://github.com/chadanderson/alfred_quick_resize) - Quickly resize images on your desktop with Alfred
 - [ohoachuck/alfred2-resize](https://github.com/ohoachuck/alfred2-resize) - Alfred Workflow to resize selected image with specific ratio to choose from list
@@ -7809,7 +7812,6 @@
 - [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 - [phallstrom/AlfredGist](https://github.com/phallstrom/AlfredGist) - An workflow for Alfred to create Gists from your clipboard contents or selected file(s).
 - [websterParser/WebsterParser](https://github.com/websterParser/WebsterParser) - Convert Webster's Unabridged 1913 dictionary in to a more usable format
-- [aparks517/convert-websters](https://github.com/aparks517/convert-websters) - Convert Webster's Unabridged Dictionary from Project Gutenberg to OSX dictionary
 - [danielecook/gist-alfred](https://github.com/danielecook/gist-alfred) - An alfred workflow for accessing gists
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [kcrawford/dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
@@ -7913,6 +7915,7 @@
 
 ## package-manager 
 
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
@@ -8091,7 +8094,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in Python.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - API for building multi-step agent workflows. (An orchestrator for AI agents and workflows.)
 - [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
