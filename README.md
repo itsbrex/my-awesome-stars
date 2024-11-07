@@ -240,7 +240,7 @@
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [October 2024]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.0 [November 2024]
 - [rorywalsh/cabbage](https://github.com/rorywalsh/cabbage) - Framework for developing audio plugins with the Csound programming language.
 - [yeeking/ai-enhanced-audio-book](https://github.com/yeeking/ai-enhanced-audio-book) - A repository of AI-enhanced audio plugins written using C++, JUCE, libtorch, RTNeural and other libraries. Supports my book
 - [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A swift and unified toolkit for symbolic music processing
@@ -578,6 +578,7 @@
 
 ## Go 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [dim0x69/mdx](https://github.com/dim0x69/mdx) - 
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
@@ -868,6 +869,7 @@
 
 ## Java 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [xjmusic/xjmusic](https://github.com/xjmusic/xjmusic) - XJ music enables composers to realize new possibilities in adaptive music for video games.
 - [cbarthauer/chordcommand](https://github.com/cbarthauer/chordcommand) - ChordCommand is a domain specific language for manipulating chords using standard music symbols (e.g. CM7, Dm7, Gdom7, DbM7, CM7, etc.).
 - [graetz23/JWave](https://github.com/graetz23/JWave) - A Discrete Fourier Transform (DFT), a Fast Wavelet Transform (FWT), and a Wavelet Packet Transform (WPT) algorithm in 1-D, 2-D, and 3-D using normalized orthogonal (orthonormal) Haar, Coiflet, Daubech
@@ -905,9 +907,14 @@
 
 ## JavaScript 
 
+- [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - Claude Memory: Long-term memory for Claude
+- [violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript) - A yeoman generator to create a userscript project rapidly
 - [codespin-ai/codespin-chrome-extension](https://github.com/codespin-ai/codespin-chrome-extension) - CodeSpin.AI Chrome Plugin
 - [jeeng/json-api-transform](https://github.com/jeeng/json-api-transform) - 
 - [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm) - Laravel CRM  - PHP CRM -  AI CRM - Metadata CRM.  Iceburg CRM is Open Source, metadata driven, extendable, unlimited relationships, convertable modules, 29 default themes, light/dark themes.  It also 
+- [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is an AI-powered query language for web scraping and automation. It uses natural language selectors to find data on any page, including authenticated content. AgentQL queries are self-healing 
 - [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime) - Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [didando8a/gas-bundler-test](https://github.com/didando8a/gas-bundler-test) - Bundle all files gas files in one so it can tested in nodejs
@@ -1049,7 +1056,6 @@
 - [CesiumGS/webglreport](https://github.com/CesiumGS/webglreport) - A web page that reports a browser's WebGL capabilities, including supported extensions and implementation specific capabilities, such as the maximum number of texture units.
 - [AppMachine/seratojs](https://github.com/AppMachine/seratojs) - Manage Serato Crates Programatically via NodeJS.
 - [AppMachine/ffprobe-static](https://github.com/AppMachine/ffprobe-static) - Static binaries for ffprobe
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [moises-ai/backend-dev-position](https://github.com/moises-ai/backend-dev-position) - 
 - [felixxwu/noxive](https://github.com/felixxwu/noxive) - Landing page for my music hobby using Vue.js and Firebase
 - [ToDesktop/todesktop-quick-start](https://github.com/ToDesktop/todesktop-quick-start) - Clone to try ToDesktop with a simple Electron project
@@ -2394,7 +2400,7 @@
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - "Awesome-AOAI-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - "Awesome-AzureOpenAI-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
 - [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 - [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
@@ -2721,6 +2727,11 @@
 
 ## Python 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+- [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
+- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
+- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [simonw/llm-jq](https://github.com/simonw/llm-jq) - Write and execute jq programs with the help of LLM
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [dbos-inc/durable-swarm](https://github.com/dbos-inc/durable-swarm) - Augment Swarm with durable execution to help you build reliable and scalable multi-agent systems.
@@ -2731,7 +2742,6 @@
 - [whyhow-ai/knowledge-table](https://github.com/whyhow-ai/knowledge-table) - Knowledge Table is an open-source package designed to simplify extracting and exploring structured data from unstructured documents.
 - [criteo/autofaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
-- [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is an AI-powered query language for web scraping and automation. It uses natural language selectors to find data on any page, including authenticated content. AgentQL queries are self-healing 
 - [YassKhazzan/openperplex_backend_os](https://github.com/YassKhazzan/openperplex_backend_os) - openperplex is an opensource AI search engine
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) - Automated OSINT on SwaggerHub
 - [NplusM420/GitGrab](https://github.com/NplusM420/GitGrab) - 
@@ -3405,7 +3415,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [UKPLab/gpl](https://github.com/UKPLab/gpl) - Powerful unsupervised domain adaptation method for dense retrieval. Requires only unlabeled corpus and yields massive improvement: "GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation o
-- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML, LLM and Vision LLM
 - [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [unconv/gpt-autopilot](https://github.com/unconv/gpt-autopilot) - A GPT-4 powered AI agent that can create full projects with iterative prompting
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
@@ -3925,6 +3935,7 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [icebaker/nano-bots-api](https://github.com/icebaker/nano-bots-api) - HTTP API for Nano Bots: small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as Cohere Command, Google Gemini, Maritaca AI MariTalk, Mistral A
 - [andreausu/git-notifier](https://github.com/andreausu/git-notifier) - Get email notifications when someone stars or forks one of your GitHub repos and follows/unfollows you
 - [dkarter/alfred-magic-link](https://github.com/dkarter/alfred-magic-link) - Magically insert links into markdown using Alfred
@@ -3987,6 +3998,8 @@
 
 ## Rust 
 
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [adelamodwala/jist](https://github.com/adelamodwala/jist) - Search a JSON path and get the value fast
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -4106,7 +4119,7 @@
 
 ## Shell 
 
-- [meowso/cursorcontext](https://github.com/meowso/cursorcontext) - 
+- [m3au/cursorcontext](https://github.com/m3au/cursorcontext) - 
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [Netflix/eslint-config-netflix](https://github.com/Netflix/eslint-config-netflix) - Shared ESLint config for Netflix JavaScript
@@ -4372,6 +4385,14 @@
 
 ## TypeScript 
 
+- [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
+- [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
+- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
+- [sliplane/dockerize-bun](https://github.com/sliplane/dockerize-bun) - 
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [CarcajadaArtificial/lunchbox](https://github.com/CarcajadaArtificial/lunchbox) - Component Library 🍱 for Deno 🦕 Fresh 🍋
@@ -4660,6 +4681,7 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [AppMachine/node-id3](https://github.com/AppMachine/node-id3) - Pure JavaScript ID3 Tag library
 - [strazzere/node-usb](https://github.com/strazzere/node-usb) - Improved USB library for Node.js
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [marigold-ui/marigold](https://github.com/marigold-ui/marigold) - Design System based on react-aria and Tailwind CSS
@@ -4727,7 +4749,7 @@
 - [realmorg/realm](https://github.com/realmorg/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [blefnk/relivator-nextjs-saas-ecommerce-starter](https://github.com/blefnk/relivator-nextjs-saas-ecommerce-starter) - ✨ 1.3.0 RC — Coming soon ⭐ Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Radix UI, Responsive React 18 19 Server Components, Postgres Neon TS ORM, Intl 
-- [blefnk/reliverse-cli-web-anything-builder](https://github.com/blefnk/reliverse-cli-web-anything-builder) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [johnpolacek/date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison
@@ -4760,8 +4782,8 @@
 - [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth.
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
-- [UnJavaScripter/aplayer](https://github.com/UnJavaScripter/aplayer) - An audio player webcomponent using lit
-- [UnJavaScripter/web-midi-basics](https://github.com/UnJavaScripter/web-midi-basics) - A Web MIDI basic example
+- [funnierinspanish/aplayer](https://github.com/funnierinspanish/aplayer) - An audio player webcomponent using lit
+- [funnierinspanish/web-midi-basics](https://github.com/funnierinspanish/web-midi-basics) - A Web MIDI basic example
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating WebAudio code
