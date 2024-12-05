@@ -2046,7 +2046,7 @@
 - [AvneeshSarwate/abletonAutomationExtraction](https://github.com/AvneeshSarwate/abletonAutomationExtraction) - Extract automation information from Ableton live to use in standalone animations
 - [sandcobainer/neu-encoder](https://github.com/sandcobainer/neu-encoder) - Using Magenta's nsynth-fastgen project to synthesize samples with neural sythensis in Max4Live,Ableton
 - [wayne391/lead-sheet-dataset](https://github.com/wayne391/lead-sheet-dataset) - :headphones: lead sheet datasets in various formats
-- [jhamer90811/chord_progression_assistant](https://github.com/jhamer90811/chord_progression_assistant) - project which uses Hooktheory and Spotify APIs to perform analysis of chord progressions of popular songs.
+- [jesse-a-l-hamer/chord_progression_assistant](https://github.com/jesse-a-l-hamer/chord_progression_assistant) - project which uses Hooktheory and Spotify APIs to perform analysis of chord progressions of popular songs.
 - [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
 - [datamllab/xdeep](https://github.com/datamllab/xdeep) - 
 - [pnnl/DeepDataProfiler](https://github.com/pnnl/DeepDataProfiler) - Python library for analyzing the internal structure of deep neural networks.
@@ -3758,7 +3758,7 @@
 - [gluon/AbletonLive11_MIDIRemoteScripts](https://github.com/gluon/AbletonLive11_MIDIRemoteScripts) - 
 - [liuyigh/homebrew-cask-replace](https://github.com/liuyigh/homebrew-cask-replace) - use homebrew cask to replace installed apps. Python 3.
 - [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever) - 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
-- [jeff9014223/LinkGen](https://github.com/jeff9014223/LinkGen) - An Open Source Account Generator Bot!
+- [Jeff53978/LinkGen](https://github.com/Jeff53978/LinkGen) - An Open Source Account Generator Bot!
 - [gshen7/forms-notion](https://github.com/gshen7/forms-notion) - 
 - [imnotjames/notion-docs-sync](https://github.com/imnotjames/notion-docs-sync) - 
 - [mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents) - Quickly open recent documents and apps / 快捷打开最近访问的文档或应用
