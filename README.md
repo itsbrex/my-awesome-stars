@@ -447,7 +447,7 @@
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [Teyler7/dracula-typora-theme](https://github.com/Teyler7/dracula-typora-theme) - A dark theme for Typora inspired by the Dracula color scheme and Material Design.
 - [mubaidr/bulma](https://github.com/mubaidr/bulma) - Modern CSS framework based on Flexbox
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [abhayprasanna/abhayprasanna.github.io](https://github.com/abhayprasanna/abhayprasanna.github.io) - 
 - [titangene/quick-source-viewer-dark-theme](https://github.com/titangene/quick-source-viewer-dark-theme) - Dark theme for "Quick source viewer" (Chrome extension)
 - [lyket-dev/notion-embed](https://github.com/lyket-dev/notion-embed) - Copy and deploy this repo to easily create embeddable Lyket Notion widget
@@ -656,7 +656,7 @@
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [mitchellrj/gohue](https://github.com/mitchellrj/gohue) - [Officially featured on the Philips Hue® Developer site] Go library "hue" interfaces Philips Hue devices to control and monitor lights, scenes, schedules, and groups.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
 - [RomainPct/notion-to-google-sheets-task-runner](https://github.com/RomainPct/notion-to-google-sheets-task-runner) - 
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
@@ -1033,6 +1033,7 @@
 - [enginestein/Reversecord](https://github.com/enginestein/Reversecord) - A repository containing reverse engineered discord code
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - 📺 Extract the YouTube video ID from a string or URL.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vibertthio/beact](https://github.com/vibertthio/beact) - :guitar::art: DJ and VJ all by yourself in seconds !
 - [jagilley/pylectron](https://github.com/jagilley/pylectron) - An electron.js GUI wrapper for arbitrary Python scripts
 - [reedkavner/gif-viz](https://github.com/reedkavner/gif-viz) - 
@@ -1184,7 +1185,7 @@
 - [matthewcaren/TRoco](https://github.com/matthewcaren/TRoco) - A generative algorithm for music composition based on jazz theory
 - [plassma/symbolic-music-discrete-diffusion](https://github.com/plassma/symbolic-music-discrete-diffusion) - 
 - [felixroos/strudel](https://github.com/felixroos/strudel) - 
-- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [rserota/wad](https://github.com/rserota/wad) - Web Audio DAW.  Use the Web Audio API for dynamic sound synthesis.  It's like jQuery for your ears.
 - [djipco/webmidi](https://github.com/djipco/webmidi) - Tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (note
@@ -1539,8 +1540,6 @@
 - [kvokov/oh-my-fullstack](https://github.com/kvokov/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [hackclub/theme-starter](https://github.com/hackclub/theme-starter) - 🐤 A sample Next.js project for getting started with MDX, Theme UI, & Hack Club Theme.
-- [MichaelFrieze/djevents-remix](https://github.com/MichaelFrieze/djevents-remix) - This is the Remix version of the DJ Events app from Brad Traversy's NextJS Course.
-- [MichaelFrieze/dj-events-frontend](https://github.com/MichaelFrieze/dj-events-frontend) - This is the DJ Events app from Brad Traversy's NextJS Course. The Strapi backend is on Heroku so initial load times can be slow since I am using free tier.
 - [myungjaeyu/nextjs-starter](https://github.com/myungjaeyu/nextjs-starter) - 🏯A starter project for Next.js with authentication
 - [Mergifyio/react-crisp](https://github.com/Mergifyio/react-crisp) - React implementation for Crisp
 - [canerbasaran/crisp-client-automation](https://github.com/canerbasaran/crisp-client-automation) - Client Automation for Crisp Chat Basic Package
@@ -1945,7 +1944,7 @@
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [MikeChan-HK/Gemini-agent-example](https://github.com/MikeChan-HK/Gemini-agent-example) - An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website. Ready to support ollama.... (Update when i am f
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is an AI Agents Framework with Self Reflection. PraisonAI application combines PraisonAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM system
 - [urinieto/harmonixset](https://github.com/urinieto/harmonixset) - The Harmonix Set: Beats, Downbeats, and Structural Annotations for Pop Music
 - [bhaskatripathi/pyviralcontent](https://github.com/bhaskatripathi/pyviralcontent) - A package for analyzing content readability and virality potential.
 - [ebai101/splorganizer](https://github.com/ebai101/splorganizer) - more useful organization for Splice sample libraries
@@ -1992,7 +1991,6 @@
 - [teticio/audio-diffusion](https://github.com/teticio/audio-diffusion) - Apply diffusion models using the new Hugging Face diffusers package to synthesize music instead of images.
 - [asigalov61/Algorithmic-Accompaniment-Generator](https://github.com/asigalov61/Algorithmic-Accompaniment-Generator) - Algorithmic accompaniment generator
 - [maxfrenzel/SampleVAE](https://github.com/maxfrenzel/SampleVAE) - Multi-purpose tool for sound design and music production implemented in TensorFlow.
-- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [spotify-research/llark](https://github.com/spotify-research/llark) - Code for the paper "LLark: A Multimodal Instruction-Following Language Model for Music" by Josh Gardner, Simon Durand, Daniel Stoller, and Rachel Bittner.
 - [jrgillick/imagined-lyrics](https://github.com/jrgillick/imagined-lyrics) - 
 - [thuanz123/realfill](https://github.com/thuanz123/realfill) - Unofficial implementation of RealFill
@@ -2157,7 +2155,6 @@
 - [hugofloresgarcia/unloop](https://github.com/hugofloresgarcia/unloop) - a co-creative looper that uses generative modeling to **not** repeat itself.
 - [d3n7/riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion
 - [koil-music/regroove-m4l](https://github.com/koil-music/regroove-m4l) - Regroove is a Max for Live device that generates expressive drum rhythms using a learned understanding of groove ♬
-- [showsync/LiveMTC](https://github.com/showsync/LiveMTC) - LiveMTC is a plugin/app combination that outputs Midi Time Code from Ableton Live
 - [naotokui/M4L-CreativeGAN-Rhythm](https://github.com/naotokui/M4L-CreativeGAN-Rhythm) - Rhythm GAN/CAN player for Ableton Live / Max for Live
 - [mganss/Aicd](https://github.com/mganss/Aicd) - Acid pattern generator
 - [carsault/chord_extraction_prediction_lib](https://github.com/carsault/chord_extraction_prediction_lib) - 
@@ -2457,7 +2454,7 @@
 - [superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio](https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio) - 🌐 Superpowered Web Audio JavaScript and WebAssembly SDK for modern web browsers. Allows developers to implement low-latency interactive audio features into web sites and web apps with a friendly Javas
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [trungdq88/chatgpt-prompt-templates](https://github.com/trungdq88/chatgpt-prompt-templates) - Templates for community prompts on TypingMind.com
-- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with and visualize any codebase
+- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) any codebase
 - [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 - [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
 - [DevGuyRash/rashino-prompts](https://github.com/DevGuyRash/rashino-prompts) - 
@@ -2756,6 +2753,7 @@
 - [RoyalCities/RC-stable-audio-tools](https://github.com/RoyalCities/RC-stable-audio-tools) - Generative models for conditional audio generation
 - [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping) - A cloudflare verification bypass script for webscraping
 - [Lesterpaintstheworld/terminal-velocity](https://github.com/Lesterpaintstheworld/terminal-velocity) - A novel created autonomously by a team of 10 AI agents
+- [awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
@@ -2783,7 +2781,7 @@
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [ryanmburns93/Sales_Reporting_Automation](https://github.com/ryanmburns93/Sales_Reporting_Automation) - Automates biweekly sales reporting for The Beverly Collective (https://www.thebeverlycollective.co/).
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
-- [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead qualification and outreach with AI-driven lead research, comprehensive insights, and personalized outreach materials generation across multiple CRMs (Hubspot, sheet or Airtable) using da
+- [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead research, qualification, and outreach with AI and Langgraph, crafting tailored materials and integrating with multiple CRMs like HubSpot, Airtable, and Google Sheets.
 - [jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant](https://github.com/jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant) - This app leverages generative AI to intelligently manage your sales inbox and CRM, auto-draft replies using your sales playbook & company branding, and more.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
@@ -3182,7 +3180,6 @@
 - [Gabeiscool420/SoundSage---LLM-Audio-Processing](https://github.com/Gabeiscool420/SoundSage---LLM-Audio-Processing) - Open source Python program for automating gain staging. part 1 of a series for automating audio processing tasks, end goal is to create a full set of tools for an AI to use for automating Audio proces
 - [kyegomez/SimpleMamba](https://github.com/kyegomez/SimpleMamba) - Implementation of a modular, high-performance, and simplistic mamba for high-speed applications
 - [patrickkidd/pkmidicron](https://github.com/patrickkidd/pkmidicron) - PKMidiCron is an app that listens to midi messages and can fire off programs, scripts, or other midi messages. This is modeled after the “cron” unix utility. It also comes with a very good midi simula
-- [marcelo-lara/midi-artnet](https://github.com/marcelo-lara/midi-artnet) - My implementation to connect Ableton Live to ArtNet  lights
 - [marcoppasini/musika](https://github.com/marcoppasini/musika) - Fast Infinite Waveform Music Generation
 - [HumanSignal/label-studio-converter](https://github.com/HumanSignal/label-studio-converter) - Tools for converting Label Studio annotations into common dataset formats
 - [kjgarza/parrot_gpt](https://github.com/kjgarza/parrot_gpt) - Parrot GPT is a Python library that enables you to convert bibliographic metadata between various schemas using OpenAI’s large language models through its API. The library is not limited to specific s
@@ -3203,6 +3200,7 @@
 - [audiomuze/tagminder](https://github.com/audiomuze/tagminder) - Import, maintain and export tag metadata to/from audio files and a dynamically created SQLite table. Automates incremental tag cleanup, enrichment and standardisation for your digital audio library at
 - [bcollazo/dejavu](https://github.com/bcollazo/dejavu) - Audio fingerprinting and recognition in Python
 - [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) - Mustango: Toward Controllable Text-to-Music Generation
+- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
@@ -3285,6 +3283,7 @@
 - [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [aida-ugent/SkillGPT](https://github.com/aida-ugent/SkillGPT) - 
 - [aida-ugent/dnb-autodj](https://github.com/aida-ugent/dnb-autodj) - 
 - [mir-aidj/EDM-subgenre-classifier](https://github.com/mir-aidj/EDM-subgenre-classifier) - Code for "Deep Learning Based EDM Subgenre Classification using Mel-Spectrogram and Tempogram Features" arXiv:2110.08862, 2021.
@@ -3425,7 +3424,7 @@
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [SwayamSahoo11742/Scopul](https://github.com/SwayamSahoo11742/Scopul) - A python package to extract information from MIDI files
+- [ssahoo11742/Scopul](https://github.com/ssahoo11742/Scopul) - A python package to extract information from MIDI files
 - [johnnygreco/midiGPT](https://github.com/johnnygreco/midiGPT) - 🎹 midiGPT: a decoder-only transformer model for music generation
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [davidfstr/trycast](https://github.com/davidfstr/trycast) - trycast parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
@@ -3471,7 +3470,7 @@
 - [toaco/carry](https://github.com/toaco/carry) - Python ETL(Extract-Transform-Load) tool / Data migration tool
 - [echonest/discogs-xml2db](https://github.com/echonest/discogs-xml2db) - Import the discogs monthly XML dumps into a database (fork of http://code.google.com/p/discogs-sql-importer/)
 - [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [moises-ai/maestro-worker-python](https://github.com/moises-ai/maestro-worker-python) - 
 - [flipcoder/midimech](https://github.com/flipcoder/midimech) - 🎼  Isomorphic musical layout engine for LinnStrument and Launchpad X, with DAW/Synthesia visualizer
 - [asigalov61/Los-Angeles-MIDI-Dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset) - SOTA kilo-scale MIDI dataset for MIR and Music AI purposes
@@ -3725,7 +3724,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [LuChengTHU/dpm-solver](https://github.com/LuChengTHU/dpm-solver) - Official code for "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps" (Neurips 2022 Oral)
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
@@ -4043,7 +4042,7 @@
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
-- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A proxy CLI for capturing HTTP(S) & WS(S) Traffic.
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 - [dioxus-community/dioxus-radio](https://github.com/dioxus-community/dioxus-radio) - Fully-typed global state management with a topics subscription system for Dioxus 🧬
 - [itsbrex/wonnx](https://github.com/itsbrex/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
@@ -4178,7 +4177,6 @@
 - [skymethod/denoflare-docs](https://github.com/skymethod/denoflare-docs) - 
 - [f2l2pe/JetBrainsMonoSlashed](https://github.com/f2l2pe/JetBrainsMonoSlashed) - JetBrains Mono Slashed – the free and open-source typeface for developers, now with slashed zero
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [ProfessorManhattan/prettier-config-sexy-mode](https://github.com/ProfessorManhattan/prettier-config-sexy-mode) - Simplifies configuring Prettier by bundling plugins and configuring them in a single shareable configuration
 - [TheSoundOfAIOSR/project_common](https://github.com/TheSoundOfAIOSR/project_common) - Common environment for all groups to connect to other groups with a relative path
 - [davidfstr/Python-in-Mac-App-Store](https://github.com/davidfstr/Python-in-Mac-App-Store) - Barebones Python app that can be submitted to the Mac App Store.
@@ -4288,7 +4286,6 @@
 - [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [AbePlays/file-drop](https://github.com/AbePlays/file-drop) - Seamless file upload experience!
 - [itsbrex/open-webui](https://github.com/itsbrex/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you?
 - [rossrobino/gpt](https://github.com/rossrobino/gpt) - Custom ChatGPT wrapper
 - [rossrobino/blog](https://github.com/rossrobino/blog) - My blog
@@ -4316,7 +4313,7 @@
 - [vadymmarkov/Beethoven](https://github.com/vadymmarkov/Beethoven) - :guitar: A maestro of pitch detection.
 - [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
 - [kewlbear/YoutubeDL](https://github.com/kewlbear/YoutubeDL) - An iOS app using youtube-dl Python module with PythonKit Swift package
-- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [0xdevalias/reminders-cli](https://github.com/0xdevalias/reminders-cli) - A simple CLI for interacting with macOS reminders
@@ -4419,6 +4416,7 @@
 
 ## TypeScript 
 
+- [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 - [konfig-dev/konfig](https://github.com/konfig-dev/konfig) - SDK & API Docs Generator. Sunset as of December 2024
 - [morphHQ/runmorph](https://github.com/morphHQ/runmorph) - 
 - [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit) - TutorialKit by StackBlitz - Create interactive tutorials powered by the WebContainer API
@@ -4428,7 +4426,7 @@
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
 - [CopilotKit/demo-campaign-manager](https://github.com/CopilotKit/demo-campaign-manager) - 
-- [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw) - Copy & Paste React components to build modern web applications.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy & Paste React components to build modern web applications.
 - [olliethedev/ui-builder](https://github.com/olliethedev/ui-builder) - A React component that provides a no-code, visual way to create UIs, compatible with shadcn/ui and custom components.
 - [damianricobelli/shadcn-cal-com](https://github.com/damianricobelli/shadcn-cal-com) - 
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
@@ -4442,7 +4440,6 @@
 - [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-- [awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [bjornpagen/segflow](https://github.com/bjornpagen/segflow) - An open-source, self-hosted, full-code alternative to Customer.io. Write your user engagement logic in pure TypeScript and SQL (Drizzle ORM).
 - [mme/beakjs](https://github.com/mme/beakjs) - 🐦 Custom conversational assistants for your React app.
 - [mme/spreadsheet-demo](https://github.com/mme/spreadsheet-demo) - 
@@ -4582,7 +4579,7 @@
 - [lalitdotdev/watchtowerai](https://github.com/lalitdotdev/watchtowerai) - An AI-powered web application leveraging Next.js 14 and TensorFlow.js for real-time object detection. Utilizing Tensorflow model for accurate detection, webcam integration for live video streams, and 
 - [nicoalbanese/ai-sdk-fundamentals](https://github.com/nicoalbanese/ai-sdk-fundamentals) - 
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-- [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service using CloudFlare R2
+- [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service (WebUI & WebDAV) using CloudFlare R2
 - [j3lte/govee-lan-controller](https://github.com/j3lte/govee-lan-controller) - Control your Govee lights
 - [tchowd/proposal-generator](https://github.com/tchowd/proposal-generator) - 
 - [noook/spotify-client](https://github.com/noook/spotify-client) - A fully-typed client for Spotify API, compatible in a browser and node.
@@ -4638,7 +4635,7 @@
 - [Winter/create-gist](https://github.com/Winter/create-gist) - Upload your code to Gist with ease
 - [warrenday/graphql-mock-network](https://github.com/warrenday/graphql-mock-network) - Simple network mocking for your GraphQL API.
 - [eifinger/setup-rye](https://github.com/eifinger/setup-rye) - Set up your GitHub Actions workflow with a specific version of Rye
-- [hyochan/dooboo-ui](https://github.com/hyochan/dooboo-ui) - UI Framework which mainly targets Expo
+- [hyochan/dooboo-ui](https://github.com/hyochan/dooboo-ui) - Migrated to CPK-UI
 - [loclv/bun-monorepo](https://github.com/loclv/bun-monorepo) - bun-monorepo + Elysia.js + Next.js + React Native Expo + Drizzle ORM
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
@@ -4901,7 +4898,6 @@
 - [dawg/dawg](https://github.com/dawg/dawg) - A DAW built using Electron and the Web Audio API
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
-- [rain-sk/synth.kitchen](https://github.com/rain-sk/synth.kitchen) - modular synth playground
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
 - [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database.
@@ -5010,7 +5006,7 @@
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
@@ -5264,7 +5260,7 @@
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [adamsoffer/next-apollo](https://github.com/adamsoffer/next-apollo) - React higher-order component for integrating Apollo Client with Next.js
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
 - [koolamusic/chakra-ui-autocomplete](https://github.com/koolamusic/chakra-ui-autocomplete) - An utility autocomplete UI library to use with Chakra UI
@@ -5327,7 +5323,7 @@
 - [echobind/bisonapp](https://github.com/echobind/bisonapp) - A Full Stack Jamstack in-a-box brought to you by Echobind
 - [nikolovlazar/v1.nikolovlazar.com](https://github.com/nikolovlazar/v1.nikolovlazar.com) - V1 of my personal site. If you're looking for v2: https://github.com/nikolovlazar/nikolovlazar.com
 - [AnishDe12020/devkit](https://github.com/AnishDe12020/devkit) - A simple PWA with all the tools a developer would ever need.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 14 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [hmu332233/q-link](https://github.com/hmu332233/q-link) - Q.Link | Hide your link behind a simple quiz.
 - [redbaron76/nextjs-api-routes-prisma-yup-chakra-ui](https://github.com/redbaron76/nextjs-api-routes-prisma-yup-chakra-ui) - An experimental full-stack React boilerplate involving Next.js API routes, react-query, Prisma 2, Yup and Chakra UI
@@ -5410,7 +5406,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [igornfaustino/nfaustino.com](https://github.com/igornfaustino/nfaustino.com) - my personal website
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [alanhe421/alfred-utils](https://github.com/alanhe421/alfred-utils) - Alfred Workflow SDK
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
@@ -5490,7 +5486,7 @@
 ## Vue 
 
 - [chihebnabil/claude-ui](https://github.com/chihebnabil/claude-ui) - A modern chat interface for Anthropic's Claude AI models built with Nuxt.js. Experience seamless conversations with Claude in a clean user interface.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Progressive full-stack framework for Web Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
 - [sigsep/open-unmix-demo-electron](https://github.com/sigsep/open-unmix-demo-electron) - desktop source separation demo player
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
