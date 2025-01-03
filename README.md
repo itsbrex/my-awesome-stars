@@ -1467,7 +1467,7 @@
 - [CrystallizeAPI/crystallize-cli](https://github.com/CrystallizeAPI/crystallize-cli) - Scaffold a Crystallize project via the command line
 - [55sketch/gsx2json](https://github.com/55sketch/gsx2json) - Google Spreadsheet to JSON API service.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [storyblok/nextjs-multilanguage-website](https://github.com/storyblok/nextjs-multilanguage-website) - Nextjs Multilanguage Website
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [lukeed/pwa](https://github.com/lukeed/pwa) - (WIP) Universal PWA Builder
@@ -1554,7 +1554,7 @@
 - [dappuniversity/portfolio_template](https://github.com/dappuniversity/portfolio_template) - 
 - [itsnitinr/vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio) - A VSCode themed developer portfolio built using Next.js
 - [quantilegroup/nextjs-landing-page](https://github.com/quantilegroup/nextjs-landing-page) - An open-source landing page built using React, NextJS, and the Material-UI design kit.
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2747,6 +2747,7 @@
 
 ## Python 
 
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
 - [SalesforceAIResearch/CRMArena](https://github.com/SalesforceAIResearch/CRMArena) - CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments
 - [RelevanceAI/relevanceai](https://github.com/RelevanceAI/relevanceai) - Home of the AI workforce - Multi-agent system, AI agents & tools
 - [Div99/agent-protocol](https://github.com/Div99/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
@@ -4220,7 +4221,7 @@
 - [openmediaco/lalalai](https://github.com/openmediaco/lalalai) - 
 - [thiskevinwang/dotfiles](https://github.com/thiskevinwang/dotfiles) - Sync all Dotfiles, Brew Binaries, Mac Apps, VSCode extensions with 1 command.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [lukdiekm/alfred-shortcuts](https://github.com/lukdiekm/alfred-shortcuts) - 
 - [Magisk-Modules-Alt-Repo/drc-remover](https://github.com/Magisk-Modules-Alt-Repo/drc-remover) - A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices
@@ -4702,7 +4703,7 @@
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [team-openpm/workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [MellKam/soundify](https://github.com/MellKam/soundify) - 🎧 Lightweight integration with the Spotify Web API for modern Javascript runtimes
 - [Fuzzy-Search/chat-with-page](https://github.com/Fuzzy-Search/chat-with-page) - Chrome extension to chat with page using local LLM (llama, mistral 7B, etc)
@@ -5406,7 +5407,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [igornfaustino/nfaustino.com](https://github.com/igornfaustino/nfaustino.com) - my personal website
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [alanhe421/alfred-utils](https://github.com/alanhe421/alfred-utils) - Alfred Workflow SDK
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
