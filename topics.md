@@ -247,7 +247,6 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
-- [ui-design](#ui-design)
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -315,7 +314,7 @@
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
 - [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -2543,7 +2542,7 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [CarcajadaArtificial/lunchbox](https://github.com/CarcajadaArtificial/lunchbox) - UI Library 🍱 for Deno 🦕 Fresh 🍋
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -5440,7 +5439,7 @@
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [rossrobino/gpt](https://github.com/rossrobino/gpt) - Zero Client-Side JavaScript GPT Wrapper
+- [rossrobino/gpt](https://github.com/rossrobino/gpt) - Progressively Enhanced GPT Wrapper
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [Anil-matcha/Notion-to-Chatbot](https://github.com/Anil-matcha/Notion-to-Chatbot) - Chat with any Notion document.   Easily input the document content you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
 - [RoboCoachTechnologies/GPT-Synthesizer](https://github.com/RoboCoachTechnologies/GPT-Synthesizer) - Software design & development with AI
@@ -5558,7 +5557,7 @@
 ## others 
 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code editor for shadcn/ui components
+- [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [shinzo-labs/heimdall](https://github.com/shinzo-labs/heimdall) - Control the tools your MCP-enabled agents can access with minimal overhead.
 - [AgentOps-AI/agents-sdk-examples](https://github.com/AgentOps-AI/agents-sdk-examples) - A collection of agents built using Agents SDK - ready to use!
 - [trolex213/scraper](https://github.com/trolex213/scraper) - 
@@ -8545,7 +8544,7 @@
 - [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping) - A cloudflare verification bypass script for webscraping
 - [awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
@@ -10634,11 +10633,6 @@
 
 - [berndporr/iir1](https://github.com/berndporr/iir1) - DSP IIR realtime filter library written in C++
 - [pkill37/fix-spotify-icon](https://github.com/pkill37/fix-spotify-icon) - :musical_note: Shell script to fix the Spotify icon in Ubuntu.
-
-## ui-design 
-
-- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## unity 
 
