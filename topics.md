@@ -4842,7 +4842,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ Relivator: Next.js 15 React 19 eCommerce Template ▲ Better-Auth Polar Shadcn/UI Tailwind Drizzle ORM TypeScript TS Radix, Postgres Neon, App Router SaaS Commerce eCommerce Shop Pricing Payments Dark
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 🏬 Relivator: Next.js 15 React 19 eCommerce Template ▲ Better-Auth Polar Shadcn/UI Tailwind Drizzle ORM TypeScript TS Radix, Postgres Neon, App Router SaaS Commerce eCommerce Shop Pricing Payments Dark
 - [reliverse/cli](https://github.com/reliverse/cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -9247,7 +9247,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [clerk/clerk-firebase-starter](https://github.com/clerk/clerk-firebase-starter) - Official guide on how to use Clerk.dev with Firebase
 - [netlify-templates/kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
-- [jkcorrea/remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
+- [jaykaycodes/remix-chop-suey-stack](https://github.com/jaykaycodes/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
 - [Mergifyio/react-crisp](https://github.com/Mergifyio/react-crisp) - React implementation for Crisp
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
 - [francisconeves97/react-google-forms-hooks](https://github.com/francisconeves97/react-google-forms-hooks) - Build a UI for your Google Forms using React.
@@ -10104,7 +10104,7 @@
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
 - [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [netlify-templates/kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
-- [jkcorrea/remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
+- [jaykaycodes/remix-chop-suey-stack](https://github.com/jaykaycodes/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
 - [koji/react_with_TailwindCSS](https://github.com/koji/react_with_TailwindCSS) - reactjs with Tailwind CSS
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
 - [one-aalam/ng-starter-kit](https://github.com/one-aalam/ng-starter-kit) - Angular with Supabase, and other bells and whistles
