@@ -4952,7 +4952,7 @@
 - [rossrobino/blog](https://github.com/rossrobino/blog) - My blog
 - [rossrobino/robino.dev](https://github.com/rossrobino/robino.dev) - Personal website
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ Relivator: Next.js 15 React 19 eCommerce Template ▲ Better-Auth Polar Shadcn/UI Tailwind Drizzle ORM TypeScript TS Radix, Postgres Neon, App Router SaaS Commerce eCommerce Shop Pricing Payments Dark
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 🏬 Relivator: Next.js 15 React 19 eCommerce Template ▲ Better-Auth Polar Shadcn/UI Tailwind Drizzle ORM TypeScript TS Radix, Postgres Neon, App Router SaaS Commerce eCommerce Shop Pricing Payments Dark
 - [reliverse/cli](https://github.com/reliverse/cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -5497,7 +5497,7 @@
 - [jnoahjohnson/remix-redis-form](https://github.com/jnoahjohnson/remix-redis-form) - Multi-page form using Remix and Redis.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [netlify-templates/kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
-- [jkcorrea/remix-chop-suey-stack](https://github.com/jkcorrea/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
+- [jaykaycodes/remix-chop-suey-stack](https://github.com/jaykaycodes/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
 - [datduyng/scriptbar-snippets](https://github.com/datduyng/scriptbar-snippets) - Useful snippets for your chrome/firefox browsers
 - [rishiosaur/perfect-next](https://github.com/rishiosaur/perfect-next) - 🌁 A perfect Next.js starter kit.
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
