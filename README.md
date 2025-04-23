@@ -251,7 +251,7 @@
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-15.0.1 [April 2025]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-16.0.0 [April 2025]
 - [rorywalsh/cabbage](https://github.com/rorywalsh/cabbage) - Framework for developing audio plugins with the Csound programming language.
 - [yeeking/ai-enhanced-audio-book](https://github.com/yeeking/ai-enhanced-audio-book) - A repository of AI-enhanced audio plugins written using C++, JUCE, libtorch, RTNeural and other libraries. Supports my book
 - [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A swift and unified toolkit for symbolic music processing
@@ -868,7 +868,6 @@
 - [pat-richardson/spotify_playlist_builder](https://github.com/pat-richardson/spotify_playlist_builder) - Add list of artists to auto-pull their top tracks and add to playlist
 - [WestonThayer/portfolio](https://github.com/WestonThayer/portfolio) - Personal portfolio site
 - [gobijan/maverix](https://github.com/gobijan/maverix) - Maverix Bootstrap Theme and AngularJS Boilerplate
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions) - Help the front End community to rock interview
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [scotch-io/scotch-panels](https://github.com/scotch-io/scotch-panels) - jQuery Off Canvas Menus and Panels Plugin
@@ -1886,6 +1885,7 @@
 - [jscs-dev/node-jscs](https://github.com/jscs-dev/node-jscs) - :arrow_heading_up: JavaScript Code Style checker (unmaintained)
 - [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 - [jhollingworth/bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [jschr/bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 - [NeXTs/Jets.js](https://github.com/NeXTs/Jets.js) - Native CSS search engine
@@ -2669,7 +2669,7 @@
 - [unforswearing/alfred-workflows](https://github.com/unforswearing/alfred-workflows) - applescript based Alfred workflows
 - [pfawcett23/ssbM4LDevices](https://github.com/pfawcett23/ssbM4LDevices) - Ableton Max4Live Devices
 - [riteshsanap/Hide-Desktop-Icons-Mac](https://github.com/riteshsanap/Hide-Desktop-Icons-Mac) - An alfred Workflow
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [mariuszostrowski/sketchexporter](https://github.com/mariuszostrowski/sketchexporter) - OS X Automator workflow for exporting assets from .sketch files
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [stephenway/sketch-foundation-kit](https://github.com/stephenway/sketch-foundation-kit) - :gem: The Foundation for Sites template for Sketch 3.
@@ -2786,6 +2786,7 @@
 
 ## Python 
 
+- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [AgentOps-AI/agents-sdk-examples](https://github.com/AgentOps-AI/agents-sdk-examples) - A collection of agents built using Agents SDK - ready to use!
 - [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 - [trolex213/scraper](https://github.com/trolex213/scraper) - 
@@ -2813,7 +2814,7 @@
 - [biglocalnews/civic-scraper](https://github.com/biglocalnews/civic-scraper) - Tools for downloading agendas, minutes and other documents produced by local government
 - [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTu
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
-- [peakmojo/mcp-hubspot](https://github.com/peakmojo/mcp-hubspot) - An MCP server implementation that seamlessly connects Claude and other AI models to HubSpot CRM data. Provides tools for managing contacts, companies, and engagement activities through standardized in
+- [peakmojo/mcp-hubspot](https://github.com/peakmojo/mcp-hubspot) - A Model Context Protocol (MCP) server that enables AI assistants to interact with HubSpot CRM data, providing built-in vector storage and caching mechanisms help overcome HubSpot API limitations while
 - [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Conversion of PDF documents to structured Markdown, optimized for Retrieval Augmented Generation (RAG) and other NLP tasks. Extract text, tables, and images with preserved formatting for enhanced info
 - [vishwajeetdabholkar/eGet-Crawler-for-ai](https://github.com/vishwajeetdabholkar/eGet-Crawler-for-ai) - Web scraping framework built for AI applications. Extract clean, structured content from any website with dynamic content handling, markdown conversion, and intelligent crawling capabilities. Perfect 
 - [timf34/JSONDetective](https://github.com/timf34/JSONDetective) - Instantly understand and summarize JSON structure through automatic schema inference via a Python CLI
@@ -3656,7 +3657,7 @@
 - [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
 - [chrisdonahue/nesmdb](https://github.com/chrisdonahue/nesmdb) - The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [rhohndorf/Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [coreylowman/rl_simply](https://github.com/coreylowman/rl_simply) - Simple pytorch implementations of RL algorithms
@@ -5044,7 +5045,7 @@
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
 - [d-fi/d-fi-core](https://github.com/d-fi/d-fi-core) - Core module for d-fi
 - [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database.
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [hugofabricio/moises](https://github.com/hugofabricio/moises) - Moises Website
 - [itsbrex/markprompt](https://github.com/itsbrex/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
