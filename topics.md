@@ -237,6 +237,7 @@
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -280,6 +281,7 @@
 
 ## ai 
 
+- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
 - [rexdotsh/claudesync-vscode](https://github.com/rexdotsh/claudesync-vscode) - VSCode Extension to sync your code with Claude.ai Projects.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -1970,7 +1972,7 @@
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [DO-SAY-GO/sirdb](https://github.com/DO-SAY-GO/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [toaco/carry](https://github.com/toaco/carry) - Python ETL(Extract-Transform-Load) tool / Data migration tool
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
@@ -2162,7 +2164,7 @@
 - [skymethod/kv-connect-kit](https://github.com/skymethod/kv-connect-kit) - Minimal Typescript client implementing the KV Connect protocol. Access Deno KV remotely from any Javascript environment like Node, Cloudflare Workers, Bun, Deno, and the browser.
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [lucacasonato/wgpu_cts_runner](https://github.com/lucacasonato/wgpu_cts_runner) - A minimal JS runtime built on Deno (deno_core / extensions) that can be used to test WebGPU CTS outside of full Deno.
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [whomwah/alfred-vscode-workflow](https://github.com/whomwah/alfred-vscode-workflow) - Searches for `.git` repos in a path of your choice and allows you to open them in VSCode.
 - [whomwah/alfred-github-workflow](https://github.com/whomwah/alfred-github-workflow) - An Alfred 5 workflow for working with Github. Uses Deno, written in TypeScript
@@ -4324,7 +4326,7 @@
 - [soffes/Countdown](https://github.com/soffes/Countdown) - Mac screensaver for counting down to a date
 - [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -4686,7 +4688,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ibrahimhozhun/prisma-nextjs](https://github.com/ibrahimhozhun/prisma-nextjs) - Website created with Next.js, NextUI library & Prisma ORM
@@ -5188,7 +5190,7 @@
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [bepitulaz/generative-music](https://github.com/bepitulaz/generative-music) - The code from my single: A New Life
 - [kabirjaipal/JUGNU-MUSIC](https://github.com/kabirjaipal/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [feross/bitmidi.com](https://github.com/feross/bitmidi.com) - 🎹 Listen to free MIDI songs, download the best MIDI files, and share the best MIDIs on the web
 - [scribbletune/scribbletune](https://github.com/scribbletune/scribbletune) - Create music with JavaScript
@@ -6809,7 +6811,6 @@
 - [SerRat44/DIDMusicEngine](https://github.com/SerRat44/DIDMusicEngine) - The audio engine and music generator for DID, coded entirely using chatGPT without using external libraries or websites.
 - [MartinDeadly/Music-Maker](https://github.com/MartinDeadly/Music-Maker) - ChatGPT is working with me to generate midi files
 - [simplifiedkd/ChatGPT4MusicVisualizer](https://github.com/simplifiedkd/ChatGPT4MusicVisualizer) - 
-- [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a web service for automate accounting by listening, parsing and storage
 - [icai/quill-chatgpt](https://github.com/icai/quill-chatgpt) - A Quill chatgpt module which like notion
 - [iuzn/chatgpt-notion-clipper](https://github.com/iuzn/chatgpt-notion-clipper) - With chatgpt-notion-clipper, you can easily add your chatgpt conversations to a Notion page.
 - [Praytic/chatgpt-notion-auto-tagging](https://github.com/Praytic/chatgpt-notion-auto-tagging) - Notion & ChatGPT integration to auto-tag and categorise web pages
@@ -8426,7 +8427,7 @@
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [yaseenmustapha/nextjs14-app](https://github.com/yaseenmustapha/nextjs14-app) - Full-stack Next.js 14 application. Uses React 18 client & server components, TypeScript, Prisma ORM, Railway PostgreSQL database, NextAuth.js OAuth 2.0 authentication, OpenAI API GPT-3.5-Turbo, and St
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -8459,7 +8460,7 @@
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution) - ISP Data Pollution to Protect Private Browsing History with Obfuscation
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
@@ -9609,7 +9610,7 @@
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## security-tools 
@@ -9777,7 +9778,7 @@
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [DataJuggler/DataTier.Net](https://github.com/DataJuggler/DataTier.Net) - DataTier.Net is an Entity Framework alternative that makes it simple to create stored procedure powered data tiers.
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
@@ -9799,7 +9800,7 @@
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [cdbrw/htmx-bun-hono](https://github.com/cdbrw/htmx-bun-hono) - A small ToDo application built using HTMX, Bun, Hono, Drizzle ORM and more!
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [niklaskorz/whatsapp-viewer](https://github.com/niklaskorz/whatsapp-viewer) - A web interface and GraphQL API for your local unencrypted WhatsApp backup.
@@ -10137,6 +10138,14 @@
 - [Tkd-Alex/Telegram-InstaPy-Scheduling](https://github.com/Tkd-Alex/Telegram-InstaPy-Scheduling) - A Telegram bot for scheduling InstaPy
 - [requilence/integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
 
+## telegram-bot 
+
+- [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a web service for automate accounting by listening, parsing and storage
+- [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+- [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
+- [requilence/integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
+
 ## tensorflow 
 
 - [markusaksli/ai-music](https://github.com/markusaksli/ai-music) - A vanilla Trasformer Decoder music generation model trained on Final Fantasy OST MIDI songs
@@ -10246,6 +10255,7 @@
 
 ## text-to-speech 
 
+- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [lobehub/lobe-tts](https://github.com/lobehub/lobe-tts) - 🎤 Lobe TTS - A high-quality & reliable TTS/STT library for Server and Browser
 - [elevenlabs/elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
@@ -10437,7 +10447,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Uriopass/Musidex](https://github.com/Uriopass/Musidex) - Your AI powered musical pokedex, Plex for music
 - [SonyCSLParis/music-inpainting-ts](https://github.com/SonyCSLParis/music-inpainting-ts) - A collection of web interfaces for AI-assisted interactive music creation
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [featuredotapp/cli](https://github.com/featuredotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
