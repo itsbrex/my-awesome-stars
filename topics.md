@@ -249,6 +249,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -282,10 +283,11 @@
 
 ## ai 
 
+- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - 
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [rexdotsh/claudesync-vscode](https://github.com/rexdotsh/claudesync-vscode) - VSCode Extension to sync your code with Claude.ai Projects.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -774,6 +776,7 @@
 
 ## automation 
 
+- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -1559,6 +1562,7 @@
 
 ## cli 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [yohasebe/code-packager](https://github.com/yohasebe/code-packager) - 📦 A set of bash scripts that package and unpack your codebase into and from a single JSON file, ready to be analyzed and understood by large language models (LLMs) like GPT, Claude, Command R, and Gem
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1592,7 +1596,7 @@
 - [B0ney/xmodits-cli](https://github.com/B0ney/xmodits-cli) - Command line version of xmodits - A tool to rip samples from tracker modules.
 - [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - A universal converter for singing voice projects which is cross-platform and multi-lingual
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [bombshell-dev/args](https://github.com/bombshell-dev/args) - &lt;1kB CLI flag parser
@@ -2544,6 +2548,7 @@
 
 ## framework 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [yohasebe/monadic-chat](https://github.com/yohasebe/monadic-chat) - 🤖 + 🐳 + 🐧 Monadic Chat is a locally hosted web application designed to create and utilize intelligent chatbots. By providing a Linux environment on Docker to GPT and other LLMs, it enables code execut
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
@@ -3856,6 +3861,8 @@
 
 ## llm 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [jatingarg619/saas-builder](https://github.com/jatingarg619/saas-builder) - AI-native SaaS framework that builds full-stack apps using autonomous AI agents
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - 
 - [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
@@ -4065,6 +4072,7 @@
 
 ## machine-learning 
 
+- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [markusaksli/ai-music](https://github.com/markusaksli/ai-music) - A vanilla Trasformer Decoder music generation model trained on Final Fantasy OST MIDI songs
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -4786,6 +4794,7 @@
 
 ## nextjs 
 
+- [jatingarg619/saas-builder](https://github.com/jatingarg619/saas-builder) - AI-native SaaS framework that builds full-stack apps using autonomous AI agents
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [w3labkr/nextjs14-supabase-blog](https://github.com/w3labkr/nextjs14-supabase-blog) - This is a dashboard starter template for the NextJS 14 app router using supabase based on shadcn-ui.
@@ -4852,7 +4861,7 @@
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 🏬 Relivator: Next.js 15 React 19 eCommerce Template ▲ Better-Auth Polar Shadcn/UI Tailwind Drizzle ORM TypeScript TS Radix, Postgres Neon, App Router SaaS Commerce eCommerce Shop Pricing Payments Dark
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
@@ -5395,10 +5404,12 @@
 
 ## openai 
 
+- [jatingarg619/saas-builder](https://github.com/jatingarg619/saas-builder) - AI-native SaaS framework that builds full-stack apps using autonomous AI agents
+- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - 
 - [yohasebe/monadic-chat](https://github.com/yohasebe/monadic-chat) - 🤖 + 🐳 + 🐧 Monadic Chat is a locally hosted web application designed to create and utilize intelligent chatbots. By providing a Linux environment on Docker to GPT and other LLMs, it enables code execut
 - [yohasebe/whisper-stream](https://github.com/yohasebe/whisper-stream) - A bash script using OpenAI Whisper API for continuous audio transcription with automatic silence detection
-- [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+- [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [awslabs/multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -5570,11 +5581,13 @@
 
 ## others 
 
+- [sevagh/pq](https://github.com/sevagh/pq) - a command-line Protobuf parser with Kafka support and JSON output
+- [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
+- [use-strict/7z-wasm](https://github.com/use-strict/7z-wasm) - 7-Zip for JavaScript environments, compiled to WASM
 - [JasperHG90/uv-monorepo](https://github.com/JasperHG90/uv-monorepo) - Example of a monorepo setup for python projects using uv
 - [pkMinhas/DrumKitCreator](https://github.com/pkMinhas/DrumKitCreator) - Convert MPC expansions into Ableton Drum Racks
 - [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [shinzo-labs/heimdall](https://github.com/shinzo-labs/heimdall) - Control the tools your MCP-enabled agents can access with minimal overhead.
 - [AgentOps-AI/agents-sdk-examples](https://github.com/AgentOps-AI/agents-sdk-examples) - A collection of agents built using Agents SDK - ready to use!
 - [trolex213/scraper](https://github.com/trolex213/scraper) - 
@@ -6119,11 +6132,11 @@
 - [GiantSteps/drum-pattern-datasets](https://github.com/GiantSteps/drum-pattern-datasets) - This repository holds datasets of polyphonic drum patterns used in the creation of Electronic Dance Music.
 - [GiantSteps/simple-song-maker](https://github.com/GiantSteps/simple-song-maker) - (pop song generator in pd)
 - [Skuldur/Classical-Piano-Composer](https://github.com/Skuldur/Classical-Piano-Composer) - 
-- [zelaki/DreamSound](https://github.com/zelaki/DreamSound) - Code for Investigating Personalization Methods in Text to Music Generation
+- [zelaki/DreamSound](https://github.com/zelaki/DreamSound) - [ICASSP'24]  Investigating Personalization Methods in Text to Music Generation
 - [hf-lin/ChatMusician](https://github.com/hf-lin/ChatMusician) - 
 - [shuntaka9576/pages-adoc-with-swagger](https://github.com/shuntaka9576/pages-adoc-with-swagger) - 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [alajmo/dashgrid](https://github.com/alajmo/dashgrid) - :honeybee: A pure javascript high performance grid
@@ -6248,7 +6261,7 @@
 - [ShelbyJenkins/LLM-OpenAPI-minifier](https://github.com/ShelbyJenkins/LLM-OpenAPI-minifier) - Making openapi spec swagger documents friendly for GPT and other LLMs.
 - [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst) - GPT-Analyst: A GPT for GPT analysis and reverse engineering
-- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
+- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable agent framework built on top of OpenAI Assistants API. (Responses API soon)
 - [Fuzzy-Search/chat-with-page](https://github.com/Fuzzy-Search/chat-with-page) - Chrome extension to chat with page using local LLM (llama, mistral 7B, etc)
 - [coolvision/autolicious](https://github.com/coolvision/autolicious) - 
 - [yusukebe/service-worker-magic](https://github.com/yusukebe/service-worker-magic) - Server and Browser code are really the same. It's magic.
@@ -8464,7 +8477,7 @@
 
 ## privacy 
 
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
@@ -8539,6 +8552,8 @@
 
 ## python 
 
+- [jatingarg619/saas-builder](https://github.com/jatingarg619/saas-builder) - AI-native SaaS framework that builds full-stack apps using autonomous AI agents
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 - [markusaksli/ai-music](https://github.com/markusaksli/ai-music) - A vanilla Trasformer Decoder music generation model trained on Final Fantasy OST MIDI songs
 - [cagostino/npcpy](https://github.com/cagostino/npcpy) - The AI toolkit for the AI developer
@@ -9106,7 +9121,7 @@
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -9305,7 +9320,7 @@
 - [mohitk05/react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [scraggo/Random-Music-Generators](https://github.com/scraggo/Random-Music-Generators) - Random chord, melody, and rhythm generators with MIDI output
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [oliver-gomes/csswand](https://github.com/oliver-gomes/csswand) - 🎨✨ Hover your wand and use your magic spell to copy beautiful css
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
@@ -9607,7 +9622,7 @@
 
 ## security 
 
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -9997,6 +10012,7 @@
 
 ## tailwindcss 
 
+- [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [syncinsect/tifoo](https://github.com/syncinsect/tifoo) - An effortless tailwind devtools extension for Chrome🧩
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - 🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc
@@ -10043,7 +10059,7 @@
 - [naresh5033/AI-SaaS-nextjs](https://github.com/naresh5033/AI-SaaS-nextjs) - This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe integration
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
@@ -10209,6 +10225,7 @@
 
 ## terminal 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for CI, terminals and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [patrik-csak/auto-terminal-profile](https://github.com/patrik-csak/auto-terminal-profile) - 🧑‍💻 Automatic dark / light mode for macOS Terminal
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
@@ -10644,7 +10661,7 @@
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [mohitk05/react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [seth-brown/formd](https://github.com/seth-brown/formd) - A Markdown formatting tool
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
@@ -10656,6 +10673,11 @@
 
 - [berndporr/iir1](https://github.com/berndporr/iir1) - DSP IIR realtime filter library written in C++
 - [pkill37/fix-spotify-icon](https://github.com/pkill37/fix-spotify-icon) - :musical_note: Shell script to fix the Spotify icon in Ubuntu.
+
+## ui-design 
+
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## unity 
 
@@ -10753,7 +10775,7 @@
 
 ## vuejs 
 
-- [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+- [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [shiehn/SignalsAndSorcery](https://github.com/shiehn/SignalsAndSorcery) - A VueJS, WebAudioApi powered audio sample arrangement tool.
 - [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
