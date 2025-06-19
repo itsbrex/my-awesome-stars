@@ -960,6 +960,7 @@
 - [aicombinator/bot](https://github.com/aicombinator/bot) - GPT-powered bot that can automate complex online tasks using both the web browser and API calls.
 - [MassProspecting/intercept](https://github.com/MassProspecting/intercept) - Intercept AJAX / XHR calls to extract information / scraping.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [antfu/userscript-open-in-codeflow](https://github.com/antfu/userscript-open-in-codeflow) - Add a button to open the repo/issue/PR in Codeflow in GitHub
 - [nubelaco/proxycurl-js-linkedin-profile-scraper](https://github.com/nubelaco/proxycurl-js-linkedin-profile-scraper) - Proxycurl is a data enrichment API that pulls fresh and accurate B2B data of people and companies, legally, at scale.
@@ -1308,7 +1309,7 @@
 - [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
@@ -1968,6 +1969,7 @@
 - [rev087/ng-inspector](https://github.com/rev087/ng-inspector) - The AngularJS inspector pane for your browser
 - [jimschubert/NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect) - NewTab Redirect! is an extension for Google Chrome which allows the user to replace the page displayed when creating a new tab.
 - [solygen/userscripts](https://github.com/solygen/userscripts) - ...my personalized web
+- [kylegilman/video-embed-thumbnail-generator](https://github.com/kylegilman/video-embed-thumbnail-generator) - A WordPress plugin that generates thumbnails, HTML5-compliant videos, and embed codes for locally hosted videos. Requires FFMPEG or LIBAV for encoding.
 
 ## Jinja 
 
@@ -2244,6 +2246,7 @@
 ## Nix 
 
 - [nickdobos/PromptGrimoire](https://github.com/nickdobos/PromptGrimoire) - 
+- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 
 ## OCaml 
 
@@ -2471,7 +2474,6 @@
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
 - [cooperka/emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages) - 🌵 A fun paradigm to encourage cleaner commits.
 - [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
-- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 - [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 - [skibumstevo/FileNameShortener-AppleScript](https://github.com/skibumstevo/FileNameShortener-AppleScript) - Intelligently shortens filenames exceeding 143 characters in length (Synology exFAT eCryptfs safe)
@@ -2511,7 +2513,7 @@
 - [DevGuyRash/rashino-prompts](https://github.com/DevGuyRash/rashino-prompts) - 
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 - [tabdeck/tabdeck.so](https://github.com/tabdeck/tabdeck.so) - This repo just to collect user feedback.
@@ -2675,6 +2677,7 @@
 - [planetjekyll/awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 - [planetjekyll/quickrefs](https://github.com/planetjekyll/quickrefs) - Jekyll Quick References (Cheat Sheets) 'n' F.A.Q.s
 - [kopischke/alfred-workflows](https://github.com/kopischke/alfred-workflows) - Collected  workflows for Alfred 2.
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [unforswearing/alfred-workflows](https://github.com/unforswearing/alfred-workflows) - applescript based Alfred workflows
 - [pfawcett23/ssbM4LDevices](https://github.com/pfawcett23/ssbM4LDevices) - Ableton Max4Live Devices
 - [riteshsanap/Hide-Desktop-Icons-Mac](https://github.com/riteshsanap/Hide-Desktop-Icons-Mac) - An alfred Workflow
@@ -2780,7 +2783,6 @@
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [tylerhall/HomeAway](https://github.com/tylerhall/HomeAway) - A collection of PHP scripts I use for controlling my house via GeoHooks.io
 - [wealthbot-io/wealthbot](https://github.com/wealthbot-io/wealthbot) - Use wealthbot.io to easily setup your own wealth management platform ⛺
-- [kylegilman/video-embed-thumbnail-generator](https://github.com/kylegilman/video-embed-thumbnail-generator) - A WordPress plugin that generates thumbnails, HTML5-compliant videos, and embed codes for locally hosted videos. Requires FFMPEG or LIBAV for encoding.
 
 ## Pascal 
 
@@ -2795,6 +2797,7 @@
 
 ## Python 
 
+- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  Open Source MCP integration for AI applications
 - [merge-api/merge-mcp](https://github.com/merge-api/merge-mcp) - 
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python SDK to Interact with Intelligent Code Generation Agents
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -2859,9 +2862,8 @@
 - [tigrisdata-community/skypilot-training-demo](https://github.com/tigrisdata-community/skypilot-training-demo) - Train with big data on any cloud
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
-- [SalesforceAIResearch/CRMArena](https://github.com/SalesforceAIResearch/CRMArena) - CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments
+- [SalesforceAIResearch/CRMArena](https://github.com/SalesforceAIResearch/CRMArena) - Official Repo for CRMArena and CRMArena-Pro
 - [RelevanceAI/relevanceai](https://github.com/RelevanceAI/relevanceai) - Home of the AI workforce - Multi-agent system, AI agents & tools
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Div99/agent-protocol](https://github.com/Div99/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [RoyalCities/RC-stable-audio-tools](https://github.com/RoyalCities/RC-stable-audio-tools) - Generative models for conditional audio generation
 - [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping) - A cloudflare verification bypass script for webscraping
@@ -3508,7 +3510,7 @@
 - [ekm507/mahdiO](https://github.com/ekm507/mahdiO) - Generate music and sound effects by python and mathematics (digital signal processing)
 - [nxbyte/PythonAudioEffects](https://github.com/nxbyte/PythonAudioEffects) - A Python library that can apply: darth vader, echo, radio, robotic, and ghost effects to audio samples.
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Useful for making audio ML models work well in the real world, not just in the lab.
-- [asteroid-team/torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.
+- [iver56/torch-audiomentations](https://github.com/iver56/torch-audiomentations) - Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.
 - [musikalkemist/audioDataAugmentationTutorial](https://github.com/musikalkemist/audioDataAugmentationTutorial) - Repository hosting code and slides of the Audio Data Augmentation series on The Sound of AI YT channel.
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
@@ -4000,7 +4002,7 @@
 - [hdavid/Launchpad95](https://github.com/hdavid/Launchpad95) - Improved Novation Launchpad scripts for Ableton Live
 - [gluon/AbletonLive9_RemoteScripts](https://github.com/gluon/AbletonLive9_RemoteScripts) - Unofficial repository for Ableton Live 9 MIDI Remote Scripts by Julien Bayle
 - [joshwertheim/shazam2spotify](https://github.com/joshwertheim/shazam2spotify) - Plan: get saved tags from OSX Shazam app and automatically add them to a Spotify playlist.
-- [matachi/html-to-wordpress](https://github.com/matachi/html-to-wordpress) - Convert simple HTML pages and make WordPress pages of them
+- [DanOpcode/html-to-wordpress](https://github.com/DanOpcode/html-to-wordpress) - Convert simple HTML pages and make WordPress pages of them
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [Quirksmode/Custom-DJ-Template-for-APC-40-and-Ableton](https://github.com/Quirksmode/Custom-DJ-Template-for-APC-40-and-Ableton) - Quirksmode's custom DJ template for the APC-40 and Ableton coded using Python
@@ -4120,7 +4122,6 @@
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [shannachau/hypem-spotify-playlist](https://github.com/shannachau/hypem-spotify-playlist) - Script to add Hype Machine's popular playlist to Spotify playlist
 - [ctwise/alfred-workflows](https://github.com/ctwise/alfred-workflows) - 
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [rr1000/Time-Sensitive-Boilerplate](https://github.com/rr1000/Time-Sensitive-Boilerplate) - A middleman boilerplate
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
@@ -4551,7 +4552,7 @@
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [orca-team/vscode-tswagger](https://github.com/orca-team/vscode-tswagger) - A vscode extension used to convert Swagger to Typescript.
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
 - [rexdotsh/claudesync-vscode](https://github.com/rexdotsh/claudesync-vscode) - VSCode Extension to sync your code with Claude.ai Projects.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
@@ -4559,7 +4560,7 @@
 - [brandonkal/deno-lib](https://github.com/brandonkal/deno-lib) - A large collection of useful Typescript libraries for Deno
 - [resend/mcp-send-email](https://github.com/resend/mcp-send-email) - Send emails directly from Cursor with this email sending MCP server
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project
-- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - One stable, self-healing SDK to build and manage all your data pipelines. Comes with automated schema-drift detection, retries and remappings so your data keeps moving no matter what - no connector ma
+- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue automates workflows from natural language. Agents use it to build deterministic workflows across apps, APIs and databases. Humans use it to automate complex workflows with just one prompt.
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [MichiganTypeScript/typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) - A WebAssembly runtime implemented in TypeScript types
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
@@ -4645,7 +4646,7 @@
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [CarcajadaArtificial/lunchbox](https://github.com/CarcajadaArtificial/lunchbox) - UI Library 🍱 for Deno 🦕 Fresh 🍋
 - [codespin-ai/codespin-chrome-extension](https://github.com/codespin-ai/codespin-chrome-extension) - CodeSpin.AI Chrome Plugin
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
 - [thorwebdev/webcam-audio-description-ai](https://github.com/thorwebdev/webcam-audio-description-ai) - Capture webcam via browser, generate text descriptions with Google Gemini, generate speech with ElevenLabs
 - [RhysSullivan/tenant-kit](https://github.com/RhysSullivan/tenant-kit) - A collection of documentation, components, and resources for building multi-tenant applications.
 - [virattt/financial-agent-ui](https://github.com/virattt/financial-agent-ui) - Financial agent + generative UI
@@ -4768,6 +4769,7 @@
 - [nicoalbanese/ai-sdk-fundamentals](https://github.com/nicoalbanese/ai-sdk-fundamentals) - 
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service (WebUI & WebDAV) using CloudFlare R2
+- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
 - [j3lte/govee-lan-controller](https://github.com/j3lte/govee-lan-controller) - Control your Govee lights
 - [tchowd/proposal-generator](https://github.com/tchowd/proposal-generator) - 
 - [noook/spotify-client](https://github.com/noook/spotify-client) - A fully-typed client for Spotify API, compatible in a browser and node.
@@ -4909,7 +4911,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [qcz/vscode-text-power-tools](https://github.com/qcz/vscode-text-power-tools) - Text Power Tools extension for VS Code
 - [Erisa/multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings
@@ -5500,7 +5502,7 @@
 - [jellydn/next-app-starter](https://github.com/jellydn/next-app-starter) - Another awesome starter for your app base on nextjs + tailwind + react-query + zod + react-hook-form + next-auth +  jotai
 - [okisdev/Notion-Blog-React](https://github.com/okisdev/Notion-Blog-React) - A Notion Blog powered by Next.js
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [mzaien/remix-nextui-cf](https://github.com/mzaien/remix-nextui-cf) - Remix and Next-ui starter deployed on cloudflare pages
 - [jacob-ebey/remix-pwa](https://github.com/jacob-ebey/remix-pwa) - A template to get a Remix PWA up and running
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
@@ -5676,7 +5678,6 @@
 ## Vue 
 
 - [chihebnabil/claude-ui](https://github.com/chihebnabil/claude-ui) - A modern chat interface for Anthropic's Claude AI models built with Nuxt.js. Experience seamless conversations with Claude in a clean user interface.
-- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
 - [sigsep/open-unmix-demo-electron](https://github.com/sigsep/open-unmix-demo-electron) - desktop source separation demo player
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Cross-platform ChatGPTBox, supporting GPT/ DALL-E/Gemini API.
