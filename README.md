@@ -2366,7 +2366,7 @@
 - [agenticsorg/.github](https://github.com/agenticsorg/.github) - The Agentics Foundation is a vibrant community dedicated to innovation and collaboration in the field of human-AI integration.
 - [showlab/Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) - 💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
-- [para-droid-ai/scratchpad](https://github.com/para-droid-ai/scratchpad) - This framework works as a form of "user/machine" calibration, with a focus on user-context and user-intent. The "power" is in seeing your ideas broken down logically from A to B to Z.
+- [para-droid-ai/scratchpad](https://github.com/para-droid-ai/scratchpad) - This framework works as a form of user/machine calibration, with a focus on user-context and user-intent, deconstructing your ideas logically from A to B to Z.
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [2-fly-4-ai/V0-system-prompt](https://github.com/2-fly-4-ai/V0-system-prompt) - 
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
