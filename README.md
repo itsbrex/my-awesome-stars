@@ -51,6 +51,7 @@
 - [Mojo](#mojo)
 - [Mustache](#mustache)
 - [NewLisp](#newlisp)
+- [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -114,6 +115,7 @@
 - [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
+- [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 - [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
 
 ## Ballerina 
@@ -133,7 +135,6 @@
 
 ## C 
 
-- [samaaron/tau5](https://github.com/samaaron/tau5) - Code. Art. Together.
 - [dgslomin/divs-midi-utilities](https://github.com/dgslomin/divs-midi-utilities) - Div's MIDI Utilities
 - [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output
 - [andrewrk/libgroove](https://github.com/andrewrk/libgroove) - streaming audio processing library
@@ -245,11 +246,12 @@
 - [jackvincentnz/Itunes-Helper](https://github.com/jackvincentnz/Itunes-Helper) - Console Application for syncing folder structure into iTunes playlists
 - [BrianMulholland/itunes-artwork-export](https://github.com/BrianMulholland/itunes-artwork-export) - Iterates through your iTunes library, and exports the cover art for each album to a "folder.jpg" file - which is useful for Sonos or similar systems.
 - [pihalve/playlist-converter](https://github.com/pihalve/playlist-converter) - Converts iTunes playlists to Spotify playlists
-- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
+- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 
 ## C++ 
 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- [samaaron/tau5](https://github.com/samaaron/tau5) - Code. Art. Together.
 - [jameshball/osci-render](https://github.com/jameshball/osci-render) - 〰📺🔊 Synthesiser audio plugin for making music by drawing objects on an oscilloscope using audio.
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [adelamodwala/jist](https://github.com/adelamodwala/jist) - Search a JSON path and get the value fast
@@ -932,7 +934,6 @@
 - [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [tunecrew/apc40-mode](https://github.com/tunecrew/apc40-mode) - A utility to switch firmware modes on the Akai APC40
-- [socioboard/t-board](https://github.com/socioboard/t-board) - t-board is a multiple twitter account management app, it helps you to login to multiple twitter accounts from your   iOS or Android device and do various twitter activities like tweeting, re-tweeting,
 - [brianmarey/TwitterAutomation](https://github.com/brianmarey/TwitterAutomation) - 
 - [sammyrulez/beatport-api](https://github.com/sammyrulez/beatport-api) - Java client library for beatport.com api
 - [jasonwaters/SetListApp](https://github.com/jasonwaters/SetListApp) - A Java app that fetches setlists from setlist.fm and generates an iTunes playlist to match it.
@@ -960,7 +961,7 @@
 - [use-strict/7z-wasm](https://github.com/use-strict/7z-wasm) - 7-Zip for JavaScript environments, compiled to WASM
 - [shinzo-labs/heimdall](https://github.com/shinzo-labs/heimdall) - Control the tools your MCP-enabled agents can access with minimal overhead.
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
-- [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [modelcontextprotocol/create-typescript-server](https://github.com/modelcontextprotocol/create-typescript-server) - CLI tool to create a new TypeScript MCP server
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
@@ -1110,7 +1111,7 @@
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [widget-/spotify-auto-playlist](https://github.com/widget-/spotify-auto-playlist) - Automatically add any new songs from a list of artists to a given playlist.
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
-- [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
+- [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [mirableio/chat-history](https://github.com/mirableio/chat-history) - ChatGPT history exploration
 - [FedericoDiMarzo/GravityDrumMachine](https://github.com/FedericoDiMarzo/GravityDrumMachine) - A web application developed in Javascript,  that implements a polyrhythmic drum machine, based on the Web Audio Api. It provides a physical based sound generation system that lets the user play with g
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
@@ -1630,6 +1631,7 @@
 - [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - My Alfred Workflows
 - [marcomatutehn/nextjs-podcast-player](https://github.com/marcomatutehn/nextjs-podcast-player) - Podcast player made it with React.Js and Next.Js
 - [hygraph/nextjs-graphcms-podcast-starter](https://github.com/hygraph/nextjs-graphcms-podcast-starter) - Starter project built with GraphCMS, NextJS, and Twilio SendGrid.
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [teamxenox/storybook-with-next-and-tailwind](https://github.com/teamxenox/storybook-with-next-and-tailwind) - 
 - [btahir/notion-capture](https://github.com/btahir/notion-capture) - Email capture page using Notion API
 - [thomasledoux1/notion-blog](https://github.com/thomasledoux1/notion-blog) - 
@@ -1861,6 +1863,7 @@
 - [stagas/node-beatport](https://github.com/stagas/node-beatport) - Beatport API client for Node.js
 - [MixInKey/MixInKey](https://github.com/MixInKey/MixInKey) - [EPITECH] Team project using Laravel5, AngularJS & BeatPort API
 - [kogg/instant-logos](https://github.com/kogg/instant-logos) - All the logos of instantlogosearch.com
+- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [gillesdemey/Cumulus](https://github.com/gillesdemey/Cumulus) - ☁️  A SoundCloud player that lives in your menubar.
 - [asm-products/octobox](https://github.com/asm-products/octobox) - Octobox helps people collect links, images and notes using Dropbox.
 - [christophior/yfitops](https://github.com/christophior/yfitops) - Small app to download Spotify tracks and playlists
@@ -2005,6 +2008,7 @@
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
 - [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa) - Developer APIs to Accelerate LLM Projects
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) - 
 - [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
@@ -2117,13 +2121,13 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [bram-w/EDICT_public_release](https://github.com/bram-w/EDICT_public_release) - 
 - [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [magenta/magenta-demos](https://github.com/magenta/magenta-demos) - Demonstrations of Magenta Models
 - [xdevplatform/Twitter-API-to-Google-Sheets](https://github.com/xdevplatform/Twitter-API-to-Google-Sheets) - A code sample that allows you to send a payload from the Twitter API to Google Sheets.
 - [theianchan/base-image-scaler](https://github.com/theianchan/base-image-scaler) - SDRs put a lot of work into outbound messaging to capture the attention of prospects. What if they could... Not do that work?
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [ashenoy95/ml](https://github.com/ashenoy95/ml) - Machine Learning, Neural Nets, Deep Learning basics
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 
@@ -2259,6 +2263,10 @@
 ## NewLisp 
 
 - [robbiebarrat/Bach_AI](https://github.com/robbiebarrat/Bach_AI) - LSTM Neural Network that tries to write piano melodies similar to Bach's
+
+## Nim 
+
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 
 ## Nix 
 
@@ -2601,7 +2609,6 @@
 - [google-research/parti](https://github.com/google-research/parti) - 
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -2618,7 +2625,7 @@
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [dailydotdev/.github](https://github.com/dailydotdev/.github) - default organization docs
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
-- [redwoodjs/awesome-redwood](https://github.com/redwoodjs/awesome-redwood) - A community-driven collection of Redwood related plugins, config, themes, build scripts, tutorials, podcasts, and more.
+- [redwoodjs/awesome-redwood-graphql](https://github.com/redwoodjs/awesome-redwood-graphql) - A community-driven collection of Redwood related plugins, config, themes, build scripts, tutorials, podcasts, and more.
 - [msaaddev/open-source](https://github.com/msaaddev/open-source) - ⚡️ A comprehensive list of all the open-source work I have done over the years. Authored 20+ open-source software that includes automation tools, node packages, web applications, etc.
 - [alexchantastic/alfred-open-with-vscode-workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - Alfred 5 workflow for opening files or folders in Visual Studio Code
 - [dracula/ableton-live](https://github.com/dracula/ableton-live) - 🧛🏻‍♂️ Dark theme for Ableton Live 10
@@ -2647,7 +2654,7 @@
 - [scraggo/Random-Music-Generators](https://github.com/scraggo/Random-Music-Generators) - Random chord, melody, and rhythm generators with MIDI output
 - [ttsreadit/ttsreadit](https://github.com/ttsreadit/ttsreadit) - TTS Websites Reader Chrome extension
 - [cyrta/awesome-speech-enhancement](https://github.com/cyrta/awesome-speech-enhancement) - A curated list of awesome Speech Enhancement papers, libraries, datasets, and other resources.
-- [JimmyAppelt/Snaz](https://github.com/JimmyAppelt/Snaz) - Snaz
+- [JimmyAppelt/snaz](https://github.com/JimmyAppelt/snaz) - Snaz
 - [kasperskov/binaural_spat-v1.0](https://github.com/kasperskov/binaural_spat-v1.0) - Binaural spatialisation in Ableton Live using Spat5 library.
 - [Messinki/Chain-Per-Scene](https://github.com/Messinki/Chain-Per-Scene) - Max for Live device that automatically selects one chain depending on which scene has been selected (or triggered). There is an audio and midi version to support audio effect racks and instrument rack
 - [adzialocha/solo-link-m4l](https://github.com/adzialocha/solo-link-m4l) - Max / M4L object for OSC communication and direct control of Ableton Live
@@ -2823,7 +2830,7 @@
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) - 
 - [graphql-python/graphql-server](https://github.com/graphql-python/graphql-server) - This is the core package for using GraphQL in a custom server easily
 - [browser-use/cdp-use](https://github.com/browser-use/cdp-use) - 🩹Pure CDP but type-safe in Python
-- [danielmeppiel/awd-cli](https://github.com/danielmeppiel/awd-cli) - The NPM for AI-Native Development - with AWD you can build, package, share, and run Markdown-based agentic prompts and workflows across any LLM runtime.
+- [danielmeppiel/apm-cli](https://github.com/danielmeppiel/apm-cli) - Agent Primitives Manager - The package manager for AI-Native Development
 - [baryhuang/mcp-server-any-openapi](https://github.com/baryhuang/mcp-server-any-openapi) - A MCP server that enables Claude to discover and call any API endpoint through semantic search. Intelligently chunks OpenAPI specifications to handle large API documentation, with built-in request exe
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
@@ -2840,8 +2847,8 @@
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
-- [mendableai/mineru-api](https://github.com/mendableai/mineru-api) - 
-- [mendableai/mendable-py](https://github.com/mendableai/mendable-py) - Build Production Ready LLM Chat Apps in Minutes
+- [firecrawl/mineru-api](https://github.com/firecrawl/mineru-api) - 
+- [firecrawl/mendable-py](https://github.com/firecrawl/mendable-py) - Build Production Ready LLM Chat Apps in Minutes
 - [BexTuychiev/local-documentation-rag](https://github.com/BexTuychiev/local-documentation-rag) - Local RAG application with DeepSeek R1, Ollama and Streamlit.
 - [jatingargiitk/saas-builder](https://github.com/jatingargiitk/saas-builder) - AI-native SaaS framework that builds full-stack apps using autonomous AI agents
 - [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
@@ -2863,11 +2870,10 @@
 - [AlbertSuarez/searchly](https://github.com/AlbertSuarez/searchly) - 🎶 Song similarity search API based on lyrics
 - [dbeley/rymscraper](https://github.com/dbeley/rymscraper) - Python library to extract data from rateyourmusic.com.
 - [AstraBert/diRAGnosis](https://github.com/AstraBert/diRAGnosis) - Diagnose the performance of your RAG🩺
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
 - [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [Embedded-Nature/ollama-proxy](https://github.com/Embedded-Nature/ollama-proxy) - This intercepts Ollama-style API requests and transforms them into OpenAI-compatible requests for LM Studio.
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -2886,7 +2892,7 @@
 - [pipecat-ai/pipecat-flows](https://github.com/pipecat-ai/pipecat-flows) - Open source conversation framework and visual editor for structured Pipecat dialogues
 - [cloudguruab/modsysML](https://github.com/cloudguruab/modsysML) - Human reinforcement learning (RLHF) framework for AI models. Evaluate and compare LLM outputs, test quality, catch regressions and automate.
 - [tegridydev/auto-md](https://github.com/tegridydev/auto-md) - Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 - [outscraper/outscraper-python](https://github.com/outscraper/outscraper-python) - The library provides convenient access to the Outscraper API from applications written in the Python language. Allows using Outscraper's services from your code.
 - [kspviswa/pyOllaMx](https://github.com/kspviswa/pyOllaMx) - Your gateway to both Ollama & Apple MlX models
@@ -2903,7 +2909,7 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -2995,7 +3001,6 @@
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [light-and-ray/sd-webui-lama-cleaner-masked-content](https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content) - Use lama cleaner before inpainting inside stable-diffusion-webui
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [aws-samples/song-identification-on-aws](https://github.com/aws-samples/song-identification-on-aws) - A song fingerprinting example that works with streaming media and stored media files
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
@@ -3180,7 +3185,7 @@
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [gokayfem/ComfyUI_VLM_nodes](https://github.com/gokayfem/ComfyUI_VLM_nodes) - Custom ComfyUI nodes for Vision Language Models, Large Language Models, Image to Music, Text to Music, Consistent and Random Creative Prompt Generation
 - [Skuldur/Classical-Piano-Composer](https://github.com/Skuldur/Classical-Piano-Composer) - 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
 - [zelaki/DreamSound](https://github.com/zelaki/DreamSound) - [ICASSP'24]  Investigating Personalization Methods in Text to Music Generation
 - [eigenpunk/ComfyUI-audio](https://github.com/eigenpunk/ComfyUI-audio) - some generative audio tools for ComfyUI
 - [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
@@ -3474,14 +3479,14 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [briansemrau/MIDI-LLM-tokenizer](https://github.com/briansemrau/MIDI-LLM-tokenizer) - Tools for converting .mid files into text for training large language models
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
 - [YuchenJin/autolrs](https://github.com/YuchenJin/autolrs) - Automatic learning-rate scheduler
 - [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
-- [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files. Integration with music production tools.
+- [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files.
 - [webpolis/mididings-arpeggiator](https://github.com/webpolis/mididings-arpeggiator) - An arpeggio generator which is easy to use and customize for achieving fabulous patterns
 - [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [vaayne/notionai-py](https://github.com/vaayne/notionai-py) - Unofficial Python SDK for NotionAI
@@ -3531,7 +3536,7 @@
 - [StefanHeng/Symbolic-Music-Generation](https://github.com/StefanHeng/Symbolic-Music-Generation) - Symbolic music generation taking inspiration from NLP and human composition process
 - [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A functional programming language and declarative system for describing 2D and 3D visuals
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
 - [yunlong10/LaunchpadGPT](https://github.com/yunlong10/LaunchpadGPT) - [ICMC 2023] LaunchpadGPT: Language Model as Music Visualization Designer on Launchpad
 - [jeffreyjohnens/MetaMIDIDataset](https://github.com/jeffreyjohnens/MetaMIDIDataset) - 
 - [alexanderattar/dsp](https://github.com/alexanderattar/dsp) - Digital Signal Processing - Audio Effects: A collection of Python scripts
@@ -3734,7 +3739,6 @@
 - [neonsecret/TTS-With-Voice-Cloning-Multilang](https://github.com/neonsecret/TTS-With-Voice-Cloning-Multilang) - Clone a voice in a few seconds to generate arbitrary speech in real-time in multiple languages
 - [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
 - [jina-ai/dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team
 - [algolia-samples/avsearch](https://github.com/algolia-samples/avsearch) - Automated av content transcription search for your website
@@ -3822,7 +3826,7 @@
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - MIDI / symbolic music tokenizers for Deep Learning models 🎶
 - [jskripchuk/music-analysis](https://github.com/jskripchuk/music-analysis) - Teaching basic computer science principles and concepts through the lens of music. Hooktheory music analysis toolkit for MUSC106: Computational Thinking in Music.
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
-- [rubberduck-ai/repository-index](https://github.com/rubberduck-ai/repository-index) - 
+- [lgrammel/repository-index](https://github.com/lgrammel/repository-index) - 
 - [jrieke/traingenerator](https://github.com/jrieke/traingenerator) - 🧙 A web app to generate template code for machine learning
 - [dafaronbi/Multi-Task-Automatic-Synthesizer-Programming](https://github.com/dafaronbi/Multi-Task-Automatic-Synthesizer-Programming) - 
 - [dafaronbi/Serum-FXP-Python-Reader](https://github.com/dafaronbi/Serum-FXP-Python-Reader) - python scripts to read and write too serum fxp preset files
@@ -3860,7 +3864,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [LuChengTHU/dpm-solver](https://github.com/LuChengTHU/dpm-solver) - Official code for "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps" (Neurips 2022 Oral)
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
@@ -4044,7 +4048,6 @@
 - [karan/slackzon](https://github.com/karan/slackzon) - Simple Amazon Product Search in Slack
 - [cdolivei/beatport2flac](https://github.com/cdolivei/beatport2flac) - Converts beatport's wav files to flac using the metadata from their api
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [quentinsf/IMAPdedup](https://github.com/quentinsf/IMAPdedup) - IMAP message de-duplicator
 - [leafnode/m3ugen](https://github.com/leafnode/m3ugen) - Generate M3U playlist from all files in given directory tree
 - [AureliaGuy/SyncUp](https://github.com/AureliaGuy/SyncUp) - This program syncs up Pandora, Spotify and iTunes. The HTTP library Requests posts the login information for Pandora, and retrieves the liked songs from the user’s account. Then, with the Spotify API,
@@ -4234,6 +4237,7 @@
 - [cryscan/web-rwkv](https://github.com/cryscan/web-rwkv) - Implementation of the RWKV language model in pure WebGPU/Rust.
 - [lucacasonato/wgpu_cts_runner](https://github.com/lucacasonato/wgpu_cts_runner) - A minimal JS runtime built on Deno (deno_core / extensions) that can be used to test WebGPU CTS outside of full Deno.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [huboles/cellseq](https://github.com/huboles/cellseq) - generative midi sequencer
 - [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper for Ableton Link
@@ -4450,7 +4454,7 @@
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
-- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit x Tailwind CSS x Supabase x Turborepo (pnpm)
+- [usagizmo/webapp-template](https://github.com/usagizmo/webapp-template) - SvelteKit x Tailwind CSS x Supabase x Turborepo (Bun)
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [Polaris]
 - [vishnunair639/svelte-vite-daisyui-tailwind-starter](https://github.com/vishnunair639/svelte-vite-daisyui-tailwind-starter) - Learn SveteKit
@@ -4576,6 +4580,7 @@
 
 ## TypeScript 
 
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - 📦 Build modern websites with zero added frameworks. Deno, React, JS/TS, & Markdown MDX supported.
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
@@ -4596,7 +4601,7 @@
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [gronxb/hot-updater](https://github.com/gronxb/hot-updater) - A self-hostable OTA update solution for React Native (Alternative to CodePush)
 - [pelikhan/action-genai-pull-request-descriptor](https://github.com/pelikhan/action-genai-pull-request-descriptor) - GitHub Action that generates a Pull Request description using GenAI
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code i
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
@@ -4612,7 +4617,7 @@
 - [d-stoll/attio-js](https://github.com/d-stoll/attio-js) - A community-maintained JavaScript/TypeScript SDK for Attio
 - [google/aside](https://github.com/google/aside) - 🚀 Apps Script development with formatting, linting, testing and more!
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [mendableai/firesearch](https://github.com/mendableai/firesearch) - 🔥 AI-powered deep research tool that breaks down complex queries, validates answers, and provides cited comprehensive results using Firecrawl and LangGraph
+- [firecrawl/firesearch](https://github.com/firecrawl/firesearch) - 🔥 AI-powered deep research tool that breaks down complex queries, validates answers, and provides cited comprehensive results using Firecrawl and LangGraph
 - [Ankur2606/Lazy-Waba](https://github.com/Ankur2606/Lazy-Waba) - A Smart Whatsapp/Discord Humanely Chat Automation Tool
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 - [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs) - HubSpot API NodeJS Client Libraries for V3 version of the API
@@ -4620,7 +4625,7 @@
 - [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP) - Create MVPs with AI in seconds
 - [deepgram-starters/nextjs-live-transcription](https://github.com/deepgram-starters/nextjs-live-transcription) - Get started using Deepgram's Live Transcription with this Next.js demo app
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents. Fully Open Source.
 - [orca-team/vscode-tswagger](https://github.com/orca-team/vscode-tswagger) - A vscode extension used to convert Swagger to Typescript.
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
@@ -4631,6 +4636,7 @@
 - [brandonkal/deno-lib](https://github.com/brandonkal/deno-lib) - A large collection of useful Typescript libraries for Deno
 - [resend/mcp-send-email](https://github.com/resend/mcp-send-email) - Send emails directly from Cursor with this email sending MCP server
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue integrates & orchestrates APIs from natural language. Agents use it to build deterministic workflows across apps, APIs and databases. Humans use it to generate insights, build automations an
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [MichiganTypeScript/typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) - A WebAssembly runtime implemented in TypeScript types
@@ -4665,7 +4671,7 @@
 - [UretzkyZvi/planner](https://github.com/UretzkyZvi/planner) - Planner Component: A React component for dynamic appointment management. Features drag-and-drop, date range selections, and integrates with shadcn/ui. Perfect for developers enhancing apps with effici
 - [mindtown-ai/dynamic-prompt](https://github.com/mindtown-ai/dynamic-prompt) - This component allows you to dynamically render text fields and select inputs based on the provided data.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [mendableai/llmstxt-generator](https://github.com/mendableai/llmstxt-generator) - 
+- [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 
 - [RelevanceAI/ask-relevance-widget](https://github.com/RelevanceAI/ask-relevance-widget) - ChatGPT for your documentation, in your app 🧪
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -4717,7 +4723,7 @@
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [CarcajadaArtificial/lunchbox](https://github.com/CarcajadaArtificial/lunchbox) - UI Library 🍱 for Deno 🦕 Fresh 🍋
 - [codespin-ai/codespin-chrome-extension](https://github.com/codespin-ai/codespin-chrome-extension) - CodeSpin.AI Chrome Plugin
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no code web data extraction platform. Instantly turn any website into API or spreadsheet 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
 - [thorwebdev/webcam-audio-description-ai](https://github.com/thorwebdev/webcam-audio-description-ai) - Capture webcam via browser, generate text descriptions with Google Gemini, generate speech with ElevenLabs
 - [RhysSullivan/tenant-kit](https://github.com/RhysSullivan/tenant-kit) - A collection of documentation, components, and resources for building multi-tenant applications.
 - [virattt/financial-agent-ui](https://github.com/virattt/financial-agent-ui) - Financial agent + generative UI
@@ -4787,9 +4793,9 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [assistant-ui/assistant-ui-assistant-api-history](https://github.com/assistant-ui/assistant-ui-assistant-api-history) - 
 - [HubSpot/hubspot-cli](https://github.com/HubSpot/hubspot-cli) - A CLI for HubSpot
-- [mendableai/firegraph](https://github.com/mendableai/firegraph) - 📈 Create beautiful graphs in seconds. Plot github stars or your own csvs. Think ray.so for graphs. Built by the Firecrawl team.
+- [firecrawl/firegraph](https://github.com/firecrawl/firegraph) - 📈 Create beautiful graphs in seconds. Plot github stars or your own csvs. Think ray.so for graphs. Built by the Firecrawl team.
 - [dominicwhyte/email-enricher](https://github.com/dominicwhyte/email-enricher) - Email Enricher is a free, offline alternative to Clearbit for enriching emails. Determine if an email likely belongs to a Fortune 1000 company.
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [justboil/admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React Next Tailwind 4.x admin dashboard template with typescript and dark mode.
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your component library with a unique look.
@@ -4869,7 +4875,7 @@
 - [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [juankysoriano/human-music](https://github.com/juankysoriano/human-music) - A Generative Music System based on Cellular Automata
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
 - [resonatecoop/stream-app](https://github.com/resonatecoop/stream-app) - A mobile app for playing music on Resonate, an open source music streaming co-op. This is repository is in maintenance mode, while actively developing this repository: https://github.com/resonatecoop/
 - [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by PhonicScore.com.
@@ -4930,7 +4936,7 @@
 - [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) - The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [mathysth/bun-prisma-hono-inversify](https://github.com/mathysth/bun-prisma-hono-inversify) - This project has been completely rewritten and is available here: https://github.com/ae-creator/CosmosJS/tree/main
 - [AKclown/js-to-ts](https://github.com/AKclown/js-to-ts) - The vscode plugin converts  js/json/swagger/api  to typescript declaration
 - [tjx666/vscode-archive](https://github.com/tjx666/vscode-archive) - compress/decompress for .zip, .vsix, .crx(v3), .asar, .tgz, .gzip, .br, .tar
@@ -4940,7 +4946,7 @@
 - [transitive-bullshit/chatgpt-well-known-plugin-finder](https://github.com/transitive-bullshit/chatgpt-well-known-plugin-finder) - Checks Alexa's top 1M websites for the presence of OpenAI's new .well-known/ai-plugin.json files
 - [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
-- [requestly/requestly](https://github.com/requestly/requestly) - Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
 - [EezyQuote/vscode-component-generator](https://github.com/EezyQuote/vscode-component-generator) - Generates files and folders in vscode for common components
 - [octokit/oauth-app.js](https://github.com/octokit/oauth-app.js) - GitHub OAuth toolset for Node.js
 - [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - 🚀 Click the dom to open your IDE and position the cursor at dom's source code location! 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置!
@@ -5067,7 +5073,6 @@
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [recalign/RecAlign](https://github.com/recalign/RecAlign) - Chrome extension to  filter your feed with LLM according to an explicitly stated and user-editable preference.
 - [realmui/realm](https://github.com/realmui/realm) - Reactive-Lightweight Markup Language. HTML framework for building MVPs.
-- [rossrobino/ai6](https://github.com/rossrobino/ai6) - Artificial Intelligence, Section 6
 - [rossrobino/blog](https://github.com/rossrobino/blog) - My blog
 - [rossrobino/robino.dev](https://github.com/rossrobino/robino.dev) - Personal website
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
@@ -5093,7 +5098,7 @@
 - [midival/core](https://github.com/midival/core) - 
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [Morioh-Lab/is-bot](https://github.com/Morioh-Lab/is-bot) - Detect user-agent is a bot/spider/crawler
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
@@ -5103,7 +5108,6 @@
 - [Modrigue/MusicToolbox](https://github.com/Modrigue/MusicToolbox) - Easy to use online music scale and chords generator, multiple scales and modes included, scale finder, and visualization on guitar and keyboard.
 - [finic-ai/rag-stack](https://github.com/finic-ai/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
-- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [funnierinspanish/aplayer](https://github.com/funnierinspanish/aplayer) - An audio player webcomponent using lit
 - [funnierinspanish/web-midi-basics](https://github.com/funnierinspanish/web-midi-basics) - A Web MIDI basic example
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -5173,7 +5177,7 @@
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [joanroig/midi-to-scaler-chord-sets](https://github.com/joanroig/midi-to-scaler-chord-sets) - 🎵 Convert chord progressions from midi files to Plugin Boutique's Scaler sets.
 - [felixroos/loophole-letters](https://github.com/felixroos/loophole-letters) - 
-- [simpledotstudio/cli](https://github.com/simpledotstudio/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
+- [pagedotapp/cli](https://github.com/pagedotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [scribbletune/scribbletune](https://github.com/scribbletune/scribbletune) - Create music with JavaScript
 - [mausworks/tidier](https://github.com/mausworks/tidier) - The file & folder name formatter
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
@@ -5312,7 +5316,7 @@
 - [hunkimForks/chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) - A browser extension that enhance search engines with ChatGPT
 - [zckly/create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [privatenumber/get-tsconfig](https://github.com/privatenumber/get-tsconfig) - Lightweight tsconfig.json parser & paths resolver
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [NodeSecure/npm-registry-sdk](https://github.com/NodeSecure/npm-registry-sdk) - Node.js SDK to fetch data from the npm API.
@@ -5322,7 +5326,7 @@
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Tonejs/Midi](https://github.com/Tonejs/Midi) - Convert MIDI into Tone.js-friendly JSON
 - [GoogleChrome/audion](https://github.com/GoogleChrome/audion) - Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.
-- [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
+- [lgrammel/rubberduck-vscode](https://github.com/lgrammel/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
 - [stevenwaterman/musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World
 - [HiDeoo/vercel-env-push](https://github.com/HiDeoo/vercel-env-push) - The missing Vercel CLI command to push environment variables from .env files.
 - [supabase/examples-archive](https://github.com/supabase/examples-archive) - Supabase Examples Archive
@@ -5330,7 +5334,7 @@
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with AI
-- [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your `node_modules` is stale.
+- [sxzz/stale-dep](https://github.com/sxzz/stale-dep) - Check if your node_modules is stale.
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) - VS Code Performance Tool
 - [CedricGuillemet/GPT-Toolbox](https://github.com/CedricGuillemet/GPT-Toolbox) - GPT extension for VSCode
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
@@ -5389,7 +5393,7 @@
 - [jkytoela/next-startd](https://github.com/jkytoela/next-startd) - ⚡ Free Next.js landing page template for SaaS products, online services and more.
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
 - [RodrigoRVSN/next-boilerplate-bunny](https://github.com/RodrigoRVSN/next-boilerplate-bunny) - 🚀 A boilerplate with generic configurations to a Nextjs project with bun, vitest, cicd and etc
-- [bezoute/next-chrome-ts](https://github.com/bezoute/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
+- [vedantnn71/next-chrome-ts](https://github.com/vedantnn71/next-chrome-ts) - 🌐 Next.js chrome extension starter, written in typescript.
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - GPT-Shell is an OpenAI based chat-bot that is similar to OpenAI's ChatGPT. Also allows creating Dalle2 images.
 - [domnantas/raycast-chatgpt](https://github.com/domnantas/raycast-chatgpt) - 
@@ -5456,7 +5460,6 @@
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
-- [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mikesprague/clean-start](https://github.com/mikesprague/clean-start) - Open source new tab Chrome extension
@@ -5521,7 +5524,7 @@
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [adamsoffer/next-apollo](https://github.com/adamsoffer/next-apollo) - React higher-order component for integrating Apollo Client with Next.js
-- [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
+- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
 - [koolamusic/chakra-ui-autocomplete](https://github.com/koolamusic/chakra-ui-autocomplete) - An utility autocomplete UI library to use with Chakra UI
@@ -5633,7 +5636,6 @@
 - [darylcecile/Alfred-Chrome-Extension](https://github.com/darylcecile/Alfred-Chrome-Extension) - chrome extension that automatically "cleans up" (closes) old tabs that haven't been used for a while based on predefined rules.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype
 - [element-plus/unplugin-element-plus](https://github.com/element-plus/unplugin-element-plus) - 🔌 Import Element Plus on demand. Support Vite, Webpack, Vue CLI, Rollup and esbuild.
