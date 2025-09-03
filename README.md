@@ -438,7 +438,6 @@
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [optimizasean/TailwindAccessibilityConfig](https://github.com/optimizasean/TailwindAccessibilityConfig) - Tailwind colors replaced (in Tailwind style) by the USG standards for accesibility colors defined at: https://designsystem.digital.gov/
 - [TheRealRajan/Toast-Notifications](https://github.com/TheRealRajan/Toast-Notifications) - Toast notifications that show up on the bottom right corner of the screen when you click on a button.
-- [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [AshirbadGudu/bun-nextjs-app](https://github.com/AshirbadGudu/bun-nextjs-app) - Create a next.js app with bun
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️
@@ -2870,6 +2869,7 @@
 - [AlbertSuarez/searchly](https://github.com/AlbertSuarez/searchly) - 🎶 Song similarity search API based on lyrics
 - [dbeley/rymscraper](https://github.com/dbeley/rymscraper) - Python library to extract data from rateyourmusic.com.
 - [AstraBert/diRAGnosis](https://github.com/AstraBert/diRAGnosis) - Diagnose the performance of your RAG🩺
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -2892,7 +2892,7 @@
 - [pipecat-ai/pipecat-flows](https://github.com/pipecat-ai/pipecat-flows) - Open source conversation framework and visual editor for structured Pipecat dialogues
 - [cloudguruab/modsysML](https://github.com/cloudguruab/modsysML) - Human reinforcement learning (RLHF) framework for AI models. Evaluate and compare LLM outputs, test quality, catch regressions and automate.
 - [tegridydev/auto-md](https://github.com/tegridydev/auto-md) - Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 - [outscraper/outscraper-python](https://github.com/outscraper/outscraper-python) - The library provides convenient access to the Outscraper API from applications written in the Python language. Allows using Outscraper's services from your code.
 - [kspviswa/pyOllaMx](https://github.com/kspviswa/pyOllaMx) - Your gateway to both Ollama & Apple MlX models
@@ -3864,7 +3864,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [gefenk9/lyrics-to-chords-generator](https://github.com/gefenk9/lyrics-to-chords-generator) - Generate chords to a given lyrics using LSTM
 - [LuChengTHU/dpm-solver](https://github.com/LuChengTHU/dpm-solver) - Official code for "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps" (Neurips 2022 Oral)
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
@@ -4128,7 +4128,7 @@
 - [joshka/homebrew-audio](https://github.com/joshka/homebrew-audio) - Homebrew Casks for Audio Plugins such as VST, VST2, VST3, AU, AAX
 - [bettinson/markov_midi](https://github.com/bettinson/markov_midi) - Generating Melodies With Markov Chains In Ruby
 - [tylermarshal/job-score](https://github.com/tylermarshal/job-score) - A resume and cover letter optimization tool.
-- [danielbayley/homebrew-music](https://github.com/danielbayley/homebrew-music) - @Homebrew tap for music software, such as @NativeInstruments synths and presets, for use in a DAW like @Ableton Live.
+- [Homebrewery/homebrew-music](https://github.com/Homebrewery/homebrew-music) - @Homebrew tap for music software, such as @NativeInstruments synths and presets, for use in a DAW like @Ableton Live.
 - [LyraPhase/lyraphase_workstation](https://github.com/LyraPhase/lyraphase_workstation) - lyraphase_workstation cookbook
 - [music-dl/music-dl](https://github.com/music-dl/music-dl) - Tool for downloading music
 - [larkov/alfred-songlink-workflow](https://github.com/larkov/alfred-songlink-workflow) - Alfred workflow to create song.link urls
@@ -4582,7 +4582,7 @@
 
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - 📦 Build modern websites with zero added frameworks. Deno, React, JS/TS, & Markdown MDX supported.
+- [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - ⬡ Deno to browser in seconds!
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [rocicorp/hello-zero](https://github.com/rocicorp/hello-zero) - 
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
@@ -4636,7 +4636,6 @@
 - [brandonkal/deno-lib](https://github.com/brandonkal/deno-lib) - A large collection of useful Typescript libraries for Deno
 - [resend/mcp-send-email](https://github.com/resend/mcp-send-email) - Send emails directly from Cursor with this email sending MCP server
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue integrates & orchestrates APIs from natural language. Agents use it to build deterministic workflows across apps, APIs and databases. Humans use it to generate insights, build automations an
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [MichiganTypeScript/typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) - A WebAssembly runtime implemented in TypeScript types
@@ -4798,7 +4797,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [justboil/admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React Next Tailwind 4.x admin dashboard template with typescript and dark mode.
-- [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your component library with a unique look.
+- [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your component library with a unique look, in seconds.
 - [BASI-LABS/parseltongue](https://github.com/BASI-LABS/parseltongue) - Parseltongue is a powerful prompt hacking tool/browser extension for real-time tokenization visualization and seamless text conversion, supporting formats like binary, base64, leetspeak, special chara
 - [DeskproApps/hubspot](https://github.com/DeskproApps/hubspot) - Our HubSpot integration helps you to streamline your sales and marketing teams to encourage and optimize marketing strategies.
 - [Kars1996/DiscordBotMonorepo](https://github.com/Kars1996/DiscordBotMonorepo) - 🌐Monorepo Template for a DiscordJS Bot with an API, Website, Commands page and example docs, all in one repo powered by create-kapp
@@ -4946,7 +4945,7 @@
 - [transitive-bullshit/chatgpt-well-known-plugin-finder](https://github.com/transitive-bullshit/chatgpt-well-known-plugin-finder) - Checks Alexa's top 1M websites for the presence of OpenAI's new .well-known/ai-plugin.json files
 - [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [EezyQuote/vscode-component-generator](https://github.com/EezyQuote/vscode-component-generator) - Generates files and folders in vscode for common components
 - [octokit/oauth-app.js](https://github.com/octokit/oauth-app.js) - GitHub OAuth toolset for Node.js
 - [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - 🚀 Click the dom to open your IDE and position the cursor at dom's source code location! 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置!
@@ -5272,6 +5271,7 @@
 - [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
