@@ -743,7 +743,6 @@
 - [libaudioverse/libaudioverse](https://github.com/libaudioverse/libaudioverse) - A library for realtime audio synthesis with 3D and environmental audio support
 - [danyalimran93/Music-Genre-Classification](https://github.com/danyalimran93/Music-Genre-Classification) - Classifying English Music (.mp3) files using Music Information Retrieval (MIR), Digital/Audio Signal Processing (DIP) and Machine Learning (ML) Strategies
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems", which is `dmls-book`
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [ttscoff/hookapp](https://github.com/ttscoff/hookapp) - 
 - [julian6077/covercraft](https://github.com/julian6077/covercraft) - 
 - [Sba-Stuff/text-to-midi-flask-based-app](https://github.com/Sba-Stuff/text-to-midi-flask-based-app) - James Skripchuk's code to convert text to midi. I am going to convert this into flask based app. It uses NLTK to read files, then convert to sentences, then words and then turn those words into an awe
@@ -979,7 +978,7 @@
 - [nubelaco/proxycurl-js-linkedin-profile-scraper](https://github.com/nubelaco/proxycurl-js-linkedin-profile-scraper) - Proxycurl is a data enrichment API that pulls fresh and accurate B2B data of people and companies, legally, at scale.
 - [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio/ jQuery for Google Apps Script
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - Claude Memory: Long-term memory for Claude
 - [violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript) - A yeoman generator to create a userscript project rapidly
 - [jeeng/json-api-transform](https://github.com/jeeng/json-api-transform) - 
@@ -1172,7 +1171,6 @@
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - MIDI SoundFont/DLS player and editor written in JavaScript.
 - [notator/ResidentSynthHostTestSite](https://github.com/notator/ResidentSynthHostTestSite) - Host application for developing the GUI-less ResidentSynth
 - [qwolilowp/Z_TENNOT_IU](https://github.com/qwolilowp/Z_TENNOT_IU) - harmonic table note layout, Euler Tonnetz, Browser GUI, WebMIDI Interface, Sequencer
 - [adult-video/tram-app](https://github.com/adult-video/tram-app) - TRAM is short for Typographic Rythm Automation Machine - a live coding enviroment for MIDI
@@ -2018,6 +2016,7 @@
 - [musikalkemist/AudioSignalProcessingForML](https://github.com/musikalkemist/AudioSignalProcessingForML) - Code and slides of my YouTube series called "Audio Signal Proessing for Machine Learning"
 - [zafarrafii/REPET-Matlab](https://github.com/zafarrafii/REPET-Matlab) - REPeating Pattern Extraction Technique (REPET) in Matlab for audio source separation: original REPET, REPET extended, adaptive REPET, REPET-SIM, REPET-SIM online
 - [zafarrafii/REPET-Python](https://github.com/zafarrafii/REPET-Python) - REPeating Pattern Extraction Technique (REPET) in Python for audio source separation: original REPET, REPET extended, adaptive REPET, REPET-SIM, online REPET-SIM
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [miguelfs/worlds_simplest_instrument_classifier](https://github.com/miguelfs/worlds_simplest_instrument_classifier) - The world's simplest instrument classifier, using Constant-Q Transform and Logistic Regression.
 - [tky823/audio_source_separation](https://github.com/tky823/audio_source_separation) - An implementation of audio source separation tools.
 - [RetroCirce/Music-SketchNet](https://github.com/RetroCirce/Music-SketchNet) - ISMIR 2020 Paper repo: Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm
@@ -3283,7 +3282,7 @@
 - [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
 - [kyegomez/zeta](https://github.com/kyegomez/zeta) - Build high-performance AI models with modular building blocks
-- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable agent framework built on top of OpenAI Assistants API. (Responses API soon)
+- [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework. (Extension of Agents SDK)
 - [soos3d/python-parallel-processing](https://github.com/soos3d/python-parallel-processing) - This repository holds a simple example of parallel processing in Python using mpi4py
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [razeghi71/burf](https://github.com/razeghi71/burf) - TUI for google cloud storage (GCS)
@@ -3815,7 +3814,7 @@
 - [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [VarunPatelius/Py-iMessenger](https://github.com/VarunPatelius/Py-iMessenger) - Py-iMessenger is a chatbot that works with iMessage to execute commands using text messages.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -4237,7 +4236,7 @@
 - [cryscan/web-rwkv](https://github.com/cryscan/web-rwkv) - Implementation of the RWKV language model in pure WebGPU/Rust.
 - [lucacasonato/wgpu_cts_runner](https://github.com/lucacasonato/wgpu_cts_runner) - A minimal JS runtime built on Deno (deno_core / extensions) that can be used to test WebGPU CTS outside of full Deno.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
+- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - The worlds first purpose-built firewall for AI
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [huboles/cellseq](https://github.com/huboles/cellseq) - generative midi sequencer
 - [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper for Ableton Link
@@ -4669,7 +4668,7 @@
 - [sadmann7/sortable](https://github.com/sadmann7/sortable) - Sortable built with shadcn/ui, radix ui, and dnd-kit.
 - [UretzkyZvi/planner](https://github.com/UretzkyZvi/planner) - Planner Component: A React component for dynamic appointment management. Features drag-and-drop, date range selections, and integrates with shadcn/ui. Perfect for developers enhancing apps with effici
 - [mindtown-ai/dynamic-prompt](https://github.com/mindtown-ai/dynamic-prompt) - This component allows you to dynamically render text fields and select inputs based on the provided data.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 
 - [RelevanceAI/ask-relevance-widget](https://github.com/RelevanceAI/ask-relevance-widget) - ChatGPT for your documentation, in your app 🧪
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
@@ -4874,7 +4873,7 @@
 - [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [juankysoriano/human-music](https://github.com/juankysoriano/human-music) - A Generative Music System based on Cellular Automata
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
 - [resonatecoop/stream-app](https://github.com/resonatecoop/stream-app) - A mobile app for playing music on Resonate, an open source music streaming co-op. This is repository is in maintenance mode, while actively developing this repository: https://github.com/resonatecoop/
 - [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by PhonicScore.com.
@@ -5122,6 +5121,7 @@
 - [magenta/magenta-js](https://github.com/magenta/magenta-js) - Magenta.js: Music and Art Generation with Machine Learning in the browser
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [codedamn/teach.codedamn.com](https://github.com/codedamn/teach.codedamn.com) - 
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - MIDI SoundFont/DLS player and editor written in JavaScript.
 - [Jaggernaut555/midi-mixer-spotify](https://github.com/Jaggernaut555/midi-mixer-spotify) - Control spotify with a midi mixer plugin
 - [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - 
 - [notochord/playback](https://github.com/notochord/playback) - A chord player, and a language for describing musical styles
