@@ -2035,7 +2035,7 @@
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel
 - [sony/DiffRoll](https://github.com/sony/DiffRoll) - PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model
@@ -2158,7 +2158,6 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [CUHK-CMD/Automatic-Music-Arrangement](https://github.com/CUHK-CMD/Automatic-Music-Arrangement) - 
 - [Lydorn/DeepRenderEngine](https://github.com/Lydorn/DeepRenderEngine) - A Deep Learning approach to 3D rendering
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [Inversil/LESosx](https://github.com/Inversil/LESosx) - repository for the LES osx source code
@@ -2622,6 +2621,7 @@
 - [argyleink/Kung-Fury-Theme](https://github.com/argyleink/Kung-Fury-Theme) - 80's dark retro theme for VS Code and Sublime Text
 - [naver/d2codingfont](https://github.com/naver/d2codingfont) - D2 Coding 글꼴
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [dailydotdev/.github](https://github.com/dailydotdev/.github) - default organization docs
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [redwoodjs/awesome-redwood-graphql](https://github.com/redwoodjs/awesome-redwood-graphql) - A community-driven collection of Redwood related plugins, config, themes, build scripts, tutorials, podcasts, and more.
@@ -4744,7 +4744,7 @@
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component) - A multi-select component designed with shadcn/ui
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [DevLLM/anthropic-quickstarts](https://github.com/DevLLM/anthropic-quickstarts) - Chat front end pour Anthropic API
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze!
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
