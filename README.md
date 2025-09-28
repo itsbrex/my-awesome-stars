@@ -946,6 +946,7 @@
 - [nhangen/universal-dev-env](https://github.com/nhangen/universal-dev-env) - 🚀 One-click setup for modern development environments with AI tools, cloud CLIs, and optimized containers
 - [williamkapke/kapture](https://github.com/williamkapke/kapture) - Chrome DevTools Extension that enables browser automation through MCP
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by its co-founder & CTO.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [TextQLLabs/crm-bot](https://github.com/TextQLLabs/crm-bot) - Intelligent Slack bot for Attio CRM integration using ReAct AI pattern
@@ -1263,7 +1264,7 @@
 - [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
 - [haxtheweb/unbundled-webcomponents](https://github.com/haxtheweb/unbundled-webcomponents) - "The magic script" - Unbundled Web components for lazy-hydration routines hitting maximal browsers
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript.
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript
 - [nickvidal/mailsheet](https://github.com/nickvidal/mailsheet) - Send emails from Google Sheets
 - [JovianHQ/jobot](https://github.com/JovianHQ/jobot) - The AI That Does Everything
 - [SerRat44/DescentIntoDarkness](https://github.com/SerRat44/DescentIntoDarkness) - html/javascript text-based rpg coded entirely using chatGPT without external libraries, websites, or images
@@ -1577,7 +1578,6 @@
 - [juliangruber/is-mobile](https://github.com/juliangruber/is-mobile) - Check if mobile browser, based on useragent string.
 - [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
 - [Manoj-Athi/Input-animation-gmail](https://github.com/Manoj-Athi/Input-animation-gmail) - Google style input animation using tailwind css
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
@@ -2801,7 +2801,7 @@
 - [harisahmed/WEB-CRAWLING-PROJECT-1](https://github.com/harisahmed/WEB-CRAWLING-PROJECT-1) - Write a script that will crawl this page:https://pro.beatport.com/genre/deep-house/12 Store the data for track artist and track name.  Then query the Spotify API https://developer.spotify.com/ and ret
 - [olefredrik/FoundationPress](https://github.com/olefredrik/FoundationPress) - FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
 - [floschliep/YOURLS-iTunes-Affiliate](https://github.com/floschliep/YOURLS-iTunes-Affiliate) - Add your iTunes Affiliate-Token to all iTunes URLs before redirection
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
 - [a-dg/codebox-snippets](https://github.com/a-dg/codebox-snippets) - PHP, Taco, WordPress, jQuery, MySQL, and CSS snippets in a CodeBox library
 - [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Manager Search
@@ -4400,7 +4400,6 @@
 - [dotphiles/dotsync](https://github.com/dotphiles/dotsync) - Sync dotfiles between multiple machines from a git repo or push using rsync
 - [Pym/alfred-workflow-desktop-todo](https://github.com/Pym/alfred-workflow-desktop-todo) - Desktop Todo allows you to create/delete empty items on your desktop from Alfred.
 - [tjluoma/dropbox-pause-unpause](https://github.com/tjluoma/dropbox-pause-unpause) - A shell script to programmatically "pause" and "unpause" Dropbox on Mac OS X
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [adilbekm/bash_backup](https://github.com/adilbekm/bash_backup) - Bash script to backup files on Mac to iCloud drive
 - [emcrisostomo/Time-Machine-Cleanup](https://github.com/emcrisostomo/Time-Machine-Cleanup) - Zsh script to clean up Time Machine backups and reduce its size
@@ -4580,6 +4579,7 @@
 
 ## TypeScript 
 
+- [anthropics/claude-code-sdk-demos](https://github.com/anthropics/claude-code-sdk-demos) - Claude Code SDK Demos
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
@@ -4615,7 +4615,6 @@
 - [pelikhan/action-genai-pull-request-descriptor](https://github.com/pelikhan/action-genai-pull-request-descriptor) - GitHub Action that generates a Pull Request description using GenAI
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
 - [itsjustanks/n8n-nodes-attio](https://github.com/itsjustanks/n8n-nodes-attio) - 
@@ -5592,6 +5591,7 @@
 - [jacob-ebey/remix-pwa](https://github.com/jacob-ebey/remix-pwa) - A template to get a Remix PWA up and running
 - [ghoshnirmalya/nextjs-hasura-boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate) - :art: Boilerplate for building applications using Hasura and Next.js
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
+- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atherosai/next-react-graphql-apollo-hooks](https://github.com/atherosai/next-react-graphql-apollo-hooks) - React, Apollo, Next.js, GraphQL, Node.js, TypeScript high performance boilerplate with React hooks GraphQL implementation and automatic static type generation
 - [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
@@ -5705,6 +5705,7 @@
 - [janbiasi/ableton-tools](https://github.com/janbiasi/ableton-tools) - A toolbelt for music artisans working with Ableton Live
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [solobat/Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal is a push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
