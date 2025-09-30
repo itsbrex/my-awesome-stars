@@ -733,7 +733,6 @@
 
 ## HTML 
 
-- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
 - [punnerud/csv_sql_graph](https://github.com/punnerud/csv_sql_graph) - 
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
@@ -2831,6 +2830,7 @@
 - [graphql-python/graphql-server](https://github.com/graphql-python/graphql-server) - This is the core package for using GraphQL in a custom server easily
 - [browser-use/cdp-use](https://github.com/browser-use/cdp-use) - 🩹Pure CDP but type-safe in Python
 - [baryhuang/mcp-server-any-openapi](https://github.com/baryhuang/mcp-server-any-openapi) - A MCP server that enables Claude to discover and call any API endpoint through semantic search. Intelligently chunks OpenAPI specifications to handle large API documentation, with built-in request exe
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [vblagoje/openapi-llm](https://github.com/vblagoje/openapi-llm) - Convert and invoke OpenAPI specifications as LLM tool/function definitions
@@ -4683,7 +4683,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 
 - [RelevanceAI/ask-relevance-widget](https://github.com/RelevanceAI/ask-relevance-widget) - ChatGPT for your documentation, in your app 🧪
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [nainglinnkhant/shadcn-view-table](https://github.com/nainglinnkhant/shadcn-view-table) - Shadcn table component with server side sorting, pagination, filtering, and custom views. This is built on top of @sadmann17's shadcn-table.
 - [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
@@ -4981,7 +4981,7 @@
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [team-openpm/workgpt](https://github.com/team-openpm/workgpt) - A GPT agent framework for invoking APIs
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [MellKam/soundify](https://github.com/MellKam/soundify) - 🎧 Lightweight integration with the Spotify Web API for modern Javascript runtimes
 - [OneInterface/chat-with-page](https://github.com/OneInterface/chat-with-page) - Chrome extension to chat with page using local LLM (llama, mistral 7B, etc)
