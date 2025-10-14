@@ -600,6 +600,7 @@
 
 ## Go 
 
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [Sanix-Darker/stackfetch](https://github.com/Sanix-Darker/stackfetch) - Fetch/Grab stack/lang/system infos (inspired by neofetch).
 - [44za12/mailsleuth](https://github.com/44za12/mailsleuth) - MailSleuth is an extremely quick and efficient email OSINT (Open Source Intelligence) tool designed to check the presence of email addresses across various social media platforms and other web service
 - [cloudflare/octopus](https://github.com/cloudflare/octopus) - The Octopus is part of our network automation pipeline. Its job is to aggregate data from different authoritative data sources into one Enriched Topology to provide a full picture to downstream system
@@ -947,6 +948,7 @@
 
 ## JavaScript 
 
+- [vercel-labs/ai-sdk-chrome-extension](https://github.com/vercel-labs/ai-sdk-chrome-extension) - 
 - [Sanix-Darker/split](https://github.com/Sanix-Darker/split) - A FROM SCRATCH module able to decompose and recompose a file based on a map-JSON-schema build using md5 and Base64.
 - [lmarkus/WebBits](https://github.com/lmarkus/WebBits) - 
 - [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack, Open-source, Agentic AI framework, offering a fully local alternative to platforms like Manus & Genspark AI. It features an integrated Code Interpreter VM sandbox for
@@ -1558,7 +1560,6 @@
 - [vivaxy/alfred-open-in-vscode](https://github.com/vivaxy/alfred-open-in-vscode) - Alfred workflow to open in VSCode
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
-- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [bjcarlson42/chakra-nextjs-dashboard](https://github.com/bjcarlson42/chakra-nextjs-dashboard) - A responsive dashboard UI built using Chakra UI and Next.js.
 - [rounaksingh1694/13bhai-frontend](https://github.com/rounaksingh1694/13bhai-frontend) - 
 - [rounaksingh1694/13bhai-backend](https://github.com/rounaksingh1694/13bhai-backend) - 
@@ -2141,6 +2142,7 @@
 
 ## Kotlin 
 
+- [doyensec/inql](https://github.com/doyensec/inql) - InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [Onuchin-Artem/k-Loops](https://github.com/Onuchin-Artem/k-Loops) - Live coding system for controlling Ableton Live written in Kotlin
@@ -2379,10 +2381,11 @@
 
 ## Others 
 
+- [explorium-ai/integrations-templates](https://github.com/explorium-ai/integrations-templates) - Ready-to-use automation templates for AI-powered data enrichment with n8n and Make workflows
 - [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
 - [lukerf89/claude-agent-orchestration](https://github.com/lukerf89/claude-agent-orchestration) - Orchestrate development with specialized Claude Code agents using TDD principles. Break complex features into atomic tasks through structured agent collaboration.
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
-- [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [b-open-io/prompts](https://github.com/b-open-io/prompts) - prompts for generating powerful code using open-protocols
 - [Cfomodz/community-use](https://github.com/Cfomodz/community-use) - Paid Workflows: Free for Community Use
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -2436,7 +2439,7 @@
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [arlosefj/github_interest](https://github.com/arlosefj/github_interest) - interest repositories
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [sagesolar/Corpus-of-Taylor-Swift](https://github.com/sagesolar/Corpus-of-Taylor-Swift) - This is a dataset consisting of all song lyric words found on all of Taylor Swift's studio albums (up to and including TTPD), as well as a selection of other songs written by her.
+- [sagesolar/Corpus-of-Taylor-Swift](https://github.com/sagesolar/Corpus-of-Taylor-Swift) - This is a dataset consisting of all song lyric words found on all of Taylor Swift's studio albums (up to and including 'The Life of a Showgirl'), as well as a selection of other songs written by her.
 - [Stability-AI/stable-audio-demo](https://github.com/Stability-AI/stable-audio-demo) - 
 - [adactio/TheSession-data](https://github.com/adactio/TheSession-data) - Data dumps from thesession.org
 - [liusongxiang/Large-Audio-Models](https://github.com/liusongxiang/Large-Audio-Models) - Keep track of big models in audio domain, including speech, singing, music etc.
@@ -2737,7 +2740,6 @@
 - [welshwandering/slack_themes](https://github.com/welshwandering/slack_themes) - :speech_balloon: Slack Themes 💖 (Est. 2014) | Popular collection of themes for Slack pulled together into one easily referenced place, letting you get a taste before you copy and paste!
 - [chadanderson/alfred_quick_resize](https://github.com/chadanderson/alfred_quick_resize) - Quickly resize images on your desktop with Alfred
 - [ohoachuck/alfred2-resize](https://github.com/ohoachuck/alfred2-resize) - Alfred Workflow to resize selected image with specific ratio to choose from list
-- [karelvuong/terminal-afterglow](https://github.com/karelvuong/terminal-afterglow) - The Afterglow sublime theme ported over to Terminal.app.
 - [karelvuong/st-primer](https://github.com/karelvuong/st-primer) - ⚠️ No longer supported ⚠️ - A UI + syntax theme for @SublimeText inspired by GitHub's UI.
 - [teracyhq/bootflat-ui-kit-sketch](https://github.com/teracyhq/bootflat-ui-kit-sketch) - Free Sketch UI Kit for Bootflat http://bootflat.github.io/
 - [EvanLovely/alfred--doing](https://github.com/EvanLovely/alfred--doing) - An Alfred Workflow for interacting with Brett Terpstra's `doing` CLI – http://brettterpstra.com/projects/doing/
@@ -2835,6 +2837,8 @@
 
 ## Python 
 
+- [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Sanix-Darker/falla](https://github.com/Sanix-Darker/falla) - A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc...
 - [safety-research/petri](https://github.com/safety-research/petri) - An alignment auditing agent capable of quickly exploring alignment hypothesis
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
@@ -2855,7 +2859,7 @@
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [vblagoje/openapi-llm](https://github.com/vblagoje/openapi-llm) - Convert and invoke OpenAPI specifications as LLM tool/function definitions
-- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration layers that let AI agents use thousands of tools reliably.
+- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
 - [merge-api/merge-mcp](https://github.com/merge-api/merge-mcp) - 
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -2878,7 +2882,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [AgentOps-AI/agents-sdk-examples](https://github.com/AgentOps-AI/agents-sdk-examples) - A collection of agents built using Agents SDK - ready to use!
 - [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
-- [trolex213/scraper](https://github.com/trolex213/scraper) - 
+- [trolex213/scraper](https://github.com/trolex213/scraper) - scrape
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [SlyyCooper/cursorrules-tools](https://github.com/SlyyCooper/cursorrules-tools) - An assortment of tools to assist with development in the Cursor IDE
 - [SlyyCooper/cursorrules-architect](https://github.com/SlyyCooper/cursorrules-architect) - AI-powered .cursorrules generator for Cursor IDE
@@ -2930,7 +2934,7 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -3170,7 +3174,7 @@
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 - [RVC-Project/Retrieval-based-Voice-Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion) - in preparation...
-- [decodingml/llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) - 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴
 - [disler/indydevtools](https://github.com/disler/indydevtools) - An opinionated, Agentic Engineering toolbox powered by LLM Agents to solve problems autonomously.
 - [MDK8888/GPTFast](https://github.com/MDK8888/GPTFast) - Accelerate your Hugging Face Transformers 7.6-9x. Native to Hugging Face and PyTorch.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -3390,7 +3394,7 @@
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [ScanLineDev/scanline](https://github.com/ScanLineDev/scanline) - Expert AI code reviews  Catch bugs before they hurt  Run Scanline in your CLI to find: - race conditions - logical errors - security risks - optimizations
 - [sander-wood/deepchoir](https://github.com/sander-wood/deepchoir) - Chord-Conditioned Melody Harmonization with Controllable Harmonicity [ICASSP 2023]
-- [wazenmai/MIDI-BERT](https://github.com/wazenmai/MIDI-BERT) - This is the official repository for the paper, MidiBERT-Piano: Large-scale Pre-training for Symbolic Music Understanding.
+- [wazenmai/MIDI-BERT](https://github.com/wazenmai/MIDI-BERT) - [JCMS 2024] This is the official repository for the paper, MidiBERT-Piano: Large-scale Pre-training for Symbolic Music Understanding.
 - [Dsqvival/hierarchical-structure-analysis](https://github.com/Dsqvival/hierarchical-structure-analysis) - Algorithm and Data for paper "Automatic Detection of Hierarchical Structure and Influence of Structure on Melody, Harmony and Rhythm in Popular Music"
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [daveshap/YouTubeChapterGenerator](https://github.com/daveshap/YouTubeChapterGenerator) - Make YouTube Chapters from a downloaded Transcript
@@ -3927,6 +3931,7 @@
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [danikavu/Ableton-Drum-Rack](https://github.com/danikavu/Ableton-Drum-Rack) - Create Drum Rack presets in Ableton Live 11
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [gluon/AbletonLive11_MIDIRemoteScripts](https://github.com/gluon/AbletonLive11_MIDIRemoteScripts) - 
@@ -4403,7 +4408,7 @@
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [mdminhazulhaque/foreach](https://github.com/mdminhazulhaque/foreach) - :repeat: Read lines from file/stdin and execute them as CLI argument
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [fire1ce/BrewUp](https://github.com/fire1ce/BrewUp) - BrewUp - macOS Auto Update Homebrew
@@ -4607,6 +4612,14 @@
 
 ## TypeScript 
 
+- [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
+- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
+- [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
+- [nick-lvov-dev/typescript-explicit-types](https://github.com/nick-lvov-dev/typescript-explicit-types) - Generate explicit type annotation from inferred type in TypeScript
+- [SouthBridgeAI/offmute](https://github.com/SouthBridgeAI/offmute) - An experiment in meeting transcription and diarization with just an LLM. Maybe I went a little overboard though
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) - 
 - [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template) - Cloudflare Workers/Next.js SaaS Template
 - [cloudflare/chanfana](https://github.com/cloudflare/chanfana) - OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!
@@ -4642,7 +4655,7 @@
 - [Aniket-508/turborepo-nextjs-wxt-shadcn-boilerplate](https://github.com/Aniket-508/turborepo-nextjs-wxt-shadcn-boilerplate) - Turborepo boilerplate featuring web and web-extension apps with shared configs for Typescript, ESLint, Tailwind CSS and Prettier
 - [ahmetskilinc/ui](https://github.com/ahmetskilinc/ui) - a registry of comps ive come up with
 - [kesslerio/attio-mcp-server](https://github.com/kesslerio/attio-mcp-server) - Attio Model Context Protocol (MCP) server implementation
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [DevDreed/claude-task-master-extension](https://github.com/DevDreed/claude-task-master-extension) - 
 - [edelauna/github-semantic-search-mcp](https://github.com/edelauna/github-semantic-search-mcp) - 
@@ -4685,7 +4698,7 @@
 - [resend/mcp-send-email](https://github.com/resend/mcp-send-email) - Send emails directly from Cursor with this email sending MCP server
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue integrates & orchestrates APIs from natural language. Agents use it to build deterministic workflows across apps, APIs and databases. Humans use it to generate insights, build automations an
-- [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
+- [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
 - [MichiganTypeScript/typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) - A WebAssembly runtime implemented in TypeScript types
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
@@ -4718,7 +4731,7 @@
 - [UretzkyZvi/planner](https://github.com/UretzkyZvi/planner) - Planner Component: A React component for dynamic appointment management. Features drag-and-drop, date range selections, and integrates with shadcn/ui. Perfect for developers enhancing apps with effici
 - [mindtown-ai/dynamic-prompt](https://github.com/mindtown-ai/dynamic-prompt) - This component allows you to dynamically render text fields and select inputs based on the provided data.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 
+- [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 🔥 Generate llms.txt and llms-full.txt files for any website!
 - [RelevanceAI/ask-relevance-widget](https://github.com/RelevanceAI/ask-relevance-widget) - ChatGPT for your documentation, in your app 🧪
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -4841,9 +4854,9 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [assistant-ui/assistant-ui-assistant-api-history](https://github.com/assistant-ui/assistant-ui-assistant-api-history) - 
 - [HubSpot/hubspot-cli](https://github.com/HubSpot/hubspot-cli) - A CLI for HubSpot
-- [firecrawl/firegraph](https://github.com/firecrawl/firegraph) - 📈 Create beautiful graphs in seconds. Plot github stars or your own csvs. Think ray.so for graphs. Built by the Firecrawl team.
+- [firecrawl/firegraph](https://github.com/firecrawl/firegraph) - 🔥📈 Create beautiful graphs in seconds. Plot github stars or your own csvs. Think ray.so for graphs. Built by the Firecrawl team.
 - [dominicwhyte/email-enricher](https://github.com/dominicwhyte/email-enricher) - Email Enricher is a free, offline alternative to Clearbit for enriching emails. Determine if an email likely belongs to a Fortune 1000 company.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [justboil/admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React Next Tailwind 4.x admin dashboard template with typescript and dark mode.
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
@@ -4930,7 +4943,7 @@
 - [MTG/essentia.js](https://github.com/MTG/essentia.js) - JavaScript library for music/audio analysis and processing powered by Essentia WebAssembly
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [technovangelist/videoprojects](https://github.com/technovangelist/videoprojects) - 
 - [ijc8/scorecard](https://github.com/ijc8/scorecard) - Tiny, self-contained generative music programs as QR codes
 - [rajput-hemant/react-template-vite](https://github.com/rajput-hemant/react-template-vite) - A Minimal ⚛️ React Starter Template with Vite, TailwindCSS, and Typescript pre-configured with ESLint, Prettier and Husky.
@@ -5249,7 +5262,7 @@
 - [steven-tey/extrapolate](https://github.com/steven-tey/extrapolate) - Age transformation AI app powered by Next.js, Vercel, Replicate, Upstash, and Cloudflare R2 + Workers.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
 - [HakkaOfDev/ts-next-chakra-motion-kit](https://github.com/HakkaOfDev/ts-next-chakra-motion-kit) - Starter kit with Next.js, Chakra-UI, Framer-Motion in Typescript. Internationalization, SEO, Components, Theme (dark/light) and more...
@@ -5345,7 +5358,7 @@
 - [yosevu/react-content-script](https://github.com/yosevu/react-content-script) - An starter project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usi
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [paulphys/spotify-next-auth-token-rotation](https://github.com/paulphys/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
+- [eigenpaul/spotify-next-auth-token-rotation](https://github.com/eigenpaul/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - 
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [matthewwong525/linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) - Host your second brain for free with Next.JS and Tailwind v3
@@ -5539,7 +5552,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [haaarshsingh/kmenu](https://github.com/haaarshsingh/kmenu) - The perfect ⌘K menu
-- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, 🔐 Lucia Auth,  ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright,📋 React Hook Form,◽Fro
+- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter from the 🐻 Beastudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 B
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [bkper/clasp-types](https://github.com/bkper/clasp-types) - A d.ts generator for clasp projects
