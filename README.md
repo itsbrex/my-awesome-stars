@@ -79,9 +79,9 @@
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [V](#v)
+- [VBA](#vba)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
-- [Visual Basic](#visual-basic)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
@@ -713,7 +713,6 @@
 - [dayvonjersen/ableton-project-version-control-thing](https://github.com/dayvonjersen/ableton-project-version-control-thing) - :musical_score: :floppy_disk: Semi-automatic version control for Ableton Live™ projects
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [nikivdev/alfred-web-searches](https://github.com/nikivdev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
-- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [nikivdev/alfred-my-mind](https://github.com/nikivdev/alfred-my-mind) - Alfred workflow to search through my notes and bookmarks
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [deanishe/awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
@@ -2604,7 +2603,7 @@
 - [evertschone/live_clip_search](https://github.com/evertschone/live_clip_search) - A tool that allows you to search for and play clips in Ableton Live by name.
 - [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT models 🤖💬 It also allows image generation/editing/understanding 🖼️, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
-- [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
+- [linsa-io/chrome-extensions](https://github.com/linsa-io/chrome-extensions) - Awesome Chrome Extensions
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 - [sonigy/YCS](https://github.com/sonigy/YCS) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
@@ -2637,7 +2636,7 @@
 - [cseelus/monego](https://github.com/cseelus/monego) - The beloved Monaco monospaced font, recreated with a bold and italic variant. Finally.
 - [clerk/clerk-nextjs-examples](https://github.com/clerk/clerk-nextjs-examples) - Official Clerk.dev Next.js examples repository. See how you can build all kinds of forms using Clerk!
 - [joebuhlig/alfred-obsidian-projects](https://github.com/joebuhlig/alfred-obsidian-projects) - Alfred Workflow for managing project folders and note files in Obsidian.
-- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [argyleink/Kung-Fury-Theme](https://github.com/argyleink/Kung-Fury-Theme) - 80's dark retro theme for VS Code and Sublime Text
 - [naver/d2codingfont](https://github.com/naver/d2codingfont) - D2 Coding 글꼴
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -2684,7 +2683,7 @@
 - [ptrkstr/AbletonLiveClyphXExamples](https://github.com/ptrkstr/AbletonLiveClyphXExamples) - Examples of ClyphX commands
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
-- [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
+- [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
 - [rekordcloud/companion-app-releases](https://github.com/rekordcloud/companion-app-releases) - Repository to store released versions of the Rekordcloud Companion App
 - [endearing-fauna/m4l-helloworld-binaries](https://github.com/endearing-fauna/m4l-helloworld-binaries) - amxd binary files with minimal configuration, for science
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
@@ -2848,7 +2847,9 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [kivilaid/plugin-marketplace](https://github.com/kivilaid/plugin-marketplace) - Claude Code plugin marketplace showcasing all component types
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Sanix-Darker/falla](https://github.com/Sanix-Darker/falla) - A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc...
 - [safety-research/petri](https://github.com/safety-research/petri) - An alignment auditing agent capable of quickly exploring alignment hypothesis
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
@@ -2861,7 +2862,6 @@
 - [firstbatchxyz/mem-agent-mcp](https://github.com/firstbatchxyz/mem-agent-mcp) - mem-agent mcp server
 - [DannyMac180/mcp-think-tool](https://github.com/DannyMac180/mcp-think-tool) - An MCP server implementing the think tool for Claude
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
-- [b-open-io/prompts](https://github.com/b-open-io/prompts) - prompts for generating powerful code using open-protocols
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) - 
 - [graphql-python/graphql-server](https://github.com/graphql-python/graphql-server) - This is the core package for using GraphQL in a custom server easily
@@ -3462,7 +3462,7 @@
 - [jmoso13/jukebox-diffusion](https://github.com/jmoso13/jukebox-diffusion) - 
 - [mhrice/RemFx](https://github.com/mhrice/RemFx) - General Purpose Audio Effect Removal
 - [csteinmetz1/wavebeat](https://github.com/csteinmetz1/wavebeat) - End-to-end beat and downbeat tracking in the time domain.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [RetroCirce/HTS-Audio-Transformer](https://github.com/RetroCirce/HTS-Audio-Transformer) - The official code repo of "HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection"
 - [Gariscat/loopy](https://github.com/Gariscat/loopy) - A data framework for music information retrieval focusing on electronic music.
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
@@ -3514,7 +3514,7 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [briansemrau/MIDI-LLM-tokenizer](https://github.com/briansemrau/MIDI-LLM-tokenizer) - Tools for converting .mid files into text for training large language models
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
@@ -3760,7 +3760,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [rhohndorf/Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
-- [coreylowman/rl_simply](https://github.com/coreylowman/rl_simply) - Simple pytorch implementations of RL algorithms
+- [chelsea0x3b/rl_simply](https://github.com/chelsea0x3b/rl_simply) - Simple pytorch implementations of RL algorithms
 - [SilasMarvin/bdemr](https://github.com/SilasMarvin/bdemr) - Been There Done That With an Enhanced Memory and Recall
 - [SilasMarvin/Episodic-Reinforcement-Learning-With-Associative-Memory-Example](https://github.com/SilasMarvin/Episodic-Reinforcement-Learning-With-Associative-Memory-Example) - This is an example of Episodic Reinforcement Learning With Associative Memory using Google's Jax library with OpenAI's Cart Pole Environment
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -4286,7 +4286,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [amydevs/AbletonLiveThemeConverter](https://github.com/amydevs/AbletonLiveThemeConverter) - 
 - [clintburgos/ableton-git](https://github.com/clintburgos/ableton-git) - wrapper for git that ensures the best settings for versioning Ableton Live projects
-- [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
+- [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 - [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
@@ -4321,6 +4321,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [kitlith/rseq_rs](https://github.com/kitlith/rseq_rs) - RSEQ assembler, disassembler, and midi converter
 - [icaroferre/AudioHit](https://github.com/icaroferre/AudioHit) - Rust-based CLI for batch processing audio samples.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [kejadlen/dark-sky.alfredworkflow](https://github.com/kejadlen/dark-sky.alfredworkflow) - A Dark Sky workflow for Alfred
 
 ## SCSS 
@@ -4350,9 +4351,9 @@
 
 - [mmcgraw73/cursor-notes](https://github.com/mmcgraw73/cursor-notes) - 
 - [kanopi/training-video-generator](https://github.com/kanopi/training-video-generator) - 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Sanix-Darker/localhost.https](https://github.com/Sanix-Darker/localhost.https) - Bring https to your localhost in one command line.
 - [Divyanshubansaldb/claude-code-session-manager](https://github.com/Divyanshubansaldb/claude-code-session-manager) - Claude code slash commands creation for session management
+- [b-open-io/prompts](https://github.com/b-open-io/prompts) - prompts for generating powerful code using open-protocols
 - [daikikatsuragawa/clasp-action](https://github.com/daikikatsuragawa/clasp-action) - This action uses clasp to push or deploy to Google Apps Script.
 - [SatyrDiamond/compatibilityfreak](https://github.com/SatyrDiamond/compatibilityfreak) - 
 - [hikarubw/claude-action-auth](https://github.com/hikarubw/claude-action-auth) - Simple authentication setup tool for Claude Code Action on GitHub
@@ -4638,7 +4639,6 @@
 - [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
 - [nick-lvov-dev/typescript-explicit-types](https://github.com/nick-lvov-dev/typescript-explicit-types) - Generate explicit type annotation from inferred type in TypeScript
@@ -4686,7 +4686,7 @@
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [gronxb/hot-updater](https://github.com/gronxb/hot-updater) - A self-hostable OTA update solution for React Native (Alternative to CodePush)
 - [pelikhan/action-genai-pull-request-descriptor](https://github.com/pelikhan/action-genai-pull-request-descriptor) - GitHub Action that generates a Pull Request description using GenAI
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
@@ -4809,7 +4809,7 @@
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [CarcajadaArtificial/lunchbox](https://github.com/CarcajadaArtificial/lunchbox) - UI Library 🍱 for Deno 🦕 Fresh 🍋
 - [codespin-ai/codespin-chrome-extension](https://github.com/codespin-ai/codespin-chrome-extension) - CodeSpin.AI Chrome Plugin
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [thorwebdev/webcam-audio-description-ai](https://github.com/thorwebdev/webcam-audio-description-ai) - Capture webcam via browser, generate text descriptions with Google Gemini, generate speech with ElevenLabs
 - [RhysSullivan/tenant-kit](https://github.com/RhysSullivan/tenant-kit) - A collection of documentation, components, and resources for building multi-tenant applications.
 - [virattt/financial-agent-ui](https://github.com/virattt/financial-agent-ui) - Financial agent + generative UI
@@ -4944,7 +4944,7 @@
 - [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
 - [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
-- [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper
+- [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Perplexity Inspired Answer Engine
 - [kaarthik108/ohno](https://github.com/kaarthik108/ohno) - ohno - a lightning-fast AI chatbot built with the Hono.js framework, React, and Tailwind CSS
 - [evanpurkhiser/prolink-tools](https://github.com/evanpurkhiser/prolink-tools) - User friendly tools for accessing and using PRO DJ LINK information.
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
@@ -5268,7 +5268,7 @@
 - [mausworks/tidier](https://github.com/mausworks/tidier) - The file & folder name formatter
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
 - [lachenmayer/graphql-scraper](https://github.com/lachenmayer/graphql-scraper) - Extract structured data from the web using GraphQL.
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
 - [3Alan/chatpdf-demo](https://github.com/3Alan/chatpdf-demo) - This is the minimum implementation demo of ChatPDF, which answers related questions about PDF.
 - [3Alan/DocsMind](https://github.com/3Alan/DocsMind) - 🤖 DocsMind allows you to chat with your docs and summarize your docs, support pdf, md.
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
@@ -5779,8 +5779,8 @@
 - [microsoft/app-store-vsts-extension](https://github.com/microsoft/app-store-vsts-extension) - Visual Studio Team Services (VSTS) extension for performing continuous delivery to the App Store store from your automated CI builds
 - [janbiasi/ableton-tools](https://github.com/janbiasi/ableton-tools) - A toolbelt for music artisans working with Ableton Live
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
+- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
 - [solobat/Steward](https://github.com/solobat/Steward) - A command launcher for Chrome
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal is a push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
@@ -5816,6 +5816,10 @@
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
+## VBA 
+
+- [maxrice/excel-geocoding-tool](https://github.com/maxrice/excel-geocoding-tool) - Easy to use Geocoding tool for Excel.
+
 ## Vala 
 
 - [ensemblesaw/ensembles-app](https://github.com/ensemblesaw/ensembles-app) - A digital arranger workstation powered by FluidSynth
@@ -5825,10 +5829,6 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [ervandew/supertab](https://github.com/ervandew/supertab) - Perform all your vim insert mode completions with Tab
 - [dakrone/dakrone-dotfiles](https://github.com/dakrone/dakrone-dotfiles) - misc configuration files
-
-## Visual Basic 
-
-- [maxrice/excel-geocoding-tool](https://github.com/maxrice/excel-geocoding-tool) - Easy to use Geocoding tool for Excel.
 
 ## Visual Basic .NET 
 
