@@ -545,7 +545,6 @@
 - [mrcrypster/github-stars-stats](https://github.com/mrcrypster/github-stars-stats) - Github repositories stars and forks stats archive with historical data
 - [GinoLucianoRojo/ableton](https://github.com/GinoLucianoRojo/ableton) - Parser for Ableton Live's .als file format
 - [tanaikech/ImgApp](https://github.com/tanaikech/ImgApp) - This is a library of image tools for Google Apps Script.
-- [techstreams/TSFormTranslator](https://github.com/techstreams/TSFormTranslator) - A Google Apps Script for Google Forms which translates a form created in English into one of 79 different languages supported by Google Translate.
 - [mpeterson2/save-session](https://github.com/mpeterson2/save-session) - An Atom package to restore your session.
 - [wistia/fresh-url](https://github.com/wistia/fresh-url) - Drop this script on your page and enjoy the freshest of URLs
 - [Pathgather/please-wait](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads.
@@ -825,7 +824,6 @@
 - [ireost/GoogleAppsScript](https://github.com/ireost/GoogleAppsScript) - Setting custom Google forms
 - [jagatjeevan/googleForm](https://github.com/jagatjeevan/googleForm) - This is just a html for a google app script.
 - [mhawksey/G-Suite-Add-on-Dialogflow-Boilerplate](https://github.com/mhawksey/G-Suite-Add-on-Dialogflow-Boilerplate) - 
-- [techstreams/TSDataTable](https://github.com/techstreams/TSDataTable) - Simple, Elegant Data Tables for Google Sheets & Sites
 - [nimezhu/sheetid](https://github.com/nimezhu/sheetid) - google chrome extension to extract sheet id
 - [theianchan/base-sheets-daily](https://github.com/theianchan/base-sheets-daily) - Chrome extension with Google Sheets backend
 - [pickuperast/google_script_post_get_to_web](https://github.com/pickuperast/google_script_post_get_to_web) - 
@@ -1492,14 +1490,6 @@
 - [oneezy/apps-sheet-to-form](https://github.com/oneezy/apps-sheet-to-form) - Script that generates Google Forms from a Google Sheet.
 - [tanaikech/HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) - This is a Google Apps Script library for parsing the form object from HTML form and appending the submitted values to the Spreadsheet.
 - [nickplucker/dynamic-google-forms](https://github.com/nickplucker/dynamic-google-forms) - Google Apps Script to dynamically update a Google Form Dropdown from a Google Sheet
-- [techstreams/stripe-apps-script](https://github.com/techstreams/stripe-apps-script) - Sample code for Stripe API within Google Apps Script
-- [techstreams/Apps-Script-TestApp-Library](https://github.com/techstreams/Apps-Script-TestApp-Library) - Small Apps Script service to add unit testing to your project
-- [techstreams/Gabriel](https://github.com/techstreams/Gabriel) - Gabriel - The Markdown Angel for Google Docs
-- [techstreams/workspacedevs.com](https://github.com/techstreams/workspacedevs.com) - A directory of Google Workspace and Apps Script Developers.
-- [techstreams/firebase-cloudfunctions-examples](https://github.com/techstreams/firebase-cloudfunctions-examples) - Collection of example Firebase Cloud Functions to demonstrate backend support for Google Apps Script
-- [techstreams/TSDynamicUrls](https://github.com/techstreams/TSDynamicUrls) - Google Apps Scripts for leveraging the URL power of Google document! 💥
-- [techstreams/TSFormBot](https://github.com/techstreams/TSFormBot) - TSFormBot ... a Google Form Hangouts Chat Bot powered by Google Apps Script.
-- [techstreams/TSCron](https://github.com/techstreams/TSCron) - TSCron ... a Google Form based Cron scheduler powered by Google Apps Script.
 - [czue/google-forms-emailer](https://github.com/czue/google-forms-emailer) - A google apps script to send emails from a google sheet.
 - [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) - This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 - [aliciawilliams/analyzingtext](https://github.com/aliciawilliams/analyzingtext) - Demo using Google Forms, Cloud Natural Language, Google Sheets, and Apps Script to analyze vacation rental reviews
@@ -2386,6 +2376,7 @@
 
 ## Others 
 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [explorium-ai/integrations-templates](https://github.com/explorium-ai/integrations-templates) - Ready-to-use automation templates for AI-powered data enrichment with n8n and Make workflows
 - [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
 - [lukerf89/claude-agent-orchestration](https://github.com/lukerf89/claude-agent-orchestration) - Orchestrate development with specialized Claude Code agents using TDD principles. Break complex features into atomic tasks through structured agent collaboration.
@@ -2393,8 +2384,6 @@
 - [Cfomodz/community-use](https://github.com/Cfomodz/community-use) - Paid Workflows: Free for Community Use
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
-- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) - A curated list of 7766 awesome AI tools
 - [agenticsorg/.github](https://github.com/agenticsorg/.github) - The Agentics Foundation is a vibrant community dedicated to innovation and collaboration in the field of human-AI integration.
 - [showlab/Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) - 💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.
@@ -2616,8 +2605,6 @@
 - [tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script) - This is a sample script for creating a PNG image with the alpha channel using Google Apps Script.
 - [pbtchinaa/emails_from_checkbox_googleappscript](https://github.com/pbtchinaa/emails_from_checkbox_googleappscript) - 
 - [testLPCP/Login-Form-Google-AppScript](https://github.com/testLPCP/Login-Form-Google-AppScript) - 
-- [techstreams/tsmarkmail](https://github.com/techstreams/tsmarkmail) - TSMarkMail Google Document Add-on Documentation
-- [techstreams/javascript-questions](https://github.com/techstreams/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [sachins0023/Whatsapp](https://github.com/sachins0023/Whatsapp) - Whatsapp like messenger app using nextJS
 - [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [bmatcuk/Create-Playlist.workflow](https://github.com/bmatcuk/Create-Playlist.workflow) - An OSX Automator Workflow for creating relative-pathed m3u playlists from audio files in the selected folder.
@@ -2847,7 +2834,6 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [kivilaid/plugin-marketplace](https://github.com/kivilaid/plugin-marketplace) - Claude Code plugin marketplace showcasing all component types
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Sanix-Darker/falla](https://github.com/Sanix-Darker/falla) - A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc...
@@ -2862,6 +2848,7 @@
 - [firstbatchxyz/mem-agent-mcp](https://github.com/firstbatchxyz/mem-agent-mcp) - mem-agent mcp server
 - [DannyMac180/mcp-think-tool](https://github.com/DannyMac180/mcp-think-tool) - An MCP server implementing the think tool for Claude
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
+- [b-open-io/prompts](https://github.com/b-open-io/prompts) - prompts for generating powerful code using open-protocols
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) - 
 - [graphql-python/graphql-server](https://github.com/graphql-python/graphql-server) - This is the core package for using GraphQL in a custom server easily
@@ -4351,9 +4338,9 @@
 
 - [mmcgraw73/cursor-notes](https://github.com/mmcgraw73/cursor-notes) - 
 - [kanopi/training-video-generator](https://github.com/kanopi/training-video-generator) - 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Sanix-Darker/localhost.https](https://github.com/Sanix-Darker/localhost.https) - Bring https to your localhost in one command line.
 - [Divyanshubansaldb/claude-code-session-manager](https://github.com/Divyanshubansaldb/claude-code-session-manager) - Claude code slash commands creation for session management
-- [b-open-io/prompts](https://github.com/b-open-io/prompts) - prompts for generating powerful code using open-protocols
 - [daikikatsuragawa/clasp-action](https://github.com/daikikatsuragawa/clasp-action) - This action uses clasp to push or deploy to Google Apps Script.
 - [SatyrDiamond/compatibilityfreak](https://github.com/SatyrDiamond/compatibilityfreak) - 
 - [hikarubw/claude-action-auth](https://github.com/hikarubw/claude-action-auth) - Simple authentication setup tool for Claude Code Action on GitHub
@@ -4670,7 +4657,7 @@
 - [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - ⬡ Deno to browser in seconds!
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [rocicorp/hello-zero](https://github.com/rocicorp/hello-zero) - 
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered CLI for background agents
 - [automcp-app/automcp](https://github.com/automcp-app/automcp) - 
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
