@@ -6110,7 +6110,6 @@
 - [emptypockets-dev/create-hubspot-project](https://github.com/emptypockets-dev/create-hubspot-project) - CLI to bootstrap new Hubspot projects.
 - [mindtown-ai/dynamic-prompt](https://github.com/mindtown-ai/dynamic-prompt) - This component allows you to dynamically render text fields and select inputs based on the provided data.
 - [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 🔥 Generate llms.txt and llms-full.txt files for any website!
-- [MassProspecting/mass-client](https://github.com/MassProspecting/mass-client) - Ruby client for MassProspecting API
 - [MassProspecting/intercept](https://github.com/MassProspecting/intercept) - Intercept AJAX / XHR calls to extract information / scraping.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [nainglinnkhant/shadcn-view-table](https://github.com/nainglinnkhant/shadcn-view-table) - Shadcn table component with server side sorting, pagination, filtering, and custom views. This is built on top of @sadmann17's shadcn-table.
