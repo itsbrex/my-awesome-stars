@@ -1070,7 +1070,6 @@
 - [publicsamples/Roland-Jupiter-4](https://github.com/publicsamples/Roland-Jupiter-4) - Sample Library
 - [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo CE: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free.
 - [itsbrex/installable-framer](https://github.com/itsbrex/installable-framer) - Use Framer components in your React project
-- [itsbrex/open-webui](https://github.com/itsbrex/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io) - 
 - [hissincn/suno-ai](https://github.com/hissincn/suno-ai) - Creat high quality songs from suno.ai by Javascript API.
 - [erl-j/neural-music-instrument-cloning-web-supplement](https://github.com/erl-j/neural-music-instrument-cloning-web-supplement) - 
@@ -1105,7 +1104,6 @@
 - [scil/mdsplit-js](https://github.com/scil/mdsplit-js) - 
 - [enginestein/Reversecord](https://github.com/enginestein/Reversecord) - A repository containing reverse engineered discord code
 - [remarkablemark/youtube-video-id](https://github.com/remarkablemark/youtube-video-id) - 📺 Extract the YouTube video ID from a string or URL.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vibertthio/beact](https://github.com/vibertthio/beact) - :guitar::art: DJ and VJ all by yourself in seconds !
 - [jagilley/pylectron](https://github.com/jagilley/pylectron) - An electron.js GUI wrapper for arbitrary Python scripts
 - [reedkavner/gif-viz](https://github.com/reedkavner/gif-viz) - 
@@ -2827,6 +2825,8 @@
 
 ## Python 
 
+- [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Context retrieval for AI agents across apps and databases
 - [graphql-python/flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application.
 - [MervinPraison/PraisonAI-SVC](https://github.com/MervinPraison/PraisonAI-SVC) - A unified framework that turns any PraisonAI Python package into a web service on Azure using just one file per package.
@@ -2944,6 +2944,7 @@
 - [zackees/aicode](https://github.com/zackees/aicode) - 
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [simonw/json-flatten](https://github.com/simonw/json-flatten) - Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 - [whyhow-ai/knowledge-table](https://github.com/whyhow-ai/knowledge-table) - Knowledge Table is an open-source package designed to simplify extracting and exploring structured data from unstructured documents.
 - [criteo/autofaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
@@ -3334,7 +3335,7 @@
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
 - [JohnSnowLabs/nlu](https://github.com/JohnSnowLabs/nlu) - 1 line for thousands of State of The Art NLP models in hundreds of languages  The fastest and most accurate way to solve text problems.
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
-- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
+- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - The first "code-first" agent framework for seamlessly planning and executing data analytics tasks.
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [KAIST-MACLab/PyTSMod](https://github.com/KAIST-MACLab/PyTSMod) - An open-source Python library for audio time-scale modification.
 - [sudosilico/sample-diffusion](https://github.com/sudosilico/sample-diffusion) - A Python library and CLI for generating audio samples using Harmonai Dance Diffusion models.
@@ -4482,6 +4483,8 @@
 - [iansinnott/svelte-chat-ui](https://github.com/iansinnott/svelte-chat-ui) - Chat with LLMs. Bring your own key. Keyboard-centric, mobile friendly, searchable.
 - [biplobsd/yst](https://github.com/biplobsd/yst) - Transfer/Move YouTube subscriptions from one account to another
 - [AbePlays/file-drop](https://github.com/AbePlays/file-drop) - Seamless file upload experience!
+- [itsbrex/open-webui](https://github.com/itsbrex/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you?
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -4807,7 +4810,6 @@
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component) - A multi-select component designed with shadcn/ui
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [DevLLM/anthropic-quickstarts](https://github.com/DevLLM/anthropic-quickstarts) - Chat front end pour Anthropic API
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze!
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -5344,7 +5346,7 @@
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [leolabs/iconnectivity-js](https://github.com/leolabs/iconnectivity-js) - A JS wrapper to communicate with iConnectivity devices
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 - [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
