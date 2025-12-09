@@ -331,6 +331,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [jomarkow/Audio-to-MIDI](https://github.com/jomarkow/Audio-to-MIDI) - Real time Audio to MIDI converter. Convert your sound into an editable music document.
 - [ddiakopoulos/modern-midi](https://github.com/ddiakopoulos/modern-midi) - :musical_score: C++11 MIDI file & realtime io library
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [sandormatyi/Sequoia](https://github.com/sandormatyi/Sequoia) - 808-style MIDI sequencer built around a Teensy LC board
@@ -2303,7 +2304,6 @@
 - [m1entus/SpotifyImporter](https://github.com/m1entus/SpotifyImporter) - Spotify library importer into Apple Music
 - [contentsync/SketchContentSync](https://github.com/contentsync/SketchContentSync) - Sync sketch files with google docs.
 - [AnthoPakPak/FastFinder](https://github.com/AnthoPakPak/FastFinder) - Bring up your Finder on any Space with a shortcut - Compatible with MacOS (confirmed up to Ventura). TotalFinder Visor replacement
-- [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [TalkingData/YourView](https://github.com/TalkingData/YourView) - YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [LiveEnhancementSuite/LESforMacOS](https://github.com/LiveEnhancementSuite/LESforMacOS) - Ableton Live, supercharged (on macOS)
@@ -2371,7 +2371,7 @@
 
 ## Others 
 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [explorium-ai/integrations-templates](https://github.com/explorium-ai/integrations-templates) - Ready-to-use automation templates for AI-powered data enrichment with n8n and Make workflows
 - [altera-al/project-sid](https://github.com/altera-al/project-sid) - 
 - [lukerf89/claude-agent-orchestration](https://github.com/lukerf89/claude-agent-orchestration) - Orchestrate development with specialized Claude Code agents using TDD principles. Break complex features into atomic tasks through structured agent collaboration.
@@ -3487,7 +3487,6 @@
 - [hasanfirnas/symbiote](https://github.com/hasanfirnas/symbiote) - Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.
 - [Music-and-Culture-Technology-Lab/omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
@@ -4208,7 +4207,7 @@
 - [sevagh/pq](https://github.com/sevagh/pq) - a command-line Protobuf parser with Kafka support and JSON output
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -4308,7 +4307,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [kitlith/rseq_rs](https://github.com/kitlith/rseq_rs) - RSEQ assembler, disassembler, and midi converter
 - [icaroferre/AudioHit](https://github.com/icaroferre/AudioHit) - Rust-based CLI for batch processing audio samples.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 - [kejadlen/dark-sky.alfredworkflow](https://github.com/kejadlen/dark-sky.alfredworkflow) - A Dark Sky workflow for Alfred
 
 ## SCSS 
@@ -4569,6 +4568,7 @@
 - [godbout/AlfredWorkflowUpdater](https://github.com/godbout/AlfredWorkflowUpdater) - add a background updater for your Alfred Workflow in under a minute ⏲️
 - [tjcages/snippet](https://github.com/tjcages/snippet) - a macOS quick link finder
 - [Jaysce/Spaceman](https://github.com/Jaysce/Spaceman) - A macOS app to view Spaces / Virtual Desktops in the menu bar
+- [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It) - A macOS GUI for youtube-dl
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [mr-pennyworth/alfred-extra-pane](https://github.com/mr-pennyworth/alfred-extra-pane) - Rich previews for Alfred script filters
@@ -4801,7 +4801,7 @@
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [CarcajadaArtificial/lunchbox](https://github.com/CarcajadaArtificial/lunchbox) - UI Library 🍱 for Deno 🦕 Fresh 🍋
 - [codespin-ai/codespin-chrome-extension](https://github.com/codespin-ai/codespin-chrome-extension) - CodeSpin.AI Chrome Plugin
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
 - [thorwebdev/webcam-audio-description-ai](https://github.com/thorwebdev/webcam-audio-description-ai) - Capture webcam via browser, generate text descriptions with Google Gemini, generate speech with ElevenLabs
 - [RhysSullivan/tenant-kit](https://github.com/RhysSullivan/tenant-kit) - A collection of documentation, components, and resources for building multi-tenant applications.
 - [virattt/financial-agent-ui](https://github.com/virattt/financial-agent-ui) - Financial agent + generative UI
