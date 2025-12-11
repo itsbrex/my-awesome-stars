@@ -2932,7 +2932,7 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
