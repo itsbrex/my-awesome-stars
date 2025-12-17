@@ -954,7 +954,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
@@ -2015,7 +2015,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
-- [LLNL/SAMRAI](https://github.com/LLNL/SAMRAI) - Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development
+- [llnl/SAMRAI](https://github.com/llnl/SAMRAI) - Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development
 - [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
 - [ariym/whisper-node](https://github.com/ariym/whisper-node) - Node.js bindings for OpenAI's Whisper. (C++ CPU version by ggerganov)
 - [Distributive-Network/PythonMonkey](https://github.com/Distributive-Network/PythonMonkey) - A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.
@@ -2532,7 +2532,7 @@
 
 ## devops 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -3313,7 +3313,7 @@
 - [arkemis-labs/shadcn-zod-form](https://github.com/arkemis-labs/shadcn-zod-form) - CLI tool to convert Zod schemas into shadcn/ui forms.
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
@@ -3708,7 +3708,7 @@
 
 ## java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [sderosiaux/every-single-day-i-tldr](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
@@ -4452,7 +4452,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -5516,7 +5516,6 @@
 - [janekb04/py2gpt](https://github.com/janekb04/py2gpt) - Convert Python code into JSON consumable by OpenAI's function API.
 - [UKPLab/gpl](https://github.com/UKPLab/gpl) - Powerful unsupervised domain adaptation method for dense retrieval. Requires only unlabeled corpus and yields massive improvement: "GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation o
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents).
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
@@ -7786,7 +7785,6 @@
 - [xavi-/node-copy-paste](https://github.com/xavi-/node-copy-paste) - A command line utility that allows read/write (i.e copy/paste) access to the system clipboard.
 - [mshick/flac-to-alac](https://github.com/mshick/flac-to-alac) - A simple bash script to losslessly convert a folder of FLAC files to ALAC files.
 - [tomimick/tomitool-vsext](https://github.com/tomimick/tomitool-vsext) - VSCode extension to add custom syntax hilighting to plain text files
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [dineshsonachalam/repo-using-markdown-autodocs](https://github.com/dineshsonachalam/repo-using-markdown-autodocs) - 
 - [siddharthkp/tinyreact.email](https://github.com/siddharthkp/tinyreact.email) - Top 3 React articles of the week in your inbox
 - [mrcrypster/github-stars-stats](https://github.com/mrcrypster/github-stars-stats) - Github repositories stars and forks stats archive with historical data
