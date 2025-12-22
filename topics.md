@@ -5313,7 +5313,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
-- [blefnk/relivator](https://github.com/blefnk/relivator) - 🏬 relivator: next.js 15 react 19 ecommerce template ▲ better-auth polar shadcn/ui tailwind drizzle orm typescript ts radix, postgres neon, app router saas commerce ecommerce shop pricing payments dark
+- [reliverse/relivator](https://github.com/reliverse/relivator) - 🏬 relivator: next.js 15 react 19 ecommerce template ▲ better-auth polar shadcn/ui tailwind drizzle orm typescript ts radix, postgres neon, app router saas commerce ecommerce shop pricing payments dark
 - [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everyth
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -5463,7 +5463,6 @@
 - [williamluke4/Nitro](https://github.com/williamluke4/Nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
-- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [mazipan/mazipan.space](https://github.com/mazipan/mazipan.space) - 👿 Codebase for mazipan.space
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [agustinusnathaniel/nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
@@ -9002,7 +9001,7 @@
 - [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
-- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
+- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - personal site. ships fast. has easter eggs.
 - [itsnitinr/vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio) - A VSCode themed developer portfolio built using Next.js
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲
 - [richardxhong/google-search](https://github.com/richardxhong/google-search) - 🔎 My personal website in the style and form of a google search
@@ -9952,7 +9951,6 @@
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [agustinusnathaniel/nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
@@ -10898,7 +10896,7 @@
 - [xk2800/TODO-app-fullstack-jamstack-nextjs](https://github.com/xk2800/TODO-app-fullstack-jamstack-nextjs) - A simple to-do PWA. Built with Next.js, Next Auth, Tailwind CSS & Airtable. (Made to try out airtable's abilities)
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
-- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
+- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - personal site. ships fast. has easter eggs.
 - [netlify-templates/kpop-stack](https://github.com/netlify-templates/kpop-stack) - Create a Remix app with Netlify, Tailwind, TypeScript and more!
 - [jaykaycodes/remix-chop-suey-stack](https://github.com/jaykaycodes/remix-chop-suey-stack) - Remix+EdgeDB+Tailwind+Fly.io=🖤
 - [koji/react_with_TailwindCSS](https://github.com/koji/react_with_TailwindCSS) - reactjs with Tailwind CSS
