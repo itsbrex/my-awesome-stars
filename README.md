@@ -262,7 +262,7 @@
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-16.0.0 [December 2025]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-16.0.0 [January 2026]
 - [rorywalsh/cabbage](https://github.com/rorywalsh/cabbage) - Framework for developing audio plugins with the Csound programming language.
 - [yeeking/ai-enhanced-audio-book](https://github.com/yeeking/ai-enhanced-audio-book) - A repository of AI-enhanced audio plugins written using C++, JUCE, libtorch, RTNeural and other libraries. Supports my book
 - [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A swift and unified toolkit for symbolic music processing
@@ -1398,7 +1398,6 @@
 - [crapthings/hardhat-dapp-starter](https://github.com/crapthings/hardhat-dapp-starter) - a dapp starter kit with modern workflow.
 - [crapthings/hardhat-parcel-dapp-starter](https://github.com/crapthings/hardhat-parcel-dapp-starter) - 
 - [wx-chevalier/web-examples](https://github.com/wx-chevalier/web-examples) - Lucid & Futuristic Production Boilerplates For Frontend(Web) Apps, React/RN/Vue, with TypeScript(Optional), Webpack 4/Parcel, MobX/Redux :dizzy: 多技术栈前端项目模板
-- [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [ravgeetdhillon/notion-bookmarks](https://github.com/ravgeetdhillon/notion-bookmarks) - A Next.js powered Chrome Extension to save weblinks to a Notion database
 - [j471n/next-hulu](https://github.com/j471n/next-hulu) - This web app is a clone of Hulu, a streaming service for movies and television shows. It utilizes the themoviedb API to retrieve data for the content that is displayed in the application. However, the
 - [itsbrex/ChatGPT-Cookies](https://github.com/itsbrex/ChatGPT-Cookies) - Chrome Extension to easily copy or export your ChatGPT cookies + user-agent to clipboard with one click.
@@ -2269,7 +2268,7 @@
 
 ## Nim 
 
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Effort free video editing!
 
 ## Nix 
 
@@ -2826,6 +2825,8 @@
 
 ## Python 
 
+- [arlanrakh/talk-to-girlfriend-ai](https://github.com/arlanrakh/talk-to-girlfriend-ai) - im busy building ai agents so why not let an ai talk to my girlfriend?
+- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence platform with 8 specialized Vertex AI agents monitoring 50+ sources - Built with Google ADK, Agent Engine, A2A protocol, Session Cache, and Memory Bank for intelligent fil
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
@@ -3509,7 +3510,7 @@
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
 - [YuchenJin/autolrs](https://github.com/YuchenJin/autolrs) - Automatic learning-rate scheduler
-- [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
+- [JIA-Lab-research/LISA](https://github.com/JIA-Lab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files.
 - [webpolis/mididings-arpeggiator](https://github.com/webpolis/mididings-arpeggiator) - An arpeggio generator which is easy to use and customize for achieving fabulous patterns
 - [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
@@ -4575,7 +4576,7 @@
 - [producthunt/producthunt-osx](https://github.com/producthunt/producthunt-osx) - The best new products, every day on Mac.
 - [krevis/MIDIApps](https://github.com/krevis/MIDIApps) - MIDI apps for Mac OS X: MIDI Monitor and SysEx Librarian.
 - [benwiggy/APPlayMIDI](https://github.com/benwiggy/APPlayMIDI) - A simple MIDI file player for MacOS.
-- [simonmeusel/MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - A efficent MacOS application automatically silencing ads of the spotify desktop app
+- [qmnl/MuteSpotifyAds](https://github.com/qmnl/MuteSpotifyAds) - A efficent MacOS application automatically silencing ads of the spotify desktop app
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [vanshg/MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!
@@ -5474,6 +5475,7 @@
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [antongolub/action-setup-bun](https://github.com/antongolub/action-setup-bun) - Setup GitHub Actions workflow with a specific version of Bun
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
+- [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [Rocketseat/umbriel](https://github.com/Rocketseat/umbriel) - 📪  Mail sending microservice with Node.js, TypeScript and MongoDB
 - [jkytoela/next-startd](https://github.com/jkytoela/next-startd) - ⚡ Free Next.js landing page template for SaaS products, online services and more.
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
