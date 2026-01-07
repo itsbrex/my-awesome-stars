@@ -2002,7 +2002,7 @@
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [mulab-mir/muchomusic](https://github.com/mulab-mir/muchomusic) - MuChoMusic is a benchmark for evaluating music understanding in multimodal audio-language models.
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
-- [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
+- [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - This repository is deprecated and will be archived
 - [MikeChan-HK/Gemini-agent-example](https://github.com/MikeChan-HK/Gemini-agent-example) - An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website. Ready to support ollama.... (Update when i am f
 - [urinieto/harmonixset](https://github.com/urinieto/harmonixset) - The Harmonix Set: Beats, Downbeats, and Structural Annotations for Pop Music
 - [bhaskatripathi/pyviralcontent](https://github.com/bhaskatripathi/pyviralcontent) - A package for analyzing content readability and virality potential.
@@ -2223,7 +2223,7 @@
 - [hugofloresgarcia/unloop](https://github.com/hugofloresgarcia/unloop) - a co-creative looper that uses generative modeling to **not** repeat itself.
 - [hugofloresgarcia/vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers!
 - [d3n7/riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion
-- [koil-music/regroove-m4l](https://github.com/koil-music/regroove-m4l) - Regroove is a Max for Live device that generates expressive drum rhythms using a learned understanding of groove ♬
+- [mxkrn/regroove-m4l](https://github.com/mxkrn/regroove-m4l) - Regroove is a Max for Live device that generates expressive drum rhythms using a learned understanding of groove ♬
 - [naotokui/M4L-CreativeGAN-Rhythm](https://github.com/naotokui/M4L-CreativeGAN-Rhythm) - Rhythm GAN/CAN player for Ableton Live / Max for Live
 - [mganss/Aicd](https://github.com/mganss/Aicd) - Acid pattern generator
 - [carsault/chord_extraction_prediction_lib](https://github.com/carsault/chord_extraction_prediction_lib) - 
@@ -2939,7 +2939,7 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -4617,6 +4617,7 @@
 
 ## TypeScript 
 
+- [numman-ali/n-skills](https://github.com/numman-ali/n-skills) - Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ilkerzg/ad-assets-generator](https://github.com/ilkerzg/ad-assets-generator) - 
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
@@ -5107,7 +5108,7 @@
 - [caffco/get-audio-duration](https://github.com/caffco/get-audio-duration) - Returns duration of an audio file via ffprobe
 - [jeroentvb/spicetify-combined-playlists](https://github.com/jeroentvb/spicetify-combined-playlists) - Spicetify custom app to create combined playlists
 - [dolbyio-samples/media-app-web-solidjs-audio-visualization](https://github.com/dolbyio-samples/media-app-web-solidjs-audio-visualization) - Create a Dolby.io Frontend Application To Display Waveform With Wavesurfer.js And Interactive Elements Using Konva In SolidJS
-- [koil-music/regroovejs](https://github.com/koil-music/regroovejs) - JavaScript library wrapping the `regroove` ONNX exported model
+- [mxkrn/regroovejs](https://github.com/mxkrn/regroovejs) - JavaScript library wrapping the `regroove` ONNX exported model
 - [edgestorejs/edgestore](https://github.com/edgestorejs/edgestore) - 
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [ruucm/shadergradient](https://github.com/ruucm/shadergradient) - Create beautiful moving gradients on Framer, Figma and React
@@ -5358,7 +5359,7 @@
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
 - [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
-- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Metadata parser for audio and video media files. Supports file and stream inputs in Node.js and browser environments, extracting format, tag, and duration information.
