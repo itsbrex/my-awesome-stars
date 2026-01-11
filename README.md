@@ -4310,7 +4310,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [kitlith/rseq_rs](https://github.com/kitlith/rseq_rs) - RSEQ assembler, disassembler, and midi converter
 - [icaroferre/AudioHit](https://github.com/icaroferre/AudioHit) - Rust-based CLI for batch processing audio samples.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [kejadlen/dark-sky.alfredworkflow](https://github.com/kejadlen/dark-sky.alfredworkflow) - A Dark Sky workflow for Alfred
 
 ## SCSS 
