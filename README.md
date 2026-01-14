@@ -967,7 +967,7 @@
 - [williamkapke/kapture](https://github.com/williamkapke/kapture) - Chrome DevTools Extension that enables browser automation through MCP
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
-- [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by its co-founder & CTO.
+- [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by Tuomas.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [TextQLLabs/crm-bot](https://github.com/TextQLLabs/crm-bot) - Intelligent Slack bot for Attio CRM integration using ReAct AI pattern
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -1034,7 +1034,7 @@
 - [sindresorhus/is-elevated](https://github.com/sindresorhus/is-elevated) - Check if the process is running with elevated privileges
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
-- [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
+- [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
 - [hasura/sphinx-graphiql](https://github.com/hasura/sphinx-graphiql) - Sphinx plugin that adds a GraphiQL directive so that you can embed an interactive GraphQL query explorer in your docs
 - [anvilco/graphql-introspection-tools](https://github.com/anvilco/graphql-introspection-tools) - A library to query and manipulate GraphQL Introspection Query results in some useful ways.
 - [zya/degrees-and-modifiers](https://github.com/zya/degrees-and-modifiers) - Ableton Live MIDI Generator Chords Device
@@ -2939,7 +2939,7 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for Agent Engineering: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage multi-agent systems.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -4200,6 +4200,7 @@
 
 ## Rust 
 
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage all your agents
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
@@ -4617,6 +4618,7 @@
 
 ## TypeScript 
 
+- [dzlau/stripe-supabase-saas-template](https://github.com/dzlau/stripe-supabase-saas-template) - 
 - [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) - 
 - [numman-ali/n-skills](https://github.com/numman-ali/n-skills) - Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -5690,7 +5692,7 @@
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
 - [satnaing/haru-api](https://github.com/satnaing/haru-api) - A RESTful API built with NodeJS, Express, TypeScript. Prisma and PostgreSQL are used as database. This API is developed with Test Driven Development approach.
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [williamluke4/Nitro](https://github.com/williamluke4/Nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
