@@ -966,7 +966,6 @@
 - [nhangen/universal-dev-env](https://github.com/nhangen/universal-dev-env) - 🚀 One-click setup for modern development environments with AI tools, cloud CLIs, and optimized containers
 - [williamkapke/kapture](https://github.com/williamkapke/kapture) - Chrome DevTools Extension that enables browser automation through MCP
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by Tuomas.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [TextQLLabs/crm-bot](https://github.com/TextQLLabs/crm-bot) - Intelligent Slack bot for Attio CRM integration using ReAct AI pattern
@@ -1465,7 +1464,7 @@
 - [ongakubu/gas-form-tips](https://github.com/ongakubu/gas-form-tips) - Useful tips for Google Forms made of Google Apps Script.
 - [yshir/gas-gform-gsheet](https://github.com/yshir/gas-gform-gsheet) - create google form by google sheet
 - [yuki-nagano/booking-system-with-GAS](https://github.com/yuki-nagano/booking-system-with-GAS) - A simple booking system using GAS(Google Apps Script) + Google Calendar + Google Forms
-- [levinunnink/html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2024 Script Editor)
+- [levinunnink/html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2026 Script Editor)
 - [image-charts/google-sheets-add-on-dependency-graph](https://github.com/image-charts/google-sheets-add-on-dependency-graph) - Insert a dependency graph in Google Sheets (custom formula)
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [temisan0x/nextjs-step-form](https://github.com/temisan0x/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
@@ -4618,6 +4617,7 @@
 
 ## TypeScript 
 
+- [8beeeaaat/touchdesigner-mcp](https://github.com/8beeeaaat/touchdesigner-mcp) - MCP server for TouchDesigner
 - [dzlau/stripe-supabase-saas-template](https://github.com/dzlau/stripe-supabase-saas-template) - 
 - [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) - 
 - [numman-ali/n-skills](https://github.com/numman-ali/n-skills) - Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills
@@ -4691,6 +4691,7 @@
 - [pelikhan/action-genai-pull-request-descriptor](https://github.com/pelikhan/action-genai-pull-request-descriptor) - GitHub Action that generates a Pull Request description using GenAI
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
 - [itsjustanks/n8n-nodes-attio](https://github.com/itsjustanks/n8n-nodes-attio) - 
@@ -4864,7 +4865,7 @@
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) - Send emails from your domain through Cloudflare for free. Self host on your account.
 - [lau1944/bunrest](https://github.com/lau1944/bunrest) - An express-like API for bun server
 - [badrap/valita](https://github.com/badrap/valita) - A typesafe validation & parsing library for TypeScript.
-- [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
+- [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [fedify-dev/fedify](https://github.com/fedify-dev/fedify) - ActivityPub server framework in TypeScript
 - [honojs/middleware](https://github.com/honojs/middleware) - monorepo for Hono third-party middleware/helpers/wrappers
 - [lobehub/lobe-tts](https://github.com/lobehub/lobe-tts) - 🎤 Lobe TTS - A high-quality & reliable TTS/STT library for Server and Browser
@@ -5073,7 +5074,7 @@
 - [balakhonoff/awesome-subgraphs](https://github.com/balakhonoff/awesome-subgraphs) - A curated list of awesome resources related to The Graph powered subgraph development.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [JacobLinCool/sdxl-api](https://github.com/JacobLinCool/sdxl-api) - SDXL API provides a seamless interface for image generation and retrieval using Stable Diffusion XL integrated with Cloudflare AI Workers. This API allows users to generate and manage images in a high
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [vignshwarar/AI-Employe](https://github.com/vignshwarar/AI-Employe) - Create browser automation as if you were teaching a human using GPT-4 Vision.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
