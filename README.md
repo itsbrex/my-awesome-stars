@@ -4278,7 +4278,7 @@
 - [cryscan/web-rwkv](https://github.com/cryscan/web-rwkv) - Implementation of the RWKV language model in pure WebGPU/Rust.
 - [lucacasonato/wgpu_cts_runner](https://github.com/lucacasonato/wgpu_cts_runner) - A minimal JS runtime built on Deno (deno_core / extensions) that can be used to test WebGPU CTS outside of full Deno.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [huboles/cellseq](https://github.com/huboles/cellseq) - generative midi sequencer
 - [anzbert/rusty_link](https://github.com/anzbert/rusty_link) - Rust wrapper for Ableton Link
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
@@ -5036,7 +5036,7 @@
 - [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) - The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [mathysth/bun-prisma-hono-inversify](https://github.com/mathysth/bun-prisma-hono-inversify) - This project has been completely rewritten and is available here: https://github.com/ae-creator/CosmosJS/tree/main
 - [AKclown/js-to-ts](https://github.com/AKclown/js-to-ts) - The vscode plugin converts  js/json/swagger/api  to typescript declaration
 - [tjx666/vscode-archive](https://github.com/tjx666/vscode-archive) - compress/decompress for .zip, .vsix, .crx(v3), .asar, .tgz, .gzip, .br, .tar
