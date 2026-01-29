@@ -469,7 +469,7 @@
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [Teyler7/dracula-typora-theme](https://github.com/Teyler7/dracula-typora-theme) - A dark theme for Typora inspired by the Dracula color scheme and Material Design.
 - [mubaidr/bulma](https://github.com/mubaidr/bulma) - Modern CSS framework based on Flexbox
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [abhayprasanna/abhayprasanna.github.io](https://github.com/abhayprasanna/abhayprasanna.github.io) - 
 - [titangene/quick-source-viewer-dark-theme](https://github.com/titangene/quick-source-viewer-dark-theme) - Dark theme for "Quick source viewer" (Chrome extension)
 - [lyket-dev/notion-embed](https://github.com/lyket-dev/notion-embed) - Copy and deploy this repo to easily create embeddable Lyket Notion widget
@@ -2941,7 +2941,7 @@
 - [outscraper/outscraper-python](https://github.com/outscraper/outscraper-python) - The library provides convenient access to the Outscraper API from applications written in the Python language. Allows using Outscraper's services from your code.
 - [kspviswa/pyOllaMx](https://github.com/kspviswa/pyOllaMx) - Your gateway to both Ollama & Apple MlX models
 - [tigrisdata-community/skypilot-training-demo](https://github.com/tigrisdata-community/skypilot-training-demo) - Train with big data on any cloud
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [SalesforceAIResearch/CRMArena](https://github.com/SalesforceAIResearch/CRMArena) - Official Repo for CRMArena and CRMArena-Pro
 - [RelevanceAI/relevanceai](https://github.com/RelevanceAI/relevanceai) - Home of the AI workforce - Multi-agent system, AI agents & tools
@@ -2953,7 +2953,7 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -4216,7 +4216,7 @@
 
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [ccheshirecat/chaser-oxide](https://github.com/ccheshirecat/chaser-oxide) - Undetectable, high-performance browser automation in Rust. Protocol-level stealth for Chromium.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI Coding Agent Terminal Session manager via tmux and git Worktrees
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
