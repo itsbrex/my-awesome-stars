@@ -2845,7 +2845,7 @@
 - [coleam00/your-claude-engineer](https://github.com/coleam00/your-claude-engineer) - Demonstration of an agent harness with access to tools like Slack, GitHub, and Linear so it can act as your own complete software engineer.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
 - [arlanrakh/talk-to-girlfriend-ai](https://github.com/arlanrakh/talk-to-girlfriend-ai) - im busy building ai agents so why not let an ai talk to my girlfriend?
-- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence platform with 8 specialized Vertex AI agents monitoring 50+ sources - Built with Google ADK, Agent Engine, A2A protocol, Session Cache, and Memory Bank for intelligent fil
+- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
