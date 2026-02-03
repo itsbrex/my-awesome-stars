@@ -2196,6 +2196,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - My portfolio with Next.js & Markdown
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
 - [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - personal site. ships fast. has easter eggs.
@@ -3036,7 +3037,6 @@
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools
 - [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
 - [robocorp/robocorp](https://github.com/robocorp/robocorp) - Create 🐍 Python AI Actions and 🤖 Automations, and deploy & operate them anywhere
-- [modal-labs/llm-finetuning](https://github.com/modal-labs/llm-finetuning) - Guide for fine-tuning Llama/Mistral/CodeLlama models and more
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [pstirparo/machofile](https://github.com/pstirparo/machofile) - machofile is a module to parse Mach-O binary files
 - [Adphi/AbletonMidiExport](https://github.com/Adphi/AbletonMidiExport) - 
@@ -5256,7 +5256,7 @@
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [codedamn/teach.codedamn.com](https://github.com/codedamn/teach.codedamn.com) - 
-- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - MIDI SoundFont/DLS player and editor written in JavaScript.
+- [spessasus/SpessaSynth](https://github.com/spessasus/SpessaSynth) - MIDI SoundFont/DLS player and editor written in TypeScript.
 - [Jaggernaut555/midi-mixer-spotify](https://github.com/Jaggernaut555/midi-mixer-spotify) - Control spotify with a midi mixer plugin
 - [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - 
 - [notochord/playback](https://github.com/notochord/playback) - A chord player, and a language for describing musical styles
@@ -5476,7 +5476,6 @@
 - [xom9ikk/dotenv](https://github.com/xom9ikk/dotenv) - GitHub Action to read .env file and add variables to GITHUB_ENV
 - [luqmanoop/sync-dotenv](https://github.com/luqmanoop/sync-dotenv) - Keep your .env in sync with .env.example
 - [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js 16. All the tools you need to build your next project ⚡️
@@ -5602,7 +5601,7 @@
 - [munky69rock/gas-google-form-notifier-to-slack](https://github.com/munky69rock/gas-google-form-notifier-to-slack) - Google Formの通知をGASでSlackに通知する
 - [ohmyform/api](https://github.com/ohmyform/api) - ✏️ Free open source Application Programming Interface API for OhMyForm ⛺
 - [ohmyform/ui](https://github.com/ohmyform/ui) - ✏️ Free open source Web User Interface for OhMyForm  ⛺
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
