@@ -1014,7 +1014,7 @@
 - [didando8a/gas-bundler-test](https://github.com/didando8a/gas-bundler-test) - Bundle all files gas files in one so it can tested in nodejs
 - [dtrlanz/gas-bundler](https://github.com/dtrlanz/gas-bundler) - A simple bundler for Google Apps Script projects
 - [galexandre81/api-store](https://github.com/galexandre81/api-store) - Contains all the public APIs listed in Phantombuster's API store. Pull requests welcome!
-- [lyubomyr-shaydariv/uu-webext](https://github.com/lyubomyr-shaydariv/uu-webext) - uU is a web browser extension stripping tracking data from URLs and bypassing redirection trackers (if possible)
+- [lyubomyr-shaydariv/uu-webext](https://github.com/lyubomyr-shaydariv/uu-webext) - uU is a web browser extension that sanitizes URLs by removing trackers and redirectors
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [zapier/zapier-platform](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [Abdel-Monaam-Aouini/nextjs-route-generator](https://github.com/Abdel-Monaam-Aouini/nextjs-route-generator) - A CLI tool to generate Next.js routes
@@ -1042,7 +1042,7 @@
 - [sindresorhus/is-elevated](https://github.com/sindresorhus/is-elevated) - Check if the process is running with elevated privileges
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
-- [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
+- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
 - [hasura/sphinx-graphiql](https://github.com/hasura/sphinx-graphiql) - Sphinx plugin that adds a GraphiQL directive so that you can embed an interactive GraphQL query explorer in your docs
 - [anvilco/graphql-introspection-tools](https://github.com/anvilco/graphql-introspection-tools) - A library to query and manipulate GraphQL Introspection Query results in some useful ways.
 - [zya/degrees-and-modifiers](https://github.com/zya/degrees-and-modifiers) - Ableton Live MIDI Generator Chords Device
@@ -3262,7 +3262,6 @@
 - [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Generator for Apple's HideMyEmail service. Generate multiple iCloud emails with ease!
 - [siddsax/XML-CNN](https://github.com/siddsax/XML-CNN) - Pytorch implementation of the paper Deep learning for extreme multi-label text classification
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [stjordanis/betterprompt](https://github.com/stjordanis/betterprompt) - Test suite for LLM prompts
 - [simonw/llm-llama-cpp](https://github.com/simonw/llm-llama-cpp) - LLM plugin for running models using llama.cpp
 - [taketwo/llm-ollama](https://github.com/taketwo/llm-ollama) - LLM plugin providing access to models running on an Ollama server
@@ -4683,7 +4682,7 @@
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [fuma-nama/discord-bot-template](https://github.com/fuma-nama/discord-bot-template) - Best Discord Bot template with Dashboard and Documentation
 - [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
-- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
+- [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
@@ -4704,7 +4703,7 @@
 - [OpenAgentPlatform/Dive](https://github.com/OpenAgentPlatform/Dive) - Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨
 - [canva-public/dependency-tree](https://github.com/canva-public/dependency-tree) - Tool to generate a dependency graph from a given set of files/directories
 - [attio/react-data-list](https://github.com/attio/react-data-list) - React Data List is a library which helps you build data arrays by expressing items declaratively using React components. It was built primarily for React Native, but should work anywhere.
-- [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
+- [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [tobimori/effect-attio](https://github.com/tobimori/effect-attio) - yield* AttioApi; A strongly-typed, schema-driven SDK for the Attio REST API based on Effect's HttpClient
@@ -5077,6 +5076,7 @@
 - [foyer-work/merlin-node](https://github.com/foyer-work/merlin-node) - Merlin SDK Provides A Unified API To Interact With 20+ LLM Models.
 - [transitive-bullshit/chatgpt-well-known-plugin-finder](https://github.com/transitive-bullshit/chatgpt-well-known-plugin-finder) - Checks Alexa's top 1M websites for the presence of OpenAI's new .well-known/ai-plugin.json files
 - [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.
 - [nathanlesage/local-chat](https://github.com/nathanlesage/local-chat) - LocalChat is a ChatGPT-like chat that runs on your computer
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [EezyQuote/vscode-component-generator](https://github.com/EezyQuote/vscode-component-generator) - Generates files and folders in vscode for common components
@@ -5434,7 +5434,7 @@
 - [operandinc/operand-chrome-extension](https://github.com/operandinc/operand-chrome-extension) - Official chrome extension for operand.ai
 - [WebDev-Studios/notion-page-to-html](https://github.com/WebDev-Studios/notion-page-to-html) - NodeJS tool to convert public Notion pages to HTML from page ID
 - [paco0x/vscode-ai-rename](https://github.com/paco0x/vscode-ai-rename) - A Visual Studio Code extension that leverages OpenAI's API to generate naming suggestions and apply new names automatically to symbols in your code.
-- [yooreekz/lmnsqzy](https://github.com/yooreekz/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
+- [ricobuilds/lmnsqzy](https://github.com/ricobuilds/lmnsqzy) - 🍋 When Typescript meets the LemonSqueezy API
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
