@@ -205,7 +205,6 @@
 
 ## C# # 
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [elringus/bootsharp](https://github.com/elringus/bootsharp) - Use C# in web apps with comfort
@@ -2870,6 +2869,7 @@
 - [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) - Git Productivity Toolkit
 - [aipotheosis-labs/aci-mcp](https://github.com/aipotheosis-labs/aci-mcp) - MCP server(s) for Aipolabs ACI.dev
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [lukerf89/olm-to-eml-converter](https://github.com/lukerf89/olm-to-eml-converter) - Convert Outlook for Mac (.olm) archive files to individual .eml files for AI analysis
 - [firstbatchxyz/mem-agent-mcp](https://github.com/firstbatchxyz/mem-agent-mcp) - mem-agent mcp server
 - [DannyMac180/mcp-think-tool](https://github.com/DannyMac180/mcp-think-tool) - An MCP server implementing the think tool for Claude
@@ -5310,7 +5310,6 @@
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A Perplexity clone.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [joanroig/midi-to-scaler-chord-sets](https://github.com/joanroig/midi-to-scaler-chord-sets) - 🎵 Convert chord progressions from midi files to Plugin Boutique's Scaler sets.
-- [felixroos/loophole-letters](https://github.com/felixroos/loophole-letters) - 
 - [pagedotapp/cli](https://github.com/pagedotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
 - [scribbletune/scribbletune](https://github.com/scribbletune/scribbletune) - Create music with JavaScript
 - [mausworks/tidier](https://github.com/mausworks/tidier) - The file & folder name formatter
