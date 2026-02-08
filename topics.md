@@ -7484,7 +7484,6 @@
 - [joanroig/midi-to-scaler-chord-sets](https://github.com/joanroig/midi-to-scaler-chord-sets) - 🎵 Convert chord progressions from midi files to Plugin Boutique's Scaler sets.
 - [deckerego/Macropad_4chord_MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) - A take on the 4chord MIDI project with the Adafruit Macropad
 - [felixroos/strudel](https://github.com/felixroos/strudel) - 
-- [felixroos/loophole-letters](https://github.com/felixroos/loophole-letters) - 
 - [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - 
 - [itsbrex/chat-gpt-rest-api](https://github.com/itsbrex/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
 - [nudibranchrecords/hedron](https://github.com/nudibranchrecords/hedron) - Perform live shows with your three.js creations
