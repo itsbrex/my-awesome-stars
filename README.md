@@ -3767,7 +3767,7 @@
 - [peterw/Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
 - [chrisdonahue/nesmdb](https://github.com/chrisdonahue/nesmdb) - The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [rhohndorf/Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [chelsea0x3b/rl_simply](https://github.com/chelsea0x3b/rl_simply) - Simple pytorch implementations of RL algorithms
@@ -4610,7 +4610,7 @@
 - [cemolcay/MusicTheory](https://github.com/cemolcay/MusicTheory) - Universal music theory library for iOS, iPadOS, macOS, tvOS and watchOS in Swift
 - [rcsiko/xattr-editor](https://github.com/rcsiko/xattr-editor) - Simple GUI application to view/edit extended file attributes on macOS.
 - [brianmichel/Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
-- [isitafish/Traktor-Transition-Finder](https://github.com/isitafish/Traktor-Transition-Finder) - A tool for automatically finding the next song(s) to play when DJing using Traktor Pro.
+- [andersfischernielsen/Traktor-Transition-Finder](https://github.com/andersfischernielsen/Traktor-Transition-Finder) - A tool for automatically finding the next song(s) to play when DJing using Traktor Pro.
 - [bencmbrook/bpm](https://github.com/bencmbrook/bpm) - A lightweight beats-per-minute tapper for the Mac status bar.
 - [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
@@ -5180,7 +5180,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Full-Stack TypeScript ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
 - [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
 - [iansimon/magenta-js](https://github.com/iansimon/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
