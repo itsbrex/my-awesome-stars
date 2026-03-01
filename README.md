@@ -863,6 +863,7 @@
 - [adisakshya/speech-assist](https://github.com/adisakshya/speech-assist) - 💬 Google Chrome extension to read any text in the browser in many speech voices in different languages
 - [corypisano/drum-separator](https://github.com/corypisano/drum-separator) - Simple site to separate drum tracks from song files, using HPSS algorithm
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+- [plamere/SortYourMusic](https://github.com/plamere/SortYourMusic) - A web app that sorts your playlists by a wide range of  Echo Nest parameters
 - [ahmadudin/electron-instaPy-GUI](https://github.com/ahmadudin/electron-instaPy-GUI) - Graphic user interface for https://github.com/timgrossmann/InstaPy
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
@@ -1735,7 +1736,6 @@
 - [Poc275/iTunes-to-Spotify](https://github.com/Poc275/iTunes-to-Spotify) - iTunes to Spotify exporter
 - [adrienjoly/album-shelf](https://github.com/adrienjoly/album-shelf) - 💿 Collection of music records I love, maintained with Jekyll on Github Pages
 - [anvaka/ghindex](https://github.com/anvaka/ghindex) - Creates github index for similar repositories discovery
-- [plamere/SortYourMusic](https://github.com/plamere/SortYourMusic) - A web app that sorts your playlists by a wide range of  Echo Nest parameters
 - [saebekassebil/teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
 - [craigjsmith/iListenTo](https://github.com/craigjsmith/iListenTo) - Listening Statistics for Spotify
 - [louisfm16/spotify-player](https://github.com/louisfm16/spotify-player) - A new look for the spotify player
@@ -2843,7 +2843,7 @@
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [MervinPraison/praisonai-testgen](https://github.com/MervinPraison/praisonai-testgen) - AI-Powered Test Generation for Python/pytest - Built on PraisonAI Agents
 - [coleam00/your-claude-engineer](https://github.com/coleam00/your-claude-engineer) - Demonstration of an agent harness with access to tools like Slack, GitHub, and Linear so it can act as your own complete software engineer.
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [arlanrakh/talk-to-girlfriend-ai](https://github.com/arlanrakh/talk-to-girlfriend-ai) - im busy building ai agents so why not let an ai talk to my girlfriend? (i am single)
 - [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -2895,6 +2895,7 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [firecrawl/mineru-api](https://github.com/firecrawl/mineru-api) - 
 - [firecrawl/mendable-py](https://github.com/firecrawl/mendable-py) - Build Production Ready LLM Chat Apps in Minutes
@@ -4749,7 +4750,6 @@
 - [Ankur2606/Lazy-Waba](https://github.com/Ankur2606/Lazy-Waba) - A Smart Whatsapp/Discord Humanely Chat Automation Tool
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 - [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs) - HubSpot API NodeJS Client Libraries for V3 version of the API
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP) - Create MVPs with AI in seconds
 - [deepgram-devs/nextjs-live-transcription](https://github.com/deepgram-devs/nextjs-live-transcription) - Get started using Deepgram's Live Transcription with this Next.js demo app
