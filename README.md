@@ -863,7 +863,6 @@
 - [adisakshya/speech-assist](https://github.com/adisakshya/speech-assist) - 💬 Google Chrome extension to read any text in the browser in many speech voices in different languages
 - [corypisano/drum-separator](https://github.com/corypisano/drum-separator) - Simple site to separate drum tracks from song files, using HPSS algorithm
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [plamere/SortYourMusic](https://github.com/plamere/SortYourMusic) - A web app that sorts your playlists by a wide range of  Echo Nest parameters
 - [ahmadudin/electron-instaPy-GUI](https://github.com/ahmadudin/electron-instaPy-GUI) - Graphic user interface for https://github.com/timgrossmann/InstaPy
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
@@ -1736,6 +1735,7 @@
 - [Poc275/iTunes-to-Spotify](https://github.com/Poc275/iTunes-to-Spotify) - iTunes to Spotify exporter
 - [adrienjoly/album-shelf](https://github.com/adrienjoly/album-shelf) - 💿 Collection of music records I love, maintained with Jekyll on Github Pages
 - [anvaka/ghindex](https://github.com/anvaka/ghindex) - Creates github index for similar repositories discovery
+- [plamere/SortYourMusic](https://github.com/plamere/SortYourMusic) - A web app that sorts your playlists by a wide range of  Echo Nest parameters
 - [saebekassebil/teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
 - [craigjsmith/iListenTo](https://github.com/craigjsmith/iListenTo) - Listening Statistics for Spotify
 - [louisfm16/spotify-player](https://github.com/louisfm16/spotify-player) - A new look for the spotify player
@@ -2988,7 +2988,7 @@
 - [jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant](https://github.com/jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant) - This app leverages generative AI to intelligently manage your sales inbox and CRM, auto-draft replies using your sales playbook & company branding, and more.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [yapishu/icewalk](https://github.com/yapishu/icewalk) - like firecrawl.dev but free
 - [makenotion/datahub-tools](https://github.com/makenotion/datahub-tools) - simplify working with DataHub API endpoints
 - [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
@@ -3577,7 +3577,7 @@
 - [StefanHeng/Symbolic-Music-Generation](https://github.com/StefanHeng/Symbolic-Music-Generation) - Symbolic music generation taking inspiration from NLP and human composition process
 - [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A functional programming language and declarative system for describing 2D and 3D visuals
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
 - [yunlong10/LaunchpadGPT](https://github.com/yunlong10/LaunchpadGPT) - [ICMC 2023] LaunchpadGPT: Language Model as Music Visualization Designer on Launchpad
 - [jeffreyjohnens/MetaMIDIDataset](https://github.com/jeffreyjohnens/MetaMIDIDataset) - 
 - [alexanderattar/dsp](https://github.com/alexanderattar/dsp) - Digital Signal Processing - Audio Effects: A collection of Python scripts
@@ -4356,6 +4356,7 @@
 
 ## Shell 
 
+- [zm2231/z-audit](https://github.com/zm2231/z-audit) - Security audit skill for Claude Code / OpenCode - 7-phase methodology covering secrets, API auth, IDOR, infrastructure, and more
 - [snarktank/compound-product](https://github.com/snarktank/compound-product) - A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes
 - [VAMFI/claude-user-memory](https://github.com/VAMFI/claude-user-memory) - Autonomous agent substrate for Claude Code CLI. Research→Plan→Implement workflows with quality gates, TDD   enforcement, and multi-agent coordination. 4.8-5.5x faster development. Built on Anthropic's
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
@@ -4637,6 +4638,7 @@
 
 ## TypeScript 
 
+- [zm2231/agent-browser](https://github.com/zm2231/agent-browser) - z-agent-browser: Enhanced browser automation CLI for AI agents
 - [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) - ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [damianricobelli/phonefield](https://github.com/damianricobelli/phonefield) - Composable phone field primitive built with Base UI and libphonenumber-js
 - [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll) - chrome extension for better LLM chat navigation
@@ -4731,7 +4733,7 @@
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [gronxb/hot-updater](https://github.com/gronxb/hot-updater) - A self-hostable OTA update solution for React Native (Alternative to CodePush)
 - [pelikhan/action-genai-pull-request-descriptor](https://github.com/pelikhan/action-genai-pull-request-descriptor) - GitHub Action that generates a Pull Request description using GenAI
-- [leerob/directories](https://github.com/leerob/directories) - The Cursor & Windsurf community, find rules and MCPs
+- [leerob/directories](https://github.com/leerob/directories) - Find rules and MCP servers
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
