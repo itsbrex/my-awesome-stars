@@ -244,7 +244,7 @@
 - [carrierdown/mutateful](https://github.com/carrierdown/mutateful) - Add-on for Ableton Live that enables live coding functionality fully integrated into Live's session view.
 - [keijiro/PuppetTest](https://github.com/keijiro/PuppetTest) - An experiment in procedural dance animation
 - [Jamedjo/Raticon](https://github.com/Jamedjo/Raticon) - Turn folder icons into movie posters with imdb ratings.
-- [DavidSouthgate/itunes-to-spotify-playlist](https://github.com/DavidSouthgate/itunes-to-spotify-playlist) - Mirrored from GitLab
+- [southigator/itunes-to-spotify-playlist](https://github.com/southigator/itunes-to-spotify-playlist) - Mirrored from GitLab
 - [jackvincentnz/Itunes-Helper](https://github.com/jackvincentnz/Itunes-Helper) - Console Application for syncing folder structure into iTunes playlists
 - [BrianMulholland/itunes-artwork-export](https://github.com/BrianMulholland/itunes-artwork-export) - Iterates through your iTunes library, and exports the cover art for each album to a "folder.jpg" file - which is useful for Sonos or similar systems.
 - [pihalve/playlist-converter](https://github.com/pihalve/playlist-converter) - Converts iTunes playlists to Spotify playlists
@@ -525,7 +525,6 @@
 
 ## Clojure 
 
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [namin/metasolfeggio](https://github.com/namin/metasolfeggio) - computer-aided harmony and counterpoint
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
 - [digital-dj-tools/dj-data-converter](https://github.com/digital-dj-tools/dj-data-converter) - A command-line app for converting data files to and from different DJ software formats.
@@ -1599,6 +1598,7 @@
 - [xk2800/TODO-app-fullstack-jamstack-nextjs](https://github.com/xk2800/TODO-app-fullstack-jamstack-nextjs) - A simple to-do PWA. Built with Next.js, Next Auth, Tailwind CSS & Airtable. (Made to try out airtable's abilities)
 - [pnkjjsr/nextjs-pwa-firebaseauth-api-starterkit](https://github.com/pnkjjsr/nextjs-pwa-firebaseauth-api-starterkit) - nextjs-pwa-firebaseauth-api-starterkit
 - [kvokov/oh-my-fullstack](https://github.com/kvokov/oh-my-fullstack) - :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [gavinmn/nelson.co](https://github.com/gavinmn/nelson.co) - 🏡 My personal website and portfolio. Built using Next.js and deployed on Vercel.
 - [hackclub/theme-starter](https://github.com/hackclub/theme-starter) - 🐤 A sample Next.js project for getting started with MDX, Theme UI, & Hack Club Theme.
 - [myungjaeyu/nextjs-starter](https://github.com/myungjaeyu/nextjs-starter) - 🏯A starter project for Next.js with authentication
@@ -2876,7 +2876,6 @@
 - [browser-use/cdp-use](https://github.com/browser-use/cdp-use) - 🩹Pure CDP but type-safe in Python
 - [baryhuang/mcp-server-any-openapi](https://github.com/baryhuang/mcp-server-any-openapi) - A MCP server that enables Claude to discover and call any API endpoint through semantic search. Intelligently chunks OpenAPI specifications to handle large API documentation, with built-in request exe
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [vblagoje/openapi-llm](https://github.com/vblagoje/openapi-llm) - Convert and invoke OpenAPI specifications as LLM tool/function definitions
@@ -3001,7 +3000,7 @@
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g
 - [yuriwa/crewai-sheets-ui](https://github.com/yuriwa/crewai-sheets-ui) - Use google sheets as a gui for crewAI
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
 - [maximo3k/linkedin-sales-navigator-scraper](https://github.com/maximo3k/linkedin-sales-navigator-scraper) - LinkedIn Sales Navigator saved Search into CSV
@@ -4737,6 +4736,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [itsjustanks/n8n-nodes-attio](https://github.com/itsjustanks/n8n-nodes-attio) - 
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [PipedreamHQ/pipedream-connect-examples](https://github.com/PipedreamHQ/pipedream-connect-examples) - Collection of example apps showcasing the pipedream SDKs. Learn more https://pipedream.com/docs/connect.
@@ -4888,6 +4888,7 @@
 - [supaglue-labs/supaglue](https://github.com/supaglue-labs/supaglue) - Open source user-facing product integrations
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [cursorrules/getcursorrules](https://github.com/cursorrules/getcursorrules) - 
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
@@ -5164,7 +5165,7 @@
 - [trpc/examples-next-prisma-websockets-starter](https://github.com/trpc/examples-next-prisma-websockets-starter) - 🏓 tRPC Next.js WebSocket Starter
 - [mkosir/trpc-fe-boilerplate-next](https://github.com/mkosir/trpc-fe-boilerplate-next) - ⚒️ Minimal tRPC frontend Nextjs boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
 - [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
+- [vercel/kirimase](https://github.com/vercel/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [nathan20021/react-chord-detection](https://github.com/nathan20021/react-chord-detection) - 
 - [stackswithans/akkorder](https://github.com/stackswithans/akkorder) - A Typescript port of Adam Stark's C++ implementation of the chord recognition algorithm described in the paper : Real-Time Chord Recognition For Live Performance, A. M. Stark and M. D. Plumbley.
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
@@ -5740,7 +5741,6 @@
 - [GabriellArthur/DashGo-ReactJs](https://github.com/GabriellArthur/DashGo-ReactJs) - DashGo é uma aplicação em React para dashboard's em geral com paginas e paginação, login e sistema de inclusão de usuarios
 - [nextjs-components/nextjs-components](https://github.com/nextjs-components/nextjs-components) - A collection of React components, transcribed from https://vercel.com/design.
 - [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
