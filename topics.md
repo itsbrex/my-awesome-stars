@@ -475,7 +475,7 @@
 - [AImarkdown/main](https://github.com/AImarkdown/main) - Versatile App Creation: Build ChatGPT apps for mobile or desktop
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
@@ -702,7 +702,7 @@
 - [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
@@ -1824,7 +1824,7 @@
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [B0ney/xmodits-cli](https://github.com/B0ney/xmodits-cli) - Command line version of xmodits - A tool to rip samples from tracker modules.
 - [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - A universal converter for singing voice projects which is cross-platform and multi-lingual
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
+- [vercel/kirimase](https://github.com/vercel/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [bombshell-dev/args](https://github.com/bombshell-dev/args) - &lt;1kB CLI flag parser
@@ -2927,7 +2927,7 @@
 - [CarcajadaArtificial/lunchbox](https://github.com/CarcajadaArtificial/lunchbox) - UI Library 🍱 for Deno 🦕 Fresh 🍋
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -5416,7 +5416,7 @@
 - [ibnzUK/Next-Chrome-Starter](https://github.com/ibnzUK/Next-Chrome-Starter) - Next.js Chrome Extension Starter example application that demonstrates how to build a Chrome extension using Next.js. It provides a foundation for developing Chrome extensions with Next.js, React and 
 - [mkosir/trpc-fe-boilerplate-next](https://github.com/mkosir/trpc-fe-boilerplate-next) - ⚒️ Minimal tRPC frontend Nextjs boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
 - [trpc/examples-next-prisma-starter](https://github.com/trpc/examples-next-prisma-starter) - 🚀 tRPC starter repo with E2E-testing
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
+- [vercel/kirimase](https://github.com/vercel/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [udecode/plate-template](https://github.com/udecode/plate-template) - Minimal Plate template with React 19, Next 16, Tailwind 4, MCP.
 - [udecode/plate-playground-template](https://github.com/udecode/plate-playground-template) - Plate AI template with React 19, Next 16, Tailwind 4, MCP.
 - [amirfakhrullah/ecommerce-next13beta](https://github.com/amirfakhrullah/ecommerce-next13beta) - E-Commerce site built with Next.js App Router (and other packages like tRPC, Next-Auth, Prisma, etc)
@@ -8785,7 +8785,7 @@
 - [AureliaGuy/SyncUp](https://github.com/AureliaGuy/SyncUp) - This program syncs up Pandora, Spotify and iTunes. The HTTP library Requests posts the login information for Pandora, and retrieves the liked songs from the user’s account. Then, with the Spotify API,
 - [sanderdatema/Tune2Spotify](https://github.com/sanderdatema/Tune2Spotify) - Applescript that searches selected songs in iTunes in Spotify, puts them in an iTunes playlist when found and creates a Spotify link list of those songs
 - [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
-- [DavidSouthgate/itunes-to-spotify-playlist](https://github.com/DavidSouthgate/itunes-to-spotify-playlist) - Mirrored from GitLab
+- [southigator/itunes-to-spotify-playlist](https://github.com/southigator/itunes-to-spotify-playlist) - Mirrored from GitLab
 - [jasonwaters/SetListApp](https://github.com/jasonwaters/SetListApp) - A Java app that fetches setlists from setlist.fm and generates an iTunes playlist to match it.
 - [bclubb/iTunesScripts](https://github.com/bclubb/iTunesScripts) - applescripts that I use to maintain my itunes playlists
 - [sabberworm/iTunes-Playlist-Selector.alfredworkflow](https://github.com/sabberworm/iTunes-Playlist-Selector.alfredworkflow) - Allows one to quickly jump to the desired iTunes playlist without playing it
@@ -9856,7 +9856,7 @@
 
 ## rails 
 
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
+- [vercel/kirimase](https://github.com/vercel/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
