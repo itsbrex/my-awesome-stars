@@ -969,6 +969,7 @@
 
 ## automation 
 
+- [idorozin/linkedin-to-zap](https://github.com/idorozin/linkedin-to-zap) - Chrome extension to extract LinkedIn profile data and send it to Zapier, Make, or any webhook-based automation tool.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
 - [ccheshirecat/chaser-oxide](https://github.com/ccheshirecat/chaser-oxide) - Undetectable, high-performance browser automation in Rust. Protocol-level stealth for Chromium.
@@ -1672,6 +1673,7 @@
 
 ## chrome-extension 
 
+- [idorozin/linkedin-to-zap](https://github.com/idorozin/linkedin-to-zap) - Chrome extension to extract LinkedIn profile data and send it to Zapier, Make, or any webhook-based automation tool.
 - [vektori-ai/vektori-extension](https://github.com/vektori-ai/vektori-extension) - Never repeat yourself across AI :)
 - [jonathanbertholet/promptmanager](https://github.com/jonathanbertholet/promptmanager) - Open Source Prompt Manager for ChatGPT, Supports 19 LLMs & some cool features!
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
@@ -2575,7 +2577,7 @@
 
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
-- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
+- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server. FUCK AI!
 - [enginestein/Reversecord](https://github.com/enginestein/Reversecord) - A repository containing reverse engineered discord code
 - [Uo1428/ALL-IN-ONE-Discord-Bot-](https://github.com/Uo1428/ALL-IN-ONE-Discord-Bot-) - An advance discord bot with 500+ commands
 - [kabirjaipal/JUGNU-MUSIC](https://github.com/kabirjaipal/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
@@ -3774,6 +3776,7 @@
 
 ## javascript 
 
+- [idorozin/linkedin-to-zap](https://github.com/idorozin/linkedin-to-zap) - Chrome extension to extract LinkedIn profile data and send it to Zapier, Make, or any webhook-based automation tool.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [naiemofficial/Linkedin-bulk-connection-remover](https://github.com/naiemofficial/Linkedin-bulk-connection-remover) - An easiest solution to remove multiple Linkedin connections even with excluding specific Linkedin users as your wish.
@@ -4860,7 +4863,7 @@
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
+- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server. FUCK AI!
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
 - [markusstraub/mdsplit](https://github.com/markusstraub/mdsplit) - mdsplit is a python command line tool to split Markdown files into chapters at a given heading level
@@ -6206,7 +6209,6 @@
 - [zm2231/z-audit](https://github.com/zm2231/z-audit) - Security audit skill for Claude Code / OpenCode - 7-phase methodology covering secrets, API auth, IDOR, infrastructure, and more
 - [zm2231/agent-browser](https://github.com/zm2231/agent-browser) - z-agent-browser: Enhanced browser automation CLI for AI agents
 - [damianricobelli/phonefield](https://github.com/damianricobelli/phonefield) - Composable phone field primitive built with Base UI and libphonenumber-js
-- [idorozin/linkedin-to-zap](https://github.com/idorozin/linkedin-to-zap) - Chrome extension to extract LinkedIn profile data and send it to Zapier, Make, or any webhook-based automation tool.
 - [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll) - chrome extension for better LLM chat navigation
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [jacob-bd/notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli) - 
@@ -6362,7 +6364,7 @@
 - [trolex213/scraper](https://github.com/trolex213/scraper) - scrape
 - [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API
 - [trevor-nichols/cursorrules-tools](https://github.com/trevor-nichols/cursorrules-tools) - An assortment of tools to assist with development in the Cursor IDE
-- [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) - AGENTS.md/CLAUDE.md generator and ExecPlan harness for Codex, Claude Code, Cursor, Antigravity, OpenCode and other coding agents
+- [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) - AGENTS.md/CLAUDE.md generator and ExecPlan harness for Codex, Claude Code, Cursor, Antigravity, OpenCode and other coding agents. Use api keys or authenticate with Codex
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
 - [mattzcarey/mcp-thinking](https://github.com/mattzcarey/mcp-thinking) - thinking tool for claude desktop/mcp clients using Deepseek reasoner
 - [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) - Di♪♪Rhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion
@@ -8273,7 +8275,6 @@
 - [scotato/sleeper](https://github.com/scotato/sleeper) - An ambient new tab browser extension
 - [kiliman/tailwindui-crawler](https://github.com/kiliman/tailwindui-crawler) - tailwindui-crawler downloads the component HTML files locally
 - [Incognito95/apple-website](https://github.com/Incognito95/apple-website) - Here's a clone of the Apple website that I made
-- [RyanHan0127/Hackathon2021VibeChecker](https://github.com/RyanHan0127/Hackathon2021VibeChecker) - 
 - [ShubhamShaswat/expert-ai](https://github.com/ShubhamShaswat/expert-ai) - 
 - [antoinechalifour/notion-embed-rss](https://github.com/antoinechalifour/notion-embed-rss) - Embed RSS Feeds into your Notion pages
 - [jzgdev/4bars](https://github.com/jzgdev/4bars) - Ableton Live CLI - High Precision Loop Production and Asset Management
