@@ -598,6 +598,7 @@
 
 ## Go 
 
+- [wesm/agentsview](https://github.com/wesm/agentsview) - A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions. Supports Claude Code, Codex, Gemini, OpenCode, Copilot and many other agents.
 - [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
 - [kawakatz/macCookies](https://github.com/kawakatz/macCookies) - macCookies decrypt cookies stored in macOS browsers for pentesters.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -2184,7 +2185,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [Coderamrin/portfolio](https://github.com/Coderamrin/portfolio) - My portfolio with Next.js & Markdown
 - [ghoshnirmalya/nirmalyaghosh.com](https://github.com/ghoshnirmalya/nirmalyaghosh.com) - A personal portfolio built using Next.js, Chakra UI, SEO, MDX, and TypeScript
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
@@ -2558,7 +2558,7 @@
 - [aamir-sidd/GPT-4](https://github.com/aamir-sidd/GPT-4) - Brief introduction about GPT-4
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
 - [juanmorillios/List-CoreML-Models](https://github.com/juanmorillios/List-CoreML-Models) - A Big Awesome List CoreML Models.
-- [pyxelr/recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) - All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
+- [pyxelr/recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) - 📚 All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
 - [smyth64/music-production-links](https://github.com/smyth64/music-production-links) - 
 - [nikoszs/serum-copy](https://github.com/nikoszs/serum-copy) - 🌌 Install all serum presets in one go ⚡
 - [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
@@ -2874,6 +2874,7 @@
 - [browser-use/cdp-use](https://github.com/browser-use/cdp-use) - 🩹Pure CDP but type-safe in Python
 - [baryhuang/mcp-server-any-openapi](https://github.com/baryhuang/mcp-server-any-openapi) - A MCP server that enables Claude to discover and call any API endpoint through semantic search. Intelligently chunks OpenAPI specifications to handle large API documentation, with built-in request exe
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [vblagoje/openapi-llm](https://github.com/vblagoje/openapi-llm) - Convert and invoke OpenAPI specifications as LLM tool/function definitions
@@ -3806,6 +3807,7 @@
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [calclavia/DeepJ](https://github.com/calclavia/DeepJ) - A deep learning model for style-specific music generation.
 - [gpnoel/DeepRemix](https://github.com/gpnoel/DeepRemix) - Remixing Music with Deep Learning
@@ -4219,7 +4221,7 @@
 - [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) - Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization.
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sevagh/pq](https://github.com/sevagh/pq) - a command-line Protobuf parser with Kafka support and JSON output
@@ -4737,7 +4739,6 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [itsjustanks/n8n-nodes-attio](https://github.com/itsjustanks/n8n-nodes-attio) - 
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [PipedreamHQ/pipedream-connect-examples](https://github.com/PipedreamHQ/pipedream-connect-examples) - Collection of example apps showcasing the pipedream SDKs. Learn more https://pipedream.com/docs/connect.
@@ -5054,7 +5055,7 @@
 - [dotansimha/graphql-code-generator-community](https://github.com/dotansimha/graphql-code-generator-community) - 
 - [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
 - [cezaraugusto/babel-preset-modern-browser-extension](https://github.com/cezaraugusto/babel-preset-modern-browser-extension) - Babel preset used for creating browser extensions. Supports React and TypeScript.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [steveefemsc/twinny](https://github.com/steveefemsc/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
 - [steveefemsc/activepieces](https://github.com/steveefemsc/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
