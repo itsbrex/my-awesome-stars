@@ -2110,6 +2110,7 @@
 
 ## css 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [canva-public/dependency-tree](https://github.com/canva-public/dependency-tree) - Tool to generate a dependency graph from a given set of files/directories
 - [CarcajadaArtificial/lunchbox](https://github.com/CarcajadaArtificial/lunchbox) - UI Library 🍱 for Deno 🦕 Fresh 🍋
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -2955,6 +2956,7 @@
 
 ## frontend 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
@@ -5725,6 +5727,7 @@
 
 ## nodejs 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use), and share your own Webcrumbs Plugins — compatible with any site, any stack. 🌟 Star to support our work!
@@ -5959,6 +5962,7 @@
 
 ## open-source 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -6202,6 +6206,8 @@
 
 ## others 
 
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [olelehmann100kMRR/autoresearch-skill](https://github.com/olelehmann100kMRR/autoresearch-skill) - 
 - [wesm/agentsview](https://github.com/wesm/agentsview) - A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions. Supports Claude Code, Codex, Gemini, OpenCode, Copilot and many other agents.
 - [shreyas-lyzr/exa-lead-gen-agent](https://github.com/shreyas-lyzr/exa-lead-gen-agent) - 
 - [paperclipai/companies](https://github.com/paperclipai/companies) - 
@@ -7411,7 +7417,7 @@
 - [craffel/pretty-midi](https://github.com/craffel/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 - [positonic/json-to-web-audio](https://github.com/positonic/json-to-web-audio) - json-to-web-audio allows you to specify oscillators and filters as JSON, and it will automatically create the necessary Web audio api nodes and filters, and link them together, and send the result to 
 - [Bubobubobubobubo/sardine-vscode](https://github.com/Bubobubobubobubo/sardine-vscode) - VSCode extension for Sardine
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Node.js implementation of Web audio API
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Portable implementation of Web audio API
 - [mugulmd/Claude](https://github.com/mugulmd/Claude) - Synchronizing visuals with audio in live-coding environments
 - [zinccat/ChatGPT-streamlit](https://github.com/zinccat/ChatGPT-streamlit) - Easy to use UI built with Streamlit for using ChatGPT, Claude, Stable Diffusion and beyond
 - [YatingMusic/compound-word-transformer](https://github.com/YatingMusic/compound-word-transformer) - Official implementation of compound word transformer (AAAI'21)
@@ -9206,6 +9212,7 @@
 
 ## productivity 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [andrewsky-labs/zentrun](https://github.com/andrewsky-labs/zentrun) - Prompt-driven automation platform - Transform natural language into executable workflows
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
@@ -10337,6 +10344,7 @@
 
 ## reverse-engineering 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine. Endorsed by Linear CTO.
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
 - [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
@@ -11294,6 +11302,7 @@
 
 ## typescript 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [vektori-ai/vektori-extension](https://github.com/vektori-ai/vektori-extension) - Never repeat yourself across AI :)
 - [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
