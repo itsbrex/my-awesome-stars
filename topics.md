@@ -358,6 +358,7 @@
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -527,6 +528,7 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
+- [Fadi002/de4py](https://github.com/Fadi002/de4py) - The ultimate AI-powered toolkit for python reverse engineering
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [kyegomez/MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
@@ -559,7 +561,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.
@@ -1120,7 +1122,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -1204,7 +1206,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -2028,7 +2030,7 @@
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
@@ -2245,8 +2247,6 @@
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
@@ -2374,12 +2374,12 @@
 - [hugofloresgarcia/vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers!
 - [descriptinc/descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) - State-of-the-art audio codec with 90x compression factor. Supports 44.1kHz, 24kHz, and 16kHz mono/stereo audio.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
 - [YuchenJin/autolrs](https://github.com/YuchenJin/autolrs) - Automatic learning-rate scheduler
@@ -3668,7 +3668,6 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [vishalonlyy/Cloudflare-R2](https://github.com/vishalonlyy/Cloudflare-R2) - Effortlessly upload images to your Cloudflare R2 server with the Cloudflare-R2-Uploader package. Simplify your integration process with pre-built features . Rapidly enhance your project's image handli
 - [PyWavelets/pywt](https://github.com/PyWavelets/pywt) - PyWavelets - Wavelet Transforms in Python
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
 - [vilmacio/depixelate](https://github.com/vilmacio/depixelate) - Upscale an illustration and increase details. No one AI is used.
 - [cage1016/alfred-paletter](https://github.com/cage1016/alfred-paletter) - Extract palette from an image
 
@@ -4446,7 +4445,7 @@
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [JIA-Lab-research/LISA](https://github.com/JIA-Lab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
@@ -4562,7 +4561,7 @@
 - [rahulsend89/Shortcut](https://github.com/rahulsend89/Shortcut) - Mac Shotcut Application
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [andresgottlieb/soundcast](https://github.com/andresgottlieb/soundcast) - Cast audio from macOS to Chromecast
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -4638,13 +4637,12 @@
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [YuchenJin/autolrs](https://github.com/YuchenJin/autolrs) - Automatic learning-rate scheduler
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files.
@@ -4826,7 +4824,7 @@
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [superhj1987/awesome-mac-things](https://github.com/superhj1987/awesome-mac-things) - some useful mac things:scripts, shells, doc, shortcut keys
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [hlissner/lb6-actions](https://github.com/hlissner/lb6-actions) - A litter of LaunchBar 6 actions
@@ -6206,6 +6204,7 @@
 
 ## others 
 
+- [sachacoldiq/ColdIQ-s-GTM-Skills](https://github.com/sachacoldiq/ColdIQ-s-GTM-Skills) - Claude Code skills for Go-To-Market: 137 sales triggers, 34 email templates, 11 GTM plays, and Clay    enrichment workflows.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [olelehmann100kMRR/autoresearch-skill](https://github.com/olelehmann100kMRR/autoresearch-skill) - 
 - [wesm/agentsview](https://github.com/wesm/agentsview) - A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions. Supports Claude Code, Codex, Gemini, OpenCode, Copilot and many other agents.
@@ -6252,7 +6251,7 @@
 - [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [mmcgraw73/cursor-notes](https://github.com/mmcgraw73/cursor-notes) - 
 - [kawakatz/macCookies](https://github.com/kawakatz/macCookies) - macCookies decrypt cookies stored in macOS browsers for pentesters.
-- [ShobhitPatra/unistash](https://github.com/ShobhitPatra/unistash) - One API for every React state library. Switch between Zustand, Jotai, Redux, and more by changing a single import.
+- [ShobhitPatra/unistash](https://github.com/ShobhitPatra/unistash) - Universal state management abstraction for React. Use the same code with Zustand, Jotai, Redux, Recoil, or any other state library.
 - [AlemTuzlak/video-to-social-previews](https://github.com/AlemTuzlak/video-to-social-previews) - Automation repo that takes your video, generates a transcript, youtube info and social posts based on the video. Local first, built with TanStack AI
 - [MervinPraison/PraisonAI-SVC](https://github.com/MervinPraison/PraisonAI-SVC) - A unified framework that turns any PraisonAI Python package into a web service on Azure using just one file per package.
 - [marc-hanheide/microsoft-mcp](https://github.com/marc-hanheide/microsoft-mcp) - Minimal, powerful MCP server for Microsoft Graph API (Outlook, Calendar, OneDrive)
@@ -9472,7 +9471,7 @@
 - [salu133445/mmt](https://github.com/salu133445/mmt) - Official Implementation of "Multitrack Music Transformer" (ICASSP 2023)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
-- [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
+- [Fadi002/de4py](https://github.com/Fadi002/de4py) - The ultimate AI-powered toolkit for python reverse engineering
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
@@ -9515,7 +9514,6 @@
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -9758,7 +9756,7 @@
 - [descriptinc/descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) - State-of-the-art audio codec with 90x compression factor. Supports 44.1kHz, 24kHz, and 16kHz mono/stereo audio.
 - [crowsonkb/style-transfer-pytorch](https://github.com/crowsonkb/style-transfer-pytorch) - Neural style transfer in PyTorch.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
@@ -9852,6 +9850,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [eliranwong/letmedoit](https://github.com/eliranwong/letmedoit) - An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
@@ -10351,7 +10350,7 @@
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [enginestein/Reversecord](https://github.com/enginestein/Reversecord) - A repository containing reverse engineered discord code
 - [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
-- [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
+- [Fadi002/de4py](https://github.com/Fadi002/de4py) - The ultimate AI-powered toolkit for python reverse engineering
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
@@ -10672,7 +10671,7 @@
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## solidity 
 
@@ -11159,7 +11158,6 @@
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [marl/crepe](https://github.com/marl/crepe) - CREPE: A Convolutional REpresentation for Pitch Estimation -- pre-trained model (ICASSP 2018)
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -11302,7 +11300,6 @@
 
 ## typescript 
 
-- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [vektori-ai/vektori-extension](https://github.com/vektori-ai/vektori-extension) - Never repeat yourself across AI :)
 - [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
