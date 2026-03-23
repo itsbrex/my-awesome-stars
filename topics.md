@@ -595,7 +595,7 @@
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [fjrdomingues/autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
@@ -867,7 +867,7 @@
 - [Peter-Schorn/SpotifyAPI](https://github.com/Peter-Schorn/SpotifyAPI) - A Swift library for the Spotify web API. Supports all endpoints.
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
@@ -1083,7 +1083,7 @@
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [MrWillCom/awesome](https://github.com/MrWillCom/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years!
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [imaurer/awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - List of interesting resources for building and using ChatGPT plugins.
 - [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -2579,7 +2579,7 @@
 
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
-- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server. FUCK AI!
+- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server.
 - [enginestein/Reversecord](https://github.com/enginestein/Reversecord) - A repository containing reverse engineered discord code
 - [Uo1428/ALL-IN-ONE-Discord-Bot-](https://github.com/Uo1428/ALL-IN-ONE-Discord-Bot-) - An advance discord bot with 500+ commands
 - [kabirjaipal/JUGNU-MUSIC](https://github.com/kabirjaipal/JUGNU-MUSIC) - Top-notch Music Bot with Buttons, premium Filters, sleek UI, dedicated bot channel support. Built on Distube.JS, Discord.JS, Express.js, and Josh wrapper for SQL and Mongoose
@@ -4471,7 +4471,7 @@
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -4864,7 +4864,7 @@
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server. FUCK AI!
+- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server.
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
 - [markusstraub/mdsplit](https://github.com/markusstraub/mdsplit) - mdsplit is a python command line tool to split Markdown files into chapters at a given heading level
@@ -4963,7 +4963,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
@@ -9579,7 +9579,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [soundsmagic/Ableton-React-Remote](https://github.com/soundsmagic/Ableton-React-Remote) - An application for remote controlling Ableton Live from a React front end
 - [DBraun/AbletonParsing](https://github.com/DBraun/AbletonParsing) - Parse an Ableton ASD clip file (warp markers and more) in Python
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Nomic Developer API SDK
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -10753,7 +10753,7 @@
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [thygate/stable-diffusion-webui-depthmap-script](https://github.com/thygate/stable-diffusion-webui-depthmap-script) - High Resolution Depth Maps for Stable Diffusion WebUI
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
 - [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 - [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
