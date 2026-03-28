@@ -1475,7 +1475,7 @@
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [temisan0x/nextjs-step-form](https://github.com/temisan0x/nextjs-step-form) - Multi step form built with Nextjs and Tailwind CSS
 - [ericz99/autofill-extension](https://github.com/ericz99/autofill-extension) - Free Opensource Chrome Autofill Extension.
-- [dxdc/aws-sdk-google-apps](https://github.com/dxdc/aws-sdk-google-apps) - Native Google Apps Script support for Amazon AWS SDK for JavaScript
+- [dxdc/aws-sdk-google-apps](https://github.com/dxdc/aws-sdk-google-apps) - AWS SDK for JavaScript (v2) ported to Google Apps Script - S3, SES, DynamoDB, Lambda, SQS, SNS, EC2, STS
 - [mosa-riel/gas_session](https://github.com/mosa-riel/gas_session) - keep cookies with gas
 - [smithy545/aws-apps-scripts](https://github.com/smithy545/aws-apps-scripts) - An interface to authenticate AWS api requests from within google scripts
 - [ivoidcat/tiktok-bigo-live-clone-script-](https://github.com/ivoidcat/tiktok-bigo-live-clone-script-) - Bogolive live broadcast source code, original development, live broadcast, reward, short video, dynamic, car, noble and other functions, available for global deployment
@@ -2831,6 +2831,7 @@
 
 ## Python 
 
+- [databar-ai/databar-python](https://github.com/databar-ai/databar-python) - This is official databar.ai python package.
 - [yusufaltunbicak/outlook-cli](https://github.com/yusufaltunbicak/outlook-cli) - Outlook 365 CLI — read, send, and manage emails, calendar, and contacts from the terminal without API keys
 - [aiagentwithdhruv/salesforge-agent](https://github.com/aiagentwithdhruv/salesforge-agent) - AI-powered sales intelligence agent built on Elasticsearch Agent Builder — researches, scores, and generates personalized outreach for leads
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
@@ -4231,7 +4232,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [ccheshirecat/chaser-oxide](https://github.com/ccheshirecat/chaser-oxide) - Undetectable, high-performance browser automation in Rust. Protocol-level stealth for Chromium.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding Agent Terminal Session manager via tmux and git Worktrees
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
