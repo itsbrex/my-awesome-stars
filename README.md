@@ -1169,7 +1169,6 @@
 - [remorses/unframer](https://github.com/remorses/unframer) - Use Framer components in your React codebase
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) - Reverse engineering JavaScript and CSS sources from sourcemaps
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
-- [udecode/plate-template](https://github.com/udecode/plate-template) - Minimal Plate template with React 19, Next 16, Tailwind 4, MCP.
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [amaciver/AudioFiler](https://github.com/amaciver/AudioFiler) - 
@@ -1347,7 +1346,6 @@
 - [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
 - [ricardomatias/playa-starter](https://github.com/ricardomatias/playa-starter) - Starter template for PLAYA with Tone.js
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [0x-jerry/vscode-raycast-script-commands](https://github.com/0x-jerry/vscode-raycast-script-commands) - 
 - [jrgarciadev/dev-cover](https://github.com/jrgarciadev/dev-cover) - 🌐 Get and publish your developer portfolio with just your username
 - [cooby-inc/crx-load-script-webpack-plugin](https://github.com/cooby-inc/crx-load-script-webpack-plugin) - A webpack plugin overrides the default load script mechanism for Chrome Extension. Useful for Chrome Extension developers that are trying to lazyload scripts or using HMR when working with the Webpack
@@ -1919,7 +1917,6 @@
 - [jscs-dev/node-jscs](https://github.com/jscs-dev/node-jscs) - :arrow_heading_up: JavaScript Code Style checker (unmaintained)
 - [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 - [jhollingworth/bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [jschr/bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 - [NeXTs/Jets.js](https://github.com/NeXTs/Jets.js) - Native CSS search engine
@@ -5207,6 +5204,7 @@
 - [leap-ai/leap-ai-cover-images](https://github.com/leap-ai/leap-ai-cover-images) - 
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
+- [udecode/plate-template](https://github.com/udecode/plate-template) - Minimal Plate template with React 19, Next 16, Tailwind 4, MCP.
 - [udecode/plate-playground-template](https://github.com/udecode/plate-playground-template) - Plate AI template with React 19, Next 16, Tailwind 4, MCP.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
@@ -5453,6 +5451,7 @@
 - [lostintangent/codeswing](https://github.com/lostintangent/codeswing) - VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [ricardomatias/ableton-live](https://github.com/ricardomatias/ableton-live) - A library for communicating with Ableton Live via WebSockets, works both in NodeJS and in the Browser.
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [devkiran/NextAPI](https://github.com/devkiran/NextAPI) - A Next.js API starter for building SaaS apps
@@ -5880,6 +5879,7 @@
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
