@@ -3204,7 +3204,7 @@
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [luckylittle/blinkist-m4a-downloader](https://github.com/luckylittle/blinkist-m4a-downloader) - Grabs all of the audio files from all of the Blinkist books
 - [nikivdev/alfred-web-searches](https://github.com/nikivdev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [deanishe/awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -8498,7 +8498,7 @@
 - [naveednajam/Little-Snitch---Rule-Groups](https://github.com/naveednajam/Little-Snitch---Rule-Groups) - This repo provide rule groups for Little Snitch based on unified host list to block ads, malware, fake news and porn
 - [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
 - [pochemuto/alfred-help-workflow](https://github.com/pochemuto/alfred-help-workflow) - Helps to remember workflow keywords
-- [nikivdev/mbt](https://github.com/nikivdev/mbt) - MoonBit tools, libraries and other code
+- [nikivdev/mbt](https://github.com/nikivdev/mbt) - MoonBit tools, libraries
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [meck/alfred-footman](https://github.com/meck/alfred-footman) - A library for writing script filters for Alfred in Haskell
 - [ununu-p2p/als-parser](https://github.com/ununu-p2p/als-parser) - Unofficial Node.js-based parser for Ableton Live project files (.als)
@@ -10041,7 +10041,6 @@
 - [luisFilipePT/shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [simoncragg/synth-gpt](https://github.com/simoncragg/synth-gpt) - An intelligent voice assistant
 - [r2d4/react-llm](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().
 - [jokull/python-ts-graphql-demo](https://github.com/jokull/python-ts-graphql-demo) - Demo project to demonstrate how an asyncio Python project with SQLAlchemy and Strawberry can have a great typed DX on the frontend via codegen and TypeScript React hooks.
@@ -10487,7 +10486,6 @@
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) - Rust - Augmented Audio Libraries
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [lucacasonato/wgpu_cts_runner](https://github.com/lucacasonato/wgpu_cts_runner) - A minimal JS runtime built on Deno (deno_core / extensions) that can be used to test WebGPU CTS outside of full Deno.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
@@ -10870,7 +10868,6 @@
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project
 - [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
@@ -11075,7 +11072,6 @@
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [diego3g/flowly](https://github.com/diego3g/flowly) - Flowly helps you document your event driven architecture across your team.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [mrcaidev/tailwindcss-radix-colors](https://github.com/mrcaidev/tailwindcss-radix-colors) - A Tailwind CSS plugin that brings Radix UI's color system to Tailwind CSS.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -11511,7 +11507,6 @@
 - [kant01ne/browser-extensions](https://github.com/kant01ne/browser-extensions) - Browser extensions
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
 - [simoncragg/synth-gpt](https://github.com/simoncragg/synth-gpt) - An intelligent voice assistant
 - [jokull/python-ts-graphql-demo](https://github.com/jokull/python-ts-graphql-demo) - Demo project to demonstrate how an asyncio Python project with SQLAlchemy and Strawberry can have a great typed DX on the frontend via codegen and TypeScript React hooks.
