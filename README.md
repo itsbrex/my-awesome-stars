@@ -2392,6 +2392,8 @@
 - [Cfomodz/community-use](https://github.com/Cfomodz/community-use) - Paid Workflows: Free for Community Use
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
+- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) - A curated list of 7766 awesome AI tools
 - [agenticsorg/.github](https://github.com/agenticsorg/.github) - The Agentics Foundation is a vibrant community dedicated to innovation and collaboration in the field of human-AI integration.
 - [showlab/Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) - 💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.
@@ -3456,7 +3458,7 @@
 - [LostAbaddon/AutoClaude](https://github.com/LostAbaddon/AutoClaude) - An experimental open-source attempt to make GPT-like tools fully autonomous. Add a new AI-Layer for Claude, so if you have Anthropic api-key, you can use Claude-version AutoGPT: AutoClaude.
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
 - [merlresearch/cocktail-fork-separation](https://github.com/merlresearch/cocktail-fork-separation) - Baseline multi-resolution cross network model trained using the Divide and Remaster Dataset
-- [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
+- [latent-to/bittensor](https://github.com/latent-to/bittensor) - Internet-scale Neural Networks
 - [moiseshorta/ADD-audio-dataset-downloader](https://github.com/moiseshorta/ADD-audio-dataset-downloader) - Simple Python CLI script for downloading N-hours of audio from Youtube, based on a list of music genres.
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [urinieto/msaf](https://github.com/urinieto/msaf) - Music Structure Analysis Framework
@@ -4381,7 +4383,6 @@
 - [zm2231/z-audit](https://github.com/zm2231/z-audit) - Security audit skill for Claude Code / OpenCode - 7-phase methodology covering secrets, API auth, IDOR, infrastructure, and more
 - [snarktank/compound-product](https://github.com/snarktank/compound-product) - A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes
 - [VAMFI/claude-user-memory](https://github.com/VAMFI/claude-user-memory) - Autonomous agent substrate for Claude Code CLI. Research→Plan→Implement workflows with quality gates, TDD   enforcement, and multi-agent coordination. 4.8-5.5x faster development. Built on Anthropic's
-- [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [mmcgraw73/cursor-notes](https://github.com/mmcgraw73/cursor-notes) - 
 - [kanopi/training-video-generator](https://github.com/kanopi/training-video-generator) - 
@@ -4663,6 +4664,7 @@
 
 ## TypeScript 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [sriinnu/clipforge-PAKT](https://github.com/sriinnu/clipforge-PAKT) - Lossless-first prompt compression for JSON, YAML, CSV, and Markdown. Library, CLI, MCP server, desktop app, and browser extension.
 - [AstraBert/litesearch](https://github.com/AstraBert/litesearch) - Fully-local search engine with Liteparse, transformers.js and Qdrant Edge
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -4698,6 +4700,7 @@
 - [ApertaCodex/simple-db](https://github.com/ApertaCodex/simple-db) - 
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [PipedreamHQ/workflow-builder-connect](https://github.com/PipedreamHQ/workflow-builder-connect) - Visual AI workflow automation platform with &gt;3,000 connectors
+- [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [8beeeaaat/touchdesigner-mcp](https://github.com/8beeeaaat/touchdesigner-mcp) - MCP server for TouchDesigner
 - [dzlau/stripe-supabase-saas-template](https://github.com/dzlau/stripe-supabase-saas-template) - 
 - [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) - 
@@ -4794,7 +4797,7 @@
 - [deepgram-devs/nextjs-live-transcription](https://github.com/deepgram-devs/nextjs-live-transcription) - Get started using Deepgram's Live Transcription with this Next.js demo app
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - 
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Autonomous Company Operating System
 - [orca-team/vscode-tswagger](https://github.com/orca-team/vscode-tswagger) - A vscode extension used to convert Swagger to Typescript.
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
