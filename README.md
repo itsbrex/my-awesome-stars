@@ -2837,7 +2837,7 @@
 - [databar-ai/databar-python](https://github.com/databar-ai/databar-python) - This is official databar.ai python package.
 - [yusufaltunbicak/outlook-cli](https://github.com/yusufaltunbicak/outlook-cli) - Outlook 365 CLI — read, send, and manage emails, calendar, and contacts from the terminal without API keys
 - [aiagentwithdhruv/salesforge-agent](https://github.com/aiagentwithdhruv/salesforge-agent) - AI-powered sales intelligence agent built on Elasticsearch Agent Builder — researches, scores, and generates personalized outreach for leads
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
 - [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
 - [ankitpro/agent-corex](https://github.com/ankitpro/agent-corex) - 
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
@@ -4664,6 +4664,8 @@
 
 ## TypeScript 
 
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [sriinnu/clipforge-PAKT](https://github.com/sriinnu/clipforge-PAKT) - Lossless-first prompt compression for JSON, YAML, CSV, and Markdown. Library, CLI, MCP server, desktop app, and browser extension.
 - [AstraBert/litesearch](https://github.com/AstraBert/litesearch) - Fully-local search engine with Liteparse, transformers.js and Qdrant Edge
@@ -5225,7 +5227,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [notwaldorf/example-magenta-in-ts](https://github.com/notwaldorf/example-magenta-in-ts) - A demo of using @magenta/music as a dev-dependency in a TypeScript project
 - [iansimon/magenta-js](https://github.com/iansimon/magenta-js) - Magenta.js: Music and Art Generation with Machine Intelligence in the Browser
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
