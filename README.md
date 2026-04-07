@@ -136,6 +136,7 @@
 
 ## C 
 
+- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [Sanix-Darker/cisv](https://github.com/Sanix-Darker/cisv) - The csv parser on steroids.
 - [dgslomin/divs-midi-utilities](https://github.com/dgslomin/divs-midi-utilities) - Div's MIDI Utilities
@@ -251,6 +252,7 @@
 
 ## C++ 
 
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -598,6 +600,7 @@
 
 ## Go 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [hackafterdark/context-sherpa](https://github.com/hackafterdark/context-sherpa) - Context Sherpa MCP server provides code mapping, deterministic feedback loops, and tiered inference for AI coding agents to increase accuracy and optimize token usage.
 - [tonymet/restmail](https://github.com/tonymet/restmail) - restmail sends email from CLI using gmail & outlook rest APIs. It can be used for email automation, notifications and with `git send-mail` for sharing patches.
 - [wesm/agentsview](https://github.com/wesm/agentsview) - A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions. Supports Claude Code, Codex, Gemini, OpenCode, Copilot and many other agents.
@@ -958,6 +961,7 @@
 
 ## JavaScript 
 
+- [LucyBot-Inc/api-spec-converter](https://github.com/LucyBot-Inc/api-spec-converter) - Convert API descriptions between popular formats such as OpenAPI(fka Swagger), RAML, API Blueprint, WADL, etc.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [tyler476/salesforge-crm](https://github.com/tyler476/salesforge-crm) - 
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -2377,6 +2381,7 @@
 
 ## Others 
 
+- [zm2231/cc-design](https://github.com/zm2231/cc-design) - Claude Code plugin for intent-first interface design. Enforces craft over defaults, maintains design memory, extracts tokens from live pages and Stitch.
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [sachacoldiq/ColdIQ-s-GTM-Skills](https://github.com/sachacoldiq/ColdIQ-s-GTM-Skills) - Claude Code skills for Go-To-Market: 137 sales triggers, 34 email templates, 11 GTM plays, and Clay    enrichment workflows.
@@ -2832,6 +2837,8 @@
 
 ## Python 
 
+- [githubnext/autoloop](https://github.com/githubnext/autoloop) - Loop anything in your repo: automate research, development and maintenance
+- [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [python-openapi/openapi-schema-validator](https://github.com/python-openapi/openapi-schema-validator) - OpenAPI schema validator is a Python library that validates schema against OpenAPI Schema Specification v3.0 and v3.1
 - [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
@@ -2984,7 +2991,6 @@
 - [simonw/json-flatten](https://github.com/simonw/json-flatten) - Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 - [whyhow-ai/knowledge-table](https://github.com/whyhow-ai/knowledge-table) - Knowledge Table is an open-source package designed to simplify extracting and exploring structured data from unstructured documents.
 - [criteo/autofaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
-- [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale
 - [YassKhazzan/openperplex_backend_os](https://github.com/YassKhazzan/openperplex_backend_os) - openperplex is an opensource AI search engine
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) - Automated OSINT on SwaggerHub
 - [NplusM420/GitGrab](https://github.com/NplusM420/GitGrab) - 
@@ -3028,6 +3034,7 @@
 - [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
 - [ebai101/midicap](https://github.com/ebai101/midicap) - always on MIDI recorder
 - [bhaskatripathi/TensorCraft](https://github.com/bhaskatripathi/TensorCraft) - TensorCraft is a Python library to simplify the process of building, training, and deploying neural networks using TensorFlow. It is a high level wrapper like Keras on top of tensorflow
+- [geo-martino/musify](https://github.com/geo-martino/musify) - A Swiss Army knife for programmatic music library management. Manages both local and music streaming service libraries.
 - [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser
 - [alesfil/liveset](https://github.com/alesfil/liveset) - 
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
@@ -3136,7 +3143,7 @@
 - [echocatzh/MTFAA-Net](https://github.com/echocatzh/MTFAA-Net) - Multi-Scale Temporal Frequency Convolutional Network With Axial Attention for Speech Enhancement
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection on Tabular, Text, and Image Data
 - [musikalkemist/DeepLearningForAudioWithPython](https://github.com/musikalkemist/DeepLearningForAudioWithPython) - Code and slides for the "Deep Learning (For Audio) With Python" course on TheSoundOfAI Youtube channel.
 - [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs
@@ -4232,6 +4239,8 @@
 
 ## Rust 
 
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
+- [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 - [eresende/pitlane-mcp](https://github.com/eresende/pitlane-mcp) - Token-efficient code intelligence MCP server. Indexes a codebase once using tree-sitter AST parsing and lets AI agents retrieve exactly the symbols they need: instead of dumping entire files into cont
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -4253,7 +4262,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sevagh/pq](https://github.com/sevagh/pq) - a command-line Protobuf parser with Kafka support and JSON output
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
@@ -4399,6 +4408,7 @@
 - [yohasebe/code-packager](https://github.com/yohasebe/code-packager) - 📦 A set of bash scripts that package and unpack your codebase into and from a single JSON file, ready to be analyzed and understood by large language models (LLMs) like GPT, Claude, Command R, and Gem
 - [yohasebe/whisper-stream](https://github.com/yohasebe/whisper-stream) - A bash script using OpenAI Whisper API for continuous audio transcription with automatic silence detection
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
+- [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale
 - [m3au/cursorcontext](https://github.com/m3au/cursorcontext) - 
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [Netflix/eslint-config-netflix](https://github.com/Netflix/eslint-config-netflix) - Shared ESLint config for Netflix JavaScript
@@ -4544,6 +4554,7 @@
 
 ## Swift 
 
+- [lnikell/loopndroll](https://github.com/lnikell/loopndroll) - Keep Codex running forever
 - [steipete/imsg](https://github.com/steipete/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [ChimeHQ/ProcessEnv](https://github.com/ChimeHQ/ProcessEnv) - Capture the shell environment of a Foundation app
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -4665,6 +4676,10 @@
 
 ## TypeScript 
 
+- [glittercowboy/cli-bags](https://github.com/glittercowboy/cli-bags) - CLI tool for the Bags.fm API — launch tokens, swap, claim fees, manage wallets
+- [resend/resend-vercel-example](https://github.com/resend/resend-vercel-example) - This example shows how to use Resend with React Email + Vercel + Next.js
+- [dzhng/crm.cli](https://github.com/dzhng/crm.cli) - A headless, CLI-first CRM. Your contacts, deals, and pipeline in a single SQLite file.
+- [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
