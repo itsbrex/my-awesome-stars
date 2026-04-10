@@ -118,7 +118,6 @@
 - [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
-- [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 
 ## Ballerina 
 
@@ -1014,7 +1013,7 @@
 - [nubelaco/proxycurl-js-linkedin-profile-scraper](https://github.com/nubelaco/proxycurl-js-linkedin-profile-scraper) - Proxycurl is a data enrichment API that pulls fresh and accurate B2B data of people and companies, legally, at scale.
 - [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio/ jQuery for Google Apps Script
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript) - A yeoman generator to create a userscript project rapidly
 - [jeeng/json-api-transform](https://github.com/jeeng/json-api-transform) - 
 - [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm) - Laravel CRM  - PHP CRM -  AI CRM - Metadata CRM.  Iceburg CRM is Open Source, metadata driven, extendable, unlimited relationships, convertable modules, 29 default themes, light/dark themes.  It also 
@@ -1950,7 +1949,7 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [JayHoltslander/Sketch-Make-Long-Shadow](https://github.com/JayHoltslander/Sketch-Make-Long-Shadow) - A plugin for Sketch to create long shadows of a user defined length from a shape.
 - [stephenscaff/EveryDayImInstagrammin](https://github.com/stephenscaff/EveryDayImInstagrammin) - A little jquery plugin to show instagram pics by user or hastag, with some caption styles.
-- [Formstone/formstone](https://github.com/Formstone/formstone) - Library of modular front end components.
+- [Formstone/formstone](https://github.com/Formstone/formstone) - Modular, lightweight, and accessible front-end components.
 - [namshi/mockserver](https://github.com/namshi/mockserver) - Mock your backends in a matter of seconds. HTTP is King.
 - [raguay/MyLaunchBarActions](https://github.com/raguay/MyLaunchBarActions) - This is my public repository for LaunchBar 6 Actions.
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
@@ -2836,7 +2835,7 @@
 
 ## Python 
 
-- [PrismorSec/immunity-agent](https://github.com/PrismorSec/immunity-agent) - Security for AI coding agents : Block dangerous tool calls, scrub leaked secrets from agent caches and stay current with a signed CVE feed for supply chain security
+- [PrismorSec/immunity-agent](https://github.com/PrismorSec/immunity-agent) - Security hooks for AI coding agents : Block dangerous commands,  prevent secret leaks, and enforce runtime policies across Claude, OpenClaw, Antigravity, Codex,  Cursor and Windsurf
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [neosigmaai/auto-harness](https://github.com/neosigmaai/auto-harness) - 
 - [githubnext/autoloop](https://github.com/githubnext/autoloop) - Loop anything in your repo: automate research, development and maintenance
@@ -4113,7 +4112,6 @@
 - [mlinzner/LaunchBarActions](https://github.com/mlinzner/LaunchBarActions) - LaunchBar Actions Repository
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
-- [karan/slackzon](https://github.com/karan/slackzon) - Simple Amazon Product Search in Slack
 - [cdolivei/beatport2flac](https://github.com/cdolivei/beatport2flac) - Converts beatport's wav files to flac using the metadata from their api
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [quentinsf/IMAPdedup](https://github.com/quentinsf/IMAPdedup) - IMAP message de-duplicator
@@ -4151,7 +4149,6 @@
 - [WarWithinMe/Sublime-CodeRunner](https://github.com/WarWithinMe/Sublime-CodeRunner) - A simple plugin to allow you to run the current file, and show the result. ST3 support is in SublimeText3 branch
 - [moul/alfred-workflow-gauth](https://github.com/moul/alfred-workflow-gauth) - :key: TOTP - Google Authenticator Workflow for Alfred2 (Two-Factor authentication)
 - [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text
-- [karan/slack-overflow](https://github.com/karan/slack-overflow) - A programmer's best friend, now in Slack.
 - [hzlzh/AlfredWorkflow.com](https://github.com/hzlzh/AlfredWorkflow.com) - A public Collection of Alfred Workflows.
 
 ## R 
@@ -4243,7 +4240,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
-- [eresende/pitlane-mcp](https://github.com/eresende/pitlane-mcp) - Token-efficient code intelligence MCP server. Indexes a codebase once using tree-sitter AST parsing and lets AI agents retrieve exactly the symbols they need: instead of dumping entire files into cont
+- [eresende/pitlane-mcp](https://github.com/eresende/pitlane-mcp) - Token-efficient navigation substrate for AI coding agents. Index code once and retrieve only the symbols you need.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [universal-tool-calling-protocol/rs-utcp](https://github.com/universal-tool-calling-protocol/rs-utcp) - Official Rust implementation of the UTCP
@@ -4251,7 +4248,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [ccheshirecat/chaser-oxide](https://github.com/ccheshirecat/chaser-oxide) - Undetectable, high-performance browser automation in Rust. Protocol-level stealth for Chromium.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding Agent Terminal Session manager via tmux and git Worktrees
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode agent session manager via terminal or Web app. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
@@ -5659,6 +5656,7 @@
 - [Siumauricio/portfolio](https://github.com/Siumauricio/portfolio) - Simple and minimalist portfolio using Nextjs and NextUI.
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
+- [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mikesprague/clean-start](https://github.com/mikesprague/clean-start) - Open source new tab Chrome extension
