@@ -2833,6 +2833,8 @@
 
 ## Python 
 
+- [mpfaffenberger/code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [PrismorSec/immunity-agent](https://github.com/PrismorSec/immunity-agent) - Security for AI agents : Block dangerous commands,  prevent secret leaks, and enforce runtime policies across Claude, OpenClaw, Hermes, Antigravity, Codex,  Cursor and Windsurf
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [neosigmaai/auto-harness](https://github.com/neosigmaai/auto-harness) - Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harness, and gate against regressions.
@@ -4043,7 +4045,6 @@
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
 - [soapisnotfat/super-resolution](https://github.com/soapisnotfat/super-resolution) - collection of super-resolution models & algorithms
 - [singnet/dnn-model-services](https://github.com/singnet/dnn-model-services) - A collection of SingularityNET services using third party DNN models.
-- [iislamm/video_music_remover](https://github.com/iislamm/video_music_remover) - 
 - [xnyo/splitit](https://github.com/xnyo/splitit) - Telegram bot that separates vocals from instrumental using machine learning
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -4673,6 +4674,7 @@
 
 ## TypeScript 
 
+- [kitlangton/motel](https://github.com/kitlangton/motel) - 
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
