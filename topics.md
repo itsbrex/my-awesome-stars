@@ -6349,6 +6349,7 @@
 
 ## others 
 
+- [membranedev/application-skills](https://github.com/membranedev/application-skills) - 
 - [kitlangton/motel](https://github.com/kitlangton/motel) - 
 - [mpfaffenberger/code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
@@ -6391,7 +6392,7 @@
 - [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll) - chrome extension for better LLM chat navigation
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [jacob-bd/notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli) - 
-- [remorses/tuistory](https://github.com/remorses/tuistory) - Playwright for terminal user interfaces
+- [remorses/tuistory](https://github.com/remorses/tuistory) - CLI and library to let agents control & test terminal user interfaces. Like Playwright & agent-browser for terminal user interfaces.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [antfu/skills-cli](https://github.com/antfu/skills-cli) - The open agent skills tool - npx skills
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
