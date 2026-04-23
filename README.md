@@ -138,7 +138,6 @@
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [Sanix-Darker/cisv](https://github.com/Sanix-Darker/cisv) - The csv parser on steroids.
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [dgslomin/divs-midi-utilities](https://github.com/dgslomin/divs-midi-utilities) - Div's MIDI Utilities
 - [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output
 - [andrewrk/libgroove](https://github.com/andrewrk/libgroove) - streaming audio processing library
@@ -2383,7 +2382,7 @@
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [sachacoldiq/ColdIQ-s-GTM-Skills](https://github.com/sachacoldiq/ColdIQ-s-GTM-Skills) - Claude Code skills for Go-To-Market: 137 sales triggers, 34 email templates, 11 GTM plays, and Clay    enrichment workflows.
-- [olelehmann100kMRR/autoresearch-skill](https://github.com/olelehmann100kMRR/autoresearch-skill) - 
+- [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - 
 - [shreyas-lyzr/exa-lead-gen-agent](https://github.com/shreyas-lyzr/exa-lead-gen-agent) - 
 - [paperclipai/companies](https://github.com/paperclipai/companies) - 
 - [CopilotKit/generative-ui](https://github.com/CopilotKit/generative-ui) - Generative UI examples for: AG-UI, A2UI/Open-JSON-UI, and MCP Apps.
@@ -2601,7 +2600,6 @@
 - [fregante/webext-fun](https://github.com/fregante/webext-fun) - WebExtension packages for every need
 - [BlkPingu/bartender-search](https://github.com/BlkPingu/bartender-search) - 
 - [evertschone/live_clip_search](https://github.com/evertschone/live_clip_search) - A tool that allows you to search for and play clips in Ableton Live by name.
-- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT models 🤖💬 It also allows image generation/editing/understanding 🖼️, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [linsa-io/chrome-extensions](https://github.com/linsa-io/chrome-extensions) - Awesome Chrome Extensions
 - [msaaddev/frontend-resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
@@ -3708,7 +3706,7 @@
 - [deckerego/Macropad_4chord_MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) - A take on the 4chord MIDI project with the Adafruit Macropad
 - [itsbrex/chat-gpt-rest-api](https://github.com/itsbrex/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
 - [gajosu/chat-gpt-rest-api](https://github.com/gajosu/chat-gpt-rest-api) - REST API for interacting with Chat GPT, a conversational AI powered by GPT. It allows you to send prompts and receive responses from the Chat GPT model.
-- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents).
+- [kimtth/awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [ideoforms/isobar](https://github.com/ideoforms/isobar) - A Python package for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. Can be used to generate MIDI events, MIDI files, OSC me
 - [flipcoder/textbeat](https://github.com/flipcoder/textbeat) - 🎹 plaintext music sequencer and midi shell, with vim playback and the powers of music theory  🥁
@@ -4181,6 +4179,7 @@
 - [dkarter/alfred-magic-link](https://github.com/dkarter/alfred-magic-link) - Magically insert links into markdown using Alfred
 - [mgarriss/guard-live-set](https://github.com/mgarriss/guard-live-set) - Converts Ableton Live .als files to XML as their saved. The point of this is so that you can use git with your .als files.  Git is a lot more useful with line based text files then binary files.  Just
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT models 🤖💬 It also allows image generation/editing/understanding 🖼️, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -4675,6 +4674,7 @@
 
 ## TypeScript 
 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - 
 - [kitlangton/motel](https://github.com/kitlangton/motel) - 
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -4750,7 +4750,7 @@
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [nick-lvov-dev/typescript-explicit-types](https://github.com/nick-lvov-dev/typescript-explicit-types) - Generate explicit type annotation from inferred type in TypeScript
 - [SouthBridgeAI/offmute](https://github.com/SouthBridgeAI/offmute) - An experiment in meeting transcription and diarization with just an LLM. Maybe I went a little overboard though
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) - 
@@ -4940,7 +4940,7 @@
 - [trvswgnr/cextup](https://github.com/trvswgnr/cextup) - A tool to make Chrome extension development less painful.
 - [KaraBharat/full-stack-global-search-demo](https://github.com/KaraBharat/full-stack-global-search-demo) - Global search interface with filter and infinite scrolling functionality.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+- [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [yamalight/litlytics](https://github.com/yamalight/litlytics) - 🔥 LitLytics - an affordable, simple analytics platform that leverages LLMs to automate data analysis
 - [RhysSullivan/blueberryai-app](https://github.com/RhysSullivan/blueberryai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue and PearAI
 - [HikaruEgashira/bun-gas](https://github.com/HikaruEgashira/bun-gas) - Google Apps Script using bun bundler. https://bun.sh/docs/bundler
@@ -4957,7 +4957,7 @@
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [cursorrules/getcursorrules](https://github.com/cursorrules/getcursorrules) - 
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [slawton3/jetpack](https://github.com/slawton3/jetpack) - Nextjs 14 starter preconfigured with Bun, Shadcn-ui (TailwindCss), Typescript, Supabase, Drizzle, Docker, Husky and more!
 - [vantezzen/plasmo-state](https://github.com/vantezzen/plasmo-state) - ♻️ Sync state across content script, background workers and the popup in Plasmo extensions
 - [vantezzen/hinge-wrapped](https://github.com/vantezzen/hinge-wrapped) - 
@@ -5991,6 +5991,7 @@
 ## Zig 
 
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
 - [SilasMarvin/dnns-from-scratch-in-zig](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - 
 - [oven-sh/zig](https://github.com/oven-sh/zig) - 
