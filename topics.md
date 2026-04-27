@@ -376,6 +376,7 @@
 
 ## ai 
 
+- [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) - Generate text, images, video, speech, and music by MiniMax.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
@@ -1779,7 +1780,7 @@
 - [Glench/ExtPay](https://github.com/Glench/ExtPay) - The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.
 - [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension) - Adding standalone IPFS native URL support for chromium based browsers without installing IPFS in your machine. 📦🌐🧩
 - [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.
-- [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 - [WebExp0528/React-Extension-Boilerplate](https://github.com/WebExp0528/React-Extension-Boilerplate) - This is cross-browser(Chrome, Firefox, Opera, Edge) extension boilerplate using React, Typescript and Webpack
 - [rossmoody/ts-extension-starter](https://github.com/rossmoody/ts-extension-starter) - A bare bones starter repo for building Chrome v3 manifest extensions using Typescript, React, and Rollup.
 - [open-source-labs/Reactime](https://github.com/open-source-labs/Reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
@@ -1833,6 +1834,8 @@
 
 ## claude-code 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
+- [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 tok/s Qwen 3.5 122B, Llama 3.3 70B, Gemma 4 31B. Private, offline, airgap-ready. Built for NDA / lega
 - [rustykuntz/clideck](https://github.com/rustykuntz/clideck) - A dashboard for running and coordinating multiple AI CLI agents at once.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -2101,7 +2104,7 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -3167,6 +3170,7 @@
 
 ## git 
 
+- [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -4452,6 +4456,7 @@
 
 ## llm 
 
+- [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -6364,6 +6369,7 @@
 
 ## others 
 
+- [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [fuma-nama/bun-docs](https://github.com/fuma-nama/bun-docs) - Better docs ui for Bun (powered by fumadocs using same mdx)
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -7511,7 +7517,7 @@
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating WebAudio code
 - [cwilso/midi-synth](https://github.com/cwilso/midi-synth) - A MIDI-driven Web Audio synthesizer
 - [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
@@ -9480,6 +9486,7 @@
 
 ## prompt-engineering 
 
+- [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
