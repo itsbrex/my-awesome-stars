@@ -63,6 +63,7 @@
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
 - [Raku](#raku)
@@ -1390,7 +1391,7 @@
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [anvaka/reddata](https://github.com/anvaka/reddata) - Playing with reddit public data set
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
-- [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [electron-userland/electron-installer-windows](https://github.com/electron-userland/electron-installer-windows) - Create a Windows package for your Electron app.
 - [GitbookIO/nuts](https://github.com/GitbookIO/nuts) - :chestnut: Releases/downloads server with auto-updater and GitHub as a backend
@@ -2380,6 +2381,7 @@
 
 ## Others 
 
+- [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
 - [AriHuttunen/claude-skills](https://github.com/AriHuttunen/claude-skills) - Claude Code skills
 - [membranedev/application-skills](https://github.com/membranedev/application-skills) - 
 - [zm2231/cc-design](https://github.com/zm2231/cc-design) - Claude Code plugin for intent-first interface design. Enforces craft over defaults, maintains design memory, extracts tokens from live pages and Stitch.
@@ -2835,8 +2837,13 @@
 - [oldtechaa/SeekMIDI](https://github.com/oldtechaa/SeekMIDI) - SeekMIDI, a simple multi-channel graphical MIDI sequencer.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
+## PowerShell 
+
+- [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
+
 ## Python 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 tok/s Qwen 3.5 122B, Llama 3.3 70B, Gemma 4 31B. Private, offline, airgap-ready. Built for NDA / lega
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [ttttonyhe/autogrind](https://github.com/ttttonyhe/autogrind) - ✊ Let your agent grind on your projects 24x7 fully autonomously
@@ -5337,7 +5344,7 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating WebAudio code
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
@@ -5685,7 +5692,7 @@
 - [Siumauricio/landing-template-nextui](https://github.com/Siumauricio/landing-template-nextui) - Landing page for any SaaS company, using Nextjs and NextUI
 - [purduehackers/events](https://github.com/purduehackers/events) - 🗓 Check out & sign up for Purdue Hackers events.
 - [flexpool/frontend](https://github.com/flexpool/frontend) - Source code of the v2 Flexpool.io Website
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mikesprague/clean-start](https://github.com/mikesprague/clean-start) - Open source new tab Chrome extension
 - [danangekal/next-typescript-pwa-starter](https://github.com/danangekal/next-typescript-pwa-starter) - Unofficial Next.js + Typescript + PWA starter with a latest package
 - [ts-safeql/safeql](https://github.com/ts-safeql/safeql) - Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
