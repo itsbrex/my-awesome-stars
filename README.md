@@ -2711,7 +2711,7 @@
 - [dataf1ow/eb.Scrubber](https://github.com/dataf1ow/eb.Scrubber) - A place to hold info and files regarding the eb.Scrubber M4L device
 - [dataf1ow/Push_Chop](https://github.com/dataf1ow/Push_Chop) - A place to keep all of my Push_Chop and Push_Karma devices.
 - [jal278/spotify-playlist-export](https://github.com/jal278/spotify-playlist-export) - javascript-based playlist exporter for spotify based on handlebars and the spotify web api
-- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [vincelwt/harmony](https://github.com/vincelwt/harmony) - :musical_note: Sleek music player for Spotify, SoundCloud, Google Play Music and your local files
 - [cyfyifanchen/macOS-shortcuts-collection](https://github.com/cyfyifanchen/macOS-shortcuts-collection) - I like shortcuts, I hope you do as well ~~.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -2911,7 +2911,6 @@
 - [haasonsaas/email-agent](https://github.com/haasonsaas/email-agent) - AI-powered email management agent with TUI dashboard, CLI commands, and multi-agent categorization system. Supports Gmail integration, rule-based processing, and Docker deployment.
 - [marc-hanheide/microsoft-mcp](https://github.com/marc-hanheide/microsoft-mcp) - Minimal, powerful MCP server for Microsoft Graph API (Outlook, Calendar, OneDrive)
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
-- [kivilaid/plugin-marketplace](https://github.com/kivilaid/plugin-marketplace) - Claude Code plugin marketplace showcasing all component types
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -3956,7 +3955,7 @@
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI's Codex for intelligent README creation.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [SeanChenxy/Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) - 
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [tensorflow/graphics](https://github.com/tensorflow/graphics) - TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
@@ -4784,7 +4783,6 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [Alemusica/jsom](https://github.com/Alemusica/jsom) - Visual UI designer that exports LLM-readable specs. Draw → Export → AI builds it. Semantic layers, 9 design systems, PHI algorithms, MCP server integration.
-- [ApertaCodex/simple-db](https://github.com/ApertaCodex/simple-db) - 
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [PipedreamHQ/workflow-builder-connect](https://github.com/PipedreamHQ/workflow-builder-connect) - Visual AI workflow automation platform with &gt;3,000 connectors
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
