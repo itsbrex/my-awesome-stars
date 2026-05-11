@@ -2398,7 +2398,7 @@
 - [AriHuttunen/claude-skills](https://github.com/AriHuttunen/claude-skills) - Claude Code skills
 - [membranedev/application-skills](https://github.com/membranedev/application-skills) - 
 - [zm2231/cc-design](https://github.com/zm2231/cc-design) - Claude Code plugin for intent-first interface design. Enforces craft over defaults, maintains design memory, extracts tokens from live pages and Stitch.
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
+- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [sachacoldiq/ColdIQ-s-GTM-Skills](https://github.com/sachacoldiq/ColdIQ-s-GTM-Skills) - Claude Code skills for Go-To-Market: 137 sales triggers, 34 email templates, 11 GTM plays, and Clay    enrichment workflows.
 - [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - 
@@ -2542,7 +2542,6 @@
 - [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 - [skibumstevo/FileNameShortener-AppleScript](https://github.com/skibumstevo/FileNameShortener-AppleScript) - Intelligently shortens filenames exceeding 143 characters in length (Synology exFAT eCryptfs safe)
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [MrWillCom/awesome](https://github.com/MrWillCom/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years!
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
@@ -3770,6 +3769,7 @@
 - [thygate/stable-diffusion-webui-depthmap-script](https://github.com/thygate/stable-diffusion-webui-depthmap-script) - High Resolution Depth Maps for Stable Diffusion WebUI
 - [timmahrt/praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hie
 - [ideoforms/pylive](https://github.com/ideoforms/pylive) - Query and control Ableton Live from Python
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [CoryWBoris/AbletonAutoColor](https://github.com/CoryWBoris/AbletonAutoColor) - Automatic Color Assignment Based On Name In Ableton Live
 - [Florents-Tselai/WarcDB](https://github.com/Florents-Tselai/WarcDB) - WarcDB: Web crawl data as SQLite databases.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -4761,7 +4761,7 @@
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [sriinnu/clipforge-PAKT](https://github.com/sriinnu/clipforge-PAKT) - Lossless-first prompt compression for JSON, YAML, CSV, and Markdown. Library, CLI, MCP server, desktop app, and browser extension.
 - [AstraBert/litesearch](https://github.com/AstraBert/litesearch) - Fully-local search engine with Liteparse, transformers.js and Qdrant Edge
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -4807,7 +4807,6 @@
 - [agentuity/kitchen-sink-ts](https://github.com/agentuity/kitchen-sink-ts) - A demo project that showcases all of Agentuity's SDK functionality
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [iannuttall/mcp-config](https://github.com/iannuttall/mcp-config) - Turn one MCP server setup into the right format for lots of apps.
-- [blackboxaicode/cli](https://github.com/blackboxaicode/cli) - BLACKBOX CLI for running Multi-Agents locally and a Judge to select the best task implementation
 - [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich) - 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
 - [ivmarcos/react-to-pdf](https://github.com/ivmarcos/react-to-pdf) - Generate pdf from react components
 - [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
