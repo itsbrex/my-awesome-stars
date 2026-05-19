@@ -3360,8 +3360,8 @@
 - [qiuqiangkong/torchlibrosa](https://github.com/qiuqiangkong/torchlibrosa) - 
 - [carlosholivan/music-composition-api](https://github.com/carlosholivan/music-composition-api) - This module contains models an API for music generation with state-of-the-art models.
 - [carlosholivan/MusicBoundariesCNN](https://github.com/carlosholivan/MusicBoundariesCNN) - Code of the paper "Music Boundary Detection using Convolutional Neural Networks: A comparative analysis of combined input features" in Pytorch
-- [guyyariv/TempoTokens](https://github.com/guyyariv/TempoTokens) - This repo contains the official PyTorch implementation of: Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation
-- [guyyariv/AudioToken](https://github.com/guyyariv/AudioToken) - This repo contains the official PyTorch implementation of AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation
+- [guyyariv/TempoTokens](https://github.com/guyyariv/TempoTokens) - [AAAI 2024] The official PyTorch implementation of "Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation"
+- [guyyariv/AudioToken](https://github.com/guyyariv/AudioToken) - [InterSpeech 2023] The official PyTorch implementation of: "AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation"
 - [ceebeel/Template-Py310-CA-CI-CD](https://github.com/ceebeel/Template-Py310-CA-CI-CD) - Template Python - Clean Architecture - CI/CD (Ruff - Pyright - PyTest)
 - [oliverbyte/osc2laser](https://github.com/oliverbyte/osc2laser) - Create stunning lasershows by live control or timeline automation using OSC messages
 - [vaibhavnayel/Audio-to-MIDI-converter](https://github.com/vaibhavnayel/Audio-to-MIDI-converter) - Program to detect pitch from wav files and write in time quantized MIDI
@@ -3793,7 +3793,6 @@
 - [d3n7/GPT-4-To-MIDI](https://github.com/d3n7/GPT-4-To-MIDI) - Text prompt to MIDI File using OpenAI's GPT-4
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [murchie85/GPT_AUTOMATE](https://github.com/murchie85/GPT_AUTOMATE) - An automation harness for GPT to produce a full ready to go code poject.
-- [mykados/Project-Genesis](https://github.com/mykados/Project-Genesis) - Project Genesis is the development of a mathematical visual representation of music.
 - [mrdjtools/AttributeTagger](https://github.com/mrdjtools/AttributeTagger) - This is a publicly available version of the attribute tagger I created using ChatGPT 4. The tagger cross-references Spotify's metadata with tracks located in a specific folder and automatically assign
 - [MartinDeadly/Music-Maker](https://github.com/MartinDeadly/Music-Maker) - ChatGPT is working with me to generate midi files
 - [mazzzystar/teach-show-consult](https://github.com/mazzzystar/teach-show-consult) - Teach ChatGPT the Alda music programming language, show it some superb code, and consult with it to compose a melody.
@@ -4601,6 +4600,7 @@
 
 ## Swift 
 
+- [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [Cap-go/capacitor-llm](https://github.com/Cap-go/capacitor-llm) - Capacitor plugin to run LLM models locally in IOS and Android, support AppleInteligence
 - [facebook/QuickLayout](https://github.com/facebook/QuickLayout) - QuickLayout is a custom-built, declarative layout library for iOS designed to work seamlessly with UIKit.
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
@@ -5261,7 +5261,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [weirongxu/lrc-kit](https://github.com/weirongxu/lrc-kit) - Lyric parser, maker, runner for javascript
 - [Jarred-Sumner/bun-gh-issues-count](https://github.com/Jarred-Sumner/bun-gh-issues-count) - 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [denodrivers/postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno
 - [qcz/vscode-text-power-tools](https://github.com/qcz/vscode-text-power-tools) - Text Power Tools extension for VS Code
 - [Erisa/multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings
