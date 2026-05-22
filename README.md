@@ -372,7 +372,6 @@
 - [ccrma/chuck](https://github.com/ccrma/chuck) - ChucK Music Programming Language
 - [craigsapp/midifile](https://github.com/craigsapp/midifile) - C++ classes for reading/writing Standard MIDI Files
 - [nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all) - Official supported Python bindings for llama.cpp + gpt4all
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
@@ -614,7 +613,7 @@
 - [openclaw/notcrawl](https://github.com/openclaw/notcrawl) - Local-first Notion crawler into SQLite and normalized Markdown
 - [hackafterdark/context-sherpa](https://github.com/hackafterdark/context-sherpa) - Context Sherpa MCP server provides code mapping, deterministic feedback loops, and tiered inference for AI coding agents to increase accuracy and optimize token usage.
 - [tonymet/restmail](https://github.com/tonymet/restmail) - restmail sends email from CLI using gmail & outlook rest APIs. It can be used for email automation, notifications and with `git send-mail` for sharing patches.
-- [wesm/agentsview](https://github.com/wesm/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
 - [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
 - [kawakatz/macCookies](https://github.com/kawakatz/macCookies) - macCookies decrypt cookies stored in macOS browsers for pentesters.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -2433,7 +2432,6 @@
 - [nyanta012/pdf-extraction-accuracy](https://github.com/nyanta012/pdf-extraction-accuracy) - 
 - [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - Learn LeetCode and prepare for coding interviews with free resources.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [CyberAlbSecOP/KEVLAR-Anti-Leak-System-Prompts](https://github.com/CyberAlbSecOP/KEVLAR-Anti-Leak-System-Prompts) - Bullet-proof your custom GPT system prompt security with KEVLAR, the ultimate prompt protector against rules extraction, prompt injections, and leaks of AI agent secret instructions.
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [joelparkerhenderson/stable-diffusion-macos-install-help](https://github.com/joelparkerhenderson/stable-diffusion-macos-install-help) - Stable Diffusion: macOS install help with homebrew, python, anaconda, dream, etc.
 - [lsvekis/Google-Apps-Script](https://github.com/lsvekis/Google-Apps-Script) - 
@@ -4376,6 +4374,7 @@
 - [allthemusicllc/atm-tools](https://github.com/allthemusicllc/atm-tools) - Tools for working with MIDI files - written by All the Music LLC for musicians.
 - [allthemusicllc/libatm](https://github.com/allthemusicllc/libatm) - Library for generating and working with MIDI files
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
