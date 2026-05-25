@@ -488,7 +488,7 @@
 - [Alemusica/jsom](https://github.com/Alemusica/jsom) - Visual UI designer that exports LLM-readable specs. Draw → Export → AI builds it. Semantic layers, 9 design systems, PHI algorithms, MCP server integration.
 - [PipedreamHQ/workflow-builder-connect](https://github.com/PipedreamHQ/workflow-builder-connect) - Visual AI workflow automation platform with &gt;3,000 connectors
 - [arlanrakh/talk-to-girlfriend-ai](https://github.com/arlanrakh/talk-to-girlfriend-ai) - im busy building ai agents so why not let an ai talk to my girlfriend? (i am single)
-- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
+- [jeremylongshore/perception-with-intent](https://github.com/jeremylongshore/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
@@ -799,7 +799,7 @@
 - [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
 - [VAMFI/claude-user-memory](https://github.com/VAMFI/claude-user-memory) - Autonomous agent substrate for Claude Code CLI. Research→Plan→Implement workflows with quality gates, TDD   enforcement, and multi-agent coordination. 4.8-5.5x faster development. Built on Anthropic's
 - [arlanrakh/talk-to-girlfriend-ai](https://github.com/arlanrakh/talk-to-girlfriend-ai) - im busy building ai agents so why not let an ai talk to my girlfriend? (i am single)
-- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
+- [jeremylongshore/perception-with-intent](https://github.com/jeremylongshore/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
@@ -1706,6 +1706,7 @@
 - [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot) - Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js.
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [microvoid/notion-ai-anywhere](https://github.com/microvoid/notion-ai-anywhere) - Notion AI Anywhere It is a extension that allows you to use Notion AI capabilities while browsing any webpage.
+- [HCYT/notionAI](https://github.com/HCYT/notionAI) - NotionAI.js is a JavaScript library for accessing OpenAI's GPT-3 language model through the Notion API. Generate human-like text, translate, and change tone with ease.
 - [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
@@ -2758,7 +2759,7 @@
 - [JosephLai241/nomad](https://github.com/JosephLai241/nomad) - 🌳 The customizable next gen tree command with Git integration and TUI.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [conduktor/conduktor-platform](https://github.com/conduktor/conduktor-platform) - Streamline Apache Kafka with Conduktor Platform. 🚀
+- [conduktor/conduktor-platform](https://github.com/conduktor/conduktor-platform) - The Apache Kafka Operations Platform. 🚀
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
@@ -3085,7 +3086,7 @@
 
 ## firebase 
 
-- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
+- [jeremylongshore/perception-with-intent](https://github.com/jeremylongshore/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth) - Simple Firebase authentication for all Next.js rendering strategies
@@ -4411,6 +4412,7 @@
 - [ibnzUK/Next-Chrome-Starter](https://github.com/ibnzUK/Next-Chrome-Starter) - Next.js Chrome Extension Starter example application that demonstrates how to build a Chrome extension using Next.js. It provides a foundation for developing Chrome extensions with Next.js, React and 
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
+- [HCYT/notionAI](https://github.com/HCYT/notionAI) - NotionAI.js is a JavaScript library for accessing OpenAI's GPT-3 language model through the Notion API. Generate human-like text, translate, and change tone with ease.
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
@@ -6541,7 +6543,7 @@
 
 ## others 
 
-- [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - 
+- [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - Liquid Glass for the Web
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [Cap-go/capacitor-llm](https://github.com/Cap-go/capacitor-llm) - Capacitor plugin to run LLM models locally in IOS and Android, support AppleInteligence
@@ -6966,7 +6968,7 @@
 - [pomdtr/ray](https://github.com/pomdtr/ray) - A command line interface for Raycast
 - [Netflix/eslint-config-netflix](https://github.com/Netflix/eslint-config-netflix) - Shared ESLint config for Netflix JavaScript
 - [ludwig-ai/datasets](https://github.com/ludwig-ai/datasets) - Open Source Datasets to Use for Demonstrating Ludwig Capabilities
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [April 2026]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [May 2026]
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [ryanwithawhy/generate_temp_table_sql](https://github.com/ryanwithawhy/generate_temp_table_sql) - This package takes a CSV and generates SQL statements to create a temp table and insert the data within it into the temp table.  Good when you need to move data between warehouses for ad hoc analysis 
 - [Blazity/next-news](https://github.com/Blazity/next-news) - 
@@ -9758,7 +9760,7 @@
 - [python-openapi/openapi-schema-validator](https://github.com/python-openapi/openapi-schema-validator) - OpenAPI schema validator is a Python library that validates schema against OpenAPI Schema Specification v3.0 and v3.1
 - [alltuner/vibetuner](https://github.com/alltuner/vibetuner) - Production-ready FastAPI scaffolding — flexible databases (MongoDB, PostgreSQL, MySQL, SQLite), HTMX frontend, OAuth auth. Generate full-stack apps in seconds.
 - [cole/aiosmtplib](https://github.com/cole/aiosmtplib) - asyncio smtplib implementation
-- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
+- [jeremylongshore/perception-with-intent](https://github.com/jeremylongshore/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [python-openapi/openapi-core](https://github.com/python-openapi/openapi-core) - Openapi-core is a Python library that adds client-side and server-side support for the OpenAPI v3.0 and OpenAPI v3.1 and OpenAPI v3.2 specification.
 - [graphql-python/flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application.
@@ -11665,7 +11667,7 @@
 
 ## terraform 
 
-- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
+- [jeremylongshore/perception-with-intent](https://github.com/jeremylongshore/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure that's powering E2B Cloud.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -11764,7 +11766,7 @@
 - [LeadMagic/cold-email-cli](https://github.com/LeadMagic/cold-email-cli) - 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [vektori-ai/vektori-extension](https://github.com/vektori-ai/vektori-extension) - Never repeat yourself across AI :)
-- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
+- [jeremylongshore/perception-with-intent](https://github.com/jeremylongshore/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
