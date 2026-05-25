@@ -266,7 +266,7 @@
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [April 2026]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [May 2026]
 - [rorywalsh/cabbage](https://github.com/rorywalsh/cabbage) - Framework for developing audio plugins with the Csound programming language.
 - [yeeking/ai-enhanced-audio-book](https://github.com/yeeking/ai-enhanced-audio-book) - A repository of AI-enhanced audio plugins written using C++, JUCE, libtorch, RTNeural and other libraries. Supports my book
 - [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A swift and unified toolkit for symbolic music processing
@@ -1322,6 +1322,7 @@
 - [RylandAdams/EtherMidi](https://github.com/RylandAdams/EtherMidi) - Utilizing ChatGPT we generate chord progressions then automatically have them download as midi to use in your DAW
 - [iuzn/chatgpt-notion-clipper](https://github.com/iuzn/chatgpt-notion-clipper) - With chatgpt-notion-clipper, you can easily add your chatgpt conversations to a Notion page.
 - [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts f
+- [HCYT/notionAI](https://github.com/HCYT/notionAI) - NotionAI.js is a JavaScript library for accessing OpenAI's GPT-3 language model through the Notion API. Generate human-like text, translate, and change tone with ease.
 - [DWilliames/Google-sheets-content-sync-sketch-plugin](https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin) - Sync content within a Google Sheets document, to text layers — based on their names. Edit and collaborate on your content in Google Sheets, then sync in back to your sketch files.
 - [nzkdevsaider/ableton-nextjs](https://github.com/nzkdevsaider/ableton-nextjs) - Replica of Ableton website made in NextJS.
 - [JeromeDevillers/ableton-hue-record](https://github.com/JeromeDevillers/ableton-hue-record) - Set Philips Hue color to red when you recording with your Ableton Push 2.
@@ -2469,7 +2470,7 @@
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [GiantSteps/drum-pattern-datasets](https://github.com/GiantSteps/drum-pattern-datasets) - This repository holds datasets of polyphonic drum patterns used in the creation of Electronic Dance Music.
 - [GiantSteps/simple-song-maker](https://github.com/GiantSteps/simple-song-maker) - (pop song generator in pd)
-- [conduktor/conduktor-platform](https://github.com/conduktor/conduktor-platform) - Streamline Apache Kafka with Conduktor Platform. 🚀
+- [conduktor/conduktor-platform](https://github.com/conduktor/conduktor-platform) - The Apache Kafka Operations Platform. 🚀
 - [sderosiaux/every-single-day-i-tldr](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 - [GeniusTechnoMystic/ChatGPT-AI-Plugin-Manifest-Lists](https://github.com/GeniusTechnoMystic/ChatGPT-AI-Plugin-Manifest-Lists) - A collection of links to ChatGPT/AI "*/.well-known/ai-plugin.json", "*/.well-known/openapi.json" and "*/.well-known/openapi.yaml" manifest files
@@ -2901,7 +2902,7 @@
 - [coleam00/your-claude-engineer](https://github.com/coleam00/your-claude-engineer) - Demonstration of an agent harness with access to tools like Slack, GitHub, and Linear so it can act as your own complete software engineer.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [arlanrakh/talk-to-girlfriend-ai](https://github.com/arlanrakh/talk-to-girlfriend-ai) - im busy building ai agents so why not let an ai talk to my girlfriend? (i am single)
-- [intent-solutions-io/perception-with-intent](https://github.com/intent-solutions-io/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
+- [jeremylongshore/perception-with-intent](https://github.com/jeremylongshore/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
@@ -4726,7 +4727,7 @@
 
 ## TypeScript 
 
-- [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - 
+- [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - Liquid Glass for the Web
 - [davidguttman/clawkie-talkie](https://github.com/davidguttman/clawkie-talkie) - Voice walkie-talkie surface for OpenClaw
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [kapishdima/soundcn](https://github.com/kapishdima/soundcn) - 700+ curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source
