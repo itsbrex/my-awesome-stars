@@ -4351,7 +4351,7 @@
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [prenagha/launchbar](https://github.com/prenagha/launchbar) - LaunchBar Actions
 - [MoOx/postcss-cssnext](https://github.com/MoOx/postcss-cssnext) - `postcss-cssnext` has been deprecated in favor of `postcss-preset-env`.
-- [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal is a push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
+- [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to add OneSignal to your web
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
@@ -12535,7 +12535,7 @@
 
 ## wordpress 
 
-- [OneSignal/OneSignal-WordPress-Plugin](https://github.com/OneSignal/OneSignal-WordPress-Plugin) - OneSignal is a free push notification service for web and mobile apps. This plugin makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com
+- [OneSignal/OneSignal-WordPress-Plugin](https://github.com/OneSignal/OneSignal-WordPress-Plugin) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to integrate your Wordpress 
 - [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration for developing with WordPress
 - [welaika/wordmove](https://github.com/welaika/wordmove) - Multi-stage command line deploy/mirroring and task runner for Wordpress
 - [olefredrik/FoundationPress](https://github.com/olefredrik/FoundationPress) - FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
