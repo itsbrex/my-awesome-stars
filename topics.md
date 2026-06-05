@@ -209,6 +209,7 @@
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [osint](#osint)
+- [osint-tools](#osint-tools)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -464,6 +465,7 @@
 
 ## ai 
 
+- [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
 - [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - AI-Native Video Editor — CLI-first, MCP-ready. Generate, edit, and ship videos from your terminal.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
@@ -815,6 +817,7 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
+- [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [haasonsaas/email-agent](https://github.com/haasonsaas/email-agent) - AI-powered email management agent with TUI dashboard, CLI commands, and multi-agent categorization system. Supports Gmail integration, rule-based processing, and Docker deployment.
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
@@ -1982,6 +1985,7 @@
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
+- [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
@@ -1993,6 +1997,7 @@
 
 ## cli 
 
+- [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - AI-Native Video Editor — CLI-first, MCP-ready. Generate, edit, and ship videos from your terminal.
@@ -2767,6 +2772,7 @@
 - [madebyaris/advance-minimax-m3-cursor-rules](https://github.com/madebyaris/advance-minimax-m3-cursor-rules) - Agentic-first Cursor Rules powered by MiniMax M3 - clarify-first prompting, interleaved thinking, and full tool orchestration for production-ready AI coding
 - [VAMFI/claude-user-memory](https://github.com/VAMFI/claude-user-memory) - Autonomous agent substrate for Claude Code CLI. Research→Plan→Implement workflows with quality gates, TDD   enforcement, and multi-agent coordination. 4.8-5.5x faster development. Built on Anthropic's
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
@@ -5284,6 +5290,7 @@
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+- [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
@@ -6580,6 +6587,10 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 
+## osint-tools 
+
+- [osintambition/Awesome-Browser-Extensions-for-OSINT](https://github.com/osintambition/Awesome-Browser-Extensions-for-OSINT) - A collection of awesome browser extension useful for OSINT along with their use case.
+
 ## others 
 
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
@@ -6701,7 +6712,6 @@
 - [HiveMindAutomation/Outlook-for-Mac-Signatures](https://github.com/HiveMindAutomation/Outlook-for-Mac-Signatures) - AppleScript to automate creation of an HTML Signature in Outlook for Mac 2016.
 - [iannuttall/mcp-config](https://github.com/iannuttall/mcp-config) - Turn one MCP server setup into the right format for lots of apps.
 - [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich) - 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
-- [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [mmcgraw73/cursor-notes](https://github.com/mmcgraw73/cursor-notes) - 
 - [kawakatz/macCookies](https://github.com/kawakatz/macCookies) - macCookies decrypt cookies stored in macOS browsers for pentesters.
 - [ShobhitPatra/unistash](https://github.com/ShobhitPatra/unistash) - Universal state management abstraction for React. Use the same code with Zustand, Jotai, Redux, Recoil, or any other state library.
@@ -11821,6 +11831,7 @@
 - [vektori-ai/vektori-extension](https://github.com/vektori-ai/vektori-extension) - Never repeat yourself across AI :)
 - [jeremylongshore/perception-with-intent](https://github.com/jeremylongshore/perception-with-intent) - AI-powered news intelligence with 8 Vertex AI agents monitoring 50+ sources. Real-time executive dashboard, daily briefs, and smart alerts. Built on Firebase + A2A protocol.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [fuma-nama/discord-bot-template](https://github.com/fuma-nama/discord-bot-template) - Best Discord Bot template with Dashboard and Documentation
@@ -12246,6 +12257,7 @@
 
 ## video 
 
+- [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [akshgpt7/youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library of the YouTube Data API.
