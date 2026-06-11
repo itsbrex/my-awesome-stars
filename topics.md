@@ -392,7 +392,7 @@
 - [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
 - [nex-crm/wuphf](https://github.com/nex-crm/wuphf) - WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs 
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [PrismorSec/immunity-agent](https://github.com/PrismorSec/immunity-agent) - The security layer for AI coding agents : Skill governance, safe package recommendations, MCP/tools guardrails, secret protection, runtime policy enforcement and full audit visibility with a self-serv
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
@@ -794,6 +794,7 @@
 
 ## ai-agents 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - AI-Native Video Editor — CLI-first, MCP-ready. Generate, edit, and ship videos from your terminal.
 - [alookai/alook](https://github.com/alookai/alook) - The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.
 - [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA) - This is the official website for TuriX Computer-use-Agent
@@ -1640,7 +1641,6 @@
 - [AImarkdown/main](https://github.com/AImarkdown/main) - Versatile App Creation: Build ChatGPT apps for mobile or desktop
 - [ozgrozer/chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
@@ -2878,7 +2878,7 @@
 
 - [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative
 - [QuiteAFancyEmerald/InvisiProxy](https://github.com/QuiteAFancyEmerald/InvisiProxy) - InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup. It does this securely
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [alltuner/vibetuner](https://github.com/alltuner/vibetuner) - Production-ready FastAPI scaffolding — flexible databases (MongoDB, PostgreSQL, MySQL, SQLite), HTMX frontend, OAuth auth. Generate full-stack apps in seconds.
 - [haasonsaas/email-agent](https://github.com/haasonsaas/email-agent) - AI-powered email management agent with TUI dashboard, CLI commands, and multi-agent categorization system. Supports Gmail integration, rule-based processing, and Docker deployment.
 - [daikikatsuragawa/clasp-action](https://github.com/daikikatsuragawa/clasp-action) - This action uses clasp to push or deploy to Google Apps Script.
@@ -3473,6 +3473,7 @@
 
 ## golang 
 
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -4163,7 +4164,6 @@
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 - [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [meleyal/generative-music-with-javascript](https://github.com/meleyal/generative-music-with-javascript) - A guide to creating generative music with JavaScript
 - [Okazari/Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
@@ -4607,7 +4607,7 @@
 
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -5070,7 +5070,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 tok/s Qwen 3.5 122B, Llama 3.3 70B, Gemma 4 31B. Private, offline, airgap-ready. Built for NDA / lega
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [alienator88/Viz](https://github.com/alienator88/Viz) - Capture text/QR Codes/Barcodes/Colors from screen snippets
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
@@ -5281,7 +5281,7 @@
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA) - This is the official website for TuriX Computer-use-Agent
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox-mcp](https://github.com/superradcompany/microsandbox-mcp) - 🧶 MCP server for microsandbox - Give your AI agents sandboxes
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
@@ -6106,7 +6106,7 @@
 - [better-stack-ai/better-stack](https://github.com/better-stack-ai/better-stack) - Composable full-stack plugin system for modern React frameworks
 - [QuiteAFancyEmerald/InvisiProxy](https://github.com/QuiteAFancyEmerald/InvisiProxy) - InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup. It does this securely
 - [gajus/global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent configurable using environment variables.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [LeadMagic/cold-email-cli](https://github.com/LeadMagic/cold-email-cli) - 
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
@@ -6147,7 +6147,6 @@
 - [zya/litellmjs](https://github.com/zya/litellmjs) - JavaScript implementation of LiteLLM.
 - [SamurAIGPT/awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw) - A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [nodejs/release-cloudflare-worker](https://github.com/nodejs/release-cloudflare-worker) - Infra for serving Node.js downloads and documentation.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [marcosrjjunior/hono-boilerplate](https://github.com/marcosrjjunior/hono-boilerplate) - 📝 hono boilerplate to run a typescript server using node, bun...
@@ -6656,7 +6655,6 @@
 - [AfterRealm/curb-cut](https://github.com/AfterRealm/curb-cut) - WCAG 2.2 Level AA accessibility auditor for Claude Code
 - [WrathZA/skillforge](https://github.com/WrathZA/skillforge) - Quality-gated skill authoring for Claude Code. Build, judge, and ship skills that earn their tokens.
 - [Grinning-Cat-RAG/cat-agent-skills-plugin](https://github.com/Grinning-Cat-RAG/cat-agent-skills-plugin) - Plugin to parse the Skills.io provided to the Grinning Cat
-- [superradcompany/microsandbox-mcp](https://github.com/superradcompany/microsandbox-mcp) - 🧶 MCP server for microsandbox - Give your AI agents sandboxes
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [membranedev/application-skills](https://github.com/membranedev/application-skills) - 
 - [kitlangton/motel](https://github.com/kitlangton/motel) - 
@@ -6887,7 +6885,7 @@
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 - [sadmann7/sortable](https://github.com/sadmann7/sortable) - Sortable built with shadcn/ui, radix ui, and dnd-kit.
 - [emptypockets-dev/create-hubspot-project](https://github.com/emptypockets-dev/create-hubspot-project) - CLI to bootstrap new Hubspot projects.
-- [mindtown-ai/dynamic-prompt](https://github.com/mindtown-ai/dynamic-prompt) - This component allows you to dynamically render text fields and select inputs based on the provided data.
+- [aykutkardas/dynamic-prompt](https://github.com/aykutkardas/dynamic-prompt) - This component allows you to dynamically render text fields and select inputs based on the provided data.
 - [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 🔥 Generate llms.txt and llms-full.txt files for any website!
 - [connection-sphere/intercept](https://github.com/connection-sphere/intercept) - Intercept AJAX / XHR calls to extract information / scraping.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
@@ -9824,6 +9822,7 @@
 - [pyopenapi/pyswagger](https://github.com/pyopenapi/pyswagger) - An OpenAPI (fka Swagger) client & converter in python, which is type-safe, dynamic, spec-compliant.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [python-openapi/openapi-schema-validator](https://github.com/python-openapi/openapi-schema-validator) - OpenAPI schema validator is a Python library that validates schema against OpenAPI Schema Specification v3.0 and v3.1
@@ -9886,7 +9885,6 @@
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [pstirparo/machofile](https://github.com/pstirparo/machofile) - machofile is a module to parse Mach-O binary files
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
@@ -10889,7 +10887,7 @@
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 - [eresende/pitlane-mcp](https://github.com/eresende/pitlane-mcp) - Token-efficient navigation substrate for AI coding agents. Index code once and retrieve only the symbols you need.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -10913,6 +10911,7 @@
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 - [dioxus-community/dioxus-radio](https://github.com/dioxus-community/dioxus-radio) - Fully-typed global state management with a topics subscription system for Dioxus 🧬
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
@@ -10999,7 +10998,7 @@
 
 ## security 
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [PrismorSec/immunity-agent](https://github.com/PrismorSec/immunity-agent) - The security layer for AI coding agents : Skill governance, safe package recommendations, MCP/tools guardrails, secret protection, runtime policy enforcement and full audit visibility with a self-serv
 - [frmoretto/hardstop](https://github.com/frmoretto/hardstop) - Don't let AI destroy your hard work! HardStop is a rock-solid protection for AI-generated commands. Pre-execution safety validation for Claude Code, Claude Cowork. Catches dangerous commands before th
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -11040,7 +11039,7 @@
 - [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [gronxb/hot-updater](https://github.com/gronxb/hot-updater) - A self-hostable OTA update solution for React Native (Alternative to CodePush)
@@ -11511,7 +11510,7 @@
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
 - [lalitdotdev/watchtowerai](https://github.com/lalitdotdev/watchtowerai) - An AI-powered web application leveraging Next.js 14 and TensorFlow.js for real-time object detection. Utilizing Tensorflow model for accurate detection, webcam integration for live video streams, and 
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [Skolaczk/SocialHub](https://github.com/Skolaczk/SocialHub) - SocialHub is a next-generation social media app developed using Next.js and Nest.js. It offers a modern interface and seamless user experience for connecting and exploring content.
 - [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -11812,6 +11811,7 @@
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [haasonsaas/email-agent](https://github.com/haasonsaas/email-agent) - AI-powered email management agent with TUI dashboard, CLI commands, and multi-agent categorization system. Supports Gmail integration, rule-based processing, and Docker deployment.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [JosephLai241/nomad](https://github.com/JosephLai241/nomad) - 🌳 The customizable next gen tree command with Git integration and TUI.
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
@@ -11842,7 +11842,7 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) - Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Ge
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [LeadMagic/cold-email-cli](https://github.com/LeadMagic/cold-email-cli) - 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [vektori-ai/vektori-extension](https://github.com/vektori-ai/vektori-extension) - Never repeat yourself across AI :)
@@ -11945,7 +11945,7 @@
 - [alexzvn/amber](https://github.com/alexzvn/amber) - Amber is a toolchain allow to build browser extension with ease
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js enterprise-grade storefront for high-performance e-commerce with Shopify backend and Algolia middle layer with excellent browsing journey
 - [lalitdotdev/watchtowerai](https://github.com/lalitdotdev/watchtowerai) - An AI-powered web application leveraging Next.js 14 and TensorFlow.js for real-time object detection. Utilizing Tensorflow model for accurate detection, webcam integration for live video streams, and 
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service (WebUI & WebDAV) using CloudFlare R2
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
 - [Skolaczk/SocialHub](https://github.com/Skolaczk/SocialHub) - SocialHub is a next-generation social media app developed using Next.js and Nest.js. It offers a modern interface and seamless user experience for connecting and exploring content.
@@ -12543,7 +12543,7 @@
 ## windows 
 
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
