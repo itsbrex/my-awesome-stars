@@ -619,7 +619,7 @@
 - [openclaw/notcrawl](https://github.com/openclaw/notcrawl) - Local-first Notion crawler into SQLite and normalized Markdown
 - [hackafterdark/context-sherpa](https://github.com/hackafterdark/context-sherpa) - Context Sherpa MCP server provides code mapping, deterministic feedback loops, and tiered inference for AI coding agents to increase accuracy and optimize token usage.
 - [tonymet/restmail](https://github.com/tonymet/restmail) - restmail sends email from CLI using gmail & outlook rest APIs. It can be used for email automation, notifications and with `git send-mail` for sharing patches.
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests.
 - [kawakatz/macCookies](https://github.com/kawakatz/macCookies) - macCookies decrypt cookies stored in macOS browsers for pentesters.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -2972,7 +2972,7 @@
 - [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) - Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [AgentOps-AI/agents-sdk-examples](https://github.com/AgentOps-AI/agents-sdk-examples) - A collection of agents built using Agents SDK - ready to use!
-- [jahwag/ctxsync](https://github.com/jahwag/ctxsync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
+- [jahwag/ctxsync](https://github.com/jahwag/ctxsync) - ctxsync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 - [trolex213/scraper](https://github.com/trolex213/scraper) - scrape
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [trevor-nichols/cursorrules-tools](https://github.com/trevor-nichols/cursorrules-tools) - An assortment of tools to assist with development in the Cursor IDE
@@ -4839,7 +4839,7 @@
 - [ivmarcos/react-to-pdf](https://github.com/ivmarcos/react-to-pdf) - Generate pdf from react components
 - [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-- [ShobhitPatra/unistash](https://github.com/ShobhitPatra/unistash) - Universal state management abstraction for React. Use the same code with Zustand, Jotai, Redux, Recoil, or any other state library.
+- [ShobhitPatra/unistash](https://github.com/ShobhitPatra/unistash) - A tiny, typed, zero-dependency state management library for React.
 - [OmniLens/OmniLens](https://github.com/OmniLens/OmniLens) - Monitor, analyze, and optimize your GitHub workflows with comprehensive insights.
 - [AlemTuzlak/video-to-social-previews](https://github.com/AlemTuzlak/video-to-social-previews) - Automation repo that takes your video, generates a transcript, youtube info and social posts based on the video. Local first, built with TanStack AI
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
