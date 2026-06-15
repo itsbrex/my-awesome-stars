@@ -4692,7 +4692,7 @@
 - [jatingargiitk/saas-builder](https://github.com/jatingargiitk/saas-builder) - AI-native SaaS framework that builds full-stack apps using autonomous AI agents
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-- [jahwag/ctxsync](https://github.com/jahwag/ctxsync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
+- [jahwag/ctxsync](https://github.com/jahwag/ctxsync) - ctxsync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 - [rexdotsh/claudesync-vscode](https://github.com/rexdotsh/claudesync-vscode) - VSCode Extension to sync your code with Claude.ai Projects.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.
@@ -6682,7 +6682,7 @@
 - [tesslio/skill-review](https://github.com/tesslio/skill-review) - A GitHub Action that automatically reviews SKILL.md files changed in a pull request and posts results as a PR comment
 - [sachacoldiq/ColdIQ-s-GTM-Skills](https://github.com/sachacoldiq/ColdIQ-s-GTM-Skills) - Claude Code skills for Go-To-Market: 137 sales triggers, 34 email templates, 11 GTM plays, and Clay    enrichment workflows.
 - [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - 
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [shreyas-lyzr/exa-lead-gen-agent](https://github.com/shreyas-lyzr/exa-lead-gen-agent) - 
 - [paperclipai/companies](https://github.com/paperclipai/companies) - 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -6724,7 +6724,7 @@
 - [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich) - 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
 - [mmcgraw73/cursor-notes](https://github.com/mmcgraw73/cursor-notes) - 
 - [kawakatz/macCookies](https://github.com/kawakatz/macCookies) - macCookies decrypt cookies stored in macOS browsers for pentesters.
-- [ShobhitPatra/unistash](https://github.com/ShobhitPatra/unistash) - Universal state management abstraction for React. Use the same code with Zustand, Jotai, Redux, Recoil, or any other state library.
+- [ShobhitPatra/unistash](https://github.com/ShobhitPatra/unistash) - A tiny, typed, zero-dependency state management library for React.
 - [AlemTuzlak/video-to-social-previews](https://github.com/AlemTuzlak/video-to-social-previews) - Automation repo that takes your video, generates a transcript, youtube info and social posts based on the video. Local first, built with TanStack AI
 - [MervinPraison/PraisonAI-SVC](https://github.com/MervinPraison/PraisonAI-SVC) - A unified framework that turns any PraisonAI Python package into a web service on Azure using just one file per package.
 - [marc-hanheide/microsoft-mcp](https://github.com/marc-hanheide/microsoft-mcp) - Minimal, powerful MCP server for Microsoft Graph API (Outlook, Calendar, OneDrive)
@@ -9842,7 +9842,7 @@
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [jatingargiitk/saas-builder](https://github.com/jatingargiitk/saas-builder) - AI-native SaaS framework that builds full-stack apps using autonomous AI agents
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [jahwag/ctxsync](https://github.com/jahwag/ctxsync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
+- [jahwag/ctxsync](https://github.com/jahwag/ctxsync) - ctxsync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 - [markusaksli/ai-music](https://github.com/markusaksli/ai-music) - A vanilla Trasformer Decoder music generation model trained on Final Fantasy OST MIDI songs
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.
 - [OmniSaleGmbH/lalalai](https://github.com/OmniSaleGmbH/lalalai) - Official examples for LALAL.AI API: stem separation, voice cleaning, voice cloning, noise removal & audio processing
