@@ -474,6 +474,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) - 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-d
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) - Generate text, images, video, speech, and music by MiniMax.
@@ -933,7 +934,6 @@
 
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [dlvandenberg/tree-sitter-angular](https://github.com/dlvandenberg/tree-sitter-angular) - Tree Sitter Grammar for Angular
@@ -2197,6 +2197,7 @@
 ## coding 
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - Learn LeetCode and prepare for coding interviews with free resources.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 
@@ -2795,6 +2796,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JavaScript (JS) / TypeScript SDK. Stop bots and automated attacks from burning your AI budget, leaking data, or misusing tools with Arcjet's AI security building blocks.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [JosephLai241/nomad](https://github.com/JosephLai241/nomad) - 🌳 The customizable next gen tree command with Git integration and TUI.
@@ -3146,7 +3148,6 @@
 - [JithinAntony4/nextjs-pwa-boilerplate](https://github.com/JithinAntony4/nextjs-pwa-boilerplate) - 🔥 NextJS Boilerplate with hybrid static & server rendering, TypeScript support, route pre-fetching, PWA support, FCM integration, SendGrid integration, Twilio integration, and Google SignIn
 - [satnaing/haru-fashion](https://github.com/satnaing/haru-fashion) - An e-commerce web application developed with Next.JS (React) + Tailwind CSS for front-end/UI, Context API for state management and Custom REST API for Backend.
 - [clerk/clerk-firebase-starter](https://github.com/clerk/clerk-firebase-starter) - Official guide on how to use Clerk.dev with Firebase
-- [dingran/nextjs-starter-template](https://github.com/dingran/nextjs-starter-template) - Starter template for Next.js with MDX, Firebase, Chakra UI, Logflare and Stripe
 - [msaaddev/next-firebase-auth-template](https://github.com/msaaddev/next-firebase-auth-template) - ⚡️ A Next.js PWA template with firebase user authentication implemented to quickly get you started. Just fork it and use it!
 - [tjcages/lil-chat](https://github.com/tjcages/lil-chat) - an app to post on your own private wall
 
@@ -3953,7 +3954,6 @@
 - [gajus/global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent configurable using environment variables.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [suhaotian/xior](https://github.com/suhaotian/xior) - A liteweight fetch wrapper with plugins support and similar API to axios.
 - [lau1944/bunrest](https://github.com/lau1944/bunrest) - An express-like API for bun server
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -4139,7 +4139,6 @@
 - [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
 - [FormidableLabs/envy](https://github.com/FormidableLabs/envy) - Node.js Telemetry & Network Viewer
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [Abdel-Monaam-Aouini/nextjs-route-generator](https://github.com/Abdel-Monaam-Aouini/nextjs-route-generator) - A CLI tool to generate Next.js routes
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Node, Bun, and Deno.
@@ -5771,7 +5770,6 @@
 - [FormidableLabs/envy](https://github.com/FormidableLabs/envy) - Node.js Telemetry & Network Viewer
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [slawton3/jetpack](https://github.com/slawton3/jetpack) - Nextjs 14 starter preconfigured with Bun, Shadcn-ui (TailwindCss), Typescript, Supabase, Drizzle, Docker, Husky and more!
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [Abdel-Monaam-Aouini/nextjs-route-generator](https://github.com/Abdel-Monaam-Aouini/nextjs-route-generator) - A CLI tool to generate Next.js routes
 - [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JavaScript (JS) / TypeScript SDK. Stop bots and automated attacks from burning your AI budget, leaking data, or misusing tools with Arcjet's AI security building blocks.
@@ -5968,7 +5966,6 @@
 - [agustinusnathaniel/nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 - [hackclub/theme-starter](https://github.com/hackclub/theme-starter) - 🐤 A sample Next.js project for getting started with MDX, Theme UI, & Hack Club Theme.
 - [datduyng/scriptbar-snippets](https://github.com/datduyng/scriptbar-snippets) - Useful snippets for your chrome/firefox browsers
-- [dingran/nextjs-starter-template](https://github.com/dingran/nextjs-starter-template) - Starter template for Next.js with MDX, Firebase, Chakra UI, Logflare and Stripe
 - [msaaddev/next-firebase-auth-template](https://github.com/msaaddev/next-firebase-auth-template) - ⚡️ A Next.js PWA template with firebase user authentication implemented to quickly get you started. Just fork it and use it!
 - [itsnitinr/vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio) - A VSCode themed developer portfolio built using Next.js
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -6642,7 +6639,6 @@
 - [Alichnikof/Unslop](https://github.com/Alichnikof/Unslop) - Curated starter for vibe-coding professional websites with AI coding agents. 26 bundled skills, CLAUDE.md, MCP configs, and a minimal Next.js scaffold.
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [Fission-AI/PR-QUEST](https://github.com/Fission-AI/PR-QUEST) - A more interactive & engaging way to review PR's!
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
@@ -9876,7 +9872,7 @@
 - [dbos-inc/durable-swarm](https://github.com/dbos-inc/durable-swarm) - Augment Swarm with durable execution to help you build reliable and scalable multi-agent systems.
 - [simonw/json-flatten](https://github.com/simonw/json-flatten) - Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 - [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -11922,7 +11918,7 @@
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [Abdel-Monaam-Aouini/nextjs-route-generator](https://github.com/Abdel-Monaam-Aouini/nextjs-route-generator) - A CLI tool to generate Next.js routes
 - [suhaotian/xior](https://github.com/suhaotian/xior) - A liteweight fetch wrapper with plugins support and similar API to axios.
 - [4lejandrito/fetchbook](https://github.com/4lejandrito/fetchbook) - Run and test your HTTP requests. Git friendly, 100% local.
