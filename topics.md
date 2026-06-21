@@ -462,6 +462,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 
 ## ai 
 
@@ -10974,7 +10975,6 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [icaroferre/AudioHit](https://github.com/icaroferre/AudioHit) - Rust-based CLI for batch processing audio samples.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 
 ## sass 
 
