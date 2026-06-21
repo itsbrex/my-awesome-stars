@@ -171,7 +171,6 @@
 - [dbry/slac](https://github.com/dbry/slac) - Simple Lossless Audio Compressor
 - [marcoevang/camilladsp-setrate](https://github.com/marcoevang/camilladsp-setrate) - Automatic sample rate switcher for CamillaDSP
 - [elf-audio/mzgl](https://github.com/elf-audio/mzgl) - a cross-platform application library and a collection of other useful of libraries.
-- [sideb0ard/SBShell](https://github.com/sideb0ard/SBShell) - Soundb0ard Shellllllll
 - [judyqiu1996/Chord-detection](https://github.com/judyqiu1996/Chord-detection) - Detected chords in a piece of music made of instruments, e.g. piano and guitar, by using Maximum Likelihood Method and FFT.
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [cmajor-lang/cmajor](https://github.com/cmajor-lang/cmajor) - The Cmajor public repository
@@ -322,6 +321,7 @@
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [artfwo/aalink](https://github.com/artfwo/aalink) - Async Python interface for Ableton Link
+- [sideb0ard/SBShell](https://github.com/sideb0ard/SBShell) - Soundb0ard Shellllllll
 - [haszari/PhraseSyncPlugins](https://github.com/haszari/PhraseSyncPlugins) - Phrase-synchable MIDI plugins for live performance
 - [iscore-pfa/ScorePfa](https://github.com/iscore-pfa/ScorePfa) - 
 - [DBraun/ChucKDesigner](https://github.com/DBraun/ChucKDesigner) - ChucK audio integration with TouchDesigner
@@ -4418,7 +4418,7 @@
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [kitlith/rseq_rs](https://github.com/kitlith/rseq_rs) - RSEQ assembler, disassembler, and midi converter
 - [icaroferre/AudioHit](https://github.com/icaroferre/AudioHit) - Rust-based CLI for batch processing audio samples.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 - [kejadlen/dark-sky.alfredworkflow](https://github.com/kejadlen/dark-sky.alfredworkflow) - A Dark Sky workflow for Alfred
 
 ## SCSS 
