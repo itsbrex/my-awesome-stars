@@ -2520,6 +2520,7 @@
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [magic-research/magic-avatar](https://github.com/magic-research/magic-avatar) - MagicAvatar: Multimodal Avatar Generation and Animation
 - [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
+- [Anil-matcha/Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts) - Awesome GPT-5.6 API prompts, use cases, and integrations — 60 curated real-world cases for OpenAI's latest frontier model.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -2862,6 +2863,7 @@
 
 ## Python 
 
+- [justrach/muonry](https://github.com/justrach/muonry) - Muonry – Parallel‑Capable AI Coding Assistant
 - [dealfluence/adeu](https://github.com/dealfluence/adeu) - docx ↔ LLM translator. Projects .docx to Markdown for editing. Projects edits back to OOXML as tracked changes. Python and Node.js implementations.
 - [dougcalobrisi/erm](https://github.com/dougcalobrisi/erm) - Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.
 - [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) - A suite of plugins for legal workflows
@@ -3563,7 +3565,6 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [archinetai/surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - A library to inspect and extract intermediate layers of PyTorch models.
 - [archinetai/audio-diffusion-pytorch-trainer](https://github.com/archinetai/audio-diffusion-pytorch-trainer) - Trainer for audio-diffusion-pytorch
-- [Anil-matcha/Awesome-Happy-Horse-1.0-API-and-Prompt](https://github.com/Anil-matcha/Awesome-Happy-Horse-1.0-API-and-Prompt) - Python wrapper for Happy Horse 1.0 API by Alibaba — #1 ranked AI video generator. Generate native 1080p HD videos with integrated audio from text and images.
 - [RoboCoachTechnologies/GPT-Synthesizer](https://github.com/RoboCoachTechnologies/GPT-Synthesizer) - Software design & development with AI
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [marl/crepe](https://github.com/marl/crepe) - CREPE: A Convolutional REpresentation for Pitch Estimation -- pre-trained model (ICASSP 2018)
@@ -4292,7 +4293,7 @@
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local-first microVM runtime
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
@@ -4780,7 +4781,7 @@
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [bastani-inc/atomic](https://github.com/bastani-inc/atomic) - Loops for software engineering with Pi extensions, custom models, MCP, sub-agents, artifacts, review gates, and mid-run steering.
+- [bastani-inc/atomic](https://github.com/bastani-inc/atomic) - Reliable loops for software engineering with Pi extensions, custom models, MCP, sub-agents, artifacts, review gates, and mid-run steering.
 - [pasky/muaddib](https://github.com/pasky/muaddib) - Multi-user AI assistant and agent
 - [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) - Generate text, images, video, speech, and music by MiniMax.
 - [superradcompany/microsandbox-mcp](https://github.com/superradcompany/microsandbox-mcp) - 🧶 MCP server for microsandbox - Give your AI agents sandboxes
