@@ -5359,6 +5359,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
@@ -8728,6 +8729,7 @@
 - [macedotavares/Glass-Dome](https://github.com/macedotavares/Glass-Dome) - An Alfred workflow to fight link rot in Markdown notes.
 - [chadhs/idonethis-for-alfred](https://github.com/chadhs/idonethis-for-alfred) - 
 - [lukdiekm/alfred-shortcuts](https://github.com/lukdiekm/alfred-shortcuts) - 
+- [daylinmorgan/monolisa-nerdfont-patch](https://github.com/daylinmorgan/monolisa-nerdfont-patch) - Patching MonoLisa with NerdFont Symbols
 - [Acidham/alfred-default-app](https://github.com/Acidham/alfred-default-app) - Change default app for an extension
 - [darylcecile/Alfred-Chrome-Extension](https://github.com/darylcecile/Alfred-Chrome-Extension) - chrome extension that automatically "cleans up" (closes) old tabs that haven't been used for a while based on predefined rules.
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
