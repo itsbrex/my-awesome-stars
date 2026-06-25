@@ -657,6 +657,7 @@
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
 - [erdos-ai/r2](https://github.com/erdos-ai/r2) - ☁️ Command Line Interface for Cloudflare R2 Storage
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sammcj/llamalink](https://github.com/sammcj/llamalink) - Link you Ollama models to LM-Studio
 - [timiskhakov/music](https://github.com/timiskhakov/music) - From making a beep to performing a "guitar" cover
 - [bjma/spotify-filesys](https://github.com/bjma/spotify-filesys) - UNIX-like filesystem CLI for Spotify libraries
@@ -3123,7 +3124,6 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [aws-samples/song-identification-on-aws](https://github.com/aws-samples/song-identification-on-aws) - A song fingerprinting example that works with streaming media and stored media files
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [zhaozhipeng1997/demucs_ascend910_pytorch](https://github.com/zhaozhipeng1997/demucs_ascend910_pytorch) - 
@@ -4046,6 +4046,7 @@
 - [epilande/alfred-markdown](https://github.com/epilande/alfred-markdown) - 🖊 Markdown text expander
 - [arthurhammer/alfred-workflows](https://github.com/arthurhammer/alfred-workflows) - 🎩 Collection of Alfred workflows
 - [macedotavares/Glass-Dome](https://github.com/macedotavares/Glass-Dome) - An Alfred workflow to fight link rot in Markdown notes.
+- [daylinmorgan/monolisa-nerdfont-patch](https://github.com/daylinmorgan/monolisa-nerdfont-patch) - Patching MonoLisa with NerdFont Symbols
 - [Acidham/alfred-default-app](https://github.com/Acidham/alfred-default-app) - Change default app for an extension
 - [beomjungil/notion-as-ticket-system](https://github.com/beomjungil/notion-as-ticket-system) - Use your favorite tool, Notion as better issue tracker for GitHub
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
