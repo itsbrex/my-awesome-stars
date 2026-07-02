@@ -2890,7 +2890,7 @@
 - [Grinning-Cat-RAG/cat-agent-skills-plugin](https://github.com/Grinning-Cat-RAG/cat-agent-skills-plugin) - Plugin to parse the Skills.io provided to the Grinning Cat
 - [mpfaffenberger/code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Prismor (formerly Immunity Agent) - runtime security for Claude Code, Cursor, Windsurf & other AI coding agents. PreToolUse hooks that block dangerous commands, prevent secret leaks, stop prompt injec
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Runtime security for Agents. Blocks dangerous commands, prevent secret leaks, stop prompt injection, gate risky package installs and visibility and control over tool calls.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [neosigmaai/auto-harness](https://github.com/neosigmaai/auto-harness) - Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harness, and gate against regressions.
 - [githubnext/autoloop](https://github.com/githubnext/autoloop) - Loop anything in your repo: automate research, development and maintenance
