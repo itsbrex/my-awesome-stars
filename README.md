@@ -2038,7 +2038,6 @@
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
 - [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa) - Developer APIs to Accelerate LLM Projects
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) - 
 - [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
@@ -2653,7 +2652,6 @@
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [alertbox/try-bun](https://github.com/alertbox/try-bun) - Start a dev container and get to developing a variety of JavaScript-based (or TypeScript) web apps and services.
@@ -3124,6 +3122,7 @@
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [light-and-ray/sd-webui-lama-cleaner-masked-content](https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content) - Use lama cleaner before inpainting inside stable-diffusion-webui
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [aws-samples/song-identification-on-aws](https://github.com/aws-samples/song-identification-on-aws) - A song fingerprinting example that works with streaming media and stored media files
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
@@ -4024,6 +4023,7 @@
 - [mikybars/build-alfred-workflow](https://github.com/mikybars/build-alfred-workflow) - A GitHub Action to package Alfred workflows
 - [mikybars/alfred-git-clone](https://github.com/mikybars/alfred-git-clone) - An Alfred workflow to clone git repos like a master 🐑🐑
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [cartoon-raccoon/pridefetch](https://github.com/cartoon-raccoon/pridefetch) - 🏳️‍🌈Neofetch but gay
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
@@ -4294,7 +4294,7 @@
 ## Rust 
 
 - [agrimsingh/glyphrush](https://github.com/agrimsingh/glyphrush) - 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
