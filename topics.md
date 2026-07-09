@@ -4124,7 +4124,7 @@
 
 ## ios 
 
-- [facebook/QuickLayout](https://github.com/facebook/QuickLayout) - QuickLayout is a custom-built, declarative layout library for iOS designed to work seamlessly with UIKit.
+- [facebook/QuickLayout](https://github.com/facebook/QuickLayout) - QuickLayout is a production-ready declarative layout library for UIKit. Built for large-scale applications, it combines expressive Swift APIs with a lightweight layout engine to deliver high performan
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -6742,7 +6742,7 @@
 - [agrimsingh/glyphrush](https://github.com/agrimsingh/glyphrush) - 
 - [justrach/codegraff](https://github.com/justrach/codegraff) - graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
-- [athm793/buggie-skill](https://github.com/athm793/buggie-skill) - Claude Code slash command for adversarial bug hunting, architecture review, live UI testing, and consultant-style debrief
+- [athm793/buggie-skill](https://github.com/athm793/buggie-skill) - Claude Code /buggie skill (v2.3.0): safe-by-default bug hunting, architecture + security review, live UI/UX testing, anti-vibe-coded design/security catalogs, and CI-gating scanners.
 - [MiuraKatsu/agmsg-mcp](https://github.com/MiuraKatsu/agmsg-mcp) - MCP bridge for agmsg messaging
 - [slash9494/ai-config-sync-manager](https://github.com/slash9494/ai-config-sync-manager) - Bidirectional sync for Claude Code and Codex — instructions, skills, agents, MCP servers, hooks, permissions.
 - [ThariqS/html-effectiveness](https://github.com/ThariqS/html-effectiveness) - 
