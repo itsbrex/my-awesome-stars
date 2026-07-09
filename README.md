@@ -980,6 +980,7 @@
 - [itsbrex/loop-engineering](https://github.com/itsbrex/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
+- [athm793/buggie-skill](https://github.com/athm793/buggie-skill) - Claude Code /buggie skill (v2.3.0): safe-by-default bug hunting, architecture + security review, live UI/UX testing, anti-vibe-coded design/security catalogs, and CI-gating scanners.
 - [slash9494/ai-config-sync-manager](https://github.com/slash9494/ai-config-sync-manager) - Bidirectional sync for Claude Code and Codex — instructions, skills, agents, MCP servers, hooks, permissions.
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [theNetworkChuck/claude-phone](https://github.com/theNetworkChuck/claude-phone) - Voice interface for Claude Code via SIP/3CX - Call your AI, and your AI can call you
@@ -2400,7 +2401,6 @@
 ## Others 
 
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
-- [athm793/buggie-skill](https://github.com/athm793/buggie-skill) - Claude Code slash command for adversarial bug hunting, architecture review, live UI testing, and consultant-style debrief
 - [MiuraKatsu/agmsg-mcp](https://github.com/MiuraKatsu/agmsg-mcp) - MCP bridge for agmsg messaging
 - [raylanlin/album-pipeline](https://github.com/raylanlin/album-pipeline) - AI music album production pipeline — from concept to release, fully automated
 - [ksimback/tech-debt-skill](https://github.com/ksimback/tech-debt-skill) - Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase
@@ -4621,7 +4621,7 @@
 - [mediar-ai/fazm](https://github.com/mediar-ai/fazm) - Fazm Desktop for macOS
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [Cap-go/capacitor-llm](https://github.com/Cap-go/capacitor-llm) - Capacitor plugin to run LLM models locally in IOS and Android, support AppleInteligence
-- [facebook/QuickLayout](https://github.com/facebook/QuickLayout) - QuickLayout is a custom-built, declarative layout library for iOS designed to work seamlessly with UIKit.
+- [facebook/QuickLayout](https://github.com/facebook/QuickLayout) - QuickLayout is a production-ready declarative layout library for UIKit. Built for large-scale applications, it combines expressive Swift APIs with a lightweight layout engine to deliver high performan
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
 - [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [ChimeHQ/ProcessEnv](https://github.com/ChimeHQ/ProcessEnv) - Capture the shell environment of a Foundation app
