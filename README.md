@@ -2225,7 +2225,7 @@
 
 - [ToolSense/template-general-python-project](https://github.com/ToolSense/template-general-python-project) - A template for new Python project with a focus on best practices.
 - [pulumi/pulumi-snowflake](https://github.com/pulumi/pulumi-snowflake) - 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [okio-ai/nendo-platform](https://github.com/okio-ai/nendo-platform) - Nendo is an open source platform for AI-driven audio management, intelligence, and generation.
 - [luiscript/NSYNC](https://github.com/luiscript/NSYNC) - Sync your animations with MIDI clock or Ableton link (with different creative tools).
 - [DominikButz/MinimizableViewExample](https://github.com/DominikButz/MinimizableViewExample) - Example for MinimizableView (Swift with SwiftUI)
@@ -2890,7 +2890,7 @@
 - [Grinning-Cat-RAG/cat-agent-skills-plugin](https://github.com/Grinning-Cat-RAG/cat-agent-skills-plugin) - Plugin to parse the Skills.io provided to the Grinning Cat
 - [mpfaffenberger/code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Runtime security for Agents. Blocks dangerous commands, prevent secret leaks, stop prompt injection, gate risky package installs and visibility and control over tool calls.
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Runtime Firewall for AI agents which catches the rogue tool call before it runs. Dangerous commands, secret leaks, prompt injection. For Claude Code, Codex and framework SDKs
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [neosigmaai/auto-harness](https://github.com/neosigmaai/auto-harness) - Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harness, and gate against regressions.
 - [githubnext/autoloop](https://github.com/githubnext/autoloop) - Loop anything in your repo: automate research, development and maintenance
@@ -4851,7 +4851,7 @@
 - [iannuttall/mcp-config](https://github.com/iannuttall/mcp-config) - Turn one MCP server setup into the right format for lots of apps.
 - [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich) - 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
 - [ivmarcos/react-to-pdf](https://github.com/ivmarcos/react-to-pdf) - Generate pdf from react components
-- [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
+- [preset-io/agor](https://github.com/preset-io/agor) - Agor - team command center for all things agentic
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [ShobhitPatra/unistash](https://github.com/ShobhitPatra/unistash) - A tiny, typed, zero-dependency state management library for React.
 - [OmniLens/OmniLens](https://github.com/OmniLens/OmniLens) - Monitor, analyze, and optimize your GitHub workflows with comprehensive insights.
