@@ -2865,6 +2865,7 @@
 
 ## Python 
 
+- [zebbern/webhook-mcp-server](https://github.com/zebbern/webhook-mcp-server) - MCP for webhook.site - capture HTTP requests, emails, and DNS lookups test webhooks, debugg API callbacks or use for bug bounty hunting..
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [DatanoiseTV/revenant](https://github.com/DatanoiseTV/revenant) - LLM-powered automated reverse-engineering engine for vendor-abandoned hardware and software
 - [justrach/muonry](https://github.com/justrach/muonry) - Muonry – Parallel‑Capable AI Coding Assistant
@@ -4749,6 +4750,7 @@
 
 ## TypeScript 
 
+- [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
 - [rikutoe/yolo-chrome-mcp](https://github.com/rikutoe/yolo-chrome-mcp) - Yolo Chrome MCP for Claude — expose any open Chrome tab to Claude (paired extension).
 - [getcustomaise/customaise-mcp](https://github.com/getcustomaise/customaise-mcp) - MCP server bridging AI coding agents (Cursor, Claude Code, Codex, Windsurf, Kiro, Antigravity) to the Customaise Chrome extension. 18 tools: UserScripts, AgentScripts, WebMCP calls with HITL consent, 
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
@@ -4970,7 +4972,7 @@
 - [w3labkr/nextjs14-supabase-blog](https://github.com/w3labkr/nextjs14-supabase-blog) - This is a dashboard starter template for the NextJS 14 app router using supabase based on shadcn-ui.
 - [Alwurts/simple-shadcn-cli](https://github.com/Alwurts/simple-shadcn-cli) - 
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
-- [UllrAI/HeadShots.fun](https://github.com/UllrAI/HeadShots.fun) - 📸 https://HeadShots.fun is an open-source SaaS platform that uses Replicate AI models and Stripe for payment processing.
+- [UllrAI/HeadShots.fun](https://github.com/UllrAI/HeadShots.fun) - 📸 AI headshot SaaS built with Next.js, Replicate, and Stripe.
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [HubSpot/ui-extensions-examples](https://github.com/HubSpot/ui-extensions-examples) - This repository contains code examples of UI extensions built with HubSpot CRM development tools beta
