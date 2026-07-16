@@ -2410,7 +2410,7 @@
 - [membranedev/application-skills](https://github.com/membranedev/application-skills) - 
 - [zm2231/cc-design](https://github.com/zm2231/cc-design) - Claude Code plugin for intent-first interface design. Enforces craft over defaults, maintains design memory, extracts tokens from live pages and Stitch.
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification
-- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
+- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 - [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - 
 - [shreyas-lyzr/exa-lead-gen-agent](https://github.com/shreyas-lyzr/exa-lead-gen-agent) - 
 - [paperclipai/companies](https://github.com/paperclipai/companies) - 
@@ -5378,7 +5378,6 @@
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Web extension template to build Chrome and Firefox extensions quickly. Setup with React 19, Typescript and TailwindCSS
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
 - [intoli/user-agents](https://github.com/intoli/user-agents) - A JavaScript library for generating random user agents with data that's updated daily.
-- [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
 - [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) - React + Vite template powered by shadcn/ui
 - [mickasmt/ui-colorgen](https://github.com/mickasmt/ui-colorgen) - An application designed to assist you with color configuration of shadcn/ui !
 - [yusufgns/crmonorepo](https://github.com/yusufgns/crmonorepo) - Fast usable build for turborepo and shadcn ui users
@@ -5741,7 +5740,7 @@
 - [fwcd/bassment](https://github.com/fwcd/bassment) - Music library server with support for playlists, crates and a web/mobile frontend
 - [FunctionDJ/rekordbox.xml.js](https://github.com/FunctionDJ/rekordbox.xml.js) - A Node.js library for interacting with the Rekordbox XML format written in TypeScript
 - [kellertobias/kuvo-proxy](https://github.com/kellertobias/kuvo-proxy) - KUVO Simulation for Rekordbox for forwarding Live Track Information to a Rest API or File in Realtime for use in Live-Streams/OBS
-- [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
+- [briansunter/logseq-openai](https://github.com/briansunter/logseq-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [nimeshnayaju/tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
