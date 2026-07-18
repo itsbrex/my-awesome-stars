@@ -375,7 +375,6 @@
 - [ccrma/chuck](https://github.com/ccrma/chuck) - ChucK Music Programming Language
 - [craigsapp/midifile](https://github.com/craigsapp/midifile) - C++ classes for reading/writing Standard MIDI Files
 - [nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all) - Official supported Python bindings for llama.cpp + gpt4all
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
@@ -608,6 +607,7 @@
 
 ## Go 
 
+- [kernel/cli](https://github.com/kernel/cli) - Kernel CLI
 - [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [nex-crm/wuphf](https://github.com/nex-crm/wuphf) - YC S26 | WUPHF by Nex.ai lets you spin up your personal office of AI teammates who collaborate over shared context. Supports Claude Code, Codex, OpenClaw, OpenCode, local LLMs.
 - [openclaw/crabbox](https://github.com/openclaw/crabbox) - Crabbox: warm a box, sync the diff, run the suite.
@@ -669,7 +669,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: task runner for local and remote hosts
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure that's powering E2B Cloud.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [lukaszraczylo/graphql-monitoring-proxy](https://github.com/lukaszraczylo/graphql-monitoring-proxy) - Graphql Monitoring Proxy adding monitoring, cache, read-only mode and role based rate limiting
@@ -769,7 +769,7 @@
 
 - [ThariqS/html-effectiveness](https://github.com/ThariqS/html-effectiveness) - 
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [coleam00/obsidian-voice-agent](https://github.com/coleam00/obsidian-voice-agent) - 
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
 - [punnerud/csv_sql_graph](https://github.com/punnerud/csv_sql_graph) - 
@@ -2568,7 +2568,6 @@
 - [eristoy/Ableton-Drum-Racks](https://github.com/eristoy/Ableton-Drum-Racks) - 
 - [AhmadMoussa/Python-Midi-Ableton](https://github.com/AhmadMoussa/Python-Midi-Ableton) - A tutorial/guide on how to send midi signals from python to Ableton live, as resources on the internet about this are sparse and cryptic
 - [owencm/hooktheory-data](https://github.com/owencm/hooktheory-data) - Data dump from hook theory / hooktheory
-- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 - [thekeypals/ableton-live-project-template](https://github.com/thekeypals/ableton-live-project-template) - Default project template used by the collective.
 - [satelllte/ableton-project-template](https://github.com/satelllte/ableton-project-template) - A simple template repository that enables the use of Git versioning for Ableton projects
@@ -2740,7 +2739,6 @@
 - [thyb/contentify](https://github.com/thyb/contentify) - The easiest way to manage your online content
 - [brandonhorst/LaconaApp](https://github.com/brandonhorst/LaconaApp) - [no longer used]
 - [bclubb/iTunesScripts](https://github.com/bclubb/iTunesScripts) - applescripts that I use to maintain my itunes playlists
-- [zerolocker/DirectorifyItunesPlaylist](https://github.com/zerolocker/DirectorifyItunesPlaylist) - It makes it easier to manage your music in iTunes----it generates iTunes playlists according to the name of the directory where your music is located.  It's written in java.
 - [planetjekyll/awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 - [planetjekyll/quickrefs](https://github.com/planetjekyll/quickrefs) - Jekyll Quick References (Cheat Sheets) 'n' F.A.Q.s
 - [kopischke/alfred-workflows](https://github.com/kopischke/alfred-workflows) - Collected  workflows for Alfred 2.
@@ -2881,7 +2879,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) - Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Ge
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-- [microsoft/fara](https://github.com/microsoft/fara) - Fara-7B: An Efficient Agentic Model for Computer Use
+- [microsoft/fara](https://github.com/microsoft/fara) - Fara1.5 – A family of frontier computer use agent models
 - [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA) - This is the official website for TuriX Computer-use-Agent
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 tok/s Qwen 3.5 122B, Llama 3.3 70B, Gemma 4 31B. Private, offline, airgap-ready. Built for NDA / lega
@@ -3853,6 +3851,7 @@
 - [scmvp301135/SurpriseNet](https://github.com/scmvp301135/SurpriseNet) - SurpriseNet: Melody Harmonization Conditioning on User-controlled Surprise Contours
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Nomic Developer API SDK
 - [neonsecret/TTS-With-Voice-Cloning-Multilang](https://github.com/neonsecret/TTS-With-Voice-Cloning-Multilang) - Clone a voice in a few seconds to generate arbitrary speech in real-time in multiple languages
+- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
@@ -4335,7 +4334,7 @@
 - [ryanccn/nrr](https://github.com/ryanccn/nrr) - Minimal, blazing fast npm scripts runner
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
@@ -4396,6 +4395,7 @@
 - [allthemusicllc/atm-tools](https://github.com/allthemusicllc/atm-tools) - Tools for working with MIDI files - written by All the Music LLC for musicians.
 - [allthemusicllc/libatm](https://github.com/allthemusicllc/libatm) - Library for generating and working with MIDI files
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
@@ -4455,7 +4455,7 @@
 
 - [Kappaemme-git/codex-phone-lab](https://github.com/Kappaemme-git/codex-phone-lab) - Codex skill for building Expo apps live on a real phone
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [WrathZA/skillforge](https://github.com/WrathZA/skillforge) - Quality-gated skill authoring for Claude Code. Build, judge, and ship skills that earn their tokens.
 - [zm2231/z-audit](https://github.com/zm2231/z-audit) - Security audit skill for Claude Code / OpenCode - 7-phase methodology covering secrets, API auth, IDOR, infrastructure, and more
 - [snarktank/compound-product](https://github.com/snarktank/compound-product) - A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes
