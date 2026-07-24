@@ -1171,6 +1171,8 @@
 
 ## automation 
 
+- [managedcode/playwright_stealth](https://github.com/managedcode/playwright_stealth) - Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints — navigator properties, WebGL, canvas, audio, CDP traces, automation mark
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [yazinsai/auto-maintainer](https://github.com/yazinsai/auto-maintainer) - Write your repo rules in Markdown. AI enforces them — triages issues, reviews PRs, fixes bugs, merges code, cuts releases.
@@ -2464,6 +2466,7 @@
 
 ## csharp 
 
+- [managedcode/playwright_stealth](https://github.com/managedcode/playwright_stealth) - Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints — navigator properties, WebGL, canvas, audio, CDP traces, automation mark
 - [elringus/bootsharp](https://github.com/elringus/bootsharp) - Use C# in web apps with comfort
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -3078,6 +3081,7 @@
 
 ## dotnet 
 
+- [managedcode/playwright_stealth](https://github.com/managedcode/playwright_stealth) - Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints — navigator properties, WebGL, canvas, audio, CDP traces, automation mark
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
@@ -3287,6 +3291,7 @@
 
 ## firefox 
 
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement.
 - [maxhu08/nav](https://github.com/maxhu08/nav) - 🪝 vim style keyboard navigation for the web
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
@@ -6766,6 +6771,10 @@
 
 ## others 
 
+- [jzone3/solving-math-problems](https://github.com/jzone3/solving-math-problems) - 
+- [Edx0n/markdown-render-api-app](https://github.com/Edx0n/markdown-render-api-app) - Markdown-to-HTML rendering service with sanitization, syntax-highlighted code blocks, GitHub-flavored extensions and an optional plain-text excerpt mode.
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
+- [githubpr0jects/repo-recomender](https://github.com/githubpr0jects/repo-recomender) - The repo recomender and github search engine, vibe coded via MiniMax M2.1
 - [ejskipper/BetterMacReminders](https://github.com/ejskipper/BetterMacReminders) - More-obtrusive Outlook calendar reminders for Mac, so that you can't miss your meetings.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [chenglou/freerange](https://github.com/chenglou/freerange) - Static @fit checks for ordinary TypeScript layout code
