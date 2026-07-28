@@ -399,6 +399,7 @@
 - [omorShahriar/waypoint](https://github.com/omorShahriar/waypoint) - Turn approved plans into local, resumable agent work with durable handoffs and human pause/resume.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
+- [openclaw/crabbox](https://github.com/openclaw/crabbox) - Crabbox: warm a box, sync the diff, run the suite.
 - [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [ttttonyhe/autogrind](https://github.com/ttttonyhe/autogrind) - ✊ Let your agent grind on your projects 24x7 fully autonomously
@@ -471,7 +472,7 @@
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
 - [Globe-Engineer/globot](https://github.com/Globe-Engineer/globot) - Globot is an agent that controls your browser using playwright and GPT-4V.
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
@@ -507,7 +508,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) - 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-d
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -696,7 +697,7 @@
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
 - [RaoFoundation/bittensor](https://github.com/RaoFoundation/bittensor) - Internet-scale Neural Networks
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -1114,7 +1115,7 @@
 - [asigalov61/Heptabit-Music-Transformer](https://github.com/asigalov61/Heptabit-Music-Transformer) - [DEPRECIATED] Very fast, large music transformer with 8k sequence length, efficient heptabit MIDI notes encoding, true full MIDI instruments range, chords counters and outro tokens
 - [asigalov61/Orchestrator](https://github.com/asigalov61/Orchestrator) - Local windowed attention multi-instrumental music transformer tailored for music orchestration/instrumentation and stable music generation
 - [asigalov61/tegridy-tools](https://github.com/asigalov61/tegridy-tools) - Symbolic Music NLP Artificial Intelligence Toolkit
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [Yuan-ManX/ai-audio-datasets](https://github.com/Yuan-ManX/ai-audio-datasets) - AI Audio Datasets (AI-ADS) 🎵, including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio appl
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -1169,7 +1170,7 @@
 ## automation 
 
 - [managedcode/playwright_stealth](https://github.com/managedcode/playwright_stealth) - Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints — navigator properties, WebGL, canvas, audio, CDP traces, automation mark
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [yazinsai/auto-maintainer](https://github.com/yazinsai/auto-maintainer) - Write your repo rules in Markdown. AI enforces them — triages issues, reviews PRs, fixes bugs, merges code, cuts releases.
@@ -1716,7 +1717,7 @@
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [KompleteAI/xllm](https://github.com/KompleteAI/xllm) - 🦖 X—LLM: Simple & Cutting Edge LLM Finetuning
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [dreki/convo-formatter](https://github.com/dreki/convo-formatter) - convo-formatter — ChatGPT Conversation Formatter
 - [RhythrosaLabs/soundstorm](https://github.com/RhythrosaLabs/soundstorm) - AI-powered audio manipulation studio — sample pack creation, algorithmic composition, text-to-audio generation, and ChatGPT on one screen
@@ -2015,7 +2016,7 @@
 - [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - Frontier AI video generation for coding agents - Seedance, Runway, Veo, Kling on your own keys, behind a hard cost cap. CLI + MCP.
 - [millionco/claude-doctor](https://github.com/millionco/claude-doctor) - Diagnose your Claude Code sessions
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [rustykuntz/clideck](https://github.com/rustykuntz/clideck) - A dashboard for running and coordinating multiple AI CLI agents at once.
 - [WrathZA/skillforge](https://github.com/WrathZA/skillforge) - Quality-gated skill authoring for Claude Code. Build, judge, and ship skills that earn their tokens.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
@@ -2120,7 +2121,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) - AGENTS.md/CLAUDE.md generator and ExecPlan harness for Codex, Claude Code, Cursor, Antigravity, OpenCode, Pi and other coding agents. Use api keys or authenticate with Codex or Claude Code
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 
 ## cli 
 
@@ -2132,7 +2133,7 @@
 - [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - Frontier AI video generation for coding agents - Seedance, Runway, Veo, Kling on your own keys, behind a hard cost cap. CLI + MCP.
 - [millionco/cli-to-js](https://github.com/millionco/cli-to-js) - Turn any CLI into a JavaScript API
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [openclaw/slacrawl](https://github.com/openclaw/slacrawl) - cli terminal app for slack with sqlite backend
 - [rustykuntz/clideck](https://github.com/rustykuntz/clideck) - A dashboard for running and coordinating multiple AI CLI agents at once.
@@ -3287,7 +3288,7 @@
 
 ## firefox 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
 - [maxhu08/nav](https://github.com/maxhu08/nav) - 🪝 vim style keyboard navigation for the web
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
@@ -4322,6 +4323,7 @@
 - [RouninMedia/Obfuscate-Deobfuscate](https://github.com/RouninMedia/Obfuscate-Deobfuscate) - A simple obfuscation which works both server-side in PHP and client-side in Javascript
 - [iyarivky/debash](https://github.com/iyarivky/debash) - DeBash is a online tool that aims to deobfuscate bash scripts using JavaScript
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
+- [shakfu/py2max](https://github.com/shakfu/py2max) - A python library for offline generation of Max/MSP patcher (.maxpat) files.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
@@ -4801,7 +4803,7 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) - Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Ge
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
@@ -5113,7 +5115,7 @@
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [dcervantes/scidle-midi-rnn](https://github.com/dcervantes/scidle-midi-rnn) - Generating MIDI music with Recurrent Neural Networks
 - [liuyishengalan/Music-Mood-Lifter-ML](https://github.com/liuyishengalan/Music-Mood-Lifter-ML) - The Music Mood Lifter is a software system empowered by machine learning algorithms that can detect facial expressions from input faces.
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [Yuan-ManX/ai-audio-datasets](https://github.com/Yuan-ManX/ai-audio-datasets) - AI Audio Datasets (AI-ADS) 🎵, including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio appl
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
@@ -5436,7 +5438,7 @@
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA) - This is the official website for TuriX Computer-use-Agent
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -6577,7 +6579,7 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - Frontier AI video generation for coding agents - Seedance, Runway, Veo, Kling on your own keys, behind a hard cost cap. CLI + MCP.
 - [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
@@ -6805,7 +6807,6 @@
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [Cap-go/capacitor-llm](https://github.com/Cap-go/capacitor-llm) - Capacitor plugin to run LLM models locally in IOS and Android, support AppleInteligence
 - [davidguttman/clawkie-talkie](https://github.com/davidguttman/clawkie-talkie) - Voice walkie-talkie surface for OpenClaw
-- [openclaw/crabbox](https://github.com/openclaw/crabbox) - Crabbox: warm a box, sync the diff, run the suite.
 - [AviPeltz/CursedIDE](https://github.com/AviPeltz/CursedIDE) - An AI coding-agent IDE — implemented in Verilog. Inspired by Superset
 - [kapishdima/soundcn](https://github.com/kapishdima/soundcn) - 700+ curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source
 - [doyensec/GQLSpection](https://github.com/doyensec/GQLSpection) - GQLSpection - parses GraphQL introspection schema and generates possible queries
@@ -8469,7 +8470,7 @@
 - [dafaronbi/Serum-FXP-Python-Reader](https://github.com/dafaronbi/Serum-FXP-Python-Reader) - python scripts to read and write too serum fxp preset files
 - [nikoszs/serum-copy](https://github.com/nikoszs/serum-copy) - 🌌 Install all serum presets in one go ⚡
 - [DarceyLloyd/serum-preset-collector](https://github.com/DarceyLloyd/serum-preset-collector) - Serum Preset Collector
-- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
+- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY
 - [spiegelib/spiegelib](https://github.com/spiegelib/spiegelib) - Automatic Synthesizer Programming Library
 - [GavinRay97/vital-synth-sdk](https://github.com/GavinRay97/vital-synth-sdk) - Utilities for working with presets for the Vital synth, and hopefully eventual ML explorations
 - [jakespracher/ml-synth-preset-generator](https://github.com/jakespracher/ml-synth-preset-generator) - Machine Learning with Synthesizers
@@ -9939,7 +9940,7 @@
 - [ericpesto/ai-sample-generator](https://github.com/ericpesto/ai-sample-generator) - Create .wav audio samples with text-to-sound generative AI
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
-- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
+- [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [Bradybry/GPT4-ExpertManager](https://github.com/Bradybry/GPT4-ExpertManager) - 
 - [Bradybry/chatXML](https://github.com/Bradybry/chatXML) - A proposal for a structured LLM prompt method.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -9993,6 +9994,7 @@
 
 ## python 
 
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
 - [justrach/muonry](https://github.com/justrach/muonry) - Muonry – Parallel‑Capable AI Coding Assistant
 - [dougcalobrisi/erm](https://github.com/dougcalobrisi/erm) - Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.
 - [pyopenapi/pyswagger](https://github.com/pyopenapi/pyswagger) - An OpenAPI (fka Swagger) client & converter in python, which is type-safe, dynamic, spec-compliant.
@@ -11073,7 +11075,7 @@
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
@@ -11897,7 +11899,7 @@
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [openclaw/slacrawl](https://github.com/openclaw/slacrawl) - cli terminal app for slack with sqlite backend
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -12004,7 +12006,7 @@
 ## tui 
 
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [haasonsaas/email-agent](https://github.com/haasonsaas/email-agent) - AI-powered email management agent with TUI dashboard, CLI commands, and multi-agent categorization system. Supports Gmail integration, rule-based processing, and Docker deployment.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
