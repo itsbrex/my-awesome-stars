@@ -3049,7 +3049,6 @@
 - [zackees/aicode](https://github.com/zackees/aicode) - 
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [simonw/json-flatten](https://github.com/simonw/json-flatten) - Python functions for flattening a JSON object to a single dictionary of pairs, and unflattening that dictionary back to a JSON object
 - [whyhow-ai/knowledge-table](https://github.com/whyhow-ai/knowledge-table) - Knowledge Table is an open-source package designed to simplify extracting and exploring structured data from unstructured documents.
 - [criteo/autofaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
@@ -3369,8 +3368,8 @@
 - [supersational/JAMMIN-GPT](https://github.com/supersational/JAMMIN-GPT) - Ableton MIDI-Clip generation using GPT-4
 - [briansemrau/rwkv-midi-stream](https://github.com/briansemrau/rwkv-midi-stream) - Uses FluidSynth to play an infinite stream of AI generated MIDI in real time
 - [joshuachang2311/chorder](https://github.com/joshuachang2311/chorder) - A chord identifier and harmonizer for MIDI files
-- [BeastByteAI/agent_dingo](https://github.com/BeastByteAI/agent_dingo) - A microframework for creating simple AI agents.
-- [BeastByteAI/falcon](https://github.com/BeastByteAI/falcon) - A lightweight AutoML library.
+- [fnnx-ai/agent_dingo](https://github.com/fnnx-ai/agent_dingo) - A microframework for creating simple AI agents.
+- [fnnx-ai/falcon](https://github.com/fnnx-ai/falcon) - A lightweight AutoML library.
 - [doakey3/pylrc](https://github.com/doakey3/pylrc) - A python library for parsing and converting .lrc files
 - [yoyolicoris/spectrogram-inversion](https://github.com/yoyolicoris/spectrogram-inversion) - spectrogram inversion tools in PyTorch. Documentation: https://spectrogram-inversion.readthedocs.io
 - [jeonchangbin49/musdb-XL](https://github.com/jeonchangbin49/musdb-XL) - 
@@ -3465,7 +3464,7 @@
 - [bmcfee/crema](https://github.com/bmcfee/crema) - convolutional and recurrent estimators for music analysis
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [dodiku/MixingBear](https://github.com/dodiku/MixingBear) - Package for automatic beat-mixing of music files in Python 🐻🎚
-- [BeastByteAI/phonnx](https://github.com/BeastByteAI/phonnx) - Python Hypercharged ONNX Runtime
+- [fnnx-ai/phonnx](https://github.com/fnnx-ai/phonnx) - Python Hypercharged ONNX Runtime
 - [DawVert/DawVert](https://github.com/DawVert/DawVert) - DawVert - The DAW ConVERTer
 - [jonathanmarmor/phase](https://github.com/jonathanmarmor/phase) - Automatic Steve Reich phasing music
 - [Kevin0z0/Python_NetEaseMusicAPI](https://github.com/Kevin0z0/Python_NetEaseMusicAPI) - Python版的网易云音乐API，基于django3.0搭建
@@ -4760,7 +4759,7 @@
 
 ## TypeScript 
 
-- [trycompai/crm](https://github.com/trycompai/crm) - An open-source, agentic-first CRM.
+- [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [Edx0n/markdown-render-api-app](https://github.com/Edx0n/markdown-render-api-app) - Markdown-to-HTML rendering service with sanitization, syntax-highlighted code blocks, GitHub-flavored extensions and an optional plain-text excerpt mode.
 - [chvvkrishnakumar/expo-nativewind-template](https://github.com/chvvkrishnakumar/expo-nativewind-template) - A production-ready Expo + React Native + TypeScript starter kit with NativeWind (Tailwind CSS), pre-styled UI components, dark mode support, and Expo Router navigation — designed for building beautifu
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
@@ -4796,7 +4795,7 @@
 - [better-stack-ai/better-stack](https://github.com/better-stack-ai/better-stack) - Composable full-stack plugin system for modern React frameworks
 - [OasAIStudio/symphony-ts](https://github.com/OasAIStudio/symphony-ts) - Typecript version of https://github.com/openai/symphony
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [gajus/global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent configurable using environment variables.
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
@@ -5068,6 +5067,7 @@
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component) - A multi-select component designed with shadcn/ui
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [DevLLM/anthropic-quickstarts](https://github.com/DevLLM/anthropic-quickstarts) - Chat front end pour Anthropic API
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze!
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
@@ -5370,7 +5370,7 @@
 - [vercel/kirimase](https://github.com/vercel/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [nathan20021/react-chord-detection](https://github.com/nathan20021/react-chord-detection) - 
 - [stackswithans/akkorder](https://github.com/stackswithans/akkorder) - A Typescript port of Adam Stark's C++ implementation of the chord recognition algorithm described in the paper : Real-Time Chord Recognition For Live Performance, A. M. Stark and M. D. Plumbley.
-- [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
+- [onejs/one](https://github.com/onejs/one) - ❶ One lets you target React web and React Native with a single Vite plugin. Everything you need to build great websites and apps with unified routing.
 - [plsankar/colorhunter](https://github.com/plsankar/colorhunter) - Chrome Extenstion to export the color palette of a website in a single click.
 - [14islands/r3f-scroll-rig](https://github.com/14islands/r3f-scroll-rig) - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
 - [leap-ai/leap-ai-cover-images](https://github.com/leap-ai/leap-ai-cover-images) - 
