@@ -2865,7 +2865,7 @@
 ## Python 
 
 - [jzone3/solving-math-problems](https://github.com/jzone3/solving-math-problems) - 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Antidetect browser stealth for Playwright: undetected fingerprint in a patched Firefox, headless or headed. Python scraping, captcha-challenged sites. MIT
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [adithya-s-k/marker-api](https://github.com/adithya-s-k/marker-api) - Easily deployable 🚀 API to convert PDF to markdown quickly with high accuracy.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
@@ -4242,7 +4242,7 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT models 🤖💬 It also allows image generation/editing/understanding 🖼️, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow) - Alfred Workflow for Google Drive
 - [chadhs/idonethis-for-alfred](https://github.com/chadhs/idonethis-for-alfred) - 
@@ -4284,7 +4284,7 @@
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [shannachau/hypem-spotify-playlist](https://github.com/shannachau/hypem-spotify-playlist) - Script to add Hype Machine's popular playlist to Spotify playlist
 - [ctwise/alfred-workflows](https://github.com/ctwise/alfred-workflows) - 
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [rr1000/Time-Sensitive-Boilerplate](https://github.com/rr1000/Time-Sensitive-Boilerplate) - A middleman boilerplate
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [RyanParsley/bluesCalculator](https://github.com/RyanParsley/bluesCalculator) - A calculator for deriving the minor blues progression from a provided root note. It was made with CoffeeScript and Middleman.
@@ -5360,7 +5360,7 @@
 - [jeroentvb/spicetify-combined-playlists](https://github.com/jeroentvb/spicetify-combined-playlists) - Spicetify custom app to create combined playlists
 - [dolbyio-samples/media-app-web-solidjs-audio-visualization](https://github.com/dolbyio-samples/media-app-web-solidjs-audio-visualization) - Create a Dolby.io Frontend Application To Display Waveform With Wavesurfer.js And Interactive Elements Using Konva In SolidJS
 - [mxkrn/regroovejs](https://github.com/mxkrn/regroovejs) - JavaScript library wrapping the `regroove` ONNX exported model
-- [edgestorejs/edgestore](https://github.com/edgestorejs/edgestore) - 
+- [edgestorejs-legacy/edgestore](https://github.com/edgestorejs-legacy/edgestore) - 
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [ruucm/shadergradient](https://github.com/ruucm/shadergradient) - Create beautiful moving gradients on Framer, Figma and React
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
@@ -5550,7 +5550,7 @@
 - [PrainLopez/noticount](https://github.com/PrainLopez/noticount) - a web service for automate accounting by listening, parsing and storage
 - [Ducksss/HacknRoll2023-Robin-Hood](https://github.com/Ducksss/HacknRoll2023-Robin-Hood) - Chrome Web Extension that uses a custom GPTZero Model to automatically detect and rephrase any GPT-generated text on Notion via a single click!
 - [jbesomi/notionGPT](https://github.com/jbesomi/notionGPT) - Notion + ChatGPT = 🔥
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [antoniosolismz/Obsidian-AI](https://github.com/antoniosolismz/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
 - [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot) - Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js.
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
