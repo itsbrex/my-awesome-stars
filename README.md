@@ -2865,7 +2865,7 @@
 ## Python 
 
 - [jzone3/solving-math-problems](https://github.com/jzone3/solving-math-problems) - 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Antidetect browser stealth for Playwright: undetected fingerprint in a patched Firefox, headless or headed. Python scraping, captcha-challenged sites. MIT
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected Firefox fingerprint, headless/headed. Python scraping, hcaptcha/recaptcha bypass. Open source
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [adithya-s-k/marker-api](https://github.com/adithya-s-k/marker-api) - Easily deployable 🚀 API to convert PDF to markdown quickly with high accuracy.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
@@ -3061,7 +3061,7 @@
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [ryanmburns93/Sales_Reporting_Automation](https://github.com/ryanmburns93/Sales_Reporting_Automation) - Automates biweekly sales reporting for The Beverly Collective (https://www.thebeverlycollective.co/).
-- [filipstrand/mflux](https://github.com/filipstrand/mflux) - MLX native implementations of state-of-the-art generative image models
+- [mflux-community/mflux](https://github.com/mflux-community/mflux) - MLX native implementations of state-of-the-art generative image models
 - [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)
 - [jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant](https://github.com/jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant) - This app leverages generative AI to intelligently manage your sales inbox and CRM, auto-draft replies using your sales playbook & company branding, and more.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -4459,6 +4459,7 @@
 
 ## Shell 
 
+- [sayem314/ai-agents](https://github.com/sayem314/ai-agents) - Docker images for Codex, Claude Code, and OpenCode — run sandboxed from any project with your login mounted.
 - [Kappaemme-git/codex-phone-lab](https://github.com/Kappaemme-git/codex-phone-lab) - Codex skill for building Expo apps live on a real phone
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -4759,6 +4760,8 @@
 
 ## TypeScript 
 
+- [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed skills, tools & context for AI agents
+- [sayem314/devo](https://github.com/sayem314/devo) - Devo is a self-hosted TypeScript automation runner where AI helps create editable tasks that run from webhooks, cron schedules, or manual triggers.
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [Edx0n/markdown-render-api-app](https://github.com/Edx0n/markdown-render-api-app) - Markdown-to-HTML rendering service with sanitization, syntax-highlighted code blocks, GitHub-flavored extensions and an optional plain-text excerpt mode.
 - [chvvkrishnakumar/expo-nativewind-template](https://github.com/chvvkrishnakumar/expo-nativewind-template) - A production-ready Expo + React Native + TypeScript starter kit with NativeWind (Tailwind CSS), pre-styled UI components, dark mode support, and Expo Router navigation — designed for building beautifu
@@ -5187,8 +5190,7 @@
 - [tchowd/proposal-generator](https://github.com/tchowd/proposal-generator) - 
 - [noook/spotify-client](https://github.com/noook/spotify-client) - A fully-typed client for Spotify API, compatible in a browser and node.
 - [MohammadAhmerMalick/next-js-with-typescript-eslint-airbnb-prettier-husky-and-lint-staged](https://github.com/MohammadAhmerMalick/next-js-with-typescript-eslint-airbnb-prettier-husky-and-lint-staged) - Next.Js with Typescript, ESLint, Airbnb, Prettier, Husky and Lint Staged
-- [Skolaczk/SocialHub](https://github.com/Skolaczk/SocialHub) - SocialHub is a next-generation social media app developed using Next.js and Nest.js. It offers a modern interface and seamless user experience for connecting and exploring content.
-- [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
+- [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Biome, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 - [midrender/haven](https://github.com/midrender/haven) - LLM fine-tuning and eval
 - [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
