@@ -609,6 +609,7 @@
 
 ## Go 
 
+- [lajosdeme/mole](https://github.com/lajosdeme/mole) - A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.
 - [kernel/cli](https://github.com/kernel/cli) - Kernel CLI
 - [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [najmuzzaman-mohammad/wuphf](https://github.com/najmuzzaman-mohammad/wuphf) - WUPHF lets you spin up your personal office of AI teammates who collaborate over shared context. Supports Claude Code, Codex, OpenClaw, OpenCode, local LLMs.
@@ -1748,7 +1749,7 @@
 - [Harsukhdeepsandhu/Youtube-Bookmarks](https://github.com/Harsukhdeepsandhu/Youtube-Bookmarks) - Chrome extension to bookmark youtube videos at current time stamp
 - [evelyne24/blinkist-book-summary-helper](https://github.com/evelyne24/blinkist-book-summary-helper) - Blinkist Book Summary Scraper
 - [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync) - Command line utility for sync and backup OneTab Chrome extension data.
-- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
+- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions maintained by @pilotmoon in the official PopClip Extension Directory
 - [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
 - [theccalderon/separate-stems](https://github.com/theccalderon/separate-stems) - Separate vocals and accompaniment from audio file. Uses spleeter from Deezer.
 - [nextgens/anti-paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls
@@ -2861,10 +2862,14 @@
 
 ## PowerShell 
 
+- [sec-knight/grimoire](https://github.com/sec-knight/grimoire) - Your tome of knowledge. A Git-native context routing protocol for human/AI work.
 - [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 
 ## Python 
 
+- [ppgranger/token-saver](https://github.com/ppgranger/token-saver) - Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, dif
+- [sebastiancarlos/snafu](https://github.com/sebastiancarlos/snafu) - SNAFU. Agentic LLM flow to help you with "naming things" in source code.
+- [Blizaine/Maestro](https://github.com/Blizaine/Maestro) - An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short films from a single prompt. Built on the WanGP pipeline. Install via Pinokio.
 - [tarkaai/gtm-skills](https://github.com/tarkaai/gtm-skills) - GTM skills for AI agents. 240 plays across Marketing, Sales, and Product. Configure once for your CRM and automation stack.
 - [Neeeophytee/ai-watermarks-reality-check](https://github.com/Neeeophytee/ai-watermarks-reality-check) - Test what AI watermark and provenance evidence exists, whether it verifies, and what survives publishing.
 - [itsbrex/outbound-sales-agent](https://github.com/itsbrex/outbound-sales-agent) - Agent-operated outbound sales engine: LinkedIn + email cadence, two-stage ICP qualifier, learning loop. CRM-agnostic (Attio bundled, adapters generated + conformance-tested). Clone it and let your AI 
@@ -2879,7 +2884,7 @@
 - [adithya-s-k/marker-api](https://github.com/adithya-s-k/marker-api) - Easily deployable 🚀 API to convert PDF to markdown quickly with high accuracy.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [vamseeachanta/workspace-hub](https://github.com/vamseeachanta/workspace-hub) - A centralized management system for multiple GitHub repositories with modular organization
-- [zebbern/webhook-mcp-server](https://github.com/zebbern/webhook-mcp-server) - MCP for webhook.site - capture HTTP requests, emails, and DNS lookups test webhooks, debugg API callbacks or use for bug bounty hunting..
+- [zebbern/webhook-mcp-server](https://github.com/zebbern/webhook-mcp-server) - Capture HTTP requests, emails, and DNS lookups test webhooks, debugg API callbacks - no signup simply plug & play
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [DatanoiseTV/revenant](https://github.com/DatanoiseTV/revenant) - LLM-powered automated reverse-engineering engine for vendor-abandoned hardware and software
 - [justrach/muonry](https://github.com/justrach/muonry) - Muonry – Parallel‑Capable AI Coding Assistant
@@ -2910,7 +2915,7 @@
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [neosigmaai/auto-harness](https://github.com/neosigmaai/auto-harness) - Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harness, and gate against regressions.
 - [githubnext/autoloop](https://github.com/githubnext/autoloop) - Loop anything in your repo: automate research, development and maintenance
-- [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
+- [thirdlayerinc/autoagent](https://github.com/thirdlayerinc/autoagent) - autonomous harness engineering
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [python-openapi/openapi-schema-validator](https://github.com/python-openapi/openapi-schema-validator) - OpenAPI schema validator is a Python library that validates schema against OpenAPI Schema Specification v3.0 and v3.1
 - [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA
@@ -3860,7 +3865,7 @@
 - [chelsea0x3b/rl_simply](https://github.com/chelsea0x3b/rl_simply) - Simple pytorch implementations of RL algorithms
 - [SilasMarvin/bdemr](https://github.com/SilasMarvin/bdemr) - Been There Done That With an Enhanced Memory and Recall
 - [SilasMarvin/Episodic-Reinforcement-Learning-With-Associative-Memory-Example](https://github.com/SilasMarvin/Episodic-Reinforcement-Learning-With-Associative-Memory-Example) - This is an example of Episodic Reinforcement Learning With Associative Memory using Google's Jax library with OpenAI's Cart Pole Environment
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [chrisdonahue/LakhNES](https://github.com/chrisdonahue/LakhNES) - Generate 8-bit chiptunes with deep learning
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - A TensorFlow implementation of DeepMind's WaveNet paper
@@ -4469,6 +4474,9 @@
 
 ## Shell 
 
+- [futamura/fzf-brew](https://github.com/futamura/fzf-brew) - Homebrew completion using fzf for zsh
+- [futamura/fzf-mise](https://github.com/futamura/fzf-mise) - Mise completion using fzf for zsh
+- [futamura/fzf-git-util](https://github.com/futamura/fzf-git-util) - Git, Git Fuzzy, and GHQ completion using fzf for zsh
 - [baryhuang/claude-remote-proxy](https://github.com/baryhuang/claude-remote-proxy) - Run Claude Code remotely through one persistent SSH connection while syncing local workspace and session context.
 - [sayem314/ai-agents](https://github.com/sayem314/ai-agents) - Docker images for Codex, Claude Code, and OpenCode — run sandboxed from any project with your login mounted.
 - [Kappaemme-git/codex-phone-lab](https://github.com/Kappaemme-git/codex-phone-lab) - Codex skill for building Expo apps live on a real phone
@@ -4492,7 +4500,6 @@
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [mamertofabian/auto-bolt](https://github.com/mamertofabian/auto-bolt) - 
 - [m3au/cursorcontext](https://github.com/m3au/cursorcontext) - 
-- [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [Netflix/eslint-config-netflix](https://github.com/Netflix/eslint-config-netflix) - Shared ESLint config for Netflix JavaScript
 - [sigsep/sigsep-mus-io](https://github.com/sigsep/sigsep-mus-io) - Tools to convert sigsep mus dataset from STEMS &lt;-&gt; WAV
 - [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
@@ -4635,6 +4642,7 @@
 
 ## Swift 
 
+- [betocmn/widen](https://github.com/betocmn/widen) - Postgres GUI using the LLM already on your Mac. Free, open-source native macOS database GUI using Apple's on-device Foundation Model for text-to-sql.
 - [ejskipper/BetterMacReminders](https://github.com/ejskipper/BetterMacReminders) - More-obtrusive Outlook calendar reminders for Mac, so that you can't miss your meetings.
 - [Blaizzy/nativ](https://github.com/Blaizzy/nativ) - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 - [giannimassi/webview-cli](https://github.com/giannimassi/webview-cli) - Native macOS UIs for CLI AI agents. 193KB single binary, ~180ms cold start, no Electron. Renders A2UI declarative UI.
@@ -4771,8 +4779,12 @@
 
 ## TypeScript 
 
+- [aymenn8/refine](https://github.com/aymenn8/refine) - Refine text anywhere on macOS Highlight text in any app, press Cmd+Shift+R, then rewrite, fix, translate, or transform it with your own modes.
+- [itsbrex/BrowserOS](https://github.com/itsbrex/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [TheOrcDev/shadscan](https://github.com/TheOrcDev/shadscan) - Deterministic UI audits for shadcn apps, built for your terminal, your CI, and your AI agent.
+- [Genosyn/genosyn](https://github.com/Genosyn/genosyn) - Run autonomous companies.
 - [tarkaai/allman-tui](https://github.com/tarkaai/allman-tui) - Terminal UI inbox for allman. Vim-style keybindings over a local LinkedIn message store; live updates via NDJSON.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [Auxx-Ai/auxx-ai](https://github.com/Auxx-Ai/auxx-ai) - The Open Source Front / Attio meets N8N Alternative
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -4866,7 +4878,7 @@
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [cloudflare/mcp](https://github.com/cloudflare/mcp) - MCP server for the Cloudflare API
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
-- [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
+- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 - [remorses/tuistory](https://github.com/remorses/tuistory) - TMUX for agents. let agents control & test terminal user interfaces. Like Playwright & agent-browser but for TUIs
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [antfu/skills-cli](https://github.com/antfu/skills-cli) - The open agent skills tool - npx skills
@@ -5050,7 +5062,7 @@
 - [olliethedev/ui-builder](https://github.com/olliethedev/ui-builder) - A React component that provides a no-code, visual way to create UIs, compatible with shadcn/ui and custom components.
 - [damianricobelli/shadcn-cal-com](https://github.com/damianricobelli/shadcn-cal-com) - 
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
-- [nikhils4/ui-beats](https://github.com/nikhils4/ui-beats) - Level up your UI development with reusable components from UI Beats, crafted with React, Typescript, Tailwind CSS, and Framer Motion.
+- [nikhils4/ui-beats](https://github.com/nikhils4/ui-beats) - Animated React components you own. 55 components built with TypeScript, Tailwind CSS and Motion. Copy, paste, or install with the shadcn CLI.
 - [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template) - This is the template I use to start new full-stack projects.
 - [mckaywrigley/o1-xml-parser](https://github.com/mckaywrigley/o1-xml-parser) - 
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
@@ -5121,6 +5133,7 @@
 - [vantezzen/plasmo-state](https://github.com/vantezzen/plasmo-state) - ♻️ Sync state across content script, background workers and the popup in Plasmo extensions
 - [vantezzen/hinge-wrapped](https://github.com/vantezzen/hinge-wrapped) - 
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
+- [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [suhaotian/xior](https://github.com/suhaotian/xior) - A liteweight fetch wrapper with plugins support and similar API to axios.
 - [4lejandrito/fetchbook](https://github.com/4lejandrito/fetchbook) - Run and test your HTTP requests. Git friendly, 100% local.
 - [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
