@@ -630,7 +630,6 @@
 - [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - Flexible Node.js AI-assisted crawler library
 - [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
-- [mflux-community/mflux](https://github.com/mflux-community/mflux) - Apple MLX native implementations of state-of-the-art generative image & video models
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - This repository is deprecated and will be archived
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
@@ -2463,6 +2462,7 @@
 
 ## crawler 
 
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [openclaw/crawlkit](https://github.com/openclaw/crawlkit) - Shared Go infrastructure for local-first crawler archives.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -9903,7 +9903,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 
 ## productivity 
 
