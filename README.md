@@ -874,7 +874,6 @@
 - [bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
 - [tomasruud/downcloud](https://github.com/tomasruud/downcloud) - Download your own Soundcloud tracks (uncompressed)
 - [saadeghi/daisyui-starter](https://github.com/saadeghi/daisyui-starter) - 
-- [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
 - [getsheety/template-signup-form](https://github.com/getsheety/template-signup-form) - 
 - [Incognito95/apple-website](https://github.com/Incognito95/apple-website) - Here's a clone of the Apple website that I made
 - [mubaidr/bulma-templates](https://github.com/mubaidr/bulma-templates) - free flexbox templates built with the bulma css framework
@@ -1686,6 +1685,7 @@
 - [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - My Alfred Workflows
 - [marcomatutehn/nextjs-podcast-player](https://github.com/marcomatutehn/nextjs-podcast-player) - Podcast player made it with React.Js and Next.Js
 - [hygraph/nextjs-graphcms-podcast-starter](https://github.com/hygraph/nextjs-graphcms-podcast-starter) - Starter project built with GraphCMS, NextJS, and Twilio SendGrid.
+- [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [teamxenox/storybook-with-next-and-tailwind](https://github.com/teamxenox/storybook-with-next-and-tailwind) - 
 - [btahir/notion-capture](https://github.com/btahir/notion-capture) - Email capture page using Notion API
@@ -2881,7 +2881,7 @@
 - [Armgnkykc19/AI-Data-Quality-Platform](https://github.com/Armgnkykc19/AI-Data-Quality-Platform) - AI-assisted data quality and transformation platform for CRM migration, schema mapping, normalization, entity resolution, and human-reviewed data cleanup.
 - [deepklarity/harness-kit](https://github.com/deepklarity/harness-kit) - A kit for building with AI agents and also the engineering patterns around it.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
-- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - 
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
 - [patrickfreyer/live-slide-edit-tool](https://github.com/patrickfreyer/live-slide-edit-tool) - A local server + watcher that lets you edit an HTML slide deck directly in the browser, with Claude Code applying each change live via an isolated subagent
 - [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp) - MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
@@ -3274,7 +3274,7 @@
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [ttm/mass](https://github.com/ttm/mass) - MASS (Music and Audio in Sample Sequences) is a mathematical and computational framework relating musical elements to PCM audio samples
-- [ttm/music](https://github.com/ttm/music) - music is a python package for making sounds and music
+- [ttm/music](https://github.com/ttm/music) - Extreme-fidelity synthesis of musical elements, based on the MASS framework
 - [ijc8/lambdaw](https://github.com/ijc8/lambdaw) - Generative music in the DAW timeline
 - [JonathanFly/bark-installer](https://github.com/JonathanFly/bark-installer) - One click installer scripts for Bark Infinity
 - [JonathanFly/faster-whisper-livestream-translator](https://github.com/JonathanFly/faster-whisper-livestream-translator) - faster-whisper livestream translation, OBS noise reduction, dual language subtitles
