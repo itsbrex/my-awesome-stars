@@ -5741,6 +5741,7 @@
 - [tornqvist/bpm-detective](https://github.com/tornqvist/bpm-detective) - Detects the BPM of a song or audio sample
 - [hendriks73/tempo-cnn](https://github.com/hendriks73/tempo-cnn) - Framework for estimating temporal properties of music tracks.
 - [caiomiyashiro/music_and_science](https://github.com/caiomiyashiro/music_and_science) - Music analytics notebooks + future generative sounds techniques using ML
+- [ttm/music](https://github.com/ttm/music) - Extreme-fidelity synthesis of musical elements, based on the MASS framework
 - [ijc8/scorecard](https://github.com/ijc8/scorecard) - Tiny, self-contained generative music programs as QR codes
 - [adactio/TheSession-data](https://github.com/adactio/TheSession-data) - Data dumps from thesession.org
 - [Rainbow-Dreamer/sf2_loader](https://github.com/Rainbow-Dreamer/sf2_loader) - This is an easy-to-use soundfonts loader, player and audio renderer in python
@@ -6581,6 +6582,7 @@
 ## numpy 
 
 - [tky823/ssspy](https://github.com/tky823/ssspy) - A Python toolkit for sound source separation.
+- [ttm/music](https://github.com/ttm/music) - Extreme-fidelity synthesis of musical elements, based on the MASS framework
 - [KAIST-MACLab/PyTSMod](https://github.com/KAIST-MACLab/PyTSMod) - An open-source Python library for audio time-scale modification.
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
@@ -6923,7 +6925,7 @@
 - [BennyKok/omg.dev](https://github.com/BennyKok/omg.dev) - omg.dev — Remote control for claude, codex, cursor, opencode, pi, grok, jcocde with mobile client
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [kunchenguid/backpass](https://github.com/kunchenguid/backpass) - You don't write AGENTS.md. You train it with gradient descent.
-- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - 
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [patrickfreyer/live-slide-edit-tool](https://github.com/patrickfreyer/live-slide-edit-tool) - A local server + watcher that lets you edit an HTML slide deck directly in the browser, with Claude Code applying each change live via an isolated subagent
 - [patrickfreyer/curvature-chorus](https://github.com/patrickfreyer/curvature-chorus) - Relativistic n-body motion on a living spacetime fabric — p5.js generative art
 - [JuliusBrussee/caveman-browse](https://github.com/JuliusBrussee/caveman-browse) - Token-efficient browser automation for coding agents: compressed accessibility snapshots, uid actions, byte-exact recovery. A Playwright MCP alternative.
@@ -7594,7 +7596,6 @@
 - [MeadowlarkDAW/creek](https://github.com/MeadowlarkDAW/creek) - Realtime disk streaming IO for audio
 - [marcoevang/camilladsp-setrate](https://github.com/marcoevang/camilladsp-setrate) - Automatic sample rate switcher for CamillaDSP
 - [ttm/mass](https://github.com/ttm/mass) - MASS (Music and Audio in Sample Sequences) is a mathematical and computational framework relating musical elements to PCM audio samples
-- [ttm/music](https://github.com/ttm/music) - music is a python package for making sounds and music
 - [ttm/versinus](https://github.com/ttm/versinus) - Versinus: a visualization method for time-evolving networks
 - [publicsamples/Roland-Jupiter-4](https://github.com/publicsamples/Roland-Jupiter-4) - Sample Library
 - [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo CE: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free.
@@ -10296,6 +10297,7 @@
 - [mathigatti/midi2voice](https://github.com/mathigatti/midi2voice) - Singing synthesis from MIDI file
 - [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
+- [ttm/music](https://github.com/ttm/music) - Extreme-fidelity synthesis of musical elements, based on the MASS framework
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows, macOS, and Excel on the web.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
