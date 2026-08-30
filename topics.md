@@ -1676,7 +1676,7 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
-- [aminmarashi/gpt-api-companion](https://github.com/aminmarashi/gpt-api-companion) - Tools built around the GPT API to make using of it easier, sets you free from ChatGPT (requires GPT API Key)
+- [marashiai/gpt-api-companion](https://github.com/marashiai/gpt-api-companion) - Tools built around the GPT API to make using of it easier, sets you free from ChatGPT (requires GPT API Key)
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [ajikan/ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
@@ -1790,7 +1790,7 @@
 - [3Alan/DocsMind](https://github.com/3Alan/DocsMind) - 🤖 DocsMind allows you to chat with your docs and summarize your docs, support pdf, md.
 - [SethuSenthil/Copy-for-ChatGPT](https://github.com/SethuSenthil/Copy-for-ChatGPT) - Extention to bring a copy button for ChatGPT
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
-- [aminmarashi/gpt-api-companion](https://github.com/aminmarashi/gpt-api-companion) - Tools built around the GPT API to make using of it easier, sets you free from ChatGPT (requires GPT API Key)
+- [marashiai/gpt-api-companion](https://github.com/marashiai/gpt-api-companion) - Tools built around the GPT API to make using of it easier, sets you free from ChatGPT (requires GPT API Key)
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
 - [jcubic/chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
@@ -3101,7 +3101,6 @@
 
 ## docker 
 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [QuiteAFancyEmerald/InvisiProxy](https://github.com/QuiteAFancyEmerald/InvisiProxy) - InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup. It does this securely
@@ -4772,7 +4771,6 @@
 
 ## kubernetes 
 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [brandonkal/deno-lib](https://github.com/brandonkal/deno-lib) - A large collection of useful Typescript libraries for Deno
@@ -6916,6 +6914,7 @@
 - [Genomewide/lifemail](https://github.com/Genomewide/lifemail) - Give any Claude Code on a Mac access to your email (Outlook via Apple Mail) + the Obsidian skill. Local-only MCP server + skills.
 - [kauffinger/boxme](https://github.com/kauffinger/boxme) - Microsandbox your package manager & sleep like a baby
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [D-Ogi/WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
