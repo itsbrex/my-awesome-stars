@@ -861,7 +861,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.
 - [omorShahriar/waypoint](https://github.com/omorShahriar/waypoint) - Turn approved plans into local, resumable agent work with durable handoffs and human pause/resume.
@@ -870,7 +870,7 @@
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [dealfluence/adeu](https://github.com/dealfluence/adeu) - docx ↔ LLM translator. Projects .docx office files to Markdown for editing. Projects edits back to OOXML as tracked changes (redlines). Python and Node.js implementations.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - Frontier AI video generation for coding agents - Seedance, Runway, Veo, Kling on your own keys, behind a hard cost cap. CLI + MCP.
 - [alookai/alook](https://github.com/alookai/alook) - Rooms for people and agents.
 - [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
@@ -1209,10 +1209,9 @@
 
 ## automation 
 
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp) - MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
 - [managedcode/playwright_stealth](https://github.com/managedcode/playwright_stealth) - Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints — navigator properties, WebGL, canvas, audio, CDP traces, automation mark
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [yazinsai/auto-maintainer](https://github.com/yazinsai/auto-maintainer) - Write your repo rules in Markdown. AI enforces them — triages issues, reviews PRs, fixes bugs, merges code, cuts releases.
@@ -2137,7 +2136,7 @@
 - [giannimassi/webview-cli](https://github.com/giannimassi/webview-cli) - Native macOS UIs for CLI AI agents. 193KB single binary, ~180ms cold start, no Electron. Renders A2UI declarative UI.
 - [getcustomaise/customaise-mcp](https://github.com/getcustomaise/customaise-mcp) - MCP server + CLI bridging AI coding agents (Cursor, Claude Code, Codex, Windsurf, Kiro, Antigravity, Claude Desktop) to the Customaise Chrome extension. 19 tools: UserScripts, AgentScripts, WebMCP cal
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [alookai/alook](https://github.com/alookai/alook) - Rooms for people and agents.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
@@ -2192,7 +2191,7 @@
 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for 
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
 - [TheOrcDev/shadscan](https://github.com/TheOrcDev/shadscan) - Deterministic UI audits for shadcn apps, built for your terminal, your CI, and your AI agent.
@@ -2201,7 +2200,7 @@
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [vericontext/vibeframe](https://github.com/vericontext/vibeframe) - Frontier AI video generation for coding agents - Seedance, Runway, Veo, Kling on your own keys, behind a hard cost cap. CLI + MCP.
 - [millionco/cli-to-js](https://github.com/millionco/cli-to-js) - Turn any CLI into a JavaScript API
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
@@ -3390,7 +3389,6 @@
 
 ## firefox 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [maxhu08/nav](https://github.com/maxhu08/nav) - 🪝 vim style keyboard navigation for the web
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
@@ -5550,7 +5548,7 @@
 ## mcp 
 
 - [btsouth/toolport](https://github.com/btsouth/toolport) - Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp) - MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
 - [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
 - [ppgranger/token-saver](https://github.com/ppgranger/token-saver) - Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, dif
@@ -6949,6 +6947,7 @@
 - [jzone3/solving-math-problems](https://github.com/jzone3/solving-math-problems) - 
 - [Edx0n/markdown-render-api-app](https://github.com/Edx0n/markdown-render-api-app) - Markdown-to-HTML rendering service with sanitization, syntax-highlighted code blocks, GitHub-flavored extensions and an optional plain-text excerpt mode.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [githubpr0jects/repo-recomender](https://github.com/githubpr0jects/repo-recomender) - The repo recomender and github search engine, vibe coded via MiniMax M2.1
 - [ejskipper/BetterMacReminders](https://github.com/ejskipper/BetterMacReminders) - More-obtrusive Outlook calendar reminders for Mac, so that you can't miss your meetings.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
@@ -10187,7 +10186,6 @@
 
 - [ppgranger/token-saver](https://github.com/ppgranger/token-saver) - Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, dif
 - [Neeeophytee/ai-watermarks-reality-check](https://github.com/Neeeophytee/ai-watermarks-reality-check) - Test what AI watermark and provenance evidence exists, whether it verifies, and what survives publishing.
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [justrach/muonry](https://github.com/justrach/muonry) - Muonry – Parallel‑Capable AI Coding Assistant
 - [dougcalobrisi/erm](https://github.com/dougcalobrisi/erm) - Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.
 - [pyopenapi/pyswagger](https://github.com/pyopenapi/pyswagger) - An OpenAPI (fka Swagger) client & converter in python, which is type-safe, dynamic, spec-compliant.
@@ -11275,6 +11273,7 @@
 
 ## rust 
 
+- [dif-sh/dif](https://github.com/dif-sh/dif) - Experiments live in the repo.
 - [btsouth/toolport](https://github.com/btsouth/toolport) - Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
@@ -11309,7 +11308,7 @@
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 - [dioxus-community/dioxus-radio](https://github.com/dioxus-community/dioxus-radio) - Fully-typed global state management with a topics subscription system for Dioxus 🧬
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
@@ -11433,7 +11432,7 @@
 ## self-hosted 
 
 - [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
@@ -12107,7 +12106,7 @@
 - [tarkaai/allman-tui](https://github.com/tarkaai/allman-tui) - Terminal UI inbox for allman. Vim-style keybindings over a local LinkedIn message store; live updates via NDJSON.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [openclaw/slacrawl](https://github.com/openclaw/slacrawl) - cli terminal app for slack with sqlite backend
@@ -12162,6 +12161,7 @@
 
 ## testing 
 
+- [dif-sh/dif](https://github.com/dif-sh/dif) - Experiments live in the repo.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
@@ -12246,7 +12246,7 @@
 
 ## typescript 
 
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [TypeWhisper/typewhisper-raycast](https://github.com/TypeWhisper/typewhisper-raycast) - Raycast extension for TypeWhisper - voice dictation, history search, profile management
 - [tarkaai/allman-tui](https://github.com/tarkaai/allman-tui) - Terminal UI inbox for allman. Vim-style keybindings over a local LinkedIn message store; live updates via NDJSON.
 - [Auxx-Ai/auxx-ai](https://github.com/Auxx-Ai/auxx-ai) - The Open Source Front / Attio meets N8N Alternative
