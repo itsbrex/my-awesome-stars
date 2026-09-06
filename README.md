@@ -1041,7 +1041,6 @@
 - [TextQLLabs/crm-bot](https://github.com/TextQLLabs/crm-bot) - Intelligent Slack bot for Attio CRM integration using ReAct AI pattern
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [procoders/salesnav-collect-1](https://github.com/procoders/salesnav-collect-1) - LinkedIn Sales Navigator mutual collector
 - [joseph-fajen/ai-coding-template](https://github.com/joseph-fajen/ai-coding-template) - A template for AI-enhanced coding projects with organized infrastructure for AI documentation, feature specifications, reusable prompts,   and workflow examples. Helps AI tools understand codebases be
 - [jonathanbertholet/promptmanager](https://github.com/jonathanbertholet/promptmanager) - Open Source Prompt Manager for ChatGPT, Supports any website & some cool features!
@@ -1157,7 +1156,6 @@
 - [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
 - [coolvision/awf](https://github.com/coolvision/awf) - 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- [joeferner/node-bplist-creator](https://github.com/joeferner/node-bplist-creator) - Binary Mac OS X Plist (property list) creator.
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [easybird/json-to-frontmatter-markdown](https://github.com/easybird/json-to-frontmatter-markdown) - Transform json to a markdown file with frontmatter and body
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
@@ -2993,6 +2991,7 @@
 - [vblagoje/openapi-llm](https://github.com/vblagoje/openapi-llm) - Convert and invoke OpenAPI specifications as LLM tool/function definitions
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
 - [merge-api/merge-mcp](https://github.com/merge-api/merge-mcp) - 
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [rugvedp/linkedin-mcp](https://github.com/rugvedp/linkedin-mcp) - A powerful LinkedIn profile analyzer MCP (Model Context Protocol) server that interacts with LinkedIn's API to fetch, analyze, and manage LinkedIn posts data. This MCP is specifically designed to work
@@ -4324,6 +4323,7 @@
 
 ## Rust 
 
+- [dif-sh/dif](https://github.com/dif-sh/dif) - Experiments live in the repo.
 - [btsouth/toolport](https://github.com/btsouth/toolport) - Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [kauffinger/boxme](https://github.com/kauffinger/boxme) - Microsandbox your package manager & sleep like a baby
@@ -4379,7 +4379,7 @@
 - [dioxus-community/dioxus-radio](https://github.com/dioxus-community/dioxus-radio) - Fully-typed global state management with a topics subscription system for Dioxus 🧬
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [itsbrex/wonnx](https://github.com/itsbrex/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
@@ -4806,7 +4806,7 @@
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [BennyKok/omg.dev](https://github.com/BennyKok/omg.dev) - omg.dev — Remote control for claude, codex, cursor, opencode, pi, grok, jcocde with mobile client
 - [TypeWhisper/typewhisper-raycast](https://github.com/TypeWhisper/typewhisper-raycast) - Raycast extension for TypeWhisper - voice dictation, history search, profile management
@@ -4845,7 +4845,7 @@
 - [Orva-Studio/hance](https://github.com/Orva-Studio/hance) - Film-grade your footage from the command line - built for humans and agents.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [layercodedev/sled](https://github.com/layercodedev/sled) - Teleport Claude Code, Codex or Gemini CLI to your phone and work anywhere
@@ -5343,6 +5343,7 @@
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [mathysth/bun-prisma-hono-inversify](https://github.com/mathysth/bun-prisma-hono-inversify) - This project has been completely rewritten and is available here: https://github.com/ae-creator/CosmosJS/tree/main
+- [joeferner/node-bplist-creator](https://github.com/joeferner/node-bplist-creator) - Binary Mac OS X Plist (property list) creator.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [AKclown/js-to-ts](https://github.com/AKclown/js-to-ts) - The vscode plugin converts  js/json/swagger/api  to typescript declaration
 - [tjx666/vscode-archive](https://github.com/tjx666/vscode-archive) - compress/decompress for .zip, .vsix, .crx(v3), .asar, .tgz, .gzip, .br, .tar
