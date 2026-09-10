@@ -2224,6 +2224,7 @@
 
 ## MDX 
 
+- [bozzhik/snable-website](https://github.com/bozzhik/snable-website) - website for the chrome extension, built with Next.js, TailwindCSS and Framer Motion, providing insights into the extension's capabilities
 - [fuma-nama/bun-docs](https://github.com/fuma-nama/bun-docs) - Better docs ui for Bun (powered by fumadocs using same mdx)
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡 GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
@@ -2874,6 +2875,7 @@
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Armgnkykc19/AI-Data-Quality-Platform](https://github.com/Armgnkykc19/AI-Data-Quality-Platform) - AI-assisted data quality and transformation platform for CRM migration, schema mapping, normalization, entity resolution, and human-reviewed data cleanup.
 - [deepklarity/harness-kit](https://github.com/deepklarity/harness-kit) - A kit for building with AI agents and also the engineering patterns around it.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
 - [patrickfreyer/live-slide-edit-tool](https://github.com/patrickfreyer/live-slide-edit-tool) - A local server + watcher that lets you edit an HTML slide deck directly in the browser, with Claude Code applying each change live via an isolated subagent
@@ -3032,7 +3034,7 @@
 - [Embedded-Nature/ollama-proxy](https://github.com/Embedded-Nature/ollama-proxy) - This intercepts Ollama-style API requests and transforms them into OpenAI-compatible requests for LM Studio.
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
+- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [nahl16/Email_Sage](https://github.com/nahl16/Email_Sage) - Performs Website Crawling to harvest Emails, Validate and check deliverablity of emails and Find MX Records associated with a domain.
 - [biglocalnews/civic-scraper](https://github.com/biglocalnews/civic-scraper) - Tools for downloading agendas, minutes and other documents produced by local government
 - [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTu
@@ -4332,7 +4334,6 @@
 - [tobi/walgit](https://github.com/tobi/walgit) - 
 - [jdx/oxc](https://github.com/jdx/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [agrimsingh/glyphrush](https://github.com/agrimsingh/glyphrush) - 
@@ -4353,6 +4354,7 @@
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [0xchasercat/chaser-oxide](https://github.com/0xchasercat/chaser-oxide) - Undetectable, high-performance browser automation in Rust. Protocol-level stealth for Chromium.
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -4801,6 +4803,10 @@
 
 ## TypeScript 
 
+- [bozzhik/snable](https://github.com/bozzhik/snable) - chrome extension for collecting visual elements from websites, built with Vite + React, and Manifest v3
+- [hoxiai/AIEditor](https://github.com/hoxiai/AIEditor) - AI Editor (FtEditor) 是一个面向 Vue 3 的 modern AI-powered WYSIWYG Rich Text Editor，built on Tiptap + shadcn-vue，支持 Markdown / Table / CodeBlock / Image / Video / i18n / theme，并可通过自定义 completions() 快速接入 Ope
+- [andistech/tanstack-tree-table-dnd](https://github.com/andistech/tanstack-tree-table-dnd) - Production-oriented React Tree Table built with TanStack Table, dnd-kit, and Tailwind v4, featuring hierarchical rows, reordering, reparenting, validation, and shadcn registry distribution.
+- [digital2analogue/decisioning-table](https://github.com/digital2analogue/decisioning-table) - Data decisioning table UI with React, Vite, TypeScript, Tailwind, react-dnd, and shadcn/ui
 - [Anujatk1999/open-media](https://github.com/Anujatk1999/open-media) - 
 - [doitian/google-task-ifttt-webhook-mcp](https://github.com/doitian/google-task-ifttt-webhook-mcp) - 
 - [notUbaid/GridSense](https://github.com/notUbaid/GridSense) - GridSense is an AI-powered data ingestion platform that intelligently understands spreadsheets from any source and transforms them into standardized CRM records without manual column mapping.
@@ -4957,7 +4963,6 @@
 - [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [nick-lvov-dev/typescript-explicit-types](https://github.com/nick-lvov-dev/typescript-explicit-types) - Generate explicit type annotation from inferred type in TypeScript
 - [SouthBridgeAI/offmute](https://github.com/SouthBridgeAI/offmute) - An experiment in meeting transcription and diarization with just an LLM. Maybe I went a little overboard though
@@ -5416,7 +5421,6 @@
 - [p32929/fjsondb](https://github.com/p32929/fjsondb) - A fast and simple JSON database for NodeJS
 - [p32929/electron-shadcn-typescript](https://github.com/p32929/electron-shadcn-typescript) - electron + react + typescript + tailwindcss + shadcn
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) - A free soundboard that looks beautiful and works
-- [twentysixlabs/nj-temp-sass-ui-pro](https://github.com/twentysixlabs/nj-temp-sass-ui-pro) - 
 - [tablesandwaves/tblswvs.app](https://github.com/tablesandwaves/tblswvs.app) - A Tables & Waves controller app
 - [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
