@@ -426,7 +426,7 @@
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
@@ -453,7 +453,6 @@
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
@@ -905,7 +904,7 @@
 - [haasonsaas/email-agent](https://github.com/haasonsaas/email-agent) - AI-powered email management agent with TUI dashboard, CLI commands, and multi-agent categorization system. Supports Gmail integration, rule-based processing, and Docker deployment.
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [OpenAgentPlatform/Dive](https://github.com/OpenAgentPlatform/Dive) - Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
@@ -2085,7 +2084,7 @@
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
@@ -2178,7 +2177,7 @@
 - [preset-io/agor](https://github.com/preset-io/agor) - Agor - team command center for all things agentic
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
@@ -2192,7 +2191,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 
 ## cli 
 
@@ -2321,7 +2320,7 @@
 - [alanhe421/alfred-utils](https://github.com/alanhe421/alfred-utils) - Alfred Workflow SDK
 - [ExplainDev/kmdr-cli](https://github.com/ExplainDev/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [janbiasi/ableton-tools](https://github.com/janbiasi/ableton-tools) - A toolbelt for music artisans working with Ableton Live
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2432,7 +2431,7 @@
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [ExplainDev/kmdr-cli](https://github.com/ExplainDev/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 
 ## compiler 
@@ -3011,7 +3010,6 @@
 - [preset-io/agor](https://github.com/preset-io/agor) - Agor - team command center for all things agentic
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
@@ -3714,7 +3712,7 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
 - [pasela/alfred-chrome-history](https://github.com/pasela/alfred-chrome-history) - Alfred workflow for Chrome history
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [luckylittle/blinkist-m4a-downloader](https://github.com/luckylittle/blinkist-m4a-downloader) - Grabs all of the audio files from all of the Blinkist books
 - [nikivdev/alfred-web-searches](https://github.com/nikivdev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
 - [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
@@ -3769,7 +3767,7 @@
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [pasela/alfred-chrome-history](https://github.com/pasela/alfred-chrome-history) - Alfred workflow for Chrome history
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [luckylittle/blinkist-m4a-downloader](https://github.com/luckylittle/blinkist-m4a-downloader) - Grabs all of the audio files from all of the Blinkist books
 - [deanishe/awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
 - [ryanmcdermott/spotifind](https://github.com/ryanmcdermott/spotifind) - :musical_note: Connect two musical artists by a chain of related artists using Spotify's API
@@ -4312,7 +4310,7 @@
 - [Ableton/AudioPerfLab](https://github.com/Ableton/AudioPerfLab) - An app for exploring real-time audio performance on iPhone and iPad.
 - [shyrz/url-schemes-store](https://github.com/shyrz/url-schemes-store) - A store of  URL schemes
 - [TalkingData/YourView](https://github.com/TalkingData/YourView) - YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [JoniVR/VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 - [cemolcay/MusicTheory](https://github.com/cemolcay/MusicTheory) - Universal music theory library for iOS, iPadOS, macOS, tvOS and watchOS in Swift
 - [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
@@ -5428,7 +5426,7 @@
 - [Jaysce/Spaceman](https://github.com/Jaysce/Spaceman) - A macOS app to view Spaces / Virtual Desktops in the menu bar
 - [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [LiveEnhancementSuite/LESforMacOS](https://github.com/LiveEnhancementSuite/LESforMacOS) - Ableton Live, supercharged (on macOS)
 - [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It) - A macOS GUI for youtube-dl
@@ -5607,7 +5605,7 @@
 - [preset-io/agor](https://github.com/preset-io/agor) - Agor - team command center for all things agentic
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
@@ -6913,6 +6911,8 @@
 
 ## others 
 
+- [browser-use/agency](https://github.com/browser-use/agency) - Agency card feed: agents finish work, Magnus decides with one click
+- [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) - AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
 - [jochristianto/jc-linkedin-job-watcher](https://github.com/jochristianto/jc-linkedin-job-watcher) - Chrome MV3 extension that watches your saved LinkedIn job searches on a background alarm and surfaces genuinely new postings — badge count, one merged desktop notification per scan, optional Telegram 
 - [keshav9926/email-scrapper-extension-](https://github.com/keshav9926/email-scrapper-extension-) - A high-performance Chrome Extension designed to resolve valid email addresses from a list of LinkedIn profiles. The extension integrates with **Apify** using the **`snipercoder~bulk-linkedin-email-fin
 - [pleniqgraph/luma-icp-scout](https://github.com/pleniqgraph/luma-icp-scout) - Chrome extension: turn any Luma event guest list into a ranked list of your best-fit prospects, matched from LinkedIn against your ICP.
@@ -10139,7 +10139,6 @@
 - [mattbaconz/signal](https://github.com/mattbaconz/signal) - SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints), git workflow skills (commit, push, PR, review, ckpt), Karpathy-inspired coding norms. Claude Code, Cursor, Gemini CLI, C
 - [WrathZA/skillforge](https://github.com/WrathZA/skillforge) - Quality-gated skill authoring for Claude Code. Build, judge, and ship skills that earn their tokens.
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
 - [jonathanbertholet/promptmanager](https://github.com/jonathanbertholet/promptmanager) - Open Source Prompt Manager for ChatGPT, Supports any website & some cool features!
@@ -11265,7 +11264,7 @@
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [offlinemark/dawtool](https://github.com/offlinemark/dawtool) - Reverse-engineered parsers for Ableton Live & FL Studio project files.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 
 ## robotics 
 
@@ -11437,7 +11436,7 @@
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [pirate/security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
@@ -11818,7 +11817,7 @@
 - [n0shake/clocker](https://github.com/n0shake/clocker) - ⏲  macOS app to plan and organize through timezones.
 - [godbout/AlfredWorkflowUpdater](https://github.com/godbout/AlfredWorkflowUpdater) - add a background updater for your Alfred Workflow in under a minute ⏲️
 - [tjcages/snippet](https://github.com/tjcages/snippet) - a macOS quick link finder
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [JoniVR/VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 - [krevis/MIDIApps](https://github.com/krevis/MIDIApps) - MIDI apps for Mac OS X: MIDI Monitor and SysEx Librarian.
