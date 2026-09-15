@@ -641,7 +641,7 @@
 - [simonfrey/saf_tcp_everse_proxy](https://github.com/simonfrey/saf_tcp_everse_proxy) - Simple AF TCP reverse proxy
 - [simonfrey/ollama-registry-pull-through-proxy](https://github.com/simonfrey/ollama-registry-pull-through-proxy) - A proxy that allows you to host ollama images in your local environment
 - [jozefcipa/novus](https://github.com/jozefcipa/novus) - A local HTTPS proxy for a delightful developer experience on macOS
-- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: The Golden Swiss Army Knife for markdown processing. 100% CommonMark compliant, AST w/ CST, Extensible, Fast, CJK-friendly.
 - [JohannesKaufmann/dom](https://github.com/JohannesKaufmann/dom) - Helper functions for "net/html"
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -670,7 +670,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: task runner for local and remote hosts
 - [e2b-dev/runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [lukaszraczylo/graphql-monitoring-proxy](https://github.com/lukaszraczylo/graphql-monitoring-proxy) - Graphql Monitoring Proxy adding monitoring, cache, read-only mode and role based rate limiting
@@ -776,7 +776,6 @@
 - [patrickfreyer/curvature-chorus](https://github.com/patrickfreyer/curvature-chorus) - Relativistic n-body motion on a living spacetime fabric — p5.js generative art
 - [githubpr0jects/repo-recomender](https://github.com/githubpr0jects/repo-recomender) - The repo recomender and github search engine, vibe coded via MiniMax M2.1
 - [ThariqS/html-effectiveness](https://github.com/ThariqS/html-effectiveness) - 
-- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [coleam00/obsidian-voice-agent](https://github.com/coleam00/obsidian-voice-agent) - 
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
@@ -1109,7 +1108,7 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [artdecocode/expensive](https://github.com/artdecocode/expensive) - Node.js CLI tool to register and manage domains on namecheap.com
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv—from the creator of `dotenv`
 - [IonicaBizau/json2md](https://github.com/IonicaBizau/json2md) - :pushpin: A JSON to Markdown converter.
 - [elwerene/libreoffice-convert](https://github.com/elwerene/libreoffice-convert) - 
 - [webonnx/wonnx-wasm-example](https://github.com/webonnx/wonnx-wasm-example) - Example of using WONNX on the web
@@ -2875,6 +2874,7 @@
 
 ## Python 
 
+- [arsumbris/arsumbris](https://github.com/arsumbris/arsumbris) - A malleable, agent-native IDE for typed knowledge.
 - [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) - AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -2972,7 +2972,6 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Sanix-Darker/falla](https://github.com/Sanix-Darker/falla) - A search-engine-cli-scraper for more than 15 search engines, including Google. duckduckgo, Bing, Ask, etc...
 - [meridianlabs-ai/inspect_petri](https://github.com/meridianlabs-ai/inspect_petri) - An alignment auditing agent capable of quickly exploring alignment hypothesis
@@ -4341,7 +4340,6 @@
 - [jdx/oxc](https://github.com/jdx/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [agrimsingh/glyphrush](https://github.com/agrimsingh/glyphrush) - 
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
@@ -4810,6 +4808,8 @@
 
 ## TypeScript 
 
+- [Cleanlist-ai/cleanlist-typescript-client](https://github.com/Cleanlist-ai/cleanlist-typescript-client) - Official TypeScript/JavaScript SDK for the Cleanlist API (v2) — typed fetch client (Node + browser, ESM + CJS) for B2B lead discovery, waterfall enrichment, lead lists, smart agents, and export.
+- [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [browser-use/agency](https://github.com/browser-use/agency) - Agency card feed: agents finish work, Magnus decides with one click
 - [jochristianto/jc-linkedin-job-watcher](https://github.com/jochristianto/jc-linkedin-job-watcher) - Chrome MV3 extension that watches your saved LinkedIn job searches on a background alarm and surfaces genuinely new postings — badge count, one merged desktop notification per scan, optional Telegram 
 - [bozzhik/snable](https://github.com/bozzhik/snable) - chrome extension for collecting visual elements from websites, built with Vite + React, and Manifest v3
@@ -4830,6 +4830,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [BennyKok/omg.dev](https://github.com/BennyKok/omg.dev) - omg.dev — Remote control for claude, codex, cursor, opencode, pi, grok, jcocde with mobile client
 - [TypeWhisper/typewhisper-raycast](https://github.com/TypeWhisper/typewhisper-raycast) - Raycast extension for TypeWhisper - voice dictation, history search, profile management
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
 - [aymenn8/refine](https://github.com/aymenn8/refine) - Refine text anywhere on macOS Highlight text in any app, press Cmd+Shift+R, then rewrite, fix, translate, or transform it with your own modes.
 - [itsbrex/BrowserOS](https://github.com/itsbrex/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -4882,6 +4883,7 @@
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [better-stack-ai/better-stack](https://github.com/better-stack-ai/better-stack) - Open-source TypeScript system for installing full-stack features into existing React applications
 - [OasAIStudio/symphony-ts](https://github.com/OasAIStudio/symphony-ts) - Typecript version of https://github.com/openai/symphony
+- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -4973,6 +4975,7 @@
 - [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [nick-lvov-dev/typescript-explicit-types](https://github.com/nick-lvov-dev/typescript-explicit-types) - Generate explicit type annotation from inferred type in TypeScript
 - [SouthBridgeAI/offmute](https://github.com/SouthBridgeAI/offmute) - An experiment in meeting transcription and diarization with just an LLM. Maybe I went a little overboard though
@@ -5083,7 +5086,7 @@
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [HubSpot/ui-extensions-examples](https://github.com/HubSpot/ui-extensions-examples) - This repository contains code examples of UI extensions built with HubSpot CRM development tools beta
 - [shelwinsunga/zoom-chart-demo](https://github.com/shelwinsunga/zoom-chart-demo) - A zoomable shadcn/rechart chart.
-- [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - Faceted filters, sorting & infinite scroll for React data tables - shadcn/ui + TanStack Table
+- [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - React data tables for shadcn/ui: faceted filters, sorting, infinite scroll. Filtering, faceted counts and cursor pagination can run in SQL with Drizzle.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) - Sets of custom extensions & toolbars for tiptap editor. Install with shadcn/cli.
 - [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Data table and data grid components built with shadcn/ui, featuring sorting, filtering, pagination, infinite scrolling, and real-time collaboration.
