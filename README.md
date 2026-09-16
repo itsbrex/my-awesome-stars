@@ -388,7 +388,7 @@
 - [BeatRossmy/PunishableAI](https://github.com/BeatRossmy/PunishableAI) - 
 - [BeatRossmy/MidiBrainModule](https://github.com/BeatRossmy/MidiBrainModule) - 
 - [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen) - The advanced drum machine for Linux, macOS, and Windows
-- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 12 and later.
 - [acids-ircam/rave_vst](https://github.com/acids-ircam/rave_vst) - 
 - [phelankane/Live-Lessons-Generator](https://github.com/phelankane/Live-Lessons-Generator) - The Live Lessons Generator is a free stand alone app that allows educators to incorporate their lesson plans directly into Ableton Live via Ableton's Lessons format, which appear in the collapsible He
 - [acidanthera/FeatureUnlock](https://github.com/acidanthera/FeatureUnlock) - Add Sidecar support to unsupported models
@@ -2800,6 +2800,7 @@
 
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [yzaguirre/alexandria](https://github.com/yzaguirre/alexandria) - IT how-to library - networking, sysadmin instructions on old skool txt
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [wapmorgan/OpenApiGenerator](https://github.com/wapmorgan/OpenApiGenerator) - OpenApi configuration generator directly from PHP code (PhpDoc and php type hints). Can be used with a large monolithic backend
 - [akashrchandran/spotify-lyrics-api](https://github.com/akashrchandran/spotify-lyrics-api) - A Rest API for fetching lyrics from Spotify which is powered by Musixmatch. Commandline version is available at akashrchandran/syrics.
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
@@ -2881,7 +2882,7 @@
 - [Armgnkykc19/AI-Data-Quality-Platform](https://github.com/Armgnkykc19/AI-Data-Quality-Platform) - AI-assisted data quality and transformation platform for CRM migration, schema mapping, normalization, entity resolution, and human-reviewed data cleanup.
 - [deepklarity/harness-kit](https://github.com/deepklarity/harness-kit) - A kit for building with AI agents and also the engineering patterns around it.
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
-- [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
+- [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 - [patrickfreyer/live-slide-edit-tool](https://github.com/patrickfreyer/live-slide-edit-tool) - A local server + watcher that lets you edit an HTML slide deck directly in the browser, with Claude Code applying each change live via an isolated subagent
 - [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp) - MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
 - [ppgranger/token-saver](https://github.com/ppgranger/token-saver) - Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, dif
@@ -4071,6 +4072,7 @@
 - [gluon/AbletonLive11_MIDIRemoteScripts](https://github.com/gluon/AbletonLive11_MIDIRemoteScripts) - 
 - [liuyigh/homebrew-cask-replace](https://github.com/liuyigh/homebrew-cask-replace) - use homebrew cask to replace installed apps. Python 3.
 - [MerkulovDaniil/notion4ever](https://github.com/MerkulovDaniil/notion4ever) - 🏛 Python tool for export all your content of Notion page using official Notion API. Includes: all nested subpages, markdown files and HTMLs, nice urls, downloading locally all its content.
+- [Jeff53978/LinkGen](https://github.com/Jeff53978/LinkGen) - An Open Source Account Generator Bot!
 - [imnotjames/notion-docs-sync](https://github.com/imnotjames/notion-docs-sync) - 
 - [mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents) - Quickly open recent documents and apps / 快捷打开最近访问的文档或应用
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
@@ -4808,6 +4810,11 @@
 
 ## TypeScript 
 
+- [giacomoguidotto/blueprint](https://github.com/giacomoguidotto/blueprint) - 🛠️ A production-ready Next.js starter template with modern tooling and best practices built-in.
+- [DaniGuardiola/package-template](https://github.com/DaniGuardiola/package-template) - A package template that uses the latest and greatest tools while keeping things simple.
+- [SamHoque/bun-library-starter](https://github.com/SamHoque/bun-library-starter) - A modern, production-ready starter template for building TypeScript libraries with Bun, featuring comprehensive tooling and best practices out of the box.
+- [ardzero/bunpack](https://github.com/ardzero/bunpack) - An opinionated base template for creating quick CLI tools with Bun and TypeScript and a few helpful utilities.
+- [gfmio/template-typescript-library](https://github.com/gfmio/template-typescript-library) - A modern TypeScript library template with comprehensive tooling and best practices
 - [Cleanlist-ai/cleanlist-typescript-client](https://github.com/Cleanlist-ai/cleanlist-typescript-client) - Official TypeScript/JavaScript SDK for the Cleanlist API (v2) — typed fetch client (Node + browser, ESM + CJS) for B2B lead discovery, waterfall enrichment, lead lists, smart agents, and export.
 - [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [browser-use/agency](https://github.com/browser-use/agency) - Agency card feed: agents finish work, Magnus decides with one click
@@ -5283,7 +5290,6 @@
 - [midrender/haven](https://github.com/midrender/haven) - LLM fine-tuning and eval
 - [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
 - [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Perplexity Inspired Answer Engine
 - [kaarthik108/ohno](https://github.com/kaarthik108/ohno) - ohno - a lightning-fast AI chatbot built with the Hono.js framework, React, and Tailwind CSS
 - [evanpurkhiser/prolink-tools](https://github.com/evanpurkhiser/prolink-tools) - User friendly tools for accessing and using PRO DJ LINK information.
