@@ -559,7 +559,7 @@
 
 ## Cuda 
 
-- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [facebookresearch/music-translation](https://github.com/facebookresearch/music-translation) - A UNIVERSAL MUSIC TRANSLATION NETWORK - a method for translating music across musical instruments and styles.
 
@@ -769,7 +769,6 @@
 ## HTML 
 
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-- [D-Ogi/WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for 
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
@@ -985,6 +984,7 @@
 
 ## JavaScript 
 
+- [jahala/pollen](https://github.com/jahala/pollen) - peer messaging between AI agents, with a human at the gate — one file, zero dependencies.
 - [keshav9926/email-scrapper-extension-](https://github.com/keshav9926/email-scrapper-extension-) - A high-performance Chrome Extension designed to resolve valid email addresses from a list of LinkedIn profiles. The extension integrates with **Apify** using the **`snipercoder~bulk-linkedin-email-fin
 - [pleniqgraph/luma-icp-scout](https://github.com/pleniqgraph/luma-icp-scout) - Chrome extension: turn any Luma event guest list into a ranked list of your best-fit prospects, matched from LinkedIn against your ICP.
 - [benoitzohar/linkedin-grabber](https://github.com/benoitzohar/linkedin-grabber) - A chrome extension that copies the name+public link of all the open linkedin profiles (recruiter or public mode) and makes a bullet list.
@@ -2875,12 +2875,14 @@
 
 ## Python 
 
+- [Winipedia/pyrig](https://github.com/Winipedia/pyrig) - A tool that standardizes and automates Python project setup, configuration, development, and maintenance.
 - [arsumbris/arsumbris](https://github.com/arsumbris/arsumbris) - A malleable, agent-native IDE for typed knowledge.
 - [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) - AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Armgnkykc19/AI-Data-Quality-Platform](https://github.com/Armgnkykc19/AI-Data-Quality-Platform) - AI-assisted data quality and transformation platform for CRM migration, schema mapping, normalization, entity resolution, and human-reviewed data cleanup.
 - [deepklarity/harness-kit](https://github.com/deepklarity/harness-kit) - A kit for building with AI agents and also the engineering patterns around it.
+- [D-Ogi/WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 - [patrickfreyer/live-slide-edit-tool](https://github.com/patrickfreyer/live-slide-edit-tool) - A local server + watcher that lets you edit an HTML slide deck directly in the browser, with Claude Code applying each change live via an isolated subagent
@@ -4384,7 +4386,6 @@
 - [owenizedd/bum](https://github.com/owenizedd/bum) - Bun Version Manager written in Rust⚡
 - [ryanccn/nrr](https://github.com/ryanccn/nrr) - Minimal, blazing fast npm scripts runner
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
@@ -5224,11 +5225,12 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [graphql-hive/graphql-yoga](https://github.com/graphql-hive/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [assistant-ui/assistant-ui-assistant-api-history](https://github.com/assistant-ui/assistant-ui-assistant-api-history) - 
 - [HubSpot/hubspot-cli](https://github.com/HubSpot/hubspot-cli) - A CLI for HubSpot
 - [firecrawl/firegraph](https://github.com/firecrawl/firegraph) - 🔥📈 Create beautiful graphs in seconds. Plot github stars or your own csvs. Think ray.so for graphs. Built by the Firecrawl team.
 - [dominicwhyte/email-enricher](https://github.com/dominicwhyte/email-enricher) - Email Enricher is a free, offline alternative to Clearbit for enriching emails. Determine if an email likely belongs to a Fortune 1000 company.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [justboil/admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React Next Tailwind 4.x admin dashboard template with typescript and dark mode.
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system.
