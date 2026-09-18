@@ -120,6 +120,7 @@
 - [gaming](#gaming)
 - [generative-ai](#generative-ai)
 - [gh-extension](#gh-extension)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -455,7 +456,7 @@
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [andrewsky-labs/zentrun](https://github.com/andrewsky-labs/zentrun) - Prompt-driven automation platform - Transform natural language into executable workflows
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
@@ -581,13 +582,14 @@
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -907,7 +909,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [OpenAgentPlatform/Dive](https://github.com/OpenAgentPlatform/Dive) - Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [andrewsky-labs/zentrun](https://github.com/andrewsky-labs/zentrun) - Prompt-driven automation platform - Transform natural language into executable workflows
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -1362,7 +1364,6 @@
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [cyrta/awesome-speech-enhancement](https://github.com/cyrta/awesome-speech-enhancement) - A curated list of awesome Speech Enhancement papers, libraries, datasets, and other resources.
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
@@ -1448,7 +1449,6 @@
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [spencerpauly/awesome-notion](https://github.com/spencerpauly/awesome-notion) - A curated list of awesome Notion related things.
 - [cyrta/awesome-speech-enhancement](https://github.com/cyrta/awesome-speech-enhancement) - A curated list of awesome Speech Enhancement papers, libraries, datasets, and other resources.
@@ -1709,7 +1709,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [jonathanbertholet/promptmanager](https://github.com/jonathanbertholet/promptmanager) - Open Source Prompt Manager for ChatGPT, Supports any website & some cool features!
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [aicombinator/bot](https://github.com/aicombinator/bot) - GPT-powered bot that can automate complex online tasks using both the web browser and API calls.
@@ -2179,7 +2179,7 @@
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) - AGENTS.md/CLAUDE.md generator and ExecPlan harness for Codex, Claude Code, Cursor, Antigravity, OpenCode, Pi and other coding agents. Use api keys or authenticate with Codex or Claude Code
@@ -3545,7 +3545,7 @@
 
 - [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
@@ -3588,6 +3588,10 @@
 - [vilmibm/gh-oblique](https://github.com/vilmibm/gh-oblique) - a gh extension that prints out an oblique strategy
 - [HaywardMorihara/gh-tidy](https://github.com/HaywardMorihara/gh-tidy) - Github CLI extension for cleaning up your Git workspace to get ready for the day!
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
+
+## gis 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
 ## git 
 
@@ -4074,7 +4078,6 @@
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [Jaybhade/nextui-demo](https://github.com/Jaybhade/nextui-demo) - 
-- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
@@ -4961,7 +4964,7 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
@@ -5425,7 +5428,6 @@
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [SoloUnity/macos-apps-and-enhancements](https://github.com/SoloUnity/macos-apps-and-enhancements) - Awesome apps for macOS
 - [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
-- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [veehaitch/macos-remap-keys](https://github.com/veehaitch/macos-remap-keys) - Remap keys with pure macOS functionality.
 - [Jaysce/Spaceman](https://github.com/Jaysce/Spaceman) - A macOS app to view Spaces / Virtual Desktops in the menu bar
 - [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
@@ -6671,7 +6673,7 @@
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [OmniLens/OmniLens](https://github.com/OmniLens/OmniLens) - Monitor, analyze, and optimize your GitHub workflows with comprehensive insights.
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [webcrumbs-community/webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Build, re(use), and share your own Webcrumbs Plugins — compatible with any site, any stack. 🌟 Star to support our work!
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
@@ -6900,6 +6902,7 @@
 
 ## osint 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
@@ -6919,6 +6922,7 @@
 
 ## others 
 
+- [coleam00/skills](https://github.com/coleam00/skills) - The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.
 - [SamHoque/bun-library-starter](https://github.com/SamHoque/bun-library-starter) - A modern, production-ready starter template for building TypeScript libraries with Bun, featuring comprehensive tooling and best practices out of the box.
 - [ardzero/bunpack](https://github.com/ardzero/bunpack) - An opinionated base template for creating quick CLI tools with Bun and TypeScript and a few helpful utilities.
 - [arsumbris/arsumbris](https://github.com/arsumbris/arsumbris) - A malleable, agent-native IDE for typed knowledge.
@@ -7198,7 +7202,6 @@
 - [merge-api/merge-mcp](https://github.com/merge-api/merge-mcp) - 
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [d-stoll/attio-js](https://github.com/d-stoll/attio-js) - A community-maintained JavaScript/TypeScript SDK for Attio
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [procoders/salesnav-collect-1](https://github.com/procoders/salesnav-collect-1) - LinkedIn Sales Navigator mutual collector
 - [rugvedp/linkedin-mcp](https://github.com/rugvedp/linkedin-mcp) - A powerful LinkedIn profile analyzer MCP (Model Context Protocol) server that interacts with LinkedIn's API to fetch, analyze, and manage LinkedIn posts data. This MCP is specifically designed to work
 - [jam3scampbell/ProctorAI](https://github.com/jam3scampbell/ProctorAI) - The AI to keep you focused 😈
@@ -10074,7 +10077,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [andrewsky-labs/zentrun](https://github.com/andrewsky-labs/zentrun) - Prompt-driven automation platform - Transform natural language into executable workflows
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
 - [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTu
@@ -11617,7 +11620,6 @@
 
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## solidity 
