@@ -216,6 +216,7 @@
 - [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
+- [operating-system](#operating-system)
 - [osint](#osint)
 - [osint-tools](#osint-tools)
 - [others](#others)
@@ -399,7 +400,7 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -431,7 +432,7 @@
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 
 ## agents 
 
@@ -442,7 +443,7 @@
 - [justrach/codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
 - [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agno
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
@@ -674,7 +675,6 @@
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js enterprise-grade storefront for high-performance e-commerce with Shopify backend and Algolia middle layer with excellent browsing journey
 - [lalitdotdev/watchtowerai](https://github.com/lalitdotdev/watchtowerai) - An AI-powered web application leveraging Next.js 14 and TensorFlow.js for real-time object detection. Utilizing Tensorflow model for accurate detection, webcam integration for live video streams, and 
 - [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
-- [Anil-matcha/awesome-agent-apis](https://github.com/Anil-matcha/awesome-agent-apis) - 660+ muapi-hosted generative-media models plus community-submitted third-party API tools (SEO, enrichment, social, scraping) — one YAML file per entry, browsable by capability.
 - [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirem
 - [dieharders/obrew-studio-server](https://github.com/dieharders/obrew-studio-server) - Obrew Server: A self-hostable machine learning engine. Build agents and schedule workflows private to you.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -774,7 +774,7 @@
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [kitchWWW/sounds.pink](https://github.com/kitchWWW/sounds.pink) - turn motion into midi
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
@@ -858,6 +858,7 @@
 
 ## ai-agents 
 
+- [Sanix-Darker/watf](https://github.com/Sanix-Darker/watf) - Local CLI harness for agents with indexed validation and bounded execution
 - [BkashJEE/hermes-bot-forge](https://github.com/BkashJEE/hermes-bot-forge) - Hermes Agent plugin: say 'make me a &lt;role&gt;' and your agent builds a complete, working Bot — name, face, SOUL.md, memory, tools, skills, routines, gateway.
 - [jahala/pollen](https://github.com/jahala/pollen) - peer messaging between AI agents, with a human at the gate — one file, zero dependencies.
 - [Zfinix/aster](https://github.com/Zfinix/aster) - An open-source agent harness for software work.
@@ -933,6 +934,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
+- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -1217,7 +1219,7 @@
 - [Winipedia/pyrig](https://github.com/Winipedia/pyrig) - A tool that standardizes and automates Python project setup, configuration, development, and maintenance.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp) - MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, 100% local, no API keys.
 - [managedcode/playwright_stealth](https://github.com/managedcode/playwright_stealth) - Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints — navigator properties, WebGL, canvas, audio, CDP traces, automation mark
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [yazinsai/auto-maintainer](https://github.com/yazinsai/auto-maintainer) - Write your repo rules in Markdown. AI enforces them — triages issues, reviews PRs, fixes bugs, merges code, cuts releases.
@@ -1242,6 +1244,7 @@
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
 - [kaymen99/sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph) - Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
+- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc) - :octocat: Github action that turns your reusable workflows and custom actions into easy to read markdown tables.
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [deffcolony/ai-toolbox](https://github.com/deffcolony/ai-toolbox) - AI-Toolbox provides a collection of automation scripts and tools to streamline your AI workflows.
@@ -1292,6 +1295,7 @@
 
 ## awesome 
 
+- [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More. https://hol.org/plugins
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [0xNyk/awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) - Curated map of AI agent frameworks, protocols, runtimes, skills, memory, identity, security, evaluation, and commerce.
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
@@ -1306,6 +1310,7 @@
 - [elysiajs/awesome-elysia](https://github.com/elysiajs/awesome-elysia) - Community driven curated list of awesome things related to ElysiaJS
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1332,7 +1337,7 @@
 - [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) - A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 - [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [MrWillCom/awesome](https://github.com/MrWillCom/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years!
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
@@ -1379,6 +1384,7 @@
 
 ## awesome-list 
 
+- [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More. https://hol.org/plugins
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [0xNyk/awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) - Curated map of AI agent frameworks, protocols, runtimes, skills, memory, identity, security, evaluation, and commerce.
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
@@ -1388,7 +1394,7 @@
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [Anil-matcha/awesome-agent-apis](https://github.com/Anil-matcha/awesome-agent-apis) - 660+ muapi-hosted generative-media models plus community-submitted third-party API tools (SEO, enrichment, social, scraping) — one YAML file per entry, browsable by capability.
+- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
@@ -1415,7 +1421,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [MrWillCom/awesome](https://github.com/MrWillCom/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years!
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [imaurer/awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
@@ -1703,7 +1709,8 @@
 
 ## chatgpt 
 
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More. https://hol.org/plugins
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, 100% local, no API keys.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1793,7 +1800,7 @@
 - [3Alan/chatpdf-demo](https://github.com/3Alan/chatpdf-demo) - This is the minimum implementation demo of ChatPDF, which answers related questions about PDF.
 - [3Alan/DocsMind](https://github.com/3Alan/DocsMind) - 🤖 DocsMind allows you to chat with your docs and summarize your docs, support pdf, md.
 - [SethuSenthil/Copy-for-ChatGPT](https://github.com/SethuSenthil/Copy-for-ChatGPT) - Extention to bring a copy button for ChatGPT
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [marashiai/gpt-api-companion](https://github.com/marashiai/gpt-api-companion) - Tools built around the GPT API to make using of it easier, sets you free from ChatGPT (requires GPT API Key)
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [benjitrosch/chatGL](https://github.com/benjitrosch/chatGL) - GLSL shader generator using GPT-3 🤖🎨
@@ -2050,11 +2057,12 @@
 
 ## claude 
 
+- [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More. https://hol.org/plugins
 - [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) - Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded
 - [btsouth/toolport](https://github.com/btsouth/toolport) - Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for 
 - [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp) - MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, 100% local, no API keys.
 - [Neeeophytee/ai-watermarks-reality-check](https://github.com/Neeeophytee/ai-watermarks-reality-check) - Test what AI watermark and provenance evidence exists, whether it verifies, and what survives publishing.
 - [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
@@ -2125,6 +2133,7 @@
 
 ## claude-code 
 
+- [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More. https://hol.org/plugins
 - [RikepilB/crafterwiki](https://github.com/RikepilB/crafterwiki) - Provenance-first wiki of hackathon winners and submissions, with a demo-first planning harness (CLI, MCP server, static API, Astro site, Claude Code plugin).
 - [kunchenguid/compact-adviser](https://github.com/kunchenguid/compact-adviser) - "Work appears completed or recorded. Run /compact to save tokens."
 - [jahala/pollen](https://github.com/jahala/pollen) - peer messaging between AI agents, with a human at the gate — one file, zero dependencies.
@@ -2198,6 +2207,7 @@
 
 ## cli 
 
+- [Sanix-Darker/watf](https://github.com/Sanix-Darker/watf) - Local CLI harness for agents with indexed validation and bounded execution
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for 
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
@@ -2344,6 +2354,7 @@
 
 ## cloud 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant, optimized for DX/AX. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -3112,7 +3123,7 @@
 - [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [QuiteAFancyEmerald/InvisiProxy](https://github.com/QuiteAFancyEmerald/InvisiProxy) - InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup. It does this securely
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [alltuner/vibetuner](https://github.com/alltuner/vibetuner) - Production-ready FastAPI scaffolding — flexible databases (MongoDB, PostgreSQL, MySQL, SQLite), HTMX frontend, OAuth auth. Generate full-stack apps in seconds.
 - [haasonsaas/email-agent](https://github.com/haasonsaas/email-agent) - AI-powered email management agent with TUI dashboard, CLI commands, and multi-agent categorization system. Supports Gmail integration, rule-based processing, and Docker deployment.
 - [daikikatsuragawa/clasp-action](https://github.com/daikikatsuragawa/clasp-action) - This action uses clasp to push or deploy to Google Apps Script.
@@ -3554,7 +3565,6 @@
 - [jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant](https://github.com/jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant) - This app leverages generative AI to intelligently manage your sales inbox and CRM, auto-draft replies using your sales playbook & company branding, and more.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
-- [Anil-matcha/awesome-agent-apis](https://github.com/Anil-matcha/awesome-agent-apis) - 660+ muapi-hosted generative-media models plus community-submitted third-party API tools (SEO, enrichment, social, scraping) — one YAML file per entry, browsable by capability.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [julian-parker/stemgen](https://github.com/julian-parker/stemgen) - Examples for ICASSP2024 paper "StemGen: A music generation model that listens"
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -3732,7 +3742,7 @@
 
 ## golang 
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -3782,6 +3792,7 @@
 
 ## good-first-issue 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
@@ -3874,6 +3885,7 @@
 
 ## gui 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
@@ -4141,6 +4153,7 @@
 
 ## html 
 
+- [nautilus-os/GUST](https://github.com/nautilus-os/GUST) - GUST is a powerful, modern web proxy designed by the Nautilus Labs dev team for especially restrictive environments. It's a fully static, single HTML file allows it to be downloaded, shared, and distr
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
@@ -4351,6 +4364,7 @@
 
 ## javascript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [DaniGuardiola/package-template](https://github.com/DaniGuardiola/package-template) - A package template that uses the latest and greatest tools while keeping things simple.
 - [Cleanlist-ai/cleanlist-typescript-client](https://github.com/Cleanlist-ai/cleanlist-typescript-client) - Official TypeScript/JavaScript SDK for the Cleanlist API (v2) — typed fetch client (Node + browser, ESM + CJS) for B2B lead discovery, waterfall enrichment, lead lists, smart agents, and export.
 - [Auxx-Ai/auxx-ai](https://github.com/Auxx-Ai/auxx-ai) - The Open Source Front / Attio meets N8N Alternative
@@ -4879,7 +4893,7 @@
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -5023,6 +5037,7 @@
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [zya/litellmjs](https://github.com/zya/litellmjs) - JavaScript implementation of LiteLLM.
 - [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
+- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) - AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirem
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
@@ -5095,7 +5110,7 @@
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [bayeru/chat-to-your-database](https://github.com/bayeru/chat-to-your-database) - Chat to your database with AI. An experimental app to test the abilities of LLMs to query SQL databases using natural language.
@@ -5195,6 +5210,7 @@
 
 ## machine-learning 
 
+- [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [markusaksli/ai-music](https://github.com/markusaksli/ai-music) - A vanilla Trasformer Decoder music generation model trained on Final Fantasy OST MIDI songs
@@ -5349,7 +5365,7 @@
 - [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) - Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp) - MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, 100% local, no API keys.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [baryhuang/claude-codex-voice-mlx](https://github.com/baryhuang/claude-codex-voice-mlx) - 🔊 Local cloned-voice feedback for Claude Code + Codex on Apple Silicon — MOSS-TTS-Nano on MLX, 0.3s first sound, spoken summaries, multi-session queue, offline after download.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
@@ -5358,7 +5374,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server. 6 fighters incl. Muse-Glimmer 30B (now multimodal — reads images, abliterated), Gemma 4 31B, Qwen 3.5 12
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -5559,13 +5575,14 @@
 
 ## mcp 
 
+- [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More. https://hol.org/plugins
 - [RikepilB/crafterwiki](https://github.com/RikepilB/crafterwiki) - Provenance-first wiki of hackathon winners and submissions, with a demo-first planning harness (CLI, MCP server, static API, Astro site, Claude Code plugin).
 - [jahala/pollen](https://github.com/jahala/pollen) - peer messaging between AI agents, with a human at the gate — one file, zero dependencies.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [btsouth/toolport](https://github.com/btsouth/toolport) - Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp) - MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, 100% local, no API keys.
 - [ppgranger/token-saver](https://github.com/ppgranger/token-saver) - Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, dif
 - [Neeeophytee/ai-watermarks-reality-check](https://github.com/Neeeophytee/ai-watermarks-reality-check) - Test what AI watermark and provenance evidence exists, whether it verifies, and what survives publishing.
 - [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.
@@ -6358,6 +6375,7 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [nooqta/kodyfire](https://github.com/nooqta/kodyfire) - AI-powered code generator and automation tool
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
@@ -6414,7 +6432,7 @@
 - [better-stack-ai/better-stack](https://github.com/better-stack-ai/better-stack) - Open-source TypeScript system for installing full-stack features into existing React applications
 - [QuiteAFancyEmerald/InvisiProxy](https://github.com/QuiteAFancyEmerald/InvisiProxy) - InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup. It does this securely
 - [gajus/global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent configurable using environment variables.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
@@ -6653,6 +6671,8 @@
 
 ## open-source 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
 - [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 - [Auxx-Ai/auxx-ai](https://github.com/Auxx-Ai/auxx-ai) - The Open Source Front / Attio meets N8N Alternative
@@ -6828,7 +6848,7 @@
 - [3Alan/chatpdf-demo](https://github.com/3Alan/chatpdf-demo) - This is the minimum implementation demo of ChatPDF, which answers related questions about PDF.
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [xiaochen0517/chat-gpt-box](https://github.com/xiaochen0517/chat-gpt-box) - Cross-platform ChatGPTBox, supporting GPT/ DALL-E/Gemini API.
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
@@ -6902,6 +6922,10 @@
 - [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A functional programming language and declarative system for describing 2D and 3D visuals
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 
+## operating-system 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+
 ## osint 
 
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
@@ -6924,6 +6948,14 @@
 
 ## others 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - 
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- [typesafe-ai/skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
+- [HeyPuter/browser.js](https://github.com/HeyPuter/browser.js) - Highly Configurable Browser Environment for the Web
+- [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol) - Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a single websocket.
+- [MercuryWorkshop/epoxy-tls](https://github.com/MercuryWorkshop/epoxy-tls) - An encrypted proxy for browser javascript
+- [abhixhek/jevcal](https://github.com/abhixhek/jevcal) - Stop guessing confidence thresholds: calibrate, threshold, and drift-check typed decision models (TypeSafe Jev) against an LLM teacher.
+- [devagrawal09/stanley-code](https://github.com/devagrawal09/stanley-code) - Bounded TypeSafe Jev workflows for coding agents.
 - [aydnOktay/hermes-debug-desk](https://github.com/aydnOktay/hermes-debug-desk) - 
 - [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code) - An open-source coding agent for your terminal, powered by MiniMax.
 - [Soverius-AI/standup-pulse](https://github.com/Soverius-AI/standup-pulse) - 
@@ -6985,7 +7017,7 @@
 - [jzone3/solving-math-problems](https://github.com/jzone3/solving-math-problems) - 
 - [Edx0n/markdown-render-api-app](https://github.com/Edx0n/markdown-render-api-app) - Markdown-to-HTML rendering service with sanitization, syntax-highlighted code blocks, GitHub-flavored extensions and an optional plain-text excerpt mode.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright 100% anti-detect: undetected Firefox fingerprint, no captcha. Stealth browser, Python web scraping, automation, Cloudflare, anti-bot detection bypass.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright anti-detect: automatically bypass captcha, anti-bot detection. Undetected Firefox fingerprint, stealth browser. Python web scraping automation, Cloudflare.
 - [githubpr0jects/repo-recomender](https://github.com/githubpr0jects/repo-recomender) - The repo recomender and github search engine, vibe coded via MiniMax M2.1
 - [ejskipper/BetterMacReminders](https://github.com/ejskipper/BetterMacReminders) - More-obtrusive Outlook calendar reminders for Mac, so that you can't miss your meetings.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
@@ -10055,7 +10087,7 @@
 
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, 100% local, no API keys.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [QuiteAFancyEmerald/InvisiProxy](https://github.com/QuiteAFancyEmerald/InvisiProxy) - InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup. It does this securely
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
@@ -10079,7 +10111,7 @@
 
 - [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) - Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for 
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, 100% local, no API keys.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -10089,6 +10121,7 @@
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
 - [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTu
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [vignshwarar/AI-Employe](https://github.com/vignshwarar/AI-Employe) - Create browser automation as if you were teaching a human using GPT-4 Vision.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [j3soon/arxiv-utils](https://github.com/j3soon/arxiv-utils) - Meaningful titles for tabs and PDF downloads! Also supports tab search.
@@ -10164,6 +10197,7 @@
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
 - [jonathanbertholet/promptmanager](https://github.com/jonathanbertholet/promptmanager) - Open Source Prompt Manager for ChatGPT, Supports any website & some cool features!
 - [paradroidlabs/scratchpad](https://github.com/paradroidlabs/scratchpad) - This framework works as a form of user/machine calibration, with a focus on user-context and user-intent, deconstructing your ideas logically from A to B to Z.
+- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 - [kennethleungty/Text-to-Audio-with-Bark](https://github.com/kennethleungty/Text-to-Audio-with-Bark) - Exploring Bark, the Open-Source Text-to-Audio Generative Model
 - [ericpesto/ai-sample-generator](https://github.com/ericpesto/ai-sample-generator) - Create .wav audio samples with text-to-sound generative AI
@@ -10223,6 +10257,7 @@
 
 ## python 
 
+- [Bodila51/grok-bot-jev](https://github.com/Bodila51/grok-bot-jev) - Connect TypeSafe Jev to Grok Bot as a cheap decision layer - usage gates, skill template, examples
 - [sahibzada-allahyar/gliner2-ultrafast](https://github.com/sahibzada-allahyar/gliner2-ultrafast) - Real browser automation with local GLiNER2 inference and open weights. Work in progress. Contributions welcome.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [ppgranger/token-saver](https://github.com/ppgranger/token-saver) - Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, dif
@@ -10233,7 +10268,7 @@
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) - Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Ge
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [python-openapi/openapi-schema-validator](https://github.com/python-openapi/openapi-schema-validator) - OpenAPI schema validator is a Python library that validates schema against OpenAPI Schema Specification v3.0 and v3.1
@@ -11320,6 +11355,7 @@
 
 ## rust 
 
+- [Sanix-Darker/watf](https://github.com/Sanix-Darker/watf) - Local CLI harness for agents with indexed validation and bounded execution
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [dif-sh/dif](https://github.com/dif-sh/dif) - Experiments live in the repo.
 - [btsouth/toolport](https://github.com/btsouth/toolport) - Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.
@@ -11332,7 +11368,7 @@
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
 - [eresende/pitlane-mcp](https://github.com/eresende/pitlane-mcp) - Token-efficient navigation substrate for AI coding agents. Index code once and retrieve only the symbols you need.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -11443,7 +11479,7 @@
 ## security 
 
 - [DatanoiseTV/revenant](https://github.com/DatanoiseTV/revenant) - LLM-powered automated reverse-engineering engine for vendor-abandoned hardware and software
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agno
 - [frmoretto/hardstop](https://github.com/frmoretto/hardstop) - Don't let AI destroy your hard work! HardStop is a rock-solid protection for AI-generated commands. Pre-execution safety validation for Claude Code, Claude Cowork. Catches dangerous commands before th
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -11478,6 +11514,7 @@
 
 ## self-hosted 
 
+- [nautilus-os/GUST](https://github.com/nautilus-os/GUST) - GUST is a powerful, modern web proxy designed by the Nautilus Labs dev team for especially restrictive environments. It's a fully static, single HTML file allows it to be downloaded, shared, and distr
 - [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.
@@ -11486,7 +11523,7 @@
 - [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [gronxb/hot-updater](https://github.com/gronxb/hot-updater) - A self-hostable OTA update solution for React Native (Alternative to CodePush)
@@ -11791,6 +11828,7 @@
 
 ## swift 
 
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [giannimassi/webview-cli](https://github.com/giannimassi/webview-cli) - Native macOS UIs for CLI AI agents. 193KB single binary, ~180ms cold start, no Electron. Renders A2UI declarative UI.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
@@ -12296,6 +12334,7 @@
 
 ## typescript 
 
+- [hbmartin/attio-ts-sdk](https://github.com/hbmartin/attio-ts-sdk) - Type-safe TypeScript SDK for the Attio CRM API with Zod v4 runtime validation
 - [DaniGuardiola/package-template](https://github.com/DaniGuardiola/package-template) - A package template that uses the latest and greatest tools while keeping things simple.
 - [gfmio/template-typescript-library](https://github.com/gfmio/template-typescript-library) - A modern TypeScript library template with comprehensive tooling and best practices
 - [Cleanlist-ai/cleanlist-typescript-client](https://github.com/Cleanlist-ai/cleanlist-typescript-client) - Official TypeScript/JavaScript SDK for the Cleanlist API (v2) — typed fetch client (Node + browser, ESM + CJS) for B2B lead discovery, waterfall enrichment, lead lists, smart agents, and export.
@@ -12314,7 +12353,7 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) - Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Ge
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [LeadMagic/cold-email-cli](https://github.com/LeadMagic/cold-email-cli) - Archived TypeScript and Bun CLI for email campaign platform integrations. Historical source and documentation; no active maintenance.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [bandr-ai/vektori-extension](https://github.com/bandr-ai/vektori-extension) - Never repeat yourself across AI :)
@@ -13023,11 +13062,11 @@
 
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 188+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, 100% local, no API keys.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
