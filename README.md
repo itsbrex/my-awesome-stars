@@ -261,7 +261,6 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [samaaron/tau5](https://github.com/samaaron/tau5) - Code. Art. Together.
 - [jameshball/osci-render](https://github.com/jameshball/osci-render) - 〰📺🔊 Synthesiser audio plugin for making music by drawing objects on an oscilloscope using audio.
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [adelamodwala/jist](https://github.com/adelamodwala/jist) - Search a JSON path and get the value fast
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -309,6 +308,7 @@
 - [deezer/deezer-chromaprint](https://github.com/deezer/deezer-chromaprint) - A stand-alone, x86 and x64 compatible, Windows version, of the chromaprint audio library.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [LabSound/LabSound](https://github.com/LabSound/LabSound) - :microscope: :speaker: graph-based audio engine
+- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo Make: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free.
 - [itsbrex/gpt4all](https://github.com/itsbrex/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [llnl/SAMRAI](https://github.com/llnl/SAMRAI) - Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
@@ -604,6 +604,7 @@
 
 ## Go 
 
+- [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness self-improving memory layer for AI agents.
 - [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) - Async-first agent harness
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
@@ -650,6 +651,7 @@
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
+- [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [pomdtr/ray](https://github.com/pomdtr/ray) - A command line interface for Raycast
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -986,6 +988,7 @@
 
 ## JavaScript 
 
+- [magrathean-uk/clean-development](https://github.com/magrathean-uk/clean-development) - Keep development caches and supported build output in one managed place, without adding prompt context.
 - [Aluminum-Depot/Tinf0il](https://github.com/Aluminum-Depot/Tinf0il) - Probe the internet privately.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [abhixhek/feedwall](https://github.com/abhixhek/feedwall) - Your feed, your rules, in plain English. A browser extension that filters X, YouTube, Reddit, LinkedIn and Hacker News with topics you write yourself. Bring your own Jev key.
@@ -1141,7 +1144,6 @@
 - [0xfe/vexwarp](https://github.com/0xfe/vexwarp) - Audio Time Stretching and Pitch Shifting
 - [Marak/JSONloops](https://github.com/Marak/JSONloops) - JSONloops is a real-time, multiuser audio sequencer for node.js and the browser.
 - [publicsamples/Roland-Jupiter-4](https://github.com/publicsamples/Roland-Jupiter-4) - Sample Library
-- [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru) - Wunjo CE: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free.
 - [itsbrex/installable-framer](https://github.com/itsbrex/installable-framer) - Use Framer components in your React project
 - [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io) - 
 - [hissincn/suno-ai](https://github.com/hissincn/suno-ai) - Creat high quality songs from suno.ai by Javascript API.
@@ -2470,7 +2472,6 @@
 - [ludwig-ai/datasets](https://github.com/ludwig-ai/datasets) - Open Source Datasets to Use for Demonstrating Ludwig Capabilities
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [igelbox/Ableton-Splash](https://github.com/igelbox/Ableton-Splash) - Custom splash screens for Ableton 11/12
-- [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) - Copy-paste Muse agent briefs for practical workflows, connected apps, approvals, and evidence-backed automation.
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [sgraaf/openapi-scraper](https://github.com/sgraaf/openapi-scraper) - Track changes to RESTful APIs by git scraping their OpenAPI descriptions
 - [julian-parker/stemgen](https://github.com/julian-parker/stemgen) - Examples for ICASSP2024 paper "StemGen: A music generation model that listens"
@@ -3093,6 +3094,7 @@
 - [RelevanceAI/relevanceai](https://github.com/RelevanceAI/relevanceai) - Home of the AI workforce - Multi-agent system, AI agents & tools
 - [agi-inc/agent-protocol](https://github.com/agi-inc/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [RoyalCities/RC-stable-audio-tools](https://github.com/RoyalCities/RC-stable-audio-tools) - Generative models for conditional audio generation
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping) - A cloudflare verification bypass script for webscraping
 - [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [mind-protocol/terminal-velocity](https://github.com/mind-protocol/terminal-velocity) - A novel created autonomously by a team of 10 AI agents
@@ -3134,7 +3136,6 @@
 - [Tublian/DevDocGenie](https://github.com/Tublian/DevDocGenie) - API assistance for developers. It will digest all the API docs and act as a helper for a developer.
 - [MervinPraison/PraisonAI-Tools](https://github.com/MervinPraison/PraisonAI-Tools) - 
 - [ManiMozaffar/linkedIn-scraper](https://github.com/ManiMozaffar/linkedIn-scraper) - A playwright bot which is implemented to scrape linkedin and store advertisement data in a database and telegram channel
-- [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [flexiodata/functions-hubspot](https://github.com/flexiodata/functions-hubspot) - Import live, refreshable data from HubSpot into Microsoft Excel and Google Sheets.
 - [pmarcelino/synthetic-dataset](https://github.com/pmarcelino/synthetic-dataset) - 
 - [sreesai169/llmbot](https://github.com/sreesai169/llmbot) - 
@@ -3163,6 +3164,7 @@
 - [ryanwithawhy/generate_temp_table_sql](https://github.com/ryanwithawhy/generate_temp_table_sql) - This package takes a CSV and generates SQL statements to create a temp table and insert the data within it into the temp table.  Good when you need to move data between warehouses for ad hoc analysis 
 - [gudgud96/MR-MT3](https://github.com/gudgud96/MR-MT3) - MR-MT3: Memory Retaining Multi-Track Music Transcription to Mitigate Instrument Leakage
 - [descriptinc/melgan-neurips](https://github.com/descriptinc/melgan-neurips) - GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis
+- [Anil-matcha/awesome-muse-connectors](https://github.com/Anil-matcha/awesome-muse-connectors) - A source-backed catalog of Meta Muse integrations and community connector skills, with capability, authentication, and permission notes.
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [yuma-m/pychord](https://github.com/yuma-m/pychord) - Python library to handle musical chords.
 - [cdjkim/audiocaps](https://github.com/cdjkim/audiocaps) - 🔊 Repository for our NAACL-HLT 2019 paper: AudioCaps
@@ -4846,6 +4848,11 @@
 
 ## TypeScript 
 
+- [moeru-ai/alint](https://github.com/moeru-ai/alint) - 🤖🤮 Hate the yuck codes that agents generated? Try `alint`, a ESLint like toolchain for intent driven code check, freeze your skills, AGENTS.md to lint rules
+- [anishfn/shapeshift](https://github.com/anishfn/shapeshift) - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.
+- [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
+- [Lvvphole/ai-account-prioritization](https://github.com/Lvvphole/ai-account-prioritization) - AI Account Prioritization Agent for B2B Sales Teams is a production-grade agentic workflow system that turns CRM/account data into verified daily sales priorities with deterministic scoring, reason co
+- [bensenescu/downy](https://github.com/bensenescu/downy) - OpenClaw Alternative - Create a team of agents and work with them from anywhere.
 - [CommandCodeAI/BaseAI](https://github.com/CommandCodeAI/BaseAI) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
 - [nico-martin/open-jev](https://github.com/nico-martin/open-jev) - open-jev is a browser-focused TypeScript library for typed decisions: one piece of text (the state) plus any number of typed questions go in, and one forward pass returns a calibrated probability dist
 - [hbmartin/attio-ts-sdk](https://github.com/hbmartin/attio-ts-sdk) - Type-safe TypeScript SDK for the Attio CRM API with Zod v4 runtime validation
@@ -4949,7 +4956,7 @@
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [bastani-inc/atomic](https://github.com/bastani-inc/atomic) - The verifiable coding agent runtime. Define your coding agent's process in natural language with stages, checks, and approval gates instead of hoping it follows your instructions.
+- [bastani-inc/atomic](https://github.com/bastani-inc/atomic) - The verifiable coding agent runtime. Define your coding agent's process in natural language with stages, checks, and approval gates instead of hoping it follows your instructions. Primitives for verif
 - [pasky/muaddib](https://github.com/pasky/muaddib) - Multi-user AI assistant and agent
 - [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) - Generate text, images, video, speech, and music by MiniMax.
 - [superradcompany/microsandbox-mcp](https://github.com/superradcompany/microsandbox-mcp) - 🧶 MCP server for microsandbox - Give your AI agents sandboxes
@@ -5770,7 +5777,7 @@
 - [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
 - [yosevu/react-chrome-extension-template](https://github.com/yosevu/react-chrome-extension-template) - A starter project to build Chrome extensions using React and TypeScript. Ideal for developers looking to create efficient and modern Chrome extensions with a focus on a clean development workflow usin
 - [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [eigenpaul/spotify-next-auth-token-rotation](https://github.com/eigenpaul/spotify-next-auth-token-rotation) - NextAuth Refresh Token Rotation for Spotify OAuth
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - 
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
