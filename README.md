@@ -778,6 +778,7 @@
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 - [patrickfreyer/curvature-chorus](https://github.com/patrickfreyer/curvature-chorus) - Relativistic n-body motion on a living spacetime fabric — p5.js generative art
 - [githubpr0jects/repo-recomender](https://github.com/githubpr0jects/repo-recomender) - The repo recomender and github search engine, vibe coded via MiniMax M2.1
+- [vamseeachanta/workspace-hub](https://github.com/vamseeachanta/workspace-hub) - A centralized management system for multiple GitHub repositories with modular organization
 - [ThariqS/html-effectiveness](https://github.com/ThariqS/html-effectiveness) - 
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [coleam00/obsidian-voice-agent](https://github.com/coleam00/obsidian-voice-agent) - 
@@ -2886,6 +2887,8 @@
 
 ## Python 
 
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
+- [Badtheorylabs/interference-search](https://github.com/Badtheorylabs/interference-search) - Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance together.
 - [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) - TypeLLM: LLMs with type-safe generation
 - [opensite-ai/opensite-skills](https://github.com/opensite-ai/opensite-skills) - AI agent skills library built by OpenSite AI. A single git repo that keeps Claude, Codex, Cursor, Copilot, and Perplexity Computer in perfect skill sync, with persistent cross-session memory and autom
 - [whitecircle/halo](https://github.com/whitecircle/halo) - Halo is an open-source framework built by White Circle for training large language and multimodal models
@@ -2932,7 +2935,6 @@
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [adithya-s-k/marker-api](https://github.com/adithya-s-k/marker-api) - Easily deployable 🚀 API to convert PDF to markdown quickly with high accuracy.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
-- [vamseeachanta/workspace-hub](https://github.com/vamseeachanta/workspace-hub) - A centralized management system for multiple GitHub repositories with modular organization
 - [zebbern/webhook-mcp-server](https://github.com/zebbern/webhook-mcp-server) - MCP to Capture HTTP requests, emails, and DNS lookups test webhooks, debugg API callbacks
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [DatanoiseTV/revenant](https://github.com/DatanoiseTV/revenant) - LLM-powered automated reverse-engineering engine for vendor-abandoned hardware and software
@@ -4007,6 +4009,7 @@
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [VarunPatelius/Py-iMessenger](https://github.com/VarunPatelius/Py-iMessenger) - Py-iMessenger is a chatbot that works with iMessage to execute commands using text messages.
 - [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
+- [mr-pennyworth/alfred-fastest-emoji](https://github.com/mr-pennyworth/alfred-fastest-emoji) - Instant search for emojis in Alfred with related keywords
 - [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -4554,7 +4557,7 @@
 - [WrathZA/skillforge](https://github.com/WrathZA/skillforge) - Quality-gated skill authoring for Claude Code. Build, judge, and ship skills that earn their tokens.
 - [zm2231/z-audit](https://github.com/zm2231/z-audit) - Security audit skill for Claude Code / OpenCode - 7-phase methodology covering secrets, API auth, IDOR, infrastructure, and more
 - [snarktank/compound-product](https://github.com/snarktank/compound-product) - A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes
-- [VAMFI/claude-user-memory](https://github.com/VAMFI/claude-user-memory) - Autonomous agent substrate for Claude Code CLI. Research→Plan→Implement workflows with quality gates, TDD   enforcement, and multi-agent coordination. 4.8-5.5x faster development. Built on Anthropic's
+- [VAMFI/claude-user-memory](https://github.com/VAMFI/claude-user-memory) - Portable agent setup through one INSTALL.md: minimal project instructions, verified workflows, native memory reuse, and reversible configuration.
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [mmcgraw73/cursor-notes](https://github.com/mmcgraw73/cursor-notes) - 
 - [kanopi/training-video-generator](https://github.com/kanopi/training-video-generator) - 
@@ -4770,7 +4773,6 @@
 - [Yoddikko/yoddChatGPT](https://github.com/Yoddikko/yoddChatGPT) - This app uses the OpenAISwift library, ChatGPTSwift library and OpenAI library to communicate with the popular ChatGPT artificial intelligence. The app allows you to have a quick message exchange with
 - [badoo/Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
 - [ZekeSnider/Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
-- [mr-pennyworth/alfred-fastest-emoji](https://github.com/mr-pennyworth/alfred-fastest-emoji) - Instant search for emojis in Alfred with related keywords
 - [bradhowes/SoundFonts](https://github.com/bradhowes/SoundFonts) - Powerful polyphonic synthesizer for iOS that relies on sound fonts for generating audio - https://bradhowes.github.io/SoundFonts/
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Core ML model zoo for iOS/macOS — PyTorch models converted to ready-to-use .mlpackage, each with a conversion script and SwiftUI sample app. Sibling repos cover Apple's Core AI framework (iOS/macOS 27
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
