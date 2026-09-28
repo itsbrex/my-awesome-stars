@@ -604,7 +604,7 @@
 
 ## Go 
 
-- [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness self-improving memory layer for AI agents.
+- [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness, self-improving memory layer for AI agents.
 - [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) - Async-first agent harness
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
@@ -2907,9 +2907,9 @@
 - [sahibzada-allahyar/gliner2-ultrafast](https://github.com/sahibzada-allahyar/gliner2-ultrafast) - Real browser automation with local GLiNER2 inference and open weights. Work in progress. Contributions welcome.
 - [coleam00/skills](https://github.com/coleam00/skills) - The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.
 - [Winipedia/pyrig](https://github.com/Winipedia/pyrig) - A tool that standardizes and automates Python project setup, configuration, development, and maintenance.
-- [arsumbris/arsumbris](https://github.com/arsumbris/arsumbris) - A malleable, agent-native IDE for typed knowledge.
+- [arsumbris/arsumbris](https://github.com/arsumbris/arsumbris) - A workspace and framework to build domain-specific systems for agentic knowledge work.
 - [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) - AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Armgnkykc19/AI-Data-Quality-Platform](https://github.com/Armgnkykc19/AI-Data-Quality-Platform) - AI-assisted data quality and transformation platform for CRM migration, schema mapping, normalization, entity resolution, and human-reviewed data cleanup.
 - [deepklarity/harness-kit](https://github.com/deepklarity/harness-kit) - A kit for building with AI agents and also the engineering patterns around it.
@@ -2936,7 +2936,7 @@
 - [adithya-s-k/marker-api](https://github.com/adithya-s-k/marker-api) - Easily deployable 🚀 API to convert PDF to markdown quickly with high accuracy.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [zebbern/webhook-mcp-server](https://github.com/zebbern/webhook-mcp-server) - MCP to Capture HTTP requests, emails, and DNS lookups test webhooks, debugg API callbacks
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free
 - [DatanoiseTV/revenant](https://github.com/DatanoiseTV/revenant) - LLM-powered automated reverse-engineering engine for vendor-abandoned hardware and software
 - [justrach/muonry](https://github.com/justrach/muonry) - Muonry – Parallel‑Capable AI Coding Assistant
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
@@ -3521,7 +3521,7 @@
 - [mirableio/chat-history](https://github.com/mirableio/chat-history) - ChatGPT and Claude history exploration
 - [marcoppasini/musika](https://github.com/marcoppasini/musika) - Fast Infinite Waveform Music Generation
 - [HumanSignal/label-studio-converter](https://github.com/HumanSignal/label-studio-converter) - Tools for converting Label Studio annotations into common dataset formats
-- [kjgarza/parrot_gpt](https://github.com/kjgarza/parrot_gpt) - Parrot GPT is a Python library that enables you to convert bibliographic metadata between various schemas using OpenAI’s large language models through its API. The library is not limited to specific s
+- [kjgarza/parrot_gpt](https://github.com/kjgarza/parrot_gpt) - Convert bibliographic metadata between schemas with LLMs.
 - [FedericoDiMarzo/MusesEchoes](https://github.com/FedericoDiMarzo/MusesEchoes) - An automatic improvisation software and an interactive installation that generates chord progressions and melodies on the fly, following the playing of the musician, understanding the modal changes an
 - [B0ney/ordinary-file-sorter](https://github.com/B0ney/ordinary-file-sorter) - My customisable organiser for folders and files.
 - [SoulMelody/LibreSVIP](https://github.com/SoulMelody/LibreSVIP) - A universal converter for singing voice projects which is cross-platform and multi-lingual
@@ -4385,7 +4385,7 @@
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
