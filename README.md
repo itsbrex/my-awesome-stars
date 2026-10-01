@@ -3067,7 +3067,7 @@
 - [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [Embedded-Nature/ollama-proxy](https://github.com/Embedded-Nature/ollama-proxy) - This intercepts Ollama-style API requests and transforms them into OpenAI-compatible requests for LM Studio.
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
