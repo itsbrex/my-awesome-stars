@@ -157,7 +157,6 @@
 - [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
 - [rdebath/Brainfuck](https://github.com/rdebath/Brainfuck) - Brainfuck torture test. Brainfuck interpreters and compilers to C, V. VIM syntax file for brainf*ck. Fast JIT Assembly, JIT C running, Perl, Python, php, Ruby, lua, go, awk, neko, PS1, bash, ook, trol
-- [ekmett/jitplusplus](https://github.com/ekmett/jitplusplus) - a tracing jit for c++ based on tracing and compiling from x86-64 assembly to x86-64 assembly
 - [hellerve-pl-experiments/cj](https://github.com/hellerve-pl-experiments/cj) - a simple x86/arm jit framework for c
 - [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
@@ -281,6 +280,7 @@
 - [tobefuturer/app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib
 - [googlecreativelab/open-nsynth-super](https://github.com/googlecreativelab/open-nsynth-super) - Open NSynth Super is an experimental physical interface for the NSynth algorithm
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
+- [ekmett/jitplusplus](https://github.com/ekmett/jitplusplus) - a tracing jit for c++ based on tracing and compiling from x86-64 assembly to x86-64 assembly
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [thestk/stk](https://github.com/thestk/stk) - The Synthesis ToolKit in C++ (STK) is a set of open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
@@ -772,7 +772,7 @@
 ## HTML 
 
 - [nautilus-os/GUST](https://github.com/nautilus-os/GUST) - GUST is a powerful, modern web proxy designed by the Nautilus Labs dev team for especially restrictive environments. It's a fully static, single HTML file allows it to be downloaded, shared, and distr
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for 
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - UI montion AI agent, a library of 43+ crafted transitions, a skill that fits your workflow.
@@ -780,7 +780,6 @@
 - [githubpr0jects/repo-recomender](https://github.com/githubpr0jects/repo-recomender) - The repo recomender and github search engine, vibe coded via MiniMax M2.1
 - [vamseeachanta/workspace-hub](https://github.com/vamseeachanta/workspace-hub) - A centralized management system for multiple GitHub repositories with modular organization
 - [ThariqS/html-effectiveness](https://github.com/ThariqS/html-effectiveness) - 
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [coleam00/obsidian-voice-agent](https://github.com/coleam00/obsidian-voice-agent) - 
 - [saran-io/promptflow](https://github.com/saran-io/promptflow) - PromptFlow is a curated, open-source hub of production-ready prompts designed specifically for modern AI developer tools like Cursor, V0.dev, Windsurf, and Lovable. It's the ultimate toolkit for devel
 - [punnerud/csv_sql_graph](https://github.com/punnerud/csv_sql_graph) - 
@@ -1006,7 +1005,7 @@
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [kunchenguid/backpass](https://github.com/kunchenguid/backpass) - You don't write AGENTS.md. You train it with gradient descent.
 - [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
-- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) - 192+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, runs on your computer, no API key
+- [colibird-ai/local-mcp-releases](https://github.com/colibird-ai/local-mcp-releases) - 192+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, runs on your computer, no API key
 - [SeyfeddineJouini/LinqOr](https://github.com/SeyfeddineJouini/LinqOr) - A Chrome extension that scrapes LinkedIn company data and seamlessly syncs it with Attio CRM using a backend-driven exact matching and deduplication system.
 - [managedcode/playwright_stealth](https://github.com/managedcode/playwright_stealth) - Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints — navigator properties, WebGL, canvas, audio, CDP traces, automation mark
 - [omorShahriar/waypoint](https://github.com/omorShahriar/waypoint) - Turn approved plans into local, resumable agent work with durable handoffs and human pause/resume.
@@ -1025,7 +1024,7 @@
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [AfterRealm/curb-cut](https://github.com/AfterRealm/curb-cut) - WCAG 2.2 Level AA accessibility auditor for Claude Code
 - [LucyBot-Inc/api-spec-converter](https://github.com/LucyBot-Inc/api-spec-converter) - Convert API descriptions between popular formats such as OpenAPI(fka Swagger), RAML, API Blueprint, WADL, etc.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [idorozin/linkedin-to-zap](https://github.com/idorozin/linkedin-to-zap) - Chrome extension to extract LinkedIn profile data and send it to Zapier, Make, or any webhook-based automation tool.
@@ -1052,7 +1051,6 @@
 - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear's sync engine.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [TextQLLabs/crm-bot](https://github.com/TextQLLabs/crm-bot) - Intelligent Slack bot for Attio CRM integration using ReAct AI pattern
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 - [procoders/salesnav-collect-1](https://github.com/procoders/salesnav-collect-1) - LinkedIn Sales Navigator mutual collector
 - [joseph-fajen/ai-coding-template](https://github.com/joseph-fajen/ai-coding-template) - A template for AI-enhanced coding projects with organized infrastructure for AI documentation, feature specifications, reusable prompts,   and workflow examples. Helps AI tools understand codebases be
@@ -2421,6 +2419,7 @@
 
 ## Others 
 
+- [fermionresearch/detta-releases](https://github.com/fermionresearch/detta-releases) - Detta for macOS: signed releases (dictation app by Fermion Research)
 - [typesafe-ai/skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
 - [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol) - Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a single websocket.
 - [rocke3/LiveMetrics](https://github.com/rocke3/LiveMetrics) - 
@@ -3391,7 +3390,6 @@
 - [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [ericpesto/ai-sample-generator](https://github.com/ericpesto/ai-sample-generator) - Create .wav audio samples with text-to-sound generative AI
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
@@ -4369,7 +4367,7 @@
 - [trailofbits/coop](https://github.com/trailofbits/coop) - Isolated VM environment for running Claude Code and Codex
 - [Sanix-Darker/watf](https://github.com/Sanix-Darker/watf) - Local CLI harness for agents with indexed validation and bounded execution
 - [MercuryWorkshop/epoxy-tls](https://github.com/MercuryWorkshop/epoxy-tls) - An encrypted proxy for browser javascript
-- [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
+- [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - The Most Private Anti-Detect Browser 🍩
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Zfinix/aster](https://github.com/Zfinix/aster) - An open-source agent harness for software work.
 - [dif-sh/dif](https://github.com/dif-sh/dif) - Experiments live in the repo.
@@ -4384,10 +4382,11 @@
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [agrimsingh/glyphrush](https://github.com/agrimsingh/glyphrush) - 
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
@@ -4397,7 +4396,7 @@
 - [universal-tool-calling-protocol/rs-utcp](https://github.com/universal-tool-calling-protocol/rs-utcp) - Official Rust implementation of the UTCP
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -4422,7 +4421,7 @@
 - [owenizedd/bum](https://github.com/owenizedd/bum) - Bun Version Manager written in Rust⚡
 - [ryanccn/nrr](https://github.com/ryanccn/nrr) - Minimal, blazing fast npm scripts runner
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
@@ -5144,7 +5143,6 @@
 - [KevinOBytes/vscode-applescript](https://github.com/KevinOBytes/vscode-applescript) - VSCode Extension for AppleScript (.scpt) support.
 - [w3labkr/nextjs14-authjs5-dashboard](https://github.com/w3labkr/nextjs14-authjs5-dashboard) - This is a dashboard starter template for the NextJS 14 based on Auth.js v5.
 - [w3labkr/nextjs14-supabase-blog](https://github.com/w3labkr/nextjs14-supabase-blog) - This is a dashboard starter template for the NextJS 14 app router using supabase based on shadcn-ui.
-- [Alwurts/simple-shadcn-cli](https://github.com/Alwurts/simple-shadcn-cli) - 
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [UllrAI/HeadShots.fun](https://github.com/UllrAI/HeadShots.fun) - 📸 AI headshot SaaS built with Next.js, Replicate, and Stripe.
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
@@ -5418,6 +5416,7 @@
 - [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [gusper/SongTxt-vscode](https://github.com/gusper/SongTxt-vscode) - Visual Studio Code extension that adds support for editing text files for songs including lyrics, chords, guitar tablature, etc.
