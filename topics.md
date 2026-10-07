@@ -2547,7 +2547,7 @@
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [apple-aiml-research/ml-cvnets](https://github.com/apple-aiml-research/ml-cvnets) - CVNets: A library for training computer vision networks
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, qua
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
@@ -2917,7 +2917,6 @@
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
 - [YuchenJin/autolrs](https://github.com/YuchenJin/autolrs) - Automatic learning-rate scheduler
 - [webpolis/musai](https://github.com/webpolis/musai) - Machine learning-powered music generation. Full-featured tokenizer, customization options, and high-quality output files.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -3159,7 +3158,7 @@
 - [Myuuiii/DAWPresence](https://github.com/Myuuiii/DAWPresence) - A Discord Rich Presence app for several DAWs like FL Studio and Ableton
 - [firtoz/GPT-Shell](https://github.com/firtoz/GPT-Shell) - Open-source Discord AI companion with ChatGPT-style conversations and image generation, now evolved into Erin.
 - [rogeraabbccdd/Rekordbox-NowPlaying](https://github.com/rogeraabbccdd/Rekordbox-NowPlaying) - Get rekordbox now playing master track for OBS and Discord Rich Presence.
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 - [chylex/Discord-History-Tracker](https://github.com/chylex/Discord-History-Tracker) - Desktop app & browser script that saves Discord chat history into a file, and an offline viewer that displays the file.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [supreen/form2role-bot](https://github.com/supreen/form2role-bot) - Discord bot that automatically assigns roles(from spreadsheet) to users found in a Google Sheet
@@ -3216,7 +3215,7 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [olafsulich/fullstack-nextjs-ecommerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - Fullstack Next.js E-Commerce made with NextAuth + Prisma, Docker + TypeScript + React Query + Stripe + Tailwind Sentry and much more 🛒
 - [winwiz1/crisp-react](https://github.com/winwiz1/crisp-react) - React boilerplate written in TypeScript with a variety of Jamstack and full stack deployments. Comes with SSR and without need to learn a framework. Helps to split a monolithic React app into multiple
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 - [managervcf/tick-it](https://github.com/managervcf/tick-it) - Microservices ticketing app built with Node, NextJS, MongoDB, Docker and Kubernetes.
 - [danielfrg/demucs-app](https://github.com/danielfrg/demucs-app) - Use DEMUCS to split songs into multiple sources
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
@@ -3844,7 +3843,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 - [pasela/alfred-chrome-history](https://github.com/pasela/alfred-chrome-history) - Alfred workflow for Chrome history
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [luckylittle/blinkist-m4a-downloader](https://github.com/luckylittle/blinkist-m4a-downloader) - Grabs all of the audio files from all of the Blinkist books
@@ -4247,7 +4246,7 @@
 - [Closty/date](https://github.com/Closty/date) - A dynamic icon html php showing what date is today with just one link
 - [oliver-gomes/csswand](https://github.com/oliver-gomes/csswand) - 🎨✨ Hover your wand and use your magic spell to copy beautiful css
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [nottinghamcollege/HTML-Email-Boilerplate-Redux](https://github.com/nottinghamcollege/HTML-Email-Boilerplate-Redux) - A rewrite of the original HTML email boilerplate (originally written by Sean Powell) that keeps up with the latest developments of email clients, providing a solid foundation for our email campaigns, 
@@ -4271,7 +4270,7 @@
 - [asnunes/notion-page-to-html](https://github.com/asnunes/notion-page-to-html) - NodeJS tool to convert public Notion pages to HTML from page ID
 - [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 ## http 
@@ -4703,7 +4702,7 @@
 - [prenagha/launchbar](https://github.com/prenagha/launchbar) - LaunchBar Actions
 - [MoOx/postcss-cssnext](https://github.com/MoOx/postcss-cssnext) - `postcss-cssnext` has been deprecated in favor of `postcss-preset-env`.
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to add OneSignal to your web
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
@@ -4727,7 +4726,7 @@
 - [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 - [summernote/summernote](https://github.com/summernote/summernote) - Super Simple WYSIWYG Editor
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -6959,7 +6958,6 @@
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - AutoPR autonomously wrote pull requests in response to issues
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient desi
 - [SamPink/dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
-- [aamir-sidd/GPT-4](https://github.com/aamir-sidd/GPT-4) - Brief introduction about GPT-4
 - [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) - A starter to build and ship GPT powered full stack apps using Next.js, Tailwind CSS and Typescript.
 - [alxgrg/gpt-next-app-dir-starter](https://github.com/alxgrg/gpt-next-app-dir-starter) - Basic starter for new chatGPT 3.5 api working with the new Next app dir, route handlers and Edge runtime
 - [lgrammel/rubberduck-vscode](https://github.com/lgrammel/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
@@ -7035,7 +7033,7 @@
 - [Lvvphole/ai-account-prioritization](https://github.com/Lvvphole/ai-account-prioritization) - AI Account Prioritization Agent for B2B Sales Teams is a production-grade agentic workflow system that turns CRM/account data into verified daily sales priorities with deterministic scoring, reason co
 - [bensenescu/downy](https://github.com/bensenescu/downy) - OpenClaw Alternative - Create a team of agents and work with them from anywhere.
 - [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) - Async-first agent harness
-- [sohaib-atef/sales-warehouse.sql](https://github.com/sohaib-atef/sales-warehouse.sql) - End-to-End Data Pipeline implementing Medallion Architecture (Bronze, Silver, Gold). Features automated ETL processes, data integration from CRM/ERP sources, and dimensional modeling (Star Schema) for
+- [sohaib-atef/sales-warehouse](https://github.com/sohaib-atef/sales-warehouse) - End-to-End Data Pipeline implementing Medallion Architecture (Bronze, Silver, Gold). Features automated ETL processes, data integration from CRM/ERP sources, and dimensional modeling (Star Schema) for
 - [nico-martin/open-jev](https://github.com/nico-martin/open-jev) - open-jev is a browser-focused TypeScript library for typed decisions: one piece of text (the state) plus any number of typed questions go in, and one forward pass returns a calibrated probability dist
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
 - [google-research/envharness](https://github.com/google-research/envharness) - 
@@ -7062,7 +7060,7 @@
 - [pleniqgraph/luma-icp-scout](https://github.com/pleniqgraph/luma-icp-scout) - Chrome extension: turn any Luma event guest list into a ranked list of your best-fit prospects, matched from LinkedIn against your ICP.
 - [benoitzohar/linkedin-grabber](https://github.com/benoitzohar/linkedin-grabber) - A chrome extension that copies the name+public link of all the open linkedin profiles (recruiter or public mode) and makes a bullet list.
 - [rocke3/LiveMetrics](https://github.com/rocke3/LiveMetrics) - 
-- [hoxiai/AIEditor](https://github.com/hoxiai/AIEditor) - AI Editor (FtEditor) 是一个面向 Vue 3 的 modern AI-powered WYSIWYG Rich Text Editor，built on Tiptap + shadcn-vue，支持 Markdown / Table / CodeBlock / Image / Video / i18n / theme，并可通过自定义 completions() 快速接入 Ope
+- [hoxiai/ai-editor](https://github.com/hoxiai/ai-editor) - AI Editor (FtEditor) 是一个面向 Vue 3 的 modern AI-powered WYSIWYG Rich Text Editor，built on Tiptap + shadcn-vue，支持 Markdown / Table / CodeBlock / Image / Video / i18n / theme，并可通过自定义 completions() 快速接入 Ope
 - [digital2analogue/decisioning-table](https://github.com/digital2analogue/decisioning-table) - Data decisioning table UI with React, Vite, TypeScript, Tailwind, react-dnd, and shadcn/ui
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [Anujatk1999/open-media](https://github.com/Anujatk1999/open-media) - 
@@ -8193,7 +8191,7 @@
 - [krystalgamer/stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West's stem player emulator
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [urinieto/msaf](https://github.com/urinieto/msaf) - Music Structure Analysis Framework
-- [bundown/rysana-ai](https://github.com/bundown/rysana-ai) - 
+- [bundown/lusat](https://github.com/bundown/lusat) - 
 - [moises-ai/moises-db](https://github.com/moises-ai/moises-db) - Moises Source Separation Public Dataset
 - [magenta/music-spectrogram-diffusion](https://github.com/magenta/music-spectrogram-diffusion) - 
 - [GitZip/chrome-extension](https://github.com/GitZip/chrome-extension) - 
@@ -8749,7 +8747,7 @@
 - [bigb123/beatport-aiff-converter](https://github.com/bigb123/beatport-aiff-converter) - Script that uses ffmpeg and metaflac to convert big and uncompressed aiff files to loseless files (including cover art).
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [diffbot/code-gpt-docs](https://github.com/diffbot/code-gpt-docs) - Docusaurus page
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
@@ -10781,7 +10779,6 @@
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [kaushalshetty/Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention) - A Structured Self-attentive Sentence Embedding
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [KinWaiCheuk/nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using pytorch 1D convolution network
@@ -11223,6 +11220,7 @@
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [oliver-gomes/csswand](https://github.com/oliver-gomes/csswand) - 🎨✨ Hover your wand and use your magic spell to copy beautiful css
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
 - [henryboldi/felony](https://github.com/henryboldi/felony) - 🔑🔥📈 Next Level PGP
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
@@ -11650,7 +11648,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [kibitzr/kibitzr](https://github.com/kibitzr/kibitzr) - Personal Web Assistant
@@ -11923,6 +11921,7 @@
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
 ## swift 
 
@@ -12265,7 +12264,6 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [keunwoochoi/kapre](https://github.com/keunwoochoi/kapre) - kapre: Keras Audio Preprocessors
 - [spags093/spotify_song_data](https://github.com/spags093/spotify_song_data) - Part 1: Analysis of Spotify song data that uses Machine Learning to determine what features make a "hit" song on Spotify.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -12905,7 +12903,7 @@
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [boramalper/Essential-YouTube](https://github.com/boramalper/Essential-YouTube) - An experimental UI for YouTube.
 - [Nyx0uf/qlMoviePreview](https://github.com/Nyx0uf/qlMoviePreview) - QuickLook plugin to display movie thumbnail and video informations. Also create nice Finder icons from the thumbnail.
@@ -13017,6 +13015,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [mubaidr/vue-chrome-extension-boilerplate](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Deprecated! Boilerplate for Chrome extension using Vue.js and Webpack with auto-reload enabled.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
@@ -13295,7 +13294,7 @@
 - [schollz/spotifydownload](https://github.com/schollz/spotifydownload) - A dependency-free Spotify playlist downloader that should just work
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
 - [boramalper/Essential-YouTube](https://github.com/boramalper/Essential-YouTube) - An experimental UI for YouTube.
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [greenido/AppsScriptBests](https://github.com/greenido/AppsScriptBests) - A little repo to keep track on GS (Apps script)
 - [YePpHa/YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more
 
