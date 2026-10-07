@@ -728,7 +728,7 @@
 - [thiskevinwang/tk](https://github.com/thiskevinwang/tk) - A CLI tool for automating some repetitive daily chores. Written in go
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [MikeDaniel18/oh-heck-cli](https://github.com/MikeDaniel18/oh-heck-cli) - 
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox
+- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
 - [gwuah/postmates](https://github.com/gwuah/postmates) - uber, but for on-demand delivery.
 - [pasela/alfred-chrome-history](https://github.com/pasela/alfred-chrome-history) - Alfred workflow for Chrome history
 - [ruilisi/css-checker](https://github.com/ruilisi/css-checker) - Reduce Similar & Duplicated CSS Classes with Diff in Seconds!
@@ -1853,11 +1853,11 @@
 - [livestyle/atom](https://github.com/livestyle/atom) - LiveStyle plugin for Atom editor
 - [dieulot/instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
 - [mgmartel/WP-InstantClick](https://github.com/mgmartel/WP-InstantClick) - WP InstantClick is a simple plugin that adds InstantClick to your WordPress website instantly.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
 - [rigoneri/Syte2](https://github.com/rigoneri/Syte2) - [Archived] Syte2 is a personal website with interactive social integrations.
 - [cbrauckmuller/helium](https://github.com/cbrauckmuller/helium) - A responsive frontend framework that won't weigh you down.
@@ -1967,7 +1967,7 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
@@ -2538,7 +2538,7 @@
 - [daveshap/Open_MURPHIE](https://github.com/daveshap/Open_MURPHIE) - Multi Use Robot Platform Humanoid Intelligent Entity
 - [DivMagicCom/DivMagic](https://github.com/DivMagicCom/DivMagic) - Copy design from any website as CSS or Tailwind CSS components
 - [Yuan-ManX/ai-audio-datasets](https://github.com/Yuan-ManX/ai-audio-datasets) - AI Audio Datasets (AI-ADS) 🎵, including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio appl
-- [bundown/rysana-ai](https://github.com/bundown/rysana-ai) - 
+- [bundown/lusat](https://github.com/bundown/lusat) - 
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [affige/genmusic_demo_list](https://github.com/affige/genmusic_demo_list) - a list of demo websites for automatic music generation research
@@ -2613,7 +2613,6 @@
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 - [tabdeck/tabdeck.so](https://github.com/tabdeck/tabdeck.so) - This repo just to collect user feedback.
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-- [aamir-sidd/GPT-4](https://github.com/aamir-sidd/GPT-4) - Brief introduction about GPT-4
 - [juanmorillios/List-CoreML-Models](https://github.com/juanmorillios/List-CoreML-Models) - A Big Awesome List CoreML Models.
 - [pyxelr/recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) - 📚 All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
 - [smyth64/music-production-links](https://github.com/smyth64/music-production-links) - 
@@ -2981,6 +2980,7 @@
 - [Cold-IQ/ColdIQ-s-GTM-Skills](https://github.com/Cold-IQ/ColdIQ-s-GTM-Skills) - Claude Code skills for Go-To-Market: 137 sales triggers, 34 email templates, 11 GTM plays, and Clay    enrichment workflows.
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [AdilShaikh1/comet-mcp-desktop](https://github.com/AdilShaikh1/comet-mcp-desktop) - MCP Server for connecting Claude desktop to Perplexity Comet browser
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [frmoretto/hardstop](https://github.com/frmoretto/hardstop) - Don't let AI destroy your hard work! HardStop is a rock-solid protection for AI-generated commands. Pre-execution safety validation for Claude Code, Claude Cowork. Catches dangerous commands before th
 - [madebyaris/advance-minimax-m3-cursor-rules](https://github.com/madebyaris/advance-minimax-m3-cursor-rules) - Agentic-first Cursor Rules powered by MiniMax M3 - clarify-first prompting, interleaved thinking, and full tool orchestration for production-ready AI coding
 - [jacob-bd/gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) - Programmatic access to Gemini Notebook - via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills.
@@ -3685,7 +3685,7 @@
 - [DIDONEproject/musif](https://github.com/DIDONEproject/musif) - Music Feature Extraction and Analysis
 - [beltoforion/openai-ghostwriter](https://github.com/beltoforion/openai-ghostwriter) - A python script for fully automatically generating web pages including images using OpenAI's GPT-3.
 - [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, qua
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
 - [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
@@ -4487,7 +4487,7 @@
 - [allthemusicllc/libatm](https://github.com/allthemusicllc/libatm) - Library for generating and working with MIDI files
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [thomasantony/chatgpt-term](https://github.com/thomasantony/chatgpt-term) - A terminal interface to ChatGPT
@@ -4841,7 +4841,7 @@
 
 ## TSQL 
 
-- [sohaib-atef/sales-warehouse.sql](https://github.com/sohaib-atef/sales-warehouse.sql) - End-to-End Data Pipeline implementing Medallion Architecture (Bronze, Silver, Gold). Features automated ETL processes, data integration from CRM/ERP sources, and dimensional modeling (Star Schema) for
+- [sohaib-atef/sales-warehouse](https://github.com/sohaib-atef/sales-warehouse) - End-to-End Data Pipeline implementing Medallion Architecture (Bronze, Silver, Gold). Features automated ETL processes, data integration from CRM/ERP sources, and dimensional modeling (Star Schema) for
 
 ## TeX 
 
@@ -4878,7 +4878,7 @@
 - [browser-use/agency](https://github.com/browser-use/agency) - Agency card feed: agents finish work, Magnus decides with one click
 - [jochristianto/jc-linkedin-job-watcher](https://github.com/jochristianto/jc-linkedin-job-watcher) - Chrome MV3 extension that watches your saved LinkedIn job searches on a background alarm and surfaces genuinely new postings — badge count, one merged desktop notification per scan, optional Telegram 
 - [bozzhik/snable](https://github.com/bozzhik/snable) - chrome extension for collecting visual elements from websites, built with Vite + React, and Manifest v3
-- [hoxiai/AIEditor](https://github.com/hoxiai/AIEditor) - AI Editor (FtEditor) 是一个面向 Vue 3 的 modern AI-powered WYSIWYG Rich Text Editor，built on Tiptap + shadcn-vue，支持 Markdown / Table / CodeBlock / Image / Video / i18n / theme，并可通过自定义 completions() 快速接入 Ope
+- [hoxiai/ai-editor](https://github.com/hoxiai/ai-editor) - AI Editor (FtEditor) 是一个面向 Vue 3 的 modern AI-powered WYSIWYG Rich Text Editor，built on Tiptap + shadcn-vue，支持 Markdown / Table / CodeBlock / Image / Video / i18n / theme，并可通过自定义 completions() 快速接入 Ope
 - [andistech/tanstack-tree-table-dnd](https://github.com/andistech/tanstack-tree-table-dnd) - Production-oriented React Tree Table built with TanStack Table, dnd-kit, and Tailwind v4, featuring hierarchical rows, reordering, reparenting, validation, and shadcn registry distribution.
 - [digital2analogue/decisioning-table](https://github.com/digital2analogue/decisioning-table) - Data decisioning table UI with React, Vite, TypeScript, Tailwind, react-dnd, and shadcn/ui
 - [Anujatk1999/open-media](https://github.com/Anujatk1999/open-media) - 
@@ -4998,7 +4998,6 @@
 - [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll) - chrome extension for better LLM chat navigation
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [cloudflare/mcp](https://github.com/cloudflare/mcp) - MCP server for the Cloudflare API
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 - [remorses/tuistory](https://github.com/remorses/tuistory) - TMUX for agents. let agents control & test terminal user interfaces. Like Playwright & agent-browser but for TUIs
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
@@ -6188,7 +6187,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to add OneSignal to your web
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vsfedorenko/ngx-fullpage](https://github.com/vsfedorenko/ngx-fullpage) - Angular 2 fullPage.js port library
