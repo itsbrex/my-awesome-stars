@@ -265,7 +265,7 @@
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [September 2026]
+- [iains/gcc-darwin-arm64](https://github.com/iains/gcc-darwin-arm64) - GCC master branch for Darwin with experimental support for Arm64.  Currently GCC-17.0.0 [October 2026]
 - [rorywalsh/cabbage](https://github.com/rorywalsh/cabbage) - Framework for developing audio plugins with the Csound programming language.
 - [yeeking/ai-enhanced-audio-book](https://github.com/yeeking/ai-enhanced-audio-book) - A repository of AI-enhanced audio plugins written using C++, JUCE, libtorch, RTNeural and other libraries. Supports my book
 - [Yikai-Liao/symusic](https://github.com/Yikai-Liao/symusic) - A swift and unified toolkit for symbolic music processing
@@ -330,7 +330,7 @@
 - [adamstark/Chord-Detector-and-Chromagram](https://github.com/adamstark/Chord-Detector-and-Chromagram) - A Chord Detection and Chromagram Estimation Algorithm
 - [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 - [HiFi-LoFi/FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver) - Audio convolution algorithm in C++ for real time audio processing
-- [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types.
+- [sassan-dev/cpp-dump](https://github.com/sassan-dev/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types.
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
 - [CrushedPixel/Plugalyzer](https://github.com/CrushedPixel/Plugalyzer) - Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins
@@ -773,6 +773,7 @@
 
 ## HTML 
 
+- [forgeplane/pinrail-plugins](https://github.com/forgeplane/pinrail-plugins) - Official pinrail plugins
 - [nautilus-os/GUST](https://github.com/nautilus-os/GUST) - GUST is a powerful, modern web proxy designed by the Nautilus Labs dev team for especially restrictive environments. It's a fully static, single HTML file allows it to be downloaded, shared, and distr
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for 
@@ -941,7 +942,7 @@
 
 ## Handlebars 
 
-- [kelyvin/jsonresume-theme-caffeine](https://github.com/kelyvin/jsonresume-theme-caffeine) - Caffeine theme for the JSON Resume project
+- [kelvicthrust/jsonresume-theme-caffeine](https://github.com/kelvicthrust/jsonresume-theme-caffeine) - Caffeine theme for the JSON Resume project
 
 ## Haskell 
 
@@ -989,6 +990,8 @@
 
 ## JavaScript 
 
+- [leeny/linkedin-i-know-this-person](https://github.com/leeny/linkedin-i-know-this-person) - Chrome extension for LinkedIn. Mark people you actually know. They get sorted to the top of every mutual connections page.
+- [Mostafa-M-Hussein/linkedin-auto-accept-extension](https://github.com/Mostafa-M-Hussein/linkedin-auto-accept-extension) - Chrome extension to auto-accept LinkedIn connections with smart filtering by job title, company, skills, and mutual connections
 - [magrathean-uk/clean-development](https://github.com/magrathean-uk/clean-development) - Keep development caches and supported build output in one managed place, without adding prompt context.
 - [Aluminum-Depot/Tinf0il](https://github.com/Aluminum-Depot/Tinf0il) - Probe the internet privately.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
@@ -1006,7 +1009,7 @@
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [kunchenguid/backpass](https://github.com/kunchenguid/backpass) - You don't write AGENTS.md. You train it with gradient descent.
 - [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
-- [colibird-ai/local-mcp-releases](https://github.com/colibird-ai/local-mcp-releases) - 192+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, runs on your computer, no API key
+- [colibird-ai/local-mcp-releases](https://github.com/colibird-ai/local-mcp-releases) - 201+ local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS and Windows, runs on your computer, no API key
 - [SeyfeddineJouini/LinqOr](https://github.com/SeyfeddineJouini/LinqOr) - A Chrome extension that scrapes LinkedIn company data and seamlessly syncs it with Attio CRM using a backend-driven exact matching and deduplication system.
 - [managedcode/playwright_stealth](https://github.com/managedcode/playwright_stealth) - Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints — navigator properties, WebGL, canvas, audio, CDP traces, automation mark
 - [omorShahriar/waypoint](https://github.com/omorShahriar/waypoint) - Turn approved plans into local, resumable agent work with durable handoffs and human pause/resume.
@@ -1297,7 +1300,6 @@
 - [scottstensland/websockets-streaming-audio](https://github.com/scottstensland/websockets-streaming-audio) - Stream audio to a Web Audio API enabled browser from Node.js server side using Web Worker and Web Socket
 - [sindresorhus/run-jxa](https://github.com/sindresorhus/run-jxa) - Run JXA code and get the result
 - [sindresorhus/run-applescript](https://github.com/sindresorhus/run-applescript) - Run AppleScript and get the result
-- [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [arihanv/PromptGPT-Ext](https://github.com/arihanv/PromptGPT-Ext) - 
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
@@ -2420,6 +2422,7 @@
 
 ## Others 
 
+- [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) - A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.
 - [fermionresearch/detta-releases](https://github.com/fermionresearch/detta-releases) - Detta for macOS: signed releases (dictation app by Fermion Research)
 - [typesafe-ai/skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
 - [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol) - Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a single websocket.
@@ -2812,7 +2815,6 @@
 
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [yzaguirre/alexandria](https://github.com/yzaguirre/alexandria) - IT how-to library - networking, sysadmin instructions on old skool txt
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [wapmorgan/OpenApiGenerator](https://github.com/wapmorgan/OpenApiGenerator) - OpenApi configuration generator directly from PHP code (PhpDoc and php type hints). Can be used with a large monolithic backend
 - [akashrchandran/spotify-lyrics-api](https://github.com/akashrchandran/spotify-lyrics-api) - A Rest API for fetching lyrics from Spotify which is powered by Musixmatch. Commandline version is available at akashrchandran/syrics.
 - [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) - Ollama-Laravel is a Laravel package providing seamless integration with the Ollama API.
@@ -2887,6 +2889,7 @@
 
 ## Python 
 
+- [Awaismaz/Automation_LinkedInMutualConnections](https://github.com/Awaismaz/Automation_LinkedInMutualConnections) - Selenium tool to extract mutual LinkedIn connections
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [Badtheorylabs/interference-search](https://github.com/Badtheorylabs/interference-search) - Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance together.
 - [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) - TypeLLM: LLMs with type-safe generation
@@ -3870,7 +3873,6 @@
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [AdirthaBorgohain/intelliweb-GPT](https://github.com/AdirthaBorgohain/intelliweb-GPT) - Intelligent search engine/QA module that uses GPT models to provide accurate, relevant & recent answers from Google News/Web, & can directly answer user queries using GPT's knowledge.
 - [sidhq/Multi-GPT](https://github.com/sidhq/Multi-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natura
 - [isaiahbjork/Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
 - [rokstrnisa/RoboGPT](https://github.com/rokstrnisa/RoboGPT) - A simple and extensible program that helps you run GPT-4 model autonomously.
 - [Seitk/gpt-assistant](https://github.com/Seitk/gpt-assistant) - Atom the GPT Assistant - Smart Home Powered with AI
@@ -4366,13 +4368,14 @@
 
 ## Rust 
 
+- [forgeplane/pinrail](https://github.com/forgeplane/pinrail) - Human in the loop for agentic workflows
 - [trailofbits/coop](https://github.com/trailofbits/coop) - Isolated VM environment for running Claude Code and Codex
 - [Sanix-Darker/watf](https://github.com/Sanix-Darker/watf) - Local CLI harness for agents with indexed validation and bounded execution
 - [MercuryWorkshop/epoxy-tls](https://github.com/MercuryWorkshop/epoxy-tls) - An encrypted proxy for browser javascript
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - The Most Private Anti-Detect Browser 🍩
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Zfinix/aster](https://github.com/Zfinix/aster) - An open-source agent harness for software work.
-- [dif-sh/dif](https://github.com/dif-sh/dif) - Experiments live in the repo.
+- [dif-sh/dif](https://github.com/dif-sh/dif) - Feature flags and A/B tests as Markdown files in your repo. dif build compiles them to a typed TypeScript client for Next.js, React, and SvelteKit.
 - [btsouth/toolport](https://github.com/btsouth/toolport) - Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [kauffinger/boxme](https://github.com/kauffinger/boxme) - Microsandbox your package manager & sleep like a baby
@@ -4397,7 +4400,7 @@
 - [universal-tool-calling-protocol/rs-utcp](https://github.com/universal-tool-calling-protocol/rs-utcp) - Official Rust implementation of the UTCP
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew alternative
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -4853,6 +4856,7 @@
 
 ## TypeScript 
 
+- [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol
 - [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
 - [alint-dev/alint](https://github.com/alint-dev/alint) - 🤖🤮 Hate the yuck codes that agents generated? Try `alint`, a ESLint like toolchain for intent driven code check, freeze your skills, AGENTS.md to lint rules
 - [anishfn/shapeshift](https://github.com/anishfn/shapeshift) - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.
@@ -5103,7 +5107,6 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [firecrawl/firesearch](https://github.com/firecrawl/firesearch) - 🔥 AI-powered deep research tool that breaks down complex queries, validates answers, and provides cited comprehensive results using Firecrawl and LangGraph
 - [Ankur2606/Lazy-Waba](https://github.com/Ankur2606/Lazy-Waba) - A Smart Whatsapp/Discord Humanely Chat Automation Tool
-- [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 - [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs) - HubSpot API NodeJS Client Libraries for V3 version of the API
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
@@ -5345,6 +5348,7 @@
 - [midrender/haven](https://github.com/midrender/haven) - LLM fine-tuning and eval
 - [zandaqo/structurae](https://github.com/zandaqo/structurae) - Data structures for high-performance JavaScript applications.
 - [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Perplexity Inspired Answer Engine
 - [kaarthik108/ohno](https://github.com/kaarthik108/ohno) - ohno - a lightning-fast AI chatbot built with the Hono.js framework, React, and Tailwind CSS
 - [evanpurkhiser/prolink-tools](https://github.com/evanpurkhiser/prolink-tools) - User friendly tools for accessing and using PRO DJ LINK information.
@@ -5485,7 +5489,7 @@
 - [Erisa/multi-render](https://github.com/Erisa/multi-render) - Serve multiple R2 buckets from the same Worker, with different settings
 - [kotx/aster](https://github.com/kotx/aster) - A robust R2 file uploader
 - [kotx/render](https://github.com/kotx/render) - Cloudflare Worker to proxy and cache requests to R2
-- [ezetech/anthropic-gui](https://github.com/ezetech/anthropic-gui) - A user-friendly, feature-rich UI enhancing interaction with Anthropic's Claude AI, enabling model selection, chat saving, and improved prompt editing.
+- [aleph1-io/anthropic-gui](https://github.com/aleph1-io/anthropic-gui) - A user-friendly, feature-rich UI enhancing interaction with Anthropic's Claude AI, enabling model selection, chat saving, and improved prompt editing.
 - [skymethod/kv-connect-kit](https://github.com/skymethod/kv-connect-kit) - Minimal Typescript client implementing the KV Connect protocol. Access Deno KV remotely from any Javascript environment like Node, Cloudflare Workers, Bun, Deno, and the browser.
 - [aabedraba/jszip-workers-r2](https://github.com/aabedraba/jszip-workers-r2) - Use jszip with Cloudflare workers and R2
 - [awohletz/electron-prisma-trpc-example](https://github.com/awohletz/electron-prisma-trpc-example) - An example repo showing how to use Electron with tRPC and Prisma
@@ -5644,6 +5648,7 @@
 - [JDoggen/StarkOSC](https://github.com/JDoggen/StarkOSC) - Wrapper library for osc-js to control Ableton via AbletonOSC
 - [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
 - [xiaoluoboding/vercel-metafy](https://github.com/xiaoluoboding/vercel-metafy) - Easily scrape metadata from websites as a service using Vercel.
+- [jpvalery/portfolio](https://github.com/jpvalery/portfolio) - Photo Portfolio w/ Next.js + TailwindCSS + Contentful
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [arihanv/PromptGPT](https://github.com/arihanv/PromptGPT) - 
 - [jasonstitt/promptform](https://github.com/jasonstitt/promptform) - Command-line tool for running files in bulk through ChatGPT APIs
@@ -5719,7 +5724,7 @@
 - [Glavin001/create-t3-turbo-ai](https://github.com/Glavin001/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source audio software projects (Apps, Plugins and Libraries). Please contribute more links or open source your own plugins.
-- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
+- [RobRoyce/knowledge](https://github.com/RobRoyce/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for Next.js or any JavaScript framework
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
