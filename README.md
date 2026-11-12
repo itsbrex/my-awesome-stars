@@ -258,7 +258,6 @@
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [coi/coi](https://github.com/coi/coi) - A type-safe, component-based language for building reactive WASM web apps.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [samaaron/tau5](https://github.com/samaaron/tau5) - Code. Art. Together.
 - [jameshball/osci-render](https://github.com/jameshball/osci-render) - 〰📺🔊 Synthesiser audio plugin for making music by drawing objects on an oscilloscope using audio.
 - [adelamodwala/jist](https://github.com/adelamodwala/jist) - Search a JSON path and get the value fast
@@ -464,7 +463,6 @@
 - [jensimmons/cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 - [Tej-Sharma/next-tailwind-chakra-template](https://github.com/Tej-Sharma/next-tailwind-chakra-template) - A template to quickly be set up with NextJS (react framework), TailwindCSS, and Chakra UI with eslint and prettier
 - [ejirocodes/Nextjs_Authentication](https://github.com/ejirocodes/Nextjs_Authentication) - 🔏 This repository is for my article How to use NextAuth.js for client-side authentication in Next.js
-- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [jmcmullen/sydney-parties](https://github.com/jmcmullen/sydney-parties) - Find underground music event's in Sydney. Built with Remix, React, TypeScript, Tailwind and DaisyUI.
 - [mcansh/remix-tailwind-starter](https://github.com/mcansh/remix-tailwind-starter) - A Remix.run starter with tailwindcss configured and deployed to various cloud platforms
 - [ShubhamShaswat/expert-ai](https://github.com/ShubhamShaswat/expert-ai) - 
@@ -851,7 +849,6 @@
 - [siddharthkp/tinyreact.email](https://github.com/siddharthkp/tinyreact.email) - Top 3 React articles of the week in your inbox
 - [Jarred-Sumner/svgj](https://github.com/Jarred-Sumner/svgj) - Convert svg to jsx. Its fast.
 - [van-william/prompt-web-app](https://github.com/van-william/prompt-web-app) - GPT-3 & DALL-E 2 Demo Web App
-- [mailpace/templates](https://github.com/mailpace/templates) - A set of gorgeous Transactional HTML Email Templates built on TailwindCSS
 - [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard.
 - [FormBold/tailwind-forms](https://github.com/FormBold/tailwind-forms) - Tailwind Form Templates and Code Examples, coded in plain Tailwind CSS
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
@@ -1855,7 +1852,6 @@
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
 - [rigoneri/Syte2](https://github.com/rigoneri/Syte2) - [Archived] Syte2 is a personal website with interactive social integrations.
 - [cbrauckmuller/helium](https://github.com/cbrauckmuller/helium) - A responsive frontend framework that won't weigh you down.
@@ -2826,6 +2822,7 @@
 - [awssat/tailwindo](https://github.com/awssat/tailwindo) - 🔌  Convert Bootstrap CSS code to Tailwind CSS code
 - [easychen/MemberPrism2](https://github.com/easychen/MemberPrism2) - open source alternative to memberstack / memberspace , but with both front and backend member-only content protection
 - [sbzhu/weworkapi_php](https://github.com/sbzhu/weworkapi_php) - official lib of wework api
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
 - [wiederkehr/notion-date-icon](https://github.com/wiederkehr/notion-date-icon) - A simple web application that returns a minimal icon including the current date with preset periods. I use this to integrate dynamic icons into my Notion workspace.
 - [squatto/alfred-imessage-2fa](https://github.com/squatto/alfred-imessage-2fa) - iMessage 2FA Workflow for Alfred
@@ -2888,6 +2885,7 @@
 
 ## Python 
 
+- [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.
 - [imMamdouhaboammar/matts-skills-into-chatgpt](https://github.com/imMamdouhaboammar/matts-skills-into-chatgpt) - Matt's Skills Into ChatGPT - Curated engineering and productivity skills adapted for ChatGPT and Codex
 - [AThevon/genjutsu](https://github.com/AThevon/genjutsu) - Creative coding skills for Claude Code, claude.ai and Cowork. Motion, micro-interactions and design systems across Web (GSAP, Motion, Three.js, CSS), Android (Jetpack Compose) and Apple (SwiftUI). Pro
 - [aicodeking/leanrea](https://github.com/aicodeking/leanrea) - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
@@ -2919,7 +2917,7 @@
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Armgnkykc19/AI-Data-Quality-Platform](https://github.com/Armgnkykc19/AI-Data-Quality-Platform) - AI-assisted data quality and transformation platform for CRM migration, schema mapping, normalization, entity resolution, and human-reviewed data cleanup.
-- [deepklarity/harness-kit](https://github.com/deepklarity/harness-kit) - A kit for building with AI agents and also the engineering patterns around it.
+- [deepklarity/harness-kit](https://github.com/deepklarity/harness-kit) - Make Claude Code and other coding agents good at your codebase: a harness built from your code (CLAUDE.md, flow guides, scripts, tests), measured before and after.
 - [D-Ogi/WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
@@ -2962,7 +2960,7 @@
 - [microsoft/fara](https://github.com/microsoft/fara) - Fara1.5 – A family of frontier computer use agent models
 - [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA) - This is the official website for TuriX Computer-use-Agent
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit? Keep going free and offline on a local model. Claude Code Local runs on Apple Silicon Macs (MLX), Linux and Windows (llama.cpp) with no API key. Your code stays home.
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit? Keep going free and offline on a local model: Qwen 3.8, Gemma 4, and Qwen 4 the day it ships. Runs on Apple Silicon Macs (MLX), Linux and Windows (llama.cpp) with no 
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [ttttonyhe/autogrind](https://github.com/ttttonyhe/autogrind) - ✊ Let your agent grind on your projects 24x7 fully autonomously
 - [itsbrex/autonotebooks](https://github.com/itsbrex/autonotebooks) - 
@@ -3037,7 +3035,6 @@
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [vblagoje/openapi-llm](https://github.com/vblagoje/openapi-llm) - Convert and invoke OpenAPI specifications as LLM tool/function definitions
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - [DEPRECATED] Legacy Klavis AI MCP integrations. See klavis.ai for RL environments and training data.
-- [merge-api/merge-mcp](https://github.com/merge-api/merge-mcp) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [codegen-sh/codegen](https://github.com/codegen-sh/codegen) - Python wrapper for the Codegen API - run code agents at scale
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
@@ -3112,7 +3109,7 @@
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [isaiahshall/Local-LLaMA-Email-Agent](https://github.com/isaiahshall/Local-LLaMA-Email-Agent) - LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [krixik-ai/krixik-docs](https://github.com/krixik-ai/krixik-docs) - Documentation for the Krixik Python client.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
@@ -4409,6 +4406,7 @@
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sevagh/pq](https://github.com/sevagh/pq) - a command-line Protobuf parser with Kafka support and JSON output
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -5093,7 +5091,7 @@
 - [orgsofthq/dsbuild](https://github.com/orgsofthq/dsbuild) - ⬡ Deno to browser in seconds!
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [rocicorp/hello-zero](https://github.com/rocicorp/hello-zero) - Quickstart for Zero & React.
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Your agent team, in one group chat.
 - [automcp-app/automcp](https://github.com/automcp-app/automcp) - 
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
@@ -5115,7 +5113,7 @@
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
 - [Nathandona/Context-Booster](https://github.com/Nathandona/Context-Booster) - A Cursor IDE extension that automatically generates and updates specialized .mdc rule files to keep your AI context accurate, up-to-date, and project-aware.
 - [itsjustanks/n8n-nodes-attio](https://github.com/itsjustanks/n8n-nodes-attio) - 
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server that lets Claude, ChatGPT, Cursor and other AI assistants operate n8n: debug, edit, validate, test and build workflows on any n8n instance
 - [PipedreamHQ/pipedream-connect-examples](https://github.com/PipedreamHQ/pipedream-connect-examples) - Collection of example apps showcasing the pipedream SDKs. Learn more https://pipedream.com/docs/connect.
 - [gigaverse-app/pydantic-to-typescript-action](https://github.com/gigaverse-app/pydantic-to-typescript-action) - A GitHub Action that uses an LLM (Claude or GPT) to intelligently convert Python Pydantic models to TypeScript interfaces, maintaining styling and conventions.
 - [iannuttall/mcp-boilerplate](https://github.com/iannuttall/mcp-boilerplate) - A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
@@ -5252,7 +5250,7 @@
 - [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - Flexible Node.js crawler library
 - [trvswgnr/cextup](https://github.com/trvswgnr/cextup) - A tool to make Chrome extension development less painful.
 - [KaraBharat/full-stack-global-search-demo](https://github.com/KaraBharat/full-stack-global-search-demo) - Global search interface with filter and infinite scrolling functionality.
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [neondatabase/electric-pglite](https://github.com/neondatabase/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.
 - [yamalight/litlytics](https://github.com/yamalight/litlytics) - 🔥 LitLytics - an affordable, simple analytics platform that leverages LLMs to automate data analysis
 - [RhysSullivan/blueberryai-app](https://github.com/RhysSullivan/blueberryai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue and PearAI
@@ -5441,7 +5439,7 @@
 - [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven techno
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [gusper/SongTxt-vscode](https://github.com/gusper/SongTxt-vscode) - Visual Studio Code extension that adds support for editing text files for songs including lyrics, chords, guitar tablature, etc.
@@ -5599,7 +5597,7 @@
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [diego3g/flowly](https://github.com/diego3g/flowly) - Flowly helps you document your event driven architecture across your team.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui desktop app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
 - [Durgaprasad-Budhwani/transformers-js-samples](https://github.com/Durgaprasad-Budhwani/transformers-js-samples) - This is transformers.js samples
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
@@ -6217,6 +6215,7 @@
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [OneSignal/OneSignal-Website-SDK](https://github.com/OneSignal/OneSignal-Website-SDK) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to add OneSignal to your web
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vsfedorenko/ngx-fullpage](https://github.com/vsfedorenko/ngx-fullpage) - Angular 2 fullPage.js port library
@@ -6287,6 +6286,7 @@
 - [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [mandatoryprogrammer/ChromeGalvanizer](https://github.com/mandatoryprogrammer/ChromeGalvanizer) - Harden your Chrome browser via enterprise policy.
+- [mailpace/templates](https://github.com/mailpace/templates) - A set of gorgeous Transactional HTML Email Templates built on TailwindCSS
 - [montoulieu/ableton-live-downloader](https://github.com/montoulieu/ableton-live-downloader) - 🎹 Downloads the desired 64-bit installer from any version of Ableton Live 11, 10, and 9.
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [agursoy/shop](https://github.com/agursoy/shop) - 
