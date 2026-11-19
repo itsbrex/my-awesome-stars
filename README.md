@@ -1278,7 +1278,7 @@
 - [acarabott/audio-dsp-playground](https://github.com/acarabott/audio-dsp-playground) - A WebAudioAPI Playground for Audio DSP
 - [jshanley/blip](https://github.com/jshanley/blip) - Sweet, sugary goodness for looping and sampling with the Web Audio API
 - [positonic/json-to-web-audio](https://github.com/positonic/json-to-web-audio) - json-to-web-audio allows you to specify oscillators and filters as JSON, and it will automatically create the necessary Web audio api nodes and filters, and link them together, and send the result to 
-- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Headless Web Audio API
+- [audiojs/web-audio-api](https://github.com/audiojs/web-audio-api) - Web Audio API outside browsers
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
 - [DO-SAY-GO/sirdb](https://github.com/DO-SAY-GO/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
@@ -4394,6 +4394,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 10x faster Homebrew client
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -4852,6 +4853,7 @@
 
 ## TypeScript 
 
+- [NYLLON-SOFTWARE/SignuDoc](https://github.com/NYLLON-SOFTWARE/SignuDoc) - Open-source document signature platform. Not affiliated with DocuSign.
 - [simonbs/brrr-cli](https://github.com/simonbs/brrr-cli) - Notifications for agent CLIs using brrr.now 📳
 - [kunchenguid/baby-menu](https://github.com/kunchenguid/baby-menu) - A menu bar app that can become anything you ask it to be.
 - [WXK-AI/jev-opus](https://github.com/WXK-AI/jev-opus) - Claude Opus 5.5 with the effort level re-decided every step by the TypeSafe Jev reflex — without breaking the prompt cache. CLI + Claude Code plugin.
@@ -4894,7 +4896,7 @@
 - [ardzero/bunpack](https://github.com/ardzero/bunpack) - An opinionated base template for creating quick CLI tools with Bun and TypeScript and a few helpful utilities.
 - [gfmio/template-typescript-library](https://github.com/gfmio/template-typescript-library) - A modern TypeScript library template with comprehensive tooling and best practices
 - [Cleanlist-ai/cleanlist-typescript-client](https://github.com/Cleanlist-ai/cleanlist-typescript-client) - Official TypeScript/JavaScript SDK for the Cleanlist API (v2) — typed fetch client (Node + browser, ESM + CJS) for B2B lead discovery, waterfall enrichment, lead lists, smart agents, and export.
-- [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
+- [software-mansion/argent](https://github.com/software-mansion/argent) - MCP server for AI agents to control, debug and profile iOS simulators, Android emulators, MacOS apps and TVs. Made by Software Mansion.
 - [browser-use/open-duet](https://github.com/browser-use/open-duet) - Open Duet card feed: agents finish work, Magnus decides with one click
 - [jochristianto/jc-linkedin-job-watcher](https://github.com/jochristianto/jc-linkedin-job-watcher) - Chrome MV3 extension that watches your saved LinkedIn job searches on a background alarm and surfaces genuinely new postings — badge count, one merged desktop notification per scan, optional Telegram 
 - [bozzhik/snable](https://github.com/bozzhik/snable) - chrome extension for collecting visual elements from websites, built with Vite + React, and Manifest v3
@@ -4980,7 +4982,7 @@
 - [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) - 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-d
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively parallel
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [bastani-inc/atomic](https://github.com/bastani-inc/atomic) - The verifiable coding agent runtime. Define your coding agent's process in natural language with stages, checks, and approval gates instead of hoping it follows your instructions. Primitives for verif
 - [pasky/muaddib](https://github.com/pasky/muaddib) - Multi-user AI assistant and agent
 - [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) - Generate text, images, video, speech, and music by MiniMax.
@@ -5061,7 +5063,6 @@
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [nick-lvov-dev/typescript-explicit-types](https://github.com/nick-lvov-dev/typescript-explicit-types) - Generate explicit type annotation from inferred type in TypeScript
 - [SouthBridgeAI/offmute](https://github.com/SouthBridgeAI/offmute) - An experiment in meeting transcription and diarization with just an LLM. Maybe I went a little overboard though
